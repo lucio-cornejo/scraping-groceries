@@ -1,0 +1,8 @@
+# Scraping **Target**
+
+## Python packages installed
+
+```
+selenium==4.19.0
+webdriver-manager==4.0.1
+```
