@@ -15,17 +15,18 @@ def filter_non_deal_categories(
   categories = categories_web_elements.copy()
 
   # Assume only one category is for deals
-  deals_category_element_index = list(map(
+  is_category_a_deal_case = list(map(
     lambda category_element: is_category_text_from_deal_element(
       category_element
         .find_element(By.CSS_SELECTOR, categories_name_element_css_selector)
         .get_attribute('innerText')
     ),
     categories
-  )).index(True)
+  ))
 
-  # Remove deals category
-  categories.pop(deals_category_element_index)
+  # Remove deal category if found
+  if True in is_category_a_deal_case:
+    categories.pop(is_category_a_deal_case.index(True))
 
   return categories
 
