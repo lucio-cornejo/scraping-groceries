@@ -10,3 +10,4 @@ groceries_homepage:
     categories_button_appended_css_selector: " button"
     categories_element_appended_css_selector: " li"
     categories_name_container_appended_css_selector: " [data-test='bubcatItemTitleComponent'] span"
+
