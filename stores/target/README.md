@@ -2,7 +2,7 @@
 
 ## Python scripts to execute, in order
 
-1. `Task_1__extract_url_of_every_grocery_category_or_subcategory.py`
+1. `Task_1__grocery_categories_and_subcategories_url_extraction.py`
 
 
 ## Python packages installed
