@@ -8,11 +8,11 @@ from datetime import datetime
 logging.Formatter.converter = lambda *args: datetime.now(tz = timezone('America/Lima')).timetuple()
 
 
-def get_logger(profile: str):
+def get_logger(config: dict):
   logging_format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
   logging_date_format = "%Y/%m/%d %I:%M:%S %p"
   
-  if profile == 'local':
+  if config['profile'] == 'local':
     logger = logging.getLogger(__name__)
     logging.basicConfig(
       handlers = [
@@ -26,7 +26,7 @@ def get_logger(profile: str):
     )
     return logger
 
-  if profile == 'production':
+  if config['profile'] == 'production':
     logger = logging.getLogger()
     
     console_handler = logging.StreamHandler(sys.stdout)

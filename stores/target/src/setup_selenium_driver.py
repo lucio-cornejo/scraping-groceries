@@ -4,8 +4,8 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
 
-def get_chrome_driver(profile: str) -> webdriver.Chrome:
-  if profile == 'local':
+def get_chrome_driver(config: dict) -> webdriver.Chrome:
+  if config['profile'] == 'local':
     chrome_options = webdriver.ChromeOptions()
     # chrome_options.add_argument("--window-size=1920,1080")
     chrome_options.add_argument("--start-maximized")
@@ -17,8 +17,7 @@ def get_chrome_driver(profile: str) -> webdriver.Chrome:
     )
     return chrome_driver
 
-  if profile == 'production':
-    # Setup Selenium driver for AWS Lambda
+  if config['profile'] == 'production':
     options = webdriver.ChromeOptions()
     service = webdriver.ChromeService("/opt/chromedriver")
 

@@ -2,10 +2,12 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 
-def try_parsing_number_of_pages_from_web_text(
-  driver: webdriver.Chrome, 
-  number_of_pages_element_css_selector: str
-):
+def parse_number_of_pages_from_web_text(config: dict, driver: webdriver.Chrome):
+  number_of_pages_element_css_selector = ''.join([
+    config['products_website']['paginator']['css_selector'],
+    config['products_website']['paginator']['number_of_pages_element_appended_css_selector']
+  ])
+
   try:
     number_of_pages_element = driver.find_element(
       By.CSS_SELECTOR, number_of_pages_element_css_selector
@@ -19,4 +21,4 @@ def try_parsing_number_of_pages_from_web_text(
         [-1]
     )
   except:
-    return None
+    raise Exception('Failed to extract number of pages')
