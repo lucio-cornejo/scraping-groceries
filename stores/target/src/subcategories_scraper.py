@@ -1,4 +1,4 @@
-from src.instances import config, driver
+from .instances import config, driver
 
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
