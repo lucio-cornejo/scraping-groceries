@@ -1,0 +1,446 @@
+2024/05/29 05:01:26 AM - task_two - INFO - Grocery category: Frozen Foods
+2024/05/29 05:01:26 AM - task_two - INFO - Subcategory: Frozen Single Serve Meals
+2024/05/29 05:01:46 AM - task_two - INFO - Number of products pages: 16
+2024/05/29 05:01:46 AM - task_two - INFO - Page number: 1
+2024/05/29 05:01:46 AM - task_two - INFO - Page number: 2
+2024/05/29 05:02:00 AM - task_two - INFO - Page number: 3
+2024/05/29 05:02:13 AM - task_two - INFO - Page number: 4
+2024/05/29 05:02:27 AM - task_two - INFO - Page number: 5
+2024/05/29 05:02:40 AM - task_two - INFO - Page number: 6
+2024/05/29 05:02:53 AM - task_two - INFO - Page number: 7
+2024/05/29 05:03:06 AM - task_two - INFO - Page number: 8
+2024/05/29 05:03:20 AM - task_two - INFO - Page number: 9
+2024/05/29 05:03:32 AM - task_two - INFO - Page number: 10
+2024/05/29 05:03:44 AM - task_two - INFO - Page number: 11
+2024/05/29 05:03:56 AM - task_two - INFO - Page number: 12
+2024/05/29 05:04:09 AM - task_two - INFO - Page number: 13
+2024/05/29 05:04:22 AM - task_two - INFO - Page number: 14
+2024/05/29 05:04:34 AM - task_two - INFO - Page number: 15
+2024/05/29 05:04:47 AM - task_two - INFO - Page number: 16
+2024/05/29 05:04:58 AM - task_two - INFO - Subcategory: Frozen Family Meals
+2024/05/29 05:05:19 AM - task_two - INFO - Number of products pages: 5
+2024/05/29 05:05:19 AM - task_two - INFO - Page number: 1
+2024/05/29 05:05:19 AM - task_two - INFO - Page number: 2
+2024/05/29 05:05:32 AM - task_two - INFO - Page number: 3
+2024/05/29 05:05:44 AM - task_two - INFO - Page number: 4
+2024/05/29 05:05:56 AM - task_two - INFO - Page number: 5
+2024/05/29 05:06:07 AM - task_two - INFO - Subcategory: Ice Cream & Frozen Desserts
+2024/05/29 05:06:26 AM - task_two - INFO - Number of products pages: 19
+2024/05/29 05:06:26 AM - task_two - INFO - Page number: 1
+2024/05/29 05:06:26 AM - task_two - INFO - Page number: 2
+2024/05/29 05:06:39 AM - task_two - INFO - Page number: 3
+2024/05/29 05:06:53 AM - task_two - INFO - Page number: 4
+2024/05/29 05:07:06 AM - task_two - INFO - Page number: 5
+2024/05/29 05:07:19 AM - task_two - INFO - Page number: 6
+2024/05/29 05:07:31 AM - task_two - INFO - Page number: 7
+2024/05/29 05:07:43 AM - task_two - INFO - Page number: 8
+2024/05/29 05:07:56 AM - task_two - INFO - Page number: 9
+2024/05/29 05:08:09 AM - task_two - INFO - Page number: 10
+2024/05/29 05:08:22 AM - task_two - INFO - Page number: 11
+2024/05/29 05:08:35 AM - task_two - INFO - Page number: 12
+2024/05/29 05:08:48 AM - task_two - INFO - Page number: 13
+2024/05/29 05:09:01 AM - task_two - INFO - Page number: 14
+2024/05/29 05:09:14 AM - task_two - INFO - Page number: 15
+2024/05/29 05:09:27 AM - task_two - INFO - Page number: 16
+2024/05/29 05:09:39 AM - task_two - INFO - Page number: 17
+2024/05/29 05:09:51 AM - task_two - INFO - Page number: 18
+2024/05/29 05:10:03 AM - task_two - INFO - Page number: 19
+2024/05/29 05:10:14 AM - task_two - INFO - Subcategory: Frozen Foods: Kids
+2024/05/29 05:10:33 AM - task_two - INFO - Number of products pages: 2
+2024/05/29 05:10:33 AM - task_two - INFO - Page number: 1
+2024/05/29 05:10:33 AM - task_two - INFO - Page number: 2
+2024/05/29 05:10:45 AM - task_two - INFO - Subcategory: Frozen Pizza
+2024/05/29 05:11:04 AM - task_two - INFO - Number of products pages: 7
+2024/05/29 05:11:04 AM - task_two - INFO - Page number: 1
+2024/05/29 05:11:04 AM - task_two - INFO - Page number: 2
+2024/05/29 05:11:17 AM - task_two - INFO - Page number: 3
+2024/05/29 05:11:30 AM - task_two - INFO - Page number: 4
+2024/05/29 05:11:42 AM - task_two - INFO - Page number: 5
+2024/05/29 05:11:55 AM - task_two - INFO - Page number: 6
+2024/05/29 05:12:08 AM - task_two - INFO - Page number: 7
+2024/05/29 05:12:21 AM - task_two - INFO - Subcategory: Frozen Breakfast Food
+2024/05/29 05:12:41 AM - task_two - INFO - Number of products pages: 4
+2024/05/29 05:12:41 AM - task_two - INFO - Page number: 1
+2024/05/29 05:12:41 AM - task_two - INFO - Page number: 2
+2024/05/29 05:12:55 AM - task_two - INFO - Page number: 3
+2024/05/29 05:13:09 AM - task_two - INFO - Page number: 4
+2024/05/29 05:13:21 AM - task_two - INFO - Subcategory: Frozen Meat, Poultry & Seafood
+2024/05/29 05:13:40 AM - task_two - INFO - Number of products pages: 1
+2024/05/29 05:13:40 AM - task_two - INFO - Page number: 1
+2024/05/29 05:13:40 AM - task_two - INFO - Subcategory: Frozen Appetizers & Snacks
+2024/05/29 05:13:57 AM - task_two - INFO - Number of products pages: 5
+2024/05/29 05:13:57 AM - task_two - INFO - Page number: 1
+2024/05/29 05:13:57 AM - task_two - INFO - Page number: 2
+2024/05/29 05:14:11 AM - task_two - INFO - Page number: 3
+2024/05/29 05:14:25 AM - task_two - INFO - Page number: 4
+2024/05/29 05:14:38 AM - task_two - INFO - Page number: 5
+2024/05/29 05:14:50 AM - task_two - INFO - Subcategory: Frozen Desserts
+2024/05/29 05:15:10 AM - task_two - INFO - Number of products pages: 2
+2024/05/29 05:15:10 AM - task_two - INFO - Page number: 1
+2024/05/29 05:15:10 AM - task_two - INFO - Page number: 2
+2024/05/29 05:15:21 AM - task_two - INFO - Subcategory: Frozen Fruit
+2024/05/29 05:15:40 AM - task_two - INFO - Number of products pages: 3
+2024/05/29 05:15:40 AM - task_two - INFO - Page number: 1
+2024/05/29 05:15:40 AM - task_two - INFO - Page number: 2
+2024/05/29 05:15:53 AM - task_two - INFO - Page number: 3
+2024/05/29 05:16:03 AM - task_two - INFO - Subcategory: Frozen Potatoes
+2024/05/29 05:16:23 AM - task_two - INFO - Number of products pages: 2
+2024/05/29 05:16:23 AM - task_two - INFO - Page number: 1
+2024/05/29 05:16:23 AM - task_two - INFO - Page number: 2
+2024/05/29 05:16:36 AM - task_two - INFO - Subcategory: Frozen Vegetables
+2024/05/29 05:16:55 AM - task_two - INFO - Number of products pages: 5
+2024/05/29 05:16:55 AM - task_two - INFO - Page number: 1
+2024/05/29 05:16:55 AM - task_two - INFO - Page number: 2
+2024/05/29 05:17:08 AM - task_two - INFO - Page number: 3
+2024/05/29 05:17:20 AM - task_two - INFO - Page number: 4
+2024/05/29 05:17:31 AM - task_two - INFO - Page number: 5
+2024/05/29 05:17:43 AM - task_two - INFO - Subcategory: Frozen Bread & Dough
+2024/05/29 05:17:59 AM - task_two - INFO - Number of products pages: 2
+2024/05/29 05:17:59 AM - task_two - INFO - Page number: 1
+2024/05/29 05:18:00 AM - task_two - INFO - Page number: 2
+2024/05/29 05:18:09 AM - task_two - INFO - Grocery category: Meat & Seafood
+2024/05/29 05:18:09 AM - task_two - INFO - Subcategory: Beef
+2024/05/29 05:18:28 AM - task_two - INFO - Number of products pages: 3
+2024/05/29 05:18:28 AM - task_two - INFO - Page number: 1
+2024/05/29 05:18:28 AM - task_two - INFO - Page number: 2
+2024/05/29 05:18:41 AM - task_two - INFO - Page number: 3
+2024/05/29 05:18:54 AM - task_two - INFO - Subcategory: Chicken
+2024/05/29 05:19:13 AM - task_two - INFO - Number of products pages: 6
+2024/05/29 05:19:13 AM - task_two - INFO - Page number: 1
+2024/05/29 05:19:13 AM - task_two - INFO - Page number: 2
+2024/05/29 05:19:25 AM - task_two - INFO - Page number: 3
+2024/05/29 05:19:37 AM - task_two - INFO - Page number: 4
+2024/05/29 05:19:49 AM - task_two - INFO - Page number: 5
+2024/05/29 05:20:01 AM - task_two - INFO - Page number: 6
+2024/05/29 05:20:12 AM - task_two - INFO - Subcategory: Fish & Seafood
+2024/05/29 05:20:32 AM - task_two - INFO - Number of products pages: 4
+2024/05/29 05:20:32 AM - task_two - INFO - Page number: 1
+2024/05/29 05:20:32 AM - task_two - INFO - Page number: 2
+2024/05/29 05:20:46 AM - task_two - INFO - Page number: 3
+2024/05/29 05:20:59 AM - task_two - INFO - Page number: 4
+2024/05/29 05:21:09 AM - task_two - INFO - Subcategory: Packaged Lunch Meat
+2024/05/29 05:21:26 AM - task_two - INFO - Number of products pages: 6
+2024/05/29 05:21:26 AM - task_two - INFO - Page number: 1
+2024/05/29 05:21:26 AM - task_two - INFO - Page number: 2
+2024/05/29 05:21:39 AM - task_two - INFO - Page number: 3
+2024/05/29 05:21:51 AM - task_two - INFO - Page number: 4
+2024/05/29 05:22:04 AM - task_two - INFO - Page number: 5
+2024/05/29 05:22:17 AM - task_two - INFO - Page number: 6
+2024/05/29 05:22:29 AM - task_two - INFO - Subcategory: Pork
+2024/05/29 05:22:49 AM - task_two - INFO - Number of products pages: 2
+2024/05/29 05:22:49 AM - task_two - INFO - Page number: 1
+2024/05/29 05:22:49 AM - task_two - INFO - Page number: 2
+2024/05/29 05:23:01 AM - task_two - INFO - Subcategory: Bacon
+2024/05/29 05:23:21 AM - task_two - INFO - Number of products pages: 2
+2024/05/29 05:23:21 AM - task_two - INFO - Page number: 1
+2024/05/29 05:23:22 AM - task_two - INFO - Page number: 2
+2024/05/29 05:23:33 AM - task_two - INFO - Subcategory: Sausages
+2024/05/29 05:23:50 AM - task_two - INFO - Number of products pages: 3
+2024/05/29 05:23:50 AM - task_two - INFO - Page number: 1
+2024/05/29 05:23:50 AM - task_two - INFO - Page number: 2
+2024/05/29 05:24:02 AM - task_two - INFO - Page number: 3
+2024/05/29 05:24:13 AM - task_two - INFO - Subcategory: Hot Dogs
+2024/05/29 05:24:33 AM - task_two - INFO - Number of products pages: 1
+2024/05/29 05:24:33 AM - task_two - INFO - Page number: 1
+2024/05/29 05:24:33 AM - task_two - INFO - Subcategory: Turkey
+2024/05/29 05:24:50 AM - task_two - INFO - Number of products pages: 1
+2024/05/29 05:24:50 AM - task_two - INFO - Page number: 1
+2024/05/29 05:24:50 AM - task_two - INFO - Subcategory: Sliced Deli Meat & Deli Cheese
+2024/05/29 05:25:10 AM - task_two - INFO - Number of products pages: 2
+2024/05/29 05:25:10 AM - task_two - INFO - Page number: 1
+2024/05/29 05:25:10 AM - task_two - INFO - Page number: 2
+2024/05/29 05:25:21 AM - task_two - INFO - Subcategory: Meatless Alternatives
+2024/05/29 05:25:39 AM - task_two - INFO - Number of products pages: 5
+2024/05/29 05:25:39 AM - task_two - INFO - Page number: 1
+2024/05/29 05:25:39 AM - task_two - INFO - Page number: 2
+2024/05/29 05:25:51 AM - task_two - INFO - Page number: 3
+2024/05/29 05:26:04 AM - task_two - INFO - Page number: 4
+2024/05/29 05:26:17 AM - task_two - INFO - Page number: 5
+2024/05/29 05:26:27 AM - task_two - INFO - Grocery category: Produce
+2024/05/29 05:26:27 AM - task_two - INFO - Subcategory: Fresh Fruit
+2024/05/29 05:26:44 AM - task_two - INFO - Number of products pages: 5
+2024/05/29 05:26:44 AM - task_two - INFO - Page number: 1
+2024/05/29 05:26:44 AM - task_two - INFO - Page number: 2
+2024/05/29 05:26:58 AM - task_two - INFO - Page number: 3
+2024/05/29 05:27:11 AM - task_two - INFO - Page number: 4
+2024/05/29 05:27:23 AM - task_two - INFO - Page number: 5
+2024/05/29 05:27:34 AM - task_two - INFO - Subcategory: Fresh Vegetables
+2024/05/29 05:27:56 AM - task_two - INFO - Number of products pages: 9
+2024/05/29 05:27:56 AM - task_two - INFO - Page number: 1
+2024/05/29 05:27:56 AM - task_two - INFO - Page number: 2
+2024/05/29 05:28:08 AM - task_two - INFO - Page number: 3
+2024/05/29 05:28:21 AM - task_two - INFO - Page number: 4
+2024/05/29 05:28:33 AM - task_two - INFO - Page number: 5
+2024/05/29 05:28:46 AM - task_two - INFO - Page number: 6
+2024/05/29 05:28:58 AM - task_two - INFO - Page number: 7
+2024/05/29 05:29:11 AM - task_two - INFO - Page number: 8
+2024/05/29 05:29:22 AM - task_two - INFO - Page number: 9
+2024/05/29 05:29:33 AM - task_two - INFO - Subcategory: Fresh Dressings & Dips
+2024/05/29 05:29:51 AM - task_two - INFO - Number of products pages: 7
+2024/05/29 05:29:51 AM - task_two - INFO - Page number: 1
+2024/05/29 05:29:51 AM - task_two - INFO - Page number: 2
+2024/05/29 05:30:04 AM - task_two - INFO - Page number: 3
+2024/05/29 05:30:17 AM - task_two - INFO - Page number: 4
+2024/05/29 05:30:30 AM - task_two - INFO - Page number: 5
+2024/05/29 05:30:42 AM - task_two - INFO - Page number: 6
+2024/05/29 05:30:55 AM - task_two - INFO - Page number: 7
+2024/05/29 05:31:06 AM - task_two - INFO - Subcategory: Fresh Flowers
+2024/05/29 05:31:23 AM - task_two - INFO - Number of products pages: 2
+2024/05/29 05:31:23 AM - task_two - INFO - Page number: 1
+2024/05/29 05:31:23 AM - task_two - INFO - Page number: 2
+2024/05/29 05:31:34 AM - task_two - INFO - Subcategory: Fresh Juices
+2024/05/29 05:31:51 AM - task_two - INFO - Number of products pages: 6
+2024/05/29 05:31:51 AM - task_two - INFO - Page number: 1
+2024/05/29 05:31:51 AM - task_two - INFO - Page number: 2
+2024/05/29 05:32:04 AM - task_two - INFO - Page number: 3
+2024/05/29 05:32:18 AM - task_two - INFO - Page number: 4
+2024/05/29 05:32:31 AM - task_two - INFO - Page number: 5
+2024/05/29 05:32:45 AM - task_two - INFO - Page number: 6
+2024/05/29 05:32:55 AM - task_two - INFO - Subcategory: Salad Mixes
+2024/05/29 05:33:14 AM - task_two - INFO - Number of products pages: 3
+2024/05/29 05:33:14 AM - task_two - INFO - Page number: 1
+2024/05/29 05:33:14 AM - task_two - INFO - Page number: 2
+2024/05/29 05:33:26 AM - task_two - INFO - Page number: 3
+2024/05/29 05:33:36 AM - task_two - INFO - Subcategory: Meatless Alternatives
+2024/05/29 05:33:54 AM - task_two - INFO - Number of products pages: 5
+2024/05/29 05:33:54 AM - task_two - INFO - Page number: 1
+2024/05/29 05:33:54 AM - task_two - INFO - Page number: 2
+2024/05/29 05:34:06 AM - task_two - INFO - Page number: 3
+2024/05/29 05:34:19 AM - task_two - INFO - Page number: 4
+2024/05/29 05:34:32 AM - task_two - INFO - Page number: 5
+2024/05/29 05:34:43 AM - task_two - INFO - Grocery category: Snacks
+2024/05/29 05:34:43 AM - task_two - INFO - Subcategory: Snack Variety Packs
+2024/05/29 05:35:03 AM - task_two - INFO - Number of products pages: 49
+2024/05/29 05:35:03 AM - task_two - INFO - Page number: 1
+2024/05/29 05:35:04 AM - task_two - INFO - Page number: 2
+2024/05/29 05:35:19 AM - task_two - INFO - Page number: 3
+2024/05/29 05:35:34 AM - task_two - INFO - Page number: 4
+2024/05/29 05:35:49 AM - task_two - INFO - Page number: 5
+2024/05/29 05:36:04 AM - task_two - INFO - Page number: 6
+2024/05/29 05:36:21 AM - task_two - INFO - Page number: 7
+2024/05/29 05:36:37 AM - task_two - INFO - Page number: 8
+2024/05/29 05:36:53 AM - task_two - INFO - Page number: 9
+2024/05/29 05:37:10 AM - task_two - INFO - Page number: 10
+2024/05/29 05:37:25 AM - task_two - INFO - Page number: 11
+2024/05/29 05:37:40 AM - task_two - INFO - Page number: 12
+2024/05/29 05:37:54 AM - task_two - INFO - Page number: 13
+2024/05/29 05:38:07 AM - task_two - INFO - Page number: 14
+2024/05/29 05:38:23 AM - task_two - INFO - Page number: 15
+2024/05/29 05:38:39 AM - task_two - INFO - Page number: 16
+2024/05/29 05:38:54 AM - task_two - INFO - Page number: 17
+2024/05/29 05:39:11 AM - task_two - INFO - Page number: 18
+2024/05/29 05:39:25 AM - task_two - INFO - Page number: 19
+2024/05/29 05:39:40 AM - task_two - INFO - Page number: 20
+2024/05/29 05:39:55 AM - task_two - INFO - Page number: 21
+2024/05/29 05:40:10 AM - task_two - INFO - Page number: 22
+2024/05/29 05:40:25 AM - task_two - INFO - Page number: 23
+2024/05/29 05:40:42 AM - task_two - INFO - Page number: 24
+2024/05/29 05:40:58 AM - task_two - INFO - Page number: 25
+2024/05/29 05:41:14 AM - task_two - INFO - Page number: 26
+2024/05/29 05:41:28 AM - task_two - INFO - Page number: 27
+2024/05/29 05:41:42 AM - task_two - INFO - Page number: 28
+2024/05/29 05:41:56 AM - task_two - INFO - Page number: 29
+2024/05/29 05:42:13 AM - task_two - INFO - Page number: 30
+2024/05/29 05:42:28 AM - task_two - INFO - Page number: 31
+2024/05/29 05:42:45 AM - task_two - INFO - Page number: 32
+2024/05/29 05:43:01 AM - task_two - INFO - Page number: 33
+2024/05/29 05:43:16 AM - task_two - INFO - Page number: 34
+2024/05/29 05:43:29 AM - task_two - INFO - Page number: 35
+2024/05/29 05:43:43 AM - task_two - INFO - Page number: 36
+2024/05/29 05:43:56 AM - task_two - INFO - Page number: 37
+2024/05/29 05:44:12 AM - task_two - INFO - Page number: 38
+2024/05/29 05:44:28 AM - task_two - INFO - Page number: 39
+2024/05/29 05:44:44 AM - task_two - INFO - Page number: 40
+2024/05/29 05:44:58 AM - task_two - INFO - Page number: 41
+2024/05/29 05:45:14 AM - task_two - INFO - Page number: 42
+2024/05/29 05:45:28 AM - task_two - INFO - Page number: 43
+2024/05/29 05:45:41 AM - task_two - INFO - Page number: 44
+2024/05/29 05:45:55 AM - task_two - INFO - Page number: 45
+2024/05/29 05:46:11 AM - task_two - INFO - Page number: 46
+2024/05/29 05:46:28 AM - task_two - INFO - Page number: 47
+2024/05/29 05:46:45 AM - task_two - INFO - Page number: 48
+2024/05/29 05:47:01 AM - task_two - INFO - Page number: 49
+2024/05/29 05:47:17 AM - task_two - INFO - Subcategory: Chips
+2024/05/29 05:47:36 AM - task_two - INFO - Number of products pages: 38
+2024/05/29 05:47:36 AM - task_two - INFO - Page number: 1
+2024/05/29 05:47:36 AM - task_two - INFO - Page number: 2
+2024/05/29 05:47:49 AM - task_two - INFO - Page number: 3
+2024/05/29 05:48:02 AM - task_two - INFO - Page number: 4
+2024/05/29 05:48:16 AM - task_two - INFO - Page number: 5
+2024/05/29 05:48:29 AM - task_two - INFO - Page number: 6
+2024/05/29 05:48:43 AM - task_two - INFO - Page number: 7
+2024/05/29 05:48:57 AM - task_two - INFO - Page number: 8
+2024/05/29 05:49:12 AM - task_two - INFO - Page number: 9
+2024/05/29 05:49:25 AM - task_two - INFO - Page number: 10
+2024/05/29 05:49:38 AM - task_two - INFO - Page number: 11
+2024/05/29 05:49:50 AM - task_two - INFO - Page number: 12
+2024/05/29 05:50:02 AM - task_two - INFO - Page number: 13
+2024/05/29 05:50:15 AM - task_two - INFO - Page number: 14
+2024/05/29 05:50:30 AM - task_two - INFO - Page number: 15
+2024/05/29 05:50:43 AM - task_two - INFO - Page number: 16
+2024/05/29 05:50:57 AM - task_two - INFO - Page number: 17
+2024/05/29 05:51:10 AM - task_two - INFO - Page number: 18
+2024/05/29 05:51:23 AM - task_two - INFO - Page number: 19
+2024/05/29 05:51:35 AM - task_two - INFO - Page number: 20
+2024/05/29 05:51:48 AM - task_two - INFO - Page number: 21
+2024/05/29 05:52:00 AM - task_two - INFO - Page number: 22
+2024/05/29 05:52:13 AM - task_two - INFO - Page number: 23
+2024/05/29 05:52:26 AM - task_two - INFO - Page number: 24
+2024/05/29 05:52:40 AM - task_two - INFO - Page number: 25
+2024/05/29 05:52:54 AM - task_two - INFO - Page number: 26
+2024/05/29 05:53:07 AM - task_two - INFO - Page number: 27
+2024/05/29 05:53:19 AM - task_two - INFO - Page number: 28
+2024/05/29 05:53:31 AM - task_two - INFO - Page number: 29
+2024/05/29 05:53:43 AM - task_two - INFO - Page number: 30
+2024/05/29 05:53:56 AM - task_two - INFO - Page number: 31
+2024/05/29 05:54:08 AM - task_two - INFO - Page number: 32
+2024/05/29 05:54:22 AM - task_two - INFO - Page number: 33
+2024/05/29 05:54:35 AM - task_two - INFO - Page number: 34
+2024/05/29 05:54:48 AM - task_two - INFO - Page number: 35
+2024/05/29 05:55:01 AM - task_two - INFO - Page number: 36
+2024/05/29 05:55:14 AM - task_two - INFO - Page number: 37
+2024/05/29 05:55:26 AM - task_two - INFO - Page number: 38
+2024/05/29 05:55:38 AM - task_two - INFO - Subcategory: Cookies
+2024/05/29 05:55:57 AM - task_two - INFO - Number of products pages: 25
+2024/05/29 05:55:57 AM - task_two - INFO - Page number: 1
+2024/05/29 05:55:57 AM - task_two - INFO - Page number: 2
+2024/05/29 05:56:13 AM - task_two - INFO - Page number: 3
+2024/05/29 05:56:28 AM - task_two - INFO - Page number: 4
+2024/05/29 05:56:42 AM - task_two - INFO - Page number: 5
+2024/05/29 05:56:56 AM - task_two - INFO - Page number: 6
+2024/05/29 05:57:10 AM - task_two - INFO - Page number: 7
+2024/05/29 05:57:22 AM - task_two - INFO - Page number: 8
+2024/05/29 05:57:35 AM - task_two - INFO - Page number: 9
+2024/05/29 05:57:48 AM - task_two - INFO - Page number: 10
+2024/05/29 05:58:01 AM - task_two - INFO - Page number: 11
+2024/05/29 05:58:16 AM - task_two - INFO - Page number: 12
+2024/05/29 05:58:31 AM - task_two - INFO - Page number: 13
+2024/05/29 05:58:46 AM - task_two - INFO - Page number: 14
+2024/05/29 05:59:01 AM - task_two - INFO - Page number: 15
+2024/05/29 05:59:14 AM - task_two - INFO - Page number: 16
+2024/05/29 05:59:27 AM - task_two - INFO - Page number: 17
+2024/05/29 05:59:39 AM - task_two - INFO - Page number: 18
+2024/05/29 05:59:51 AM - task_two - INFO - Page number: 19
+2024/05/29 06:00:03 AM - task_two - INFO - Page number: 20
+2024/05/29 06:00:16 AM - task_two - INFO - Page number: 21
+2024/05/29 06:00:29 AM - task_two - INFO - Page number: 22
+2024/05/29 06:00:43 AM - task_two - INFO - Page number: 23
+2024/05/29 06:00:56 AM - task_two - INFO - Page number: 24
+2024/05/29 06:01:10 AM - task_two - INFO - Page number: 25
+2024/05/29 06:01:23 AM - task_two - INFO - Subcategory: Crackers
+2024/05/29 06:01:41 AM - task_two - INFO - Number of products pages: 20
+2024/05/29 06:01:41 AM - task_two - INFO - Page number: 1
+2024/05/29 06:01:41 AM - task_two - INFO - Page number: 2
+2024/05/29 06:01:54 AM - task_two - INFO - Page number: 3
+2024/05/29 06:02:07 AM - task_two - INFO - Page number: 4
+2024/05/29 06:02:21 AM - task_two - INFO - Page number: 5
+2024/05/29 06:02:35 AM - task_two - INFO - Page number: 6
+2024/05/29 06:02:49 AM - task_two - INFO - Page number: 7
+2024/05/29 06:03:03 AM - task_two - INFO - Page number: 8
+2024/05/29 06:03:16 AM - task_two - INFO - Page number: 9
+2024/05/29 06:03:28 AM - task_two - INFO - Page number: 10
+2024/05/29 06:03:40 AM - task_two - INFO - Page number: 11
+2024/05/29 06:03:52 AM - task_two - INFO - Page number: 12
+2024/05/29 06:04:05 AM - task_two - INFO - Page number: 13
+2024/05/29 06:04:18 AM - task_two - INFO - Page number: 14
+2024/05/29 06:04:31 AM - task_two - INFO - Page number: 15
+2024/05/29 06:04:44 AM - task_two - INFO - Page number: 16
+2024/05/29 06:04:56 AM - task_two - INFO - Page number: 17
+2024/05/29 06:05:10 AM - task_two - INFO - Page number: 18
+2024/05/29 06:05:22 AM - task_two - INFO - Page number: 19
+2024/05/29 06:05:34 AM - task_two - INFO - Page number: 20
+2024/05/29 06:05:46 AM - task_two - INFO - Subcategory: Candy
+2024/05/29 06:06:05 AM - task_two - INFO - Number of products pages: 1
+2024/05/29 06:06:05 AM - task_two - INFO - Page number: 1
+2024/05/29 06:06:05 AM - task_two - INFO - Subcategory: Nuts
+2024/05/29 06:06:24 AM - task_two - INFO - Number of products pages: 20
+2024/05/29 06:06:24 AM - task_two - INFO - Page number: 1
+2024/05/29 06:06:24 AM - task_two - INFO - Page number: 2
+2024/05/29 06:06:38 AM - task_two - INFO - Page number: 3
+2024/05/29 06:06:51 AM - task_two - INFO - Page number: 4
+2024/05/29 06:07:05 AM - task_two - INFO - Page number: 5
+2024/05/29 06:07:17 AM - task_two - INFO - Page number: 6
+2024/05/29 06:07:30 AM - task_two - INFO - Page number: 7
+2024/05/29 06:07:42 AM - task_two - INFO - Page number: 8
+2024/05/29 06:07:55 AM - task_two - INFO - Page number: 9
+2024/05/29 06:08:08 AM - task_two - INFO - Page number: 10
+2024/05/29 06:08:21 AM - task_two - INFO - Page number: 11
+2024/05/29 06:08:34 AM - task_two - INFO - Page number: 12
+2024/05/29 06:08:47 AM - task_two - INFO - Page number: 13
+2024/05/29 06:08:59 AM - task_two - INFO - Page number: 14
+2024/05/29 06:09:12 AM - task_two - INFO - Page number: 15
+2024/05/29 06:09:24 AM - task_two - INFO - Page number: 16
+2024/05/29 06:09:36 AM - task_two - INFO - Page number: 17
+2024/05/29 06:09:47 AM - task_two - INFO - Page number: 18
+2024/05/29 06:09:59 AM - task_two - INFO - Page number: 19
+2024/05/29 06:10:12 AM - task_two - INFO - Page number: 20
+2024/05/29 06:10:24 AM - task_two - INFO - Subcategory: Trail & Snack Mixes
+2024/05/29 06:10:44 AM - task_two - INFO - Number of products pages: 6
+2024/05/29 06:10:44 AM - task_two - INFO - Page number: 1
+2024/05/29 06:10:44 AM - task_two - INFO - Page number: 2
+2024/05/29 06:10:59 AM - task_two - INFO - Page number: 3
+2024/05/29 06:11:12 AM - task_two - INFO - Page number: 4
+2024/05/29 06:11:23 AM - task_two - INFO - Page number: 5
+2024/05/29 06:11:36 AM - task_two - INFO - Page number: 6
+2024/05/29 06:11:46 AM - task_two - INFO - Subcategory: Pretzels
+2024/05/29 06:12:04 AM - task_two - INFO - Number of products pages: 6
+2024/05/29 06:12:04 AM - task_two - INFO - Page number: 1
+2024/05/29 06:12:04 AM - task_two - INFO - Page number: 2
+2024/05/29 06:12:18 AM - task_two - INFO - Page number: 3
+2024/05/29 06:12:31 AM - task_two - INFO - Page number: 4
+2024/05/29 06:12:44 AM - task_two - INFO - Page number: 5
+2024/05/29 06:12:56 AM - task_two - INFO - Page number: 6
+2024/05/29 06:13:07 AM - task_two - INFO - Subcategory: Salsa & Dips
+2024/05/29 06:13:24 AM - task_two - INFO - Number of products pages: 13
+2024/05/29 06:13:24 AM - task_two - INFO - Page number: 1
+2024/05/29 06:13:24 AM - task_two - INFO - Page number: 2
+2024/05/29 06:13:37 AM - task_two - INFO - Page number: 3
+2024/05/29 06:13:49 AM - task_two - INFO - Page number: 4
+2024/05/29 06:14:02 AM - task_two - INFO - Page number: 5
+2024/05/29 06:14:15 AM - task_two - INFO - Page number: 6
+2024/05/29 06:14:28 AM - task_two - INFO - Page number: 7
+2024/05/29 06:14:42 AM - task_two - INFO - Page number: 8
+2024/05/29 06:14:55 AM - task_two - INFO - Page number: 9
+2024/05/29 06:15:08 AM - task_two - INFO - Page number: 10
+2024/05/29 06:15:20 AM - task_two - INFO - Page number: 11
+2024/05/29 06:15:32 AM - task_two - INFO - Page number: 12
+2024/05/29 06:15:43 AM - task_two - INFO - Page number: 13
+2024/05/29 06:15:55 AM - task_two - INFO - Subcategory: Snack Packs & On the Go Snacks
+2024/05/29 06:16:13 AM - task_two - INFO - Number of products pages: 5
+2024/05/29 06:16:13 AM - task_two - INFO - Page number: 1
+2024/05/29 06:16:14 AM - task_two - INFO - Page number: 2
+2024/05/29 06:16:27 AM - task_two - INFO - Page number: 3
+2024/05/29 06:16:41 AM - task_two - INFO - Page number: 4
+2024/05/29 06:16:54 AM - task_two - INFO - Page number: 5
+2024/05/29 06:17:06 AM - task_two - INFO - Subcategory: Granola & Cereal Bars
+2024/05/29 06:17:25 AM - task_two - INFO - Number of products pages: 37
+2024/05/29 06:17:25 AM - task_two - INFO - Page number: 1
+2024/05/29 06:17:25 AM - task_two - INFO - Page number: 2
+2024/05/29 06:17:39 AM - task_two - INFO - Page number: 3
+2024/05/29 06:17:52 AM - task_two - INFO - Page number: 4
+2024/05/29 06:18:05 AM - task_two - INFO - Page number: 5
+2024/05/29 06:18:19 AM - task_two - INFO - Page number: 6
+2024/05/29 06:18:33 AM - task_two - INFO - Page number: 7
+2024/05/29 06:18:47 AM - task_two - INFO - Page number: 8
+2024/05/29 06:19:02 AM - task_two - INFO - Page number: 9
+2024/05/29 06:19:15 AM - task_two - INFO - Page number: 10
+2024/05/29 06:19:28 AM - task_two - INFO - Page number: 11
+2024/05/29 06:19:40 AM - task_two - INFO - Page number: 12
+2024/05/29 06:19:53 AM - task_two - INFO - Page number: 13
+2024/05/29 06:20:07 AM - task_two - INFO - Page number: 14
+2024/05/29 06:20:21 AM - task_two - INFO - Page number: 15
+2024/05/29 06:20:35 AM - task_two - INFO - Page number: 16
+2024/05/29 06:20:49 AM - task_two - INFO - Page number: 17
+2024/05/29 06:21:03 AM - task_two - INFO - Page number: 18
+2024/05/29 06:21:16 AM - task_two - INFO - Page number: 19
+2024/05/29 06:21:29 AM - task_two - INFO - Page number: 20
+2024/05/29 06:21:42 AM - task_two - INFO - Page number: 21
+2024/05/29 06:21:55 AM - task_two - INFO - Page number: 22
+2024/05/29 06:22:08 AM - task_two - INFO - Page number: 23
+2024/05/29 06:22:21 AM - task_two - INFO - Page number: 24
+2024/05/29 06:22:34 AM - task_two - INFO - Page number: 25
+2024/05/29 06:22:48 AM - task_two - INFO - Page number: 26
+2024/05/29 06:23:01 AM - task_two - INFO - Page number: 27
+2024/05/29 06:23:15 AM - task_two - INFO - Page number: 28
+2024/05/29 06:23:28 AM - task_two - INFO - Page number: 29
+2024/05/29 06:23:40 AM - task_two - INFO - Page number: 30

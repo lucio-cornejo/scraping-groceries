@@ -2,10 +2,6 @@
 from src.instances import config, task_two_logger, driver
 
 # %%
-# task_two_logger.info(123)
-task_one_logger.info(4)
-
-# %%
 import json
 
 from src.products_scraper import (
@@ -25,8 +21,9 @@ and grocery subcategory of every grocery product
 with open('./data/categories_and_subcategories_url.json', 'r', encoding = 'utf-8') as f:
   categories_and_subcategories_url_list = json.loads(f.read())
 
-# %%
 driver.set_page_load_timeout(config['selenium']['page_load_seconds_timeout'])
+
+# %%
 products_basic_info = []
 
 for category_dict in categories_and_subcategories_url_list:
@@ -42,10 +39,7 @@ for category_dict in categories_and_subcategories_url_list:
     is_website_paginated =  is_products_website_paginated()
 
     if is_website_paginated:
-      try:
-        number_of_products_pages = parse_number_of_pages_from_web_text()
-      except:
-        continue
+      number_of_products_pages = parse_number_of_pages_from_web_text()
 
     task_two_logger.info(f'Number of products pages: {number_of_products_pages}')
 
@@ -59,10 +53,7 @@ for category_dict in categories_and_subcategories_url_list:
         grocery_category = grocery_category, grocery_subcategory = None
       )
 
-      try:
-        if is_website_paginated: click_next_page_in_products_website()
-      except:
-        break
+      if is_website_paginated: click_next_page_in_products_website()
   
   else:
     for subcategory_dict in category_dict['subcategories']:
@@ -75,10 +66,7 @@ for category_dict in categories_and_subcategories_url_list:
       is_website_paginated =  is_products_website_paginated()
 
       if is_website_paginated:
-        try:
-          number_of_products_pages = parse_number_of_pages_from_web_text()
-        except:
-          continue
+        number_of_products_pages = parse_number_of_pages_from_web_text()
 
       task_two_logger.info(f'Number of products pages: {number_of_products_pages}')
 
@@ -93,10 +81,7 @@ for category_dict in categories_and_subcategories_url_list:
           grocery_subcategory = f"'{subcategory_name}'"
         )
 
-        try:
-          if is_website_paginated: click_next_page_in_products_website()
-        except:
-          break
+        if is_website_paginated: click_next_page_in_products_website()
 
 
 # %%
