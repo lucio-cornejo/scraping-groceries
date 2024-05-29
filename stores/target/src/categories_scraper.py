@@ -1,11 +1,12 @@
-from selenium import webdriver
+from .instances import config, driver
+
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
 
 
-def click_show_all_categories_button_if_present(config: dict, driver: webdriver.Chrome):
+def click_show_all_categories_button_if_present():
   categories_button_css_selector = ''.join([
     config['groceries_homepage']['categories_container']['css_selector'],
     config['groceries_homepage']['categories_container']['categories_button_appended_css_selector']
@@ -52,7 +53,7 @@ def filter_non_deal_categories(
   return categories
 
 
-def extract_categories_name_and_url(config: dict, driver: webdriver.Chrome) -> list[dict]:
+def extract_categories_name_and_url() -> list[dict]:
   categories_element_css_selector = ''.join([
     config['groceries_homepage']['categories_container']['css_selector'],
     config['groceries_homepage']['categories_container']['categories_element_appended_css_selector']
@@ -81,4 +82,4 @@ def extract_categories_name_and_url(config: dict, driver: webdriver.Chrome) -> l
       .get_attribute('href')
     )
 
-  return  url_per_grocery_category
+  return url_per_grocery_category

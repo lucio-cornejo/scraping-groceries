@@ -1,5 +1,4 @@
-from .instances import config, logger, driver
-
+from .instances import config, task_two_logger, driver
 
 import time
 from selenium.webdriver.common.by import By
@@ -48,7 +47,7 @@ def parse_number_of_pages_from_web_text():
         [-1]
     )
   except Exception as e:
-    logger.exception('Failed to extract number of pages')
+    task_two_logger.exception('Failed to extract number of pages')
     raise e
 
 
@@ -64,7 +63,7 @@ def click_next_page_in_products_website():
       document.querySelector("{next_page_button_css_selector}").click();
     """)
   except Exception as e:
-    logger.exception('Failed to click "Next page" button')
+    task_two_logger.exception('Failed to click "Next page" button')
     raise e
 
 

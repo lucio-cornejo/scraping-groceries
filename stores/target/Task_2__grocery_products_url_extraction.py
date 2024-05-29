@@ -1,5 +1,5 @@
 # %%
-from src.instances import config, logger, driver
+from src.instances import config, task_two_logger, driver
 
 # %%
 import json
@@ -28,10 +28,10 @@ products_basic_info = []
 
 for category_dict in categories_and_subcategories_url_list:
   grocery_category = category_dict['grocery_category']
-  logger.info(f'Grocery category: {grocery_category}')
+  task_two_logger.info(f'Grocery category: {grocery_category}')
 
   if not 'subcategories' in category_dict.keys():
-    logger.info('No subcategories available')
+    task_two_logger.info('No subcategories available')
     driver.get(category_dict['url'])
     load_all_products_in_page()
 
@@ -44,11 +44,11 @@ for category_dict in categories_and_subcategories_url_list:
       except:
         continue
 
-    logger.info(f'Number of products pages: {number_of_products_pages}')
+    task_two_logger.info(f'Number of products pages: {number_of_products_pages}')
 
     # Extract each product url and its image url, per products page
     for page_number in range(number_of_products_pages):
-      logger.info(f'Page number: {1 + page_number}')
+      task_two_logger.info(f'Page number: {1 + page_number}')
 
       if page_number > 0: load_all_products_in_page()
 
