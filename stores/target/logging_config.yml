@@ -1,0 +1,41 @@
+version: 1
+disable_existing_loggers: False
+
+formatters:
+  simple:
+    format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+    datefmt: '%Y/%m/%d %H:%M:%S %p'
+
+handlers:
+  console:
+    class: logging.StreamHandler
+    level: DEBUG
+    formatter: simple
+    stream: ext://sys.stdout
+
+  file_task_1:
+    class: logging.FileHandler
+    level: INFO
+    formatter: simple
+    encoding: utf-8
+    filename: logs/grocery_cat_or_subcat_url_extraction.log
+    mode: w
+
+  file_task_2:
+    class: logging.FileHandler
+    level: INFO
+    formatter: simple
+    encoding: utf-8
+    filename: logs/grocery_products_url_extraction.log
+    mode: w
+
+loggers:
+  task_one:
+    level: INFO
+    handlers: [file_task_1]
+    propagate: no
+
+  task_two:
+    level: INFO
+    handlers: [console, file_task_2]
+    propagate: no

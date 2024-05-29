@@ -1,5 +1,6 @@
 import sys
-import logging
+import logging.config
+from yaml import safe_load
 
 # Use Lima, Peru timezone for datetime in logs
 # Source: https://stackoverflow.com/a/62265324
@@ -8,22 +9,15 @@ from datetime import datetime
 logging.Formatter.converter = lambda *args: datetime.now(tz = timezone('America/Lima')).timetuple()
 
 
-def get_logger(config: dict, logs_file_name = ''):
-  logging_format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
-  logging_date_format = "%Y/%m/%d %I:%M:%S %p"
-  
+def get_logger(config: dict, logger_name: str):
   if config['profile'] == 'local':
-    logger = logging.getLogger(__name__)
-    logging.basicConfig(
-      handlers = [
-        logging.FileHandler(
-          filename = f'logs/{logs_file_name}', encoding = 'utf-8', mode = 'w'
-        ),
-      ],
-      format = logging_format,
-      datefmt = logging_date_format,
-      level = logging.INFO
-    )
+    # Configure the logging module via logging_config.yml
+    # Source: https://medium.com/@cyberdud3/a-step-by-step-guide-to-configuring-python-logging-with-yaml-files-914baea5a0e5
+    with open('logging_config.yml', 'rt') as f:
+      logging_config = safe_load(f.read())
+      
+    logging.config.dictConfig(logging_config)
+    logger = logging.getLogger(logger_name)
     return logger
 
   if config['profile'] == 'production':
@@ -32,7 +26,10 @@ def get_logger(config: dict, logs_file_name = ''):
     console_handler = logging.StreamHandler(sys.stdout)
     console_handler.setLevel(logging.INFO)
     console_handler.setFormatter(
-      logging.Formatter(logging_format, logging_date_format)
+      logging.Formatter(
+        "%(asctime)s - %(name)s - %(levelname)s - %(message)s", 
+        "%Y/%m/%d %H:%M:%S %p"
+      )
     )
 
     logger.addHandler(console_handler)

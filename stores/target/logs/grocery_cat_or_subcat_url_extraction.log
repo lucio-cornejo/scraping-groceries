@@ -1,16 +1,12 @@
-2024/05/29 03:53:54 AM - WDM - INFO - ====== WebDriver manager ======
-2024/05/29 03:53:56 AM - WDM - INFO - Get LATEST chromedriver version for google-chrome
-2024/05/29 03:53:56 AM - WDM - INFO - Get LATEST chromedriver version for google-chrome
-2024/05/29 03:53:56 AM - WDM - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\125.0.6422.78\chromedriver-win32/chromedriver.exe] found in cache
-2024/05/29 03:54:12 AM - src.logger - INFO - Category: Frozen Foods
-2024/05/29 03:54:21 AM - src.logger - INFO - Category: Meat & Seafood
-2024/05/29 03:54:32 AM - src.logger - INFO - Category: Produce
-2024/05/29 03:54:40 AM - src.logger - INFO - Category: Snacks
-2024/05/29 03:54:49 AM - src.logger - INFO - Category: Bakery & Bread
-2024/05/29 03:54:56 AM - src.logger - INFO - Category: Beverages
-2024/05/29 03:55:05 AM - src.logger - INFO - Category: Pantry
-2024/05/29 03:55:19 AM - src.logger - INFO - Category: Breakfast & Cereal
-2024/05/29 03:55:22 AM - src.logger - ERROR - No button "Show ... more" found
+2024/05/29 04:44:40 AM - task_one - INFO - Category: Frozen Foods
+2024/05/29 04:44:45 AM - task_one - INFO - Category: Meat & Seafood
+2024/05/29 04:44:52 AM - task_one - INFO - Category: Produce
+2024/05/29 04:44:57 AM - task_one - INFO - Category: Snacks
+2024/05/29 04:45:07 AM - task_one - INFO - Category: Bakery & Bread
+2024/05/29 04:45:13 AM - task_one - INFO - Category: Beverages
+2024/05/29 04:45:20 AM - task_one - INFO - Category: Pantry
+2024/05/29 04:45:27 AM - task_one - INFO - Category: Breakfast & Cereal
+2024/05/29 04:45:30 AM - task_one - ERROR - No button "Show ... more" found
 Traceback (most recent call last):
   File "D:\scraping-groceries\stores\target\src\categories_scraper.py", line 17, in click_show_all_categories_button_if_present
     driver.find_element(By.CSS_SELECTOR, categories_button_css_selector)
@@ -55,10 +51,10 @@ Traceback (most recent call last):
   File "D:\scraping-groceries\stores\target\src\categories_scraper.py", line 26, in click_show_all_categories_button_if_present
     raise Exception('No button "Show ... more" found')
 Exception: No button "Show ... more" found
-2024/05/29 03:55:25 AM - src.logger - INFO - Category: Dairy
-2024/05/29 03:55:32 AM - src.logger - INFO - Category: Deli
-2024/05/29 03:55:44 AM - src.logger - INFO - Category: Candy
-2024/05/29 03:55:53 AM - src.logger - ERROR - No button "Show ... more" found
+2024/05/29 04:45:32 AM - task_one - INFO - Category: Dairy
+2024/05/29 04:45:38 AM - task_one - INFO - Category: Deli
+2024/05/29 04:45:44 AM - task_one - INFO - Category: Candy
+2024/05/29 04:45:48 AM - task_one - ERROR - No button "Show ... more" found
 Traceback (most recent call last):
   File "D:\scraping-groceries\stores\target\src\categories_scraper.py", line 17, in click_show_all_categories_button_if_present
     driver.find_element(By.CSS_SELECTOR, categories_button_css_selector)
@@ -103,21 +99,21 @@ Traceback (most recent call last):
   File "D:\scraping-groceries\stores\target\src\categories_scraper.py", line 26, in click_show_all_categories_button_if_present
     raise Exception('No button "Show ... more" found')
 Exception: No button "Show ... more" found
-2024/05/29 03:55:53 AM - src.logger - INFO - Category: Coffee
-2024/05/29 03:56:05 AM - src.logger - INFO - Category: Fresh Flowers
-2024/05/29 03:56:07 AM - src.logger - WARNING - No subcategories found
-2024/05/29 03:56:07 AM - src.logger - INFO - Category: Wine, Beer & Liquor
-2024/05/29 03:56:19 AM - src.logger - INFO - Category: Snack Packs & On the Go Snacks
-2024/05/29 03:56:23 AM - src.logger - WARNING - No subcategories found
-2024/05/29 03:56:23 AM - src.logger - INFO - Category: Tabitha Brown for Target
-2024/05/29 03:56:30 AM - src.logger - WARNING - No subcategories found
-2024/05/29 03:56:30 AM - src.logger - INFO - Category: Good & Gather
-2024/05/29 03:56:32 AM - src.logger - WARNING - No subcategories found
-2024/05/29 03:56:32 AM - src.logger - INFO - Category: Favorite Day
-2024/05/29 03:56:35 AM - src.logger - WARNING - No subcategories found
-2024/05/29 03:56:35 AM - src.logger - INFO - Category: Market Pantry
-2024/05/29 03:56:41 AM - src.logger - WARNING - No subcategories found
-2024/05/29 03:56:41 AM - src.logger - INFO - Category: Starbucks
-2024/05/29 03:56:45 AM - src.logger - WARNING - No subcategories found
-2024/05/29 03:56:45 AM - src.logger - INFO - Category: Food Gifts
-2024/05/29 03:56:51 AM - src.logger - WARNING - No subcategories found
+2024/05/29 04:45:49 AM - task_one - INFO - Category: Coffee
+2024/05/29 04:45:56 AM - task_one - INFO - Category: Fresh Flowers
+2024/05/29 04:45:58 AM - task_one - WARNING - No subcategories found
+2024/05/29 04:45:58 AM - task_one - INFO - Category: Wine, Beer & Liquor
+2024/05/29 04:46:09 AM - task_one - INFO - Category: Snack Packs & On the Go Snacks
+2024/05/29 04:46:11 AM - task_one - WARNING - No subcategories found
+2024/05/29 04:46:11 AM - task_one - INFO - Category: Tabitha Brown for Target
+2024/05/29 04:46:16 AM - task_one - WARNING - No subcategories found
+2024/05/29 04:46:16 AM - task_one - INFO - Category: Good & Gather
+2024/05/29 04:46:19 AM - task_one - WARNING - No subcategories found
+2024/05/29 04:46:19 AM - task_one - INFO - Category: Favorite Day
+2024/05/29 04:46:21 AM - task_one - WARNING - No subcategories found
+2024/05/29 04:46:21 AM - task_one - INFO - Category: Market Pantry
+2024/05/29 04:46:24 AM - task_one - WARNING - No subcategories found
+2024/05/29 04:46:24 AM - task_one - INFO - Category: Starbucks
+2024/05/29 04:46:26 AM - task_one - WARNING - No subcategories found
+2024/05/29 04:46:26 AM - task_one - INFO - Category: Food Gifts
+2024/05/29 04:46:28 AM - task_one - WARNING - No subcategories found

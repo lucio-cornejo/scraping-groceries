@@ -5,10 +5,10 @@ load_dotenv()
 from pyaml_env import parse_config
 config = parse_config('config.yml', encoding = 'utf-8')
 
-# Load logger
+# Load loggers
 from .logger import get_logger
-task_one_logger = get_logger(config, logs_file_name = 'grocery_cat_or_subcat_url_extraction.log')
-task_two_logger = get_logger(config, logs_file_name = 'grocery_products_url_extraction.log')
+task_one_logger = get_logger(config, logger_name = 'task_one')
+task_two_logger = get_logger(config, logger_name = 'task_two')
 
 # Load Selenium web driver
 from .setup_selenium_driver import get_chrome_driver
