@@ -1,11 +1,10 @@
-# %%
 from dotenv import load_dotenv
 load_dotenv()
 
 from pyaml_env import parse_config
-config = parse_config('./config.yml', encoding = 'utf-8')
+config = parse_config('config.yml', encoding = 'utf-8')
 
-# %%
+
 from src.setup_selenium_driver import get_chrome_driver
 from src.categories_scraper import (
   click_show_all_categories_button_if_present,
@@ -16,15 +15,16 @@ from src.subcategories_scraper import (
   save_list_of_urls_per_page_to_scrap
 )
 
-# %%
 from src.logger import get_logger
-logger = get_logger(config)
+logger = get_logger(
+  config, 
+  logs_file_name = 'grocery_cat_or_subcat_url_extraction.log'
+)
 
 
-# %%
 if __name__ == '__main__':
   """
-  Save into JSON file url of every Grocery sub or sub_sub category
+  Save into JSON file url of every Grocery category or subcategory
   """
   # Access Groceries homepage
   driver = get_chrome_driver(config)

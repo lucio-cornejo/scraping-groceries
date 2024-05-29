@@ -1,5 +1,10 @@
 # Scraping **Target**
 
+## Python scripts to execute, in order
+
+1. `Task_1__extract_url_of_every_grocery_category_or_subcategory.py`
+
+
 ## Python packages installed
 
 ```

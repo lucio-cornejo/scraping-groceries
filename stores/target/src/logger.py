@@ -8,7 +8,7 @@ from datetime import datetime
 logging.Formatter.converter = lambda *args: datetime.now(tz = timezone('America/Lima')).timetuple()
 
 
-def get_logger(config: dict):
+def get_logger(config: dict, logs_file_name = ''):
   logging_format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
   logging_date_format = "%Y/%m/%d %I:%M:%S %p"
   
@@ -17,7 +17,7 @@ def get_logger(config: dict):
     logging.basicConfig(
       handlers = [
         logging.FileHandler(
-          filename = "status.log", encoding = 'utf-8', mode = 'w'
+          filename = f'logs/{logs_file_name}', encoding = 'utf-8', mode = 'w'
         ),
       ],
       format = logging_format,
