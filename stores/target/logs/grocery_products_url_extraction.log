@@ -1,0 +1,44 @@
+2024/05/29 03:32:54 AM - WDM - INFO - ====== WebDriver manager ======
+2024/05/29 03:32:57 AM - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024/05/29 03:32:57 AM - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024/05/29 03:32:57 AM - WDM - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\125.0.6422.78\chromedriver-win32/chromedriver.exe] found in cache
+2024/05/29 03:33:09 AM - src.logger - INFO - Grocery category: Frozen Foods
+2024/05/29 03:33:09 AM - src.logger - INFO - Grocery category: Meat & Seafood
+2024/05/29 03:33:09 AM - src.logger - INFO - Grocery category: Produce
+2024/05/29 03:33:09 AM - src.logger - INFO - Grocery category: Snacks
+2024/05/29 03:33:09 AM - src.logger - INFO - Grocery category: Bakery & Bread
+2024/05/29 03:33:09 AM - src.logger - INFO - Grocery category: Beverages
+2024/05/29 03:33:09 AM - src.logger - INFO - Grocery category: Pantry
+2024/05/29 03:33:09 AM - src.logger - INFO - Grocery category: Breakfast & Cereal
+2024/05/29 03:33:09 AM - src.logger - INFO - Grocery category: Dairy
+2024/05/29 03:33:09 AM - src.logger - INFO - Grocery category: Deli
+2024/05/29 03:33:09 AM - src.logger - INFO - Grocery category: Candy
+2024/05/29 03:33:09 AM - src.logger - INFO - Grocery category: Coffee
+2024/05/29 03:33:09 AM - src.logger - INFO - Grocery category: Fresh Flowers
+2024/05/29 03:33:09 AM - src.logger - INFO - No subcategories available
+2024/05/29 03:33:30 AM - src.logger - INFO - Number of products pages: 2
+2024/05/29 03:33:30 AM - src.logger - INFO - Page number: 1
+2024/05/29 03:33:30 AM - src.logger - INFO - Page number: 2
+2024/05/29 03:33:52 AM - src.logger - INFO - Grocery category: Frozen Foods
+2024/05/29 03:33:52 AM - src.logger - INFO - Grocery category: Meat & Seafood
+2024/05/29 03:33:52 AM - src.logger - INFO - Grocery category: Produce
+2024/05/29 03:33:52 AM - src.logger - INFO - Grocery category: Snacks
+2024/05/29 03:33:52 AM - src.logger - INFO - Grocery category: Bakery & Bread
+2024/05/29 03:33:52 AM - src.logger - INFO - Grocery category: Beverages
+2024/05/29 03:33:52 AM - src.logger - INFO - Grocery category: Pantry
+2024/05/29 03:33:52 AM - src.logger - INFO - Grocery category: Breakfast & Cereal
+2024/05/29 03:33:52 AM - src.logger - INFO - Grocery category: Dairy
+2024/05/29 03:33:52 AM - src.logger - INFO - Grocery category: Deli
+2024/05/29 03:33:52 AM - src.logger - INFO - Grocery category: Candy
+2024/05/29 03:33:52 AM - src.logger - INFO - Grocery category: Coffee
+2024/05/29 03:33:52 AM - src.logger - INFO - Grocery category: Fresh Flowers
+2024/05/29 03:33:52 AM - src.logger - INFO - No subcategories available
+2024/05/29 03:34:13 AM - src.logger - INFO - Number of products pages: 2
+2024/05/29 03:34:13 AM - src.logger - INFO - Page number: 1
+2024/05/29 03:34:13 AM - src.logger - INFO - Page number: 2
+2024/05/29 03:34:25 AM - src.logger - INFO - Grocery category: Wine, Beer & Liquor
+2024/05/29 03:34:25 AM - src.logger - INFO - Grocery category: Snack Packs & On the Go Snacks
+2024/05/29 03:34:25 AM - src.logger - INFO - No subcategories available
+2024/05/29 03:34:45 AM - src.logger - INFO - Number of products pages: 5
+2024/05/29 03:34:45 AM - src.logger - INFO - Page number: 1
+2024/05/29 03:34:45 AM - src.logger - INFO - Page number: 2

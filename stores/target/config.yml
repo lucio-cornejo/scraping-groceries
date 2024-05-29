@@ -15,5 +15,9 @@ products_website:
   paginator:
     css_selector: "[data-test='pagination']"
     number_of_pages_element_appended_css_selector: " button > span:first-child"
-    
+    next_page_element_appended_css_selector: " button[aria-label='next page']"
 
+  product_html_container:
+    css_selector: "[data-test='@web/site-top-of-funnel/ProductCardWrapper']"
+    product_url_html_anchor_css_selector: "[data-test] a"
+    product_image_html_img_css_selector: "[data-test] img"

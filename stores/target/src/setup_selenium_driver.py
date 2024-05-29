@@ -6,14 +6,15 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 def get_chrome_driver(config: dict) -> webdriver.Chrome:
   if config['profile'] == 'local':
-    chrome_options = webdriver.ChromeOptions()
-    # chrome_options.add_argument("--window-size=1920,1080")
-    chrome_options.add_argument("--start-maximized")
-    # chrome_options.add_argument('--headless')
+    options = webdriver.ChromeOptions()
+    options.add_argument("--guest")
+    options.add_argument("--start-maximized")
+    # options.add_argument("--window-size=1920,1080")
+    # options.add_argument('--headless')
 
     chrome_driver = webdriver.Chrome(
       service = Service(ChromeDriverManager().install()), 
-      options = chrome_options
+      options = options
     )
     return chrome_driver
 
