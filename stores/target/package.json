@@ -3,13 +3,15 @@
   "version": "1.0.0",
   "description": "Web scraping Target's grocery products",
   "scripts": {
-    "task-1" : "python -m tasks.grocery_categories_and_subcategories_url_extraction",
-    "task-2" : " python -m tasks.grocery_products_url_extraction"
+    "task-1": "python -m tasks.grocery_categories_and_subcategories_url_extraction",
+    "task-2": "python -m tasks.grocery_products_url_extraction",
+    "task-3": "node ./tasks/grocery_products_info_download.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "async": "^3.2.5",
+    "log4js": "^6.9.1",
     "node-html-parser": "^6.1.13"
   }
 }
