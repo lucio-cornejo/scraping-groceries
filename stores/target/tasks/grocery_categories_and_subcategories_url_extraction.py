@@ -14,6 +14,8 @@ if __name__ == '__main__':
   """
   Save into JSON file url of every Grocery category or subcategory
   """
+  task_one_logger.info('Logging timestamps are respect to America/Lima timezone')
+
   # Access Groceries homepage
   driver.set_page_load_timeout(config['selenium']['page_load_seconds_timeout'])
   driver.get(config['groceries_homepage']['url'])
@@ -45,7 +47,8 @@ if __name__ == '__main__':
     category_dict['subcategories'] = extract_categories_name_and_url()
 
 
+  driver.quit()
   save_list_of_urls_per_page_to_scrap(
     categories_name_and_url, 
-    file_path = './data/categories_and_subcategories_url.json'
+    file_path = 'data/categories_and_subcategories_url.json'
   )

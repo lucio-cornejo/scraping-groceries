@@ -1,3 +1,5 @@
+from .instances import config
+
 import sys
 import logging.config
 from yaml import safe_load
@@ -9,7 +11,7 @@ from datetime import datetime
 logging.Formatter.converter = lambda *args: datetime.now(tz = timezone('America/Lima')).timetuple()
 
 
-def get_logger(config: dict, logger_name: str):
+def get_logger(logger_name: str):
   if config['profile'] == 'local':
     # Configure the logging module via logging_config.yml
     # Source: https://medium.com/@cyberdud3/a-step-by-step-guide-to-configuring-python-logging-with-yaml-files-914baea5a0e5

@@ -120,20 +120,32 @@
         "url": "https://www.target.com/c/fresh-vegetables-produce-grocery/-/N-4tglh"
       },
       {
-        "grocery_category": "Fresh Dressings & Dips",
-        "url": "https://www.target.com/c/fresh-dressings-dips-produce-grocery/-/N-flfjt"
+        "grocery_category": "Salad Mixes",
+        "url": "https://www.target.com/c/salad-mixes-produce-grocery/-/N-by5pi"
       },
       {
-        "grocery_category": "Fresh Flowers",
-        "url": "https://www.target.com/c/fresh-flowers/-/N-2dei4"
+        "grocery_category": "Berries",
+        "url": "https://www.target.com/c/berries/-/N-h0uds"
+      },
+      {
+        "grocery_category": "Melons",
+        "url": "https://www.target.com/c/melons/-/N-k3hu6"
+      },
+      {
+        "grocery_category": "Organic Produce",
+        "url": "https://www.target.com/c/organic-produce/-/N-h6rph"
       },
       {
         "grocery_category": "Fresh Juices",
         "url": "https://www.target.com/c/fresh-juices-produce-grocery/-/N-c5lky"
       },
       {
-        "grocery_category": "Salad Mixes",
-        "url": "https://www.target.com/c/salad-mixes-produce-grocery/-/N-by5pi"
+        "grocery_category": "Fresh Flowers",
+        "url": "https://www.target.com/c/fresh-flowers/-/N-2dei4"
+      },
+      {
+        "grocery_category": "Fresh Dressings & Dips",
+        "url": "https://www.target.com/c/fresh-dressings-dips-produce-grocery/-/N-flfjt"
       },
       {
         "grocery_category": "Meatless Alternatives",
@@ -316,10 +328,6 @@
       {
         "grocery_category": "Powdered & Liquid Drink Mixes",
         "url": "https://www.target.com/c/powdered-liquid-drink-mixes-beverages-grocery/-/N-5xt0n"
-      },
-      {
-        "grocery_category": "Protein & Meal Replacement Drinks",
-        "url": "https://www.target.com/c/protein-shakes-meal-replacement-drinks/-/N-4uez0"
       }
     ]
   },
@@ -386,10 +394,6 @@
     "url": "https://www.target.com/c/breakfast-cereal-grocery/-/N-wo2mp",
     "subcategories": [
       {
-        "grocery_category": "Granola & Cereal Bars",
-        "url": "https://www.target.com/c/granola-cereal-bars-snacks-grocery/-/N-4ydo1"
-      },
-      {
         "grocery_category": "Cereal & Granola",
         "url": "https://www.target.com/c/cereal-granola-breakfast-grocery/-/N-5xt0g"
       },
@@ -404,6 +408,14 @@
       {
         "grocery_category": "Toaster Pastries",
         "url": "https://www.target.com/c/toaster-pastries-breakfast-cereal-grocery/-/N-5xt0i"
+      },
+      {
+        "grocery_category": "Organic Breakfast & Cereal",
+        "url": "https://www.target.com/c/organic-breakfast-cereal/-/N-qrydr"
+      },
+      {
+        "grocery_category": "Granola & Cereal Bars",
+        "url": "https://www.target.com/c/granola-cereal-bars-snacks-grocery/-/N-4ydo1"
       }
     ]
   },
@@ -530,6 +542,10 @@
       {
         "grocery_category": "Hard Candy",
         "url": "https://www.target.com/c/hard-candy-grocery/-/N-5xt08"
+      },
+      {
+        "grocery_category": "Candy Variety Packs",
+        "url": "https://www.target.com/c/candy-variety-packs/-/N-iomx6"
       },
       {
         "grocery_category": "Premium Candy",
