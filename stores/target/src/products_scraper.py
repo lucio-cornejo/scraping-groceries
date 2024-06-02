@@ -82,6 +82,7 @@ def extract_products_url_and_image_url(
       product_info["grocery_subcategory"] = {grocery_subcategory};
 
       // Extract product's url and image url
+      product_info["title"] = product.querySelector("{product_title_html_anchor_css_selector}").innerText;
       product_info["url"] = product.querySelector("{product_url_html_anchor_css_selector}").href;
       product_info["image_url"] = product.querySelector("{product_image_html_img_css_selector}").src;
 
@@ -94,6 +95,7 @@ def extract_products_url_and_image_url(
       product_html_container_css_selector = config['products_website']['product_html_container']['css_selector'],
       grocery_category = grocery_category,
       grocery_subcategory = "null" if grocery_subcategory is None else grocery_subcategory,
+      product_title_html_anchor_css_selector = config['products_website']['product_html_container']['product_title_html_anchor_css_selector'],
       product_url_html_anchor_css_selector = config['products_website']['product_html_container']['product_url_html_anchor_css_selector'],
       product_image_html_img_css_selector = config['products_website']['product_html_container']['product_image_html_img_css_selector']
     )

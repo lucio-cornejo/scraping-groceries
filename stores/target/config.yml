@@ -19,5 +19,6 @@ products_website:
 
   product_html_container:
     css_selector: "[data-test='@web/site-top-of-funnel/ProductCardWrapper']"
+    product_title_html_anchor_css_selector: "[data-test='product-title']"
     product_url_html_anchor_css_selector: "[data-test] a"
     product_image_html_img_css_selector: "[data-test] img"
