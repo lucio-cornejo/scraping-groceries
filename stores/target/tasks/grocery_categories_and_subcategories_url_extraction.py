@@ -6,7 +6,8 @@ from src.categories_scraper import (
 )
 from src.subcategories_scraper import (
   are_subcategories_available,
-  save_list_of_urls_per_page_to_scrap
+  save_list_as_JSON,
+  flatten_list_of_categories_and_subcategories_url
 )
 
 
@@ -48,7 +49,18 @@ if __name__ == '__main__':
 
 
   driver.quit()
-  save_list_of_urls_per_page_to_scrap(
+  save_list_as_JSON(
     categories_name_and_url, 
     file_path = 'data/categories_and_subcategories_url.json'
   )
+
+  """
+  Create JSON list where each item contains an URL which points to a 
+  website of multiple products, that will be used in the next task for
+  scraping, page by page, the products' basic info 
+  (title, main image url, (upc not yet), etc) .
+  """
+  url_dicts_list = flatten_list_of_categories_and_subcategories_url(
+    categories_name_and_url
+  )
+  save_list_as_JSON(url_dicts_list, file_path = 'data/urls_for_task_2.json')

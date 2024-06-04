@@ -30,7 +30,7 @@ handlers:
     level: INFO
     formatter: simple
     encoding: utf-8
-    filename: logs/grocery_products_url_extraction.log
+    filename: logs/grocery_products_basic_info_extraction.log
     mode: w
     delay: true
 
