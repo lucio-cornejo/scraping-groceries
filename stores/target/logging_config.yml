@@ -1,0 +1,46 @@
+version: 1
+disable_existing_loggers: False
+
+formatters:
+  simple:
+    format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+    datefmt: '%Y/%m/%d %H:%M:%S %p'
+
+handlers:
+  console:
+    class: logging.StreamHandler
+    level: DEBUG
+    formatter: simple
+    stream: ext://sys.stdout
+
+  file_task_1:
+    class: logging.FileHandler
+    level: INFO
+    formatter: simple
+    encoding: utf-8
+    filename: logs/grocery_cat_or_subcat_url_extraction.log
+    mode: w
+    # Avoid log file deletion until respective 
+    # invoked logger writes into file
+    # Source: https://stackoverflow.com/a/19656056
+    delay: true
+
+  file_task_2:
+    class: logging.FileHandler
+    level: INFO
+    formatter: simple
+    encoding: utf-8
+    filename: logs/grocery_products_basic_info_extraction.log
+    mode: w
+    delay: true
+
+loggers:
+  task_one:
+    level: INFO
+    handlers: [file_task_1]
+    propagate: no
+
+  task_two:
+    level: INFO
+    handlers: [console, file_task_2]
+    propagate: no

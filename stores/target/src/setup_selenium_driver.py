@@ -1,25 +1,27 @@
+from .instances import config
+
 from tempfile import mkdtemp
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
 
-def get_chrome_driver(config: dict) -> webdriver.Chrome:
+def get_chrome_driver() -> webdriver.Chrome:
   if config['profile'] == 'local':
-    chrome_options = webdriver.ChromeOptions()
-    # chrome_options.add_argument("--window-size=1920,1080")
-    chrome_options.add_argument("--start-maximized")
-    # chrome_options.add_argument('--headless')
+    options = webdriver.ChromeOptions()
+    options.add_argument("--guest")
+    options.add_argument("--start-maximized")
+    # options.add_argument("--window-size=1920,1080")
+    # options.add_argument('--headless')
 
     chrome_driver = webdriver.Chrome(
       service = Service(ChromeDriverManager().install()), 
-      options = chrome_options
+      options = options
     )
     return chrome_driver
 
   if config['profile'] == 'production':
     options = webdriver.ChromeOptions()
-    service = webdriver.ChromeService("/opt/chromedriver")
 
     options.binary_location = '/opt/chrome/chrome'
     options.add_argument("--headless=new")
@@ -35,5 +37,5 @@ def get_chrome_driver(config: dict) -> webdriver.Chrome:
     options.add_argument(f"--disk-cache-dir={mkdtemp()}")
     options.add_argument("--remote-debugging-port=9222")
 
-    chrome_driver = webdriver.Chrome(options = options, service = service)
+    chrome_driver = webdriver.Chrome(options = options)
     return chrome_driver
