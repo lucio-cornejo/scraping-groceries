@@ -12,7 +12,7 @@ def get_chrome_driver() -> webdriver.Chrome:
     options.add_argument("--guest")
     options.add_argument("--start-maximized")
     # options.add_argument("--window-size=1920,1080")
-    # options.add_argument('--headless')
+    options.add_argument("--headless=new")
     # Do not wait for page load after accessing website
     # Source: https://stackoverflow.com/a/46339092
     options.page_load_strategy = 'eager'
