@@ -78,7 +78,7 @@ def attempt_extraction_of_nested_dict_value(dictionary: dict, dict_keys_sequence
       searched_value = searched_value[dict_key]
     return searched_value
   except:
-    task_2_2_logger.critical('Failed nested dictionary value extraction')
+    # task_2_2_logger.critical(f'Failed nested dictionary value extraction for keys sequence {dict_keys_sequence_string}')
     return None
 
 

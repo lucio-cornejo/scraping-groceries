@@ -1,8 +1,6 @@
-# %%
-import os; os.chdir('./../../')
-
-# %%
 from src.instances import task_2_2_logger
+
+from src.ip_rotator import create_gateway_and_session_for_random_IP
 
 from src.products_basic_info_extractor import (
   extract_get_request_json_response,
@@ -16,10 +14,8 @@ from src.products_basic_info_extractor import (
 import json
 import pandas as pd
 import requests
-from time import sleep
 
 
-# %%
 with open('data/get_request_urls_for_task_2.2.json', 'r', encoding = 'utf-8') as f:
   GET_request_urls_data_frame = pd.DataFrame(json.loads(f.read()))
 
@@ -27,17 +23,15 @@ with open('data/get_request_urls_for_task_2.2.json', 'r', encoding = 'utf-8') as
     ~GET_request_urls_data_frame.duplicated(subset = ["get_request_url"])
   ].to_dict('records')
 
-GET_request_urls_dict
 
-# %%
-def extract_category_products_basic_info(index: int, GET_request_url_dict: dict):
-  session = requests.Session()
-  
+def extract_category_products_basic_info(
+  session: requests.Session, index: int, GET_request_url_dict: dict
+):
   modified_GET_request_url = change_relevant_string_queries_values(
     GET_request_url_dict['get_request_url'], 
     updated_offset = 0
   )
-  task_2_2_logger.info(f'Modified GET request url: {modified_GET_request_url}')
+  task_2_2_logger.info(f'First modified GET request url: {modified_GET_request_url}')
 
   rsp_json = extract_get_request_json_response(session, modified_GET_request_url)
   if rsp_json is None: raise Exception("Failed extraction of category's products basic info")
@@ -60,14 +54,13 @@ def extract_category_products_basic_info(index: int, GET_request_url_dict: dict)
   # Change "offset" url query string parameters to fetch all products' basic info
   if number_of_products > 28:
     number_of_extra_get_requests = number_of_products // 28
+    task_2_2_logger.info(f'Number of extra GET requests: {number_of_extra_get_requests}')
+
     for i in range(1, number_of_extra_get_requests + 1):
       updated_offset = i*28
-      task_2_2_logger.info(f'Started new iteration with offset {updated_offset}')
-      
       modified_GET_request_url = change_relevant_string_queries_values(
         GET_request_url_dict['get_request_url'], updated_offset
       )
-      task_2_2_logger.info(f'Modified GET request url: {modified_GET_request_url}')
 
       rsp_json = extract_get_request_json_response(session, modified_GET_request_url)
       if rsp_json is None: 
@@ -81,38 +74,63 @@ def extract_category_products_basic_info(index: int, GET_request_url_dict: dict)
         for product_dict in products_dicts_list:
           category_products_basic_info.append(extract_products_basic_info(product_dict))
 
-    """
-    Save non duplicate data as CSV file
-    """
-    cat_prods_basic_info_data_frame = pd.DataFrame(category_products_basic_info)
+      if i == number_of_extra_get_requests:
+        task_2_2_logger.info('Completed all extra GET requests')
 
-    # Remove duplicate products, via their Target's API 'buy_url' value
-    cat_prods_basic_info_data_frame = cat_prods_basic_info_data_frame[
-      ~cat_prods_basic_info_data_frame.duplicated(subset = ['url'], keep = 'first')
-    ].reset_index(drop = True)
+  """
+  Save non duplicate data as CSV file
+  """
+  cat_prods_basic_info_data_frame = pd.DataFrame(category_products_basic_info)
 
-    cat_prods_basic_info_data_frame["merged_bread_crumbs"] = merged_bread_crumbs
-    
-    where_all_products_extracted = cat_prods_basic_info_data_frame.shape[0] == number_of_products
-    if where_all_products_extracted:
-      task_2_2_logger.critical("Successful extraction of ALL category products's basic info")
-    else:
-      task_2_2_logger.critical(f"Failed to extract basic info of {number_of_products - cat_prods_basic_info_data_frame.shape[0]} products")
+  # Remove duplicate products, via their Target's API 'buy_url' value
+  cat_prods_basic_info_data_frame = cat_prods_basic_info_data_frame[
+    ~cat_prods_basic_info_data_frame.duplicated(subset = ['url'], keep = 'first')
+  ].reset_index(drop = True)
 
-    task_2_2_logger.info(f"Number of missing values in category's products data frame: {cat_prods_basic_info_data_frame.isna().sum().sum()}")
+  cat_prods_basic_info_data_frame["merged_bread_crumbs"] = merged_bread_crumbs
+  
+  where_all_products_extracted = cat_prods_basic_info_data_frame.shape[0] == number_of_products
+  if where_all_products_extracted:
+    task_2_2_logger.critical("Successful extraction of ALL category products's basic info")
+  else:
+    task_2_2_logger.critical(f"Failed to extract basic info of {number_of_products - cat_prods_basic_info_data_frame.shape[0]} products")
 
-    cat_prods_basic_info_data_frame.to_csv(f'data/csv_files_for_task_3/index_{index}.csv', index = False)
+  task_2_2_logger.critical(f"Found {cat_prods_basic_info_data_frame.isna().sum().sum()} missing values in category's products data frame")
 
-# %%
-for index, GET_request_url_dict in enumerate(GET_request_urls_dict):
-  try:
-    task_2_2_logger.info(f'\nIndex of GET_request_urls_dict item: {index}')
-    extract_category_products_basic_info(index, GET_request_url_dict)
-  except Exception as e:
-    task_2_2_logger.exception(e)
-    # continue
-    break
-  finally:
-    sleep(2)
+  cat_prods_basic_info_data_frame.to_csv(f'data/csv_files_for_task_3/index_{index}.csv', index = False)
+  task_2_2_logger.critical('Completed local storage of data frame')
 
-# %%
+
+
+if __name__ == '__main__':
+  gateway = None
+  gateway_session = None
+
+  was_IP_banned = True
+  max_number_of_IP_rotation_attempts = 3
+
+  for index, GET_request_url_dict in enumerate(GET_request_urls_dict):
+    task_2_2_logger.info('\n')
+    task_2_2_logger.info(f'GET_request_urls_dict list: {index}')
+
+    attempt_number = 1
+    while attempt_number <= max_number_of_IP_rotation_attempts:
+      if was_IP_banned:
+        gateway, gateway_session = create_gateway_and_session_for_random_IP(
+          GET_request_url_dict['get_request_url']
+        )
+
+      try:
+        extract_category_products_basic_info(gateway_session, index, GET_request_url_dict)
+        was_IP_banned = False
+        break
+      except Exception as e:
+        was_IP_banned = True
+        attempt_number += 1
+
+        task_2_2_logger.critical('IP ADDRESS MAY HAVE BEEN BANNED BY TARGET')
+        task_2_2_logger.exception(e)
+
+        gateway.shutdown()
+
+  gateway.shutdown()
