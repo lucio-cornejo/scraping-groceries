@@ -2,6 +2,7 @@ profile: !ENV ${PROFILE}
 
 selenium:
   page_load_seconds_timeout: 30
+  products_basic_info_get_request_seconds_timeout: 60
 
 groceries_homepage:
   url: "https://www.target.com/c/grocery/-/N-5xt1a"

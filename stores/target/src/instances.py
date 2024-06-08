@@ -7,8 +7,11 @@ config = parse_config('config.yml', encoding = 'utf-8')
 
 # Load loggers
 from .logger import get_logger
-task_one_logger = get_logger(logger_name = 'task_one')
-task_two_logger = get_logger(logger_name = 'task_two')
+task_1_logger = get_logger(logger_name = 'task_1')
+
+task_2_1_logger = get_logger(logger_name = 'task_2.1')
+task_2_2_logger = get_logger(logger_name = 'task_2.2')
+task_2_3_logger = get_logger(logger_name = 'task_2.3')
 
 
 # Load Selenium web driver
