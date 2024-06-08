@@ -65,4 +65,6 @@ selenium==4.19.0
 webdriver-manager==4.0.1
 selenium-wire==5.1.0
 blinker==1.7.0
+pandas==2.0.1
+requests-ip-rotator==1.0.14
 ```
