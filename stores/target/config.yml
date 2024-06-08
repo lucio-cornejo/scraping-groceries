@@ -24,6 +24,6 @@ products_website:
     product_image_html_img_css_selector: "[data-test] img"
 
 aws:
-  region: !ENV {$AWS_REGION}
-  access_key_id: !ENV {$ACCESS_KEY_ID}
-  access_key_secret: !ENV {$ACCESS_KEY_SECRET}
+  region: !ENV ${AWS_REGION}
+  access_key_id: !ENV ${ACCESS_KEY_ID}
+  access_key_secret: !ENV ${ACCESS_KEY_SECRET}
