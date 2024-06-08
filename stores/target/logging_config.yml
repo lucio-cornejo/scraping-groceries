@@ -13,16 +13,25 @@ handlers:
     formatter: simple
     stream: ext://sys.stdout
 
-  file_task_1:
+  file_task_1.1:
     class: logging.FileHandler
     level: INFO
     formatter: simple
     encoding: utf-8
-    filename: logs/task-1.log
+    filename: logs/task-1.1.log
     mode: w
     # Avoid log file deletion until respective 
     # invoked logger writes into file
     # Source: https://stackoverflow.com/a/19656056
+    delay: true
+  
+  file_task_1.2:
+    class: logging.FileHandler
+    level: INFO
+    formatter: simple
+    encoding: utf-8
+    filename: logs/task-1.2.log
+    mode: w
     delay: true
 
   file_task_2.1:
@@ -53,9 +62,14 @@ handlers:
     delay: true
 
 loggers:
-  task_1:
+  task_1.1:
     level: INFO
-    handlers: [file_task_1]
+    handlers: [file_task_1.1]
+    propagate: no
+
+  task_1.2:
+    level: INFO
+    handlers: [file_task_1.2]
     propagate: no
 
   task_2.1:
