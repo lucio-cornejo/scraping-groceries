@@ -5,7 +5,7 @@ from urllib.parse import urlparse
 from requests_ip_rotator import ApiGateway  
 
 
-def request_by_random_IPs(url: str) -> list[ApiGateway, requests.Session]:
+def create_gateway_and_session_for_random_IP(url: str) -> list[ApiGateway, requests.Session]:
   # AWS identification
   aws_region = config['aws']['region']
   aws_access_key_id = config['aws']['access_key_id']
@@ -39,4 +39,4 @@ def request_by_random_IPs(url: str) -> list[ApiGateway, requests.Session]:
 
   # Do not forget to SHUTDOWN THE GATEWAY when done .
   # If not, AWS charges will increase .
-  return (gateway, session)
+  return [gateway, session]
