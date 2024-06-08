@@ -9,8 +9,7 @@ Remove duplicate url items of list from which URLs will be extracted
 for fetching the products' basic info, per category/subcategory 
 """
 with open('data/urls_for_task_2.1.json', 'r', encoding = 'utf-8') as f:
-  tmp_json = json.loads(f.read())
-  df = pd.DataFrame(tmp_json).fillna(pd.NA)
+  df = pd.DataFrame(json.loads(f.read())).fillna(pd.NA)
   list_categories_products_url_dict = df[~df.duplicated(subset = ['url'])].to_dict('records')
 
 
