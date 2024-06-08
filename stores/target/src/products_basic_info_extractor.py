@@ -1,65 +1,101 @@
-# %%
-import os; os.chdir('./../')
+from src.instances import task_2_2_logger
 
-# %%
-import re
+import requests
+from random import randrange
 
-def extract_category_code_from_products_url(products_url: str) -> str:
+
+def change_relevant_string_queries_values(GET_request_url: str, updated_offset: int) -> str:
+  string_queries = GET_request_url.split('&')
+
+  for index, string_query in enumerate(string_queries):
+    if string_query.startswith('count='):
+      # Change maximum number of products retrieved in GET request
+      # to maximum value accepted by the GET request "endpoint" .
+      string_queries[index] = 'count=28'
+    
+    if string_query.startswith('offset='):
+      string_queries[index] = f'offset={updated_offset}'
+    
+    if string_query.startswith('visitor_id='):
+      random_three_digit_integer = randrange(100, 999)
+      string_queries[index] = f'visitor_id=018FF5C67E2502018598DB5AB7270{random_three_digit_integer}'
+
+  return '&'.join(string_queries)
+
+
+def extract_get_request_json_response(session_object: requests.Session, get_request_url: str) -> dict|None:
+  response = session_object.get(
+    get_request_url,
+    headers = { 
+      'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36'
+    }
+  )
+  
+  if response.status_code == 200: return response.json()
+  
+  task_2_2_logger.critical('Failed GET request JSON extraction')
+  return None
+
+
+def extract_number_of_products(response_json: dict) -> int|None:
+  try:
+    return response_json["data"]["search"]["search_response"]["metadata"]["total_results"]
+  except:
+    task_2_2_logger.critical('Failed extraction of number of products')
+    return None
+
+
+def merge_bread_crumbs_labels(response_json: dict) -> str|None:
+  try:
+    bread_crumb_list = [
+      dictionary 
+      for dictionary in response_json["data"]["search"]["search_response"]["bread_crumb_list"]
+      if 'values' in dictionary.keys()
+    ]
+    
+    if len(bread_crumb_list) != 1: raise Exception("Expected a list of length 1")
+
+    bread_crumb_list = bread_crumb_list[0]['values']
+    # Separate each bread crumb by '/' character
+    return '/'.join([bread_crumb['label'] for bread_crumb in bread_crumb_list])
+  except:
+    task_2_2_logger.critical('Failed bread crumbs extraction')
+    return None
+
+
+def attempt_extraction_of_nested_dict_value(dictionary: dict, dict_keys_sequence_string: str):
   """
-  @param products_url: Example: "https://www.target.com/c/frozen-single-serve-meals-foods-grocery/-/N-wdysv"
-  @return: The example's output would be "wdysv"
+  @param dict_keys_sequence_string: String of the form
+    'key1;key2;...;keyN' in order to extract the value
+    dictionary['key1']['key2'][...]['keyN'], if it exists 
   """
-  url_text_before_category = "/-/N-"
-  return re.search(rf'(?<={url_text_before_category}).*', products_url).group(0).strip()
+  keys_sequence = dict_keys_sequence_string.split(';')
+  try:
+    searched_value = dictionary[keys_sequence[0]]
+    if len(keys_sequence) == 1: return searched_value
+    
+    for dict_key in keys_sequence[1:]:
+      searched_value = searched_value[dict_key]
+    return searched_value
+  except:
+    task_2_2_logger.critical('Failed nested dictionary value extraction')
+    return None
 
 
-# %%
-def assemble_url_for_products_page_get_request(
-  category_code: str, number_of_products: int, items_offset: int, visitor_id: str
-) -> str:
-  return ''.join([
-    "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?",
-    # Query string parameters
-    '&'.join([
-      "key=9f36aeafbe60771e321a7cc95a78140772ab3e96",
-      f"category={category_code}",  # "category=wdysv",
-      "channel=WEB",
-      f"count={number_of_products}",  # "count=24",
-      "default_purchasability_filter=true",
-      "include_dmc_dmr=true",
-      "include_sponsored=true",
-      "new_search=false",
-      f"offset={items_offset}",  # "offset=0",
-      f"page=%2Fc%2F{category_code}",  # "page=%2Fc%2Fwdysv",
-      "platform=desktop",
-      "pricing_store_id=2768", #######
-      "spellcheck=true",
-      "store_ids=",  ######
-      # "store_ids=2768%2C2766%2C3264%2C3353%2C3240",  ######
-      "useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F125.0.0.0+Safari%2F537.36",
-      f"visitor_id={visitor_id}",  # "visitor_id=018FF39DD08D0201BA59572B9BAE3DF2",
-      "zip=15400"
-    ])
-  ])
+def extract_products_basic_info(response_json_data_search_product: dict) -> dict:
+  info_name__mapping__keys_sequence = {
+    'tcin' : 'tcin',
+    'original_tcin' : 'original_tcin',
+    'dpci' : 'item;dpci',
+    'title' : 'item;product_description;title',
+    'url' : 'item;enrichment;buy_url',
+    'image_url' : 'item;enrichment;images;primary_image_url'
+  }
 
+  product_basic_info = {}
+  for info_key, keys_sequence in info_name__mapping__keys_sequence.items():
+    product_basic_info[info_key] = attempt_extraction_of_nested_dict_value(
+      response_json_data_search_product, keys_sequence
+    )
 
-# %%
-import json
-
-with open('data/initial_urls_for_task_2.json', 'r', encoding = 'utf-8') as f:
-  urls = json.loads(f.read())
-
-urls
-
-# %%
-subcat = list(filter(
-  lambda d: 'grocery_subcategory' in d.keys(),
-  urls
-))
-subcat
-
-# %%
-cat_code = extract_category_code_from_products_url(subcat[0]['url'])
-cat_code
-
-# %%
+  return product_basic_info
