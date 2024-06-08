@@ -11,6 +11,7 @@ def get_chrome_driver() -> webdriver.Chrome:
     options = webdriver.ChromeOptions()
     options.add_argument("--guest")
     options.add_argument("--start-maximized")
+    options.add_argument('--ignore-certificate-errors')
     options.add_argument("--window-size=1920,1080")
     options.add_argument("--headless=new")
     # Do not wait for page load after accessing website
