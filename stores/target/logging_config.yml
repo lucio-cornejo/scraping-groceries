@@ -43,12 +43,12 @@ handlers:
     mode: w
     delay: true
 
-  file_task_2.3:
+  file_task_3.1:
     class: logging.FileHandler
     level: INFO
     formatter: simple
     encoding: utf-8
-    filename: logs/task-2.3.log
+    filename: logs/task-3.1.log
     mode: w
     delay: true
 
@@ -68,7 +68,7 @@ loggers:
     handlers: [file_task_2.2]
     propagate: no
 
-  task_2.3:
+  task_3.1:
     level: INFO
-    handlers: [file_task_2.3]
+    handlers: [file_task_3.1]
     propagate: no

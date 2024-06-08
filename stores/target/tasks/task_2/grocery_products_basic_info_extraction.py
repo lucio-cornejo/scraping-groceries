@@ -13,6 +13,7 @@ from src.products_basic_info_extractor import (
 import json
 import pandas as pd
 import requests
+from time import sleep
 
 
 # %%
@@ -26,7 +27,7 @@ with open('data/get_request_urls_for_task_2.2.json', 'r', encoding = 'utf-8') as
 GET_request_urls_dict
 
 # %%
-for index, GET_request_url_dict in enumerate(GET_request_urls_dict):
+def extract_category_products_basic_info(index: int, GET_request_url_dict: dict):
   session = requests.Session()
   modified_GET_request_url = change_relevant_string_queries_values(
     GET_request_url_dict['get_request_url'], 
@@ -34,18 +35,18 @@ for index, GET_request_url_dict in enumerate(GET_request_urls_dict):
   )
 
   rsp_json = extract_get_request_json_response(session, modified_GET_request_url)
-  if rsp_json is None: break
+  if rsp_json is None: return None
 
   number_of_products = extract_number_of_products(rsp_json)
-  if number_of_products is None: break
+  if number_of_products is None: return None
   
   task_2_2_logger.info(f'Number of products: {number_of_products}')
 
   merged_bread_crumbs = merge_bread_crumbs_labels(rsp_json)
-  if merged_bread_crumbs is None: break
+  if merged_bread_crumbs is None: return None
 
   products_dicts_list = attempt_extraction_of_nested_dict_value(rsp_json, 'data;search;products')
-  if products_dicts_list is None: break
+  if products_dicts_list is None: return None
 
   category_products_basic_info = []
   for product_dict in products_dicts_list:
@@ -65,34 +66,40 @@ for index, GET_request_url_dict in enumerate(GET_request_urls_dict):
       rsp_json = extract_get_request_json_response(session, modified_GET_request_url)
       if rsp_json is None: 
         task_2_2_logger.critical(f'Failed GET request JSON extraction at iteration {i}')
-        break
+        return None
 
       products_dicts_list = attempt_extraction_of_nested_dict_value(rsp_json, 'data;search;products')
       if products_dicts_list is None: 
-        break
+        return None
       else:
         for product_dict in products_dicts_list:
           category_products_basic_info.append(extract_products_basic_info(product_dict))
 
+    """
+    Save non duplicate data as CSV file
+    """
+    cat_prods_basic_info_data_frame = pd.DataFrame(category_products_basic_info)
 
+    # Remove duplicate products, via their Target's API 'buy_url' value
+    cat_prods_basic_info_data_frame = cat_prods_basic_info_data_frame[
+      ~cat_prods_basic_info_data_frame.duplicated(subset = ['url'], keep = 'first')
+    ].reset_index(drop = True)
 
-  break
+    cat_prods_basic_info_data_frame["merged_bread_crumbs"] = merged_bread_crumbs
+    
+    task_2_2_logger.info(f"Where all category products's basic info extracted?: {cat_prods_basic_info_data_frame.shape[0] == number_of_products}")
+    task_2_2_logger.info(f"Number of missing values in category's products data frame: {cat_prods_basic_info_data_frame.isna().sum().sum()}")
 
-category_products_basic_info
-
-# %%
-cat_prods_basic_info_data_frame = pd.DataFrame(category_products_basic_info)
-
-# Remove duplicate products, via their Target's API 'buy_url' value
-cat_prods_basic_info_data_frame = cat_prods_basic_info_data_frame[
-  ~cat_prods_basic_info_data_frame.duplicated(subset = ['url'], keep = 'first')
-].reset_index(drop = True)
-
-cat_prods_basic_info_data_frame["merged_bread_crumbs"] = merged_bread_crumbs
-cat_prods_basic_info_data_frame
-
-# %%
-cat_prods_basic_info_data_frame.shape[0] == number_of_products
+    cat_prods_basic_info_data_frame.to_csv(f'data/csv_files_for_task_3/index_{index}.csv', index = False)
 
 # %%
-0 == cat_prods_basic_info_data_frame.isna().sum().sum()
+for index, GET_request_url_dict in enumerate(GET_request_urls_dict):
+  try:
+    task_2_2_logger.info(f'Index of GET_request_urls_dict item: {index}')
+    extract_category_products_basic_info(index, GET_request_url_dict)
+  except Exception as e:
+    task_2_2_logger.exception(e)
+    continue
+  finally:
+    sleep(2)
+

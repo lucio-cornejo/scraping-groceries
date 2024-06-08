@@ -11,7 +11,8 @@ task_1_logger = get_logger(logger_name = 'task_1')
 
 task_2_1_logger = get_logger(logger_name = 'task_2.1')
 task_2_2_logger = get_logger(logger_name = 'task_2.2')
-task_2_3_logger = get_logger(logger_name = 'task_2.3')
+
+task_3_1_logger = get_logger(logger_name = 'task_3.1')
 
 
 # Load Selenium web driver
