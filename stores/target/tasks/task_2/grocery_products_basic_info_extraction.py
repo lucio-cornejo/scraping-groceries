@@ -111,7 +111,7 @@ if __name__ == '__main__':
 
   for index, GET_request_url_dict in enumerate(GET_request_urls_dict):
     task_2_2_logger.info('\n')
-    task_2_2_logger.info(f'GET_request_urls_dict list: {index}')
+    task_2_2_logger.info(f'GET_request_urls_dict list index: {index}')
 
     attempt_number = 1
     while attempt_number <= max_number_of_IP_rotation_attempts:
