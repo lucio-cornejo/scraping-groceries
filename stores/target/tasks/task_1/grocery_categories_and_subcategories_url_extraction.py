@@ -15,8 +15,6 @@ if __name__ == '__main__':
   """
   Save into JSON file url of every Grocery category or subcategory
   """
-  task_1_logger.info('Logging timestamps are respect to America/Lima timezone')
-
   # Access Groceries homepage
   driver.set_page_load_timeout(config['selenium']['page_load_seconds_timeout'])
   driver.get(config['groceries_homepage']['url'])
@@ -63,4 +61,6 @@ if __name__ == '__main__':
   url_dicts_list = flatten_list_of_categories_and_subcategories_url(
     categories_name_and_url
   )
-  save_list_as_JSON(url_dicts_list, file_path = 'data/initial_urls_for_task_2.json')
+  save_list_as_JSON(url_dicts_list, file_path = 'data/urls_for_task_2.1.json')
+
+  task_1_logger.info('Completed task')

@@ -1,0 +1,122 @@
+2024/06/07 21:19:07 PM - task_1 - INFO - Category: Frozen Foods
+2024/06/07 21:20:05 PM - task_1 - INFO - Category: Meat & Seafood
+2024/06/07 21:20:25 PM - task_1 - INFO - Category: Produce
+2024/06/07 21:20:34 PM - task_1 - INFO - Category: Snacks
+2024/06/07 21:20:48 PM - task_1 - INFO - Category: Bakery & Bread
+2024/06/07 21:21:24 PM - task_1 - INFO - Category: Beverages
+2024/06/07 21:21:57 PM - task_1 - INFO - Category: Pantry
+2024/06/07 21:22:10 PM - task_1 - INFO - Category: Breakfast & Cereal
+2024/06/07 21:22:17 PM - task_1 - ERROR - No button "Show ... more" found
+Traceback (most recent call last):
+  File "D:\scraping-groceries\stores\target\src\categories_scraper.py", line 17, in click_show_all_categories_button_if_present
+    driver.find_element(By.CSS_SELECTOR, categories_button_css_selector)
+  File "D:\scraping-groceries\stores\target\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\scraping-groceries\stores\target\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "D:\scraping-groceries\stores\target\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[data-test='@web/slingshot-components/bubcat'] button"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00F8B8E3+45827]
+	(No symbol) [0x00F1DCC4]
+	(No symbol) [0x00E1150F]
+	(No symbol) [0x00E520BC]
+	(No symbol) [0x00E5216B]
+	(No symbol) [0x00E8E0F2]
+	(No symbol) [0x00E72E44]
+	(No symbol) [0x00E8C034]
+	(No symbol) [0x00E72B96]
+	(No symbol) [0x00E46998]
+	(No symbol) [0x00E4751D]
+	GetHandleVerifier [0x01244513+2899763]
+	GetHandleVerifier [0x0129793D+3240797]
+	GetHandleVerifier [0x010113B4+593364]
+	GetHandleVerifier [0x010182DC+621820]
+	(No symbol) [0x00F270A4]
+	(No symbol) [0x00F237A8]
+	(No symbol) [0x00F23947]
+	(No symbol) [0x00F159FE]
+	BaseThreadInitThunk [0x773AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775A7CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x775A7C8E+238]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\scraping-groceries\stores\target\tasks\task_1\grocery_categories_and_subcategories_url_extraction.py", line 44, in <module>
+    task_1_logger.exception(e)
+  File "D:\scraping-groceries\stores\target\src\categories_scraper.py", line 26, in click_show_all_categories_button_if_present
+    raise Exception('No button "Show ... more" found')
+Exception: No button "Show ... more" found
+2024/06/07 21:22:31 PM - task_1 - INFO - Category: Dairy
+2024/06/07 21:22:43 PM - task_1 - INFO - Category: Deli
+2024/06/07 21:23:03 PM - task_1 - INFO - Category: Candy
+2024/06/07 21:23:13 PM - task_1 - ERROR - No button "Show ... more" found
+Traceback (most recent call last):
+  File "D:\scraping-groceries\stores\target\src\categories_scraper.py", line 17, in click_show_all_categories_button_if_present
+    driver.find_element(By.CSS_SELECTOR, categories_button_css_selector)
+  File "D:\scraping-groceries\stores\target\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\scraping-groceries\stores\target\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "D:\scraping-groceries\stores\target\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[data-test='@web/slingshot-components/bubcat'] button"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00F8B8E3+45827]
+	(No symbol) [0x00F1DCC4]
+	(No symbol) [0x00E1150F]
+	(No symbol) [0x00E520BC]
+	(No symbol) [0x00E5216B]
+	(No symbol) [0x00E8E0F2]
+	(No symbol) [0x00E72E44]
+	(No symbol) [0x00E8C034]
+	(No symbol) [0x00E72B96]
+	(No symbol) [0x00E46998]
+	(No symbol) [0x00E4751D]
+	GetHandleVerifier [0x01244513+2899763]
+	GetHandleVerifier [0x0129793D+3240797]
+	GetHandleVerifier [0x010113B4+593364]
+	GetHandleVerifier [0x010182DC+621820]
+	(No symbol) [0x00F270A4]
+	(No symbol) [0x00F237A8]
+	(No symbol) [0x00F23947]
+	(No symbol) [0x00F159FE]
+	BaseThreadInitThunk [0x773AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775A7CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x775A7C8E+238]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\scraping-groceries\stores\target\tasks\task_1\grocery_categories_and_subcategories_url_extraction.py", line 44, in <module>
+    task_1_logger.exception(e)
+  File "D:\scraping-groceries\stores\target\src\categories_scraper.py", line 26, in click_show_all_categories_button_if_present
+    raise Exception('No button "Show ... more" found')
+Exception: No button "Show ... more" found
+2024/06/07 21:23:16 PM - task_1 - INFO - Category: Coffee
+2024/06/07 21:23:25 PM - task_1 - INFO - Category: Fresh Flowers
+2024/06/07 21:23:27 PM - task_1 - WARNING - No subcategories found
+2024/06/07 21:23:27 PM - task_1 - INFO - Category: Wine, Beer & Liquor
+2024/06/07 21:23:44 PM - task_1 - INFO - Category: Snack Packs & On the Go Snacks
+2024/06/07 21:23:47 PM - task_1 - WARNING - No subcategories found
+2024/06/07 21:23:47 PM - task_1 - INFO - Category: Tabitha Brown for Target
+2024/06/07 21:23:51 PM - task_1 - WARNING - No subcategories found
+2024/06/07 21:23:51 PM - task_1 - INFO - Category: Good & Gather
+2024/06/07 21:23:55 PM - task_1 - WARNING - No subcategories found
+2024/06/07 21:23:55 PM - task_1 - INFO - Category: Favorite Day
+2024/06/07 21:23:58 PM - task_1 - WARNING - No subcategories found
+2024/06/07 21:23:58 PM - task_1 - INFO - Category: Market Pantry
+2024/06/07 21:24:00 PM - task_1 - WARNING - No subcategories found
+2024/06/07 21:24:00 PM - task_1 - INFO - Category: Starbucks
+2024/06/07 21:24:03 PM - task_1 - WARNING - No subcategories found
+2024/06/07 21:24:03 PM - task_1 - INFO - Category: Food Gifts
+2024/06/07 21:24:07 PM - task_1 - WARNING - No subcategories found
+2024/06/07 21:24:25 PM - task_1 - INFO - Completed task
