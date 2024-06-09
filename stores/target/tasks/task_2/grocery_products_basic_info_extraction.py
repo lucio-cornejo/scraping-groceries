@@ -1,4 +1,4 @@
-from src.instances import task_2_2_logger
+from src.instances import config, task_2_2_logger
 
 from src.ip_rotator import create_gateway_and_session_for_random_IP
 
@@ -16,6 +16,14 @@ import pandas as pd
 import requests
 
 
+task_2_2_logger.info('Started subtask')
+MAX_NUM_OF_PRODUCTS_TO_FETCH_VIA_GET_REQUEST = config['products_website']['max_number_of_products_to_fetch_via_GET_request']
+
+
+"""
+Remove possible duplicates in grocery groups dictionary list,
+with respect to the GET request url 
+"""
 with open('data/get_request_urls_for_task_2.2.json', 'r', encoding = 'utf-8') as f:
   GET_request_urls_data_frame = pd.DataFrame(json.loads(f.read()))
 
@@ -52,12 +60,12 @@ def extract_category_products_basic_info(
     category_products_basic_info.append(extract_products_basic_info(product_dict))
 
   # Change "offset" url query string parameters to fetch all products' basic info
-  if number_of_products > 28:
-    number_of_extra_get_requests = number_of_products // 28
+  if number_of_products > MAX_NUM_OF_PRODUCTS_TO_FETCH_VIA_GET_REQUEST:
+    number_of_extra_get_requests = number_of_products // MAX_NUM_OF_PRODUCTS_TO_FETCH_VIA_GET_REQUEST
     task_2_2_logger.info(f'Number of extra GET requests: {number_of_extra_get_requests}')
 
     for i in range(1, number_of_extra_get_requests + 1):
-      updated_offset = i*28
+      updated_offset = i*MAX_NUM_OF_PRODUCTS_TO_FETCH_VIA_GET_REQUEST
       modified_GET_request_url = change_relevant_string_queries_values(
         GET_request_url_dict['get_request_url'], updated_offset
       )
@@ -134,3 +142,5 @@ if __name__ == '__main__':
         gateway.shutdown()
 
   gateway.shutdown()
+
+  task_2_2_logger.info('Completed subtask')

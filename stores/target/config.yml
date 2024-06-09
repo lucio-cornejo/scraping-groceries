@@ -24,6 +24,8 @@ products_website:
     product_url_html_anchor_css_selector: "[data-test] a"
     product_image_html_img_css_selector: "[data-test] img"
 
+  max_number_of_products_to_fetch_via_GET_request: 28
+
 aws:
   region: !ENV ${AWS_REGION}
   access_key_id: !ENV ${ACCESS_KEY_ID}
