@@ -23,14 +23,9 @@ def save_list_as_JSON(urls_per_page_to_scrap: list[dict], file_path: str):
 
 def extract_category_subcategories_urls(products_cat_or_subcat_dict: dict, is_subcategory = False) -> list[dict]:
   if not 'subcategories' in products_cat_or_subcat_dict.keys():
-    if is_subcategory:
-      subcat_dict = products_cat_or_subcat_dict.copy()
-      subcat_dict['grocery_subcategory'] = subcat_dict['grocery_category']
-      
-      del subcat_dict['grocery_category']
-      return subcat_dict
-    else:
-      return [products_cat_or_subcat_dict]
+    if is_subcategory: return products_cat_or_subcat_dict
+  
+    return [products_cat_or_subcat_dict]
   
   return list(map(
     lambda subcategory_dict: extract_category_subcategories_urls(subcategory_dict, True),

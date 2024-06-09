@@ -31,19 +31,19 @@ async.mapLimit(productsObjectsArray, 5, async function(productObject) {
     const body = root.querySelector('body');
 
     if (!body.innerHTML.includes(expectedStringInNonPaginatedProductsWebpageHTML)) {
-      return { 'is_website_possibly_paginated' : true, 'url' : url }
+      return { 'is_website_possibly_paginated' : true, ...productObject }
     }
 
     if (body.innerHTML.includes(expectedStringInPaginatedProductsWebpageHTML)) {
-      return { 'is_website_possibly_paginated' : true, 'url' : url }
+      return { 'is_website_possibly_paginated' : true, ...productObject }
     }
     
     logger.warn(`Found possibly non-paginated website: ${url}`)
-    return { 'is_website_possibly_paginated' : false, 'url' : url }
+    return { 'is_website_possibly_paginated' : false, ...productObject }
     }
     
   logger.warn(`GET request's response status was not 200 for url: ${url}`)
-  return { 'is_website_possibly_paginated' : null, 'url' : url }
+  return { 'is_website_possibly_paginated' : null, ...productObject }
 
 }, (err, results) => {
   if (err) { logger.error(err); throw err;  }

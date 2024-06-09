@@ -26,7 +26,7 @@ def extract_urls_of_categories_and_subcategories():
     
     are_there_subcategories = are_subcategories_available(category_url)
     if not are_there_subcategories:
-      task_1_1_logger.warning('No subcategories found')
+      task_1_1_logger.info('No subcategories found')
       continue
 
     # Click button to show all categories, if available in website
@@ -35,7 +35,10 @@ def extract_urls_of_categories_and_subcategories():
     except:
       task_1_1_logger.info('All subcategories are shown by default in website')
 
-    category_dict['subcategories'] = extract_categories_name_and_url()
+    category_dict['subcategories'] = extract_categories_name_and_url(
+      is_subcategories_extraction = True, 
+      category_name_for_subcategories = category_dict['grocery_category']
+    )
 
 
   driver.quit()
@@ -45,10 +48,8 @@ def extract_urls_of_categories_and_subcategories():
   )
 
   """
-  Create JSON list where each item contains an URL which points to a 
-  website of multiple products, that will be used in the next task for
-  scraping, page by page, the products' basic info 
-  (title, main image url, (upc not yet), etc) .
+  Create list where each item contains a group (category or subcategory)
+  URL corresponding to a possibly paginated website of products
   """
   url_dicts_list = flatten_list_of_categories_and_subcategories_url(
     categories_name_and_url
