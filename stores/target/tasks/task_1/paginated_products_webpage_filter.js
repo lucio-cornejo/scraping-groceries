@@ -30,6 +30,28 @@ async.mapLimit(productsObjectsArray, 5, async function(productObject) {
     const root = HTMLParser.parse(htmlText);
     const body = root.querySelector('body');
 
+    /*
+      Attempt extraction of grocery group path via Target's "bread crumb links"
+    */
+    try {
+      const breadCrumbsLinks = Array.from(
+        body.querySelectorAll('[data-test="@web/Breadcrumbs/BreadcrumbLink"]')
+      ).map(e => {
+        return e.innerText
+          // Remove extra whitespace
+          .trim().replace(/\s+/g, ' ')
+          // Decode possibe special characters
+          .replace(/\s&amp;\s/g, ' & ');
+    });
+
+      productObject['grocery_group_path'] = breadCrumbsLinks.reduce((a, b) => a + '/' + b);
+    } catch (error) {
+      logger.warning("Failed grocery group path extraction for:")
+      logger.error(productObject)
+      logger.error(error);
+    }
+    
+
     if (!body.innerHTML.includes(expectedStringInNonPaginatedProductsWebpageHTML)) {
       return { 'is_website_possibly_paginated' : true, ...productObject }
     }

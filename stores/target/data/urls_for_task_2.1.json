@@ -3,874 +3,1021 @@
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/frozen-single-serve-meals-foods-grocery/-/N-wdysv",
     "grocery_category": "Frozen Foods",
-    "grocery_subcategory": "Frozen Single Serve Meals"
+    "grocery_subcategory": "Frozen Single Serve Meals",
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Single Serve Meals"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/frozen-family-meals-foods-grocery/-/N-a3dpa",
     "grocery_category": "Frozen Foods",
-    "grocery_subcategory": "Frozen Family Meals"
+    "grocery_subcategory": "Frozen Family Meals",
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Family Meals"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/ice-cream-frozen-foods-grocery/-/N-5xsz2",
     "grocery_category": "Frozen Foods",
-    "grocery_subcategory": "Ice Cream & Frozen Desserts"
+    "grocery_subcategory": "Ice Cream & Frozen Desserts",
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Ice Cream & Frozen Desserts"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/frozen-foods-kids/-/N-rb4pu",
     "grocery_category": "Frozen Foods",
-    "grocery_subcategory": "Frozen Foods: Kids"
+    "grocery_subcategory": "Frozen Foods: Kids",
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Foods: Kids"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/frozen-pizza-foods-grocery/-/N-5xsz4",
     "grocery_category": "Frozen Foods",
-    "grocery_subcategory": "Frozen Pizza"
+    "grocery_subcategory": "Frozen Pizza",
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Pizza"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/frozen-breakfast-food-foods-grocery/-/N-5xsza",
     "grocery_category": "Frozen Foods",
-    "grocery_subcategory": "Frozen Breakfast Food"
+    "grocery_subcategory": "Frozen Breakfast Food",
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Breakfast Food"
   },
   {
     "is_website_possibly_paginated": false,
     "url": "https://www.target.com/c/frozen-meat-poultry-seafood-foods-grocery/-/N-5xsz5",
     "grocery_category": "Frozen Foods",
-    "grocery_subcategory": "Frozen Meat, Poultry & Seafood"
+    "grocery_subcategory": "Frozen Meat, Poultry & Seafood",
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Meat, Poultry & Seafood"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/frozen-appetizers-snacks-foods-grocery/-/N-5xszb",
     "grocery_category": "Frozen Foods",
-    "grocery_subcategory": "Frozen Appetizers & Snacks"
+    "grocery_subcategory": "Frozen Appetizers & Snacks",
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Appetizers & Snacks"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/frozen-desserts-foods-grocery/-/N-5xsz9",
     "grocery_category": "Frozen Foods",
-    "grocery_subcategory": "Frozen Desserts"
+    "grocery_subcategory": "Frozen Desserts",
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Desserts"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/frozen-fruit-foods-grocery/-/N-5xsz7",
     "grocery_category": "Frozen Foods",
-    "grocery_subcategory": "Frozen Fruit"
+    "grocery_subcategory": "Frozen Fruit",
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Fruit"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/frozen-potatoes-foods-grocery/-/N-a479c",
     "grocery_category": "Frozen Foods",
-    "grocery_subcategory": "Frozen Potatoes"
+    "grocery_subcategory": "Frozen Potatoes",
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Potatoes"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/frozen-vegetables-foods-grocery/-/N-5xsz3",
     "grocery_category": "Frozen Foods",
-    "grocery_subcategory": "Frozen Vegetables"
+    "grocery_subcategory": "Frozen Vegetables",
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Vegetables"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/frozen-bread-dough-foods-grocery/-/N-4tglw",
     "grocery_category": "Frozen Foods",
-    "grocery_subcategory": "Frozen Bread & Dough"
+    "grocery_subcategory": "Frozen Bread & Dough",
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Bread & Dough"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/beef-meat-seafood-grocery/-/N-4tgi8",
     "grocery_category": "Meat & Seafood",
-    "grocery_subcategory": "Beef"
+    "grocery_subcategory": "Beef",
+    "grocery_group_path": "Target/Grocery/Meat & Seafood/Beef"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/chicken-meat-seafood-grocery/-/N-4tgi7",
     "grocery_category": "Meat & Seafood",
-    "grocery_subcategory": "Chicken"
+    "grocery_subcategory": "Chicken",
+    "grocery_group_path": "Target/Grocery/Meat & Seafood/Chicken"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/seafood-meat-grocery/-/N-4tgi0",
     "grocery_category": "Meat & Seafood",
-    "grocery_subcategory": "Fish & Seafood"
+    "grocery_subcategory": "Fish & Seafood",
+    "grocery_group_path": "Target/Grocery/Meat & Seafood/Fish & Seafood"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/packaged-lunch-meat-deli-grocery/-/N-4tgi6",
     "grocery_category": "Meat & Seafood",
-    "grocery_subcategory": "Packaged Lunch Meat"
+    "grocery_subcategory": "Packaged Lunch Meat",
+    "grocery_group_path": "Target/Grocery/Deli/Packaged Lunch Meat"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/pork-meat-seafood-grocery/-/N-4tgi2",
     "grocery_category": "Meat & Seafood",
-    "grocery_subcategory": "Pork"
+    "grocery_subcategory": "Pork",
+    "grocery_group_path": "Target/Grocery/Meat & Seafood/Pork"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/bacon-meat-seafood-grocery/-/N-4tgi9",
     "grocery_category": "Meat & Seafood",
-    "grocery_subcategory": "Bacon"
+    "grocery_subcategory": "Bacon",
+    "grocery_group_path": "Target/Grocery/Meat & Seafood/Bacon"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/sausages-meat-seafood-grocery/-/N-p9cdq",
     "grocery_category": "Meat & Seafood",
-    "grocery_subcategory": "Sausages"
+    "grocery_subcategory": "Sausages",
+    "grocery_group_path": "Target/Grocery/Meat & Seafood/Sausages"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/hot-dogs-meat-seafood-grocery/-/N-4tgi5",
     "grocery_category": "Meat & Seafood",
-    "grocery_subcategory": "Hot Dogs"
+    "grocery_subcategory": "Hot Dogs",
+    "grocery_group_path": "Target/Grocery/Meat & Seafood/Hot Dogs"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/turkey-meat-seafood-grocery/-/N-4tghz",
     "grocery_category": "Meat & Seafood",
-    "grocery_subcategory": "Turkey"
+    "grocery_subcategory": "Turkey",
+    "grocery_group_path": "Target/Grocery/Meat & Seafood/Turkey"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/sliced-deli-meat-cheese-grocery/-/N-zomk2",
     "grocery_category": "Meat & Seafood",
-    "grocery_subcategory": "Sliced Deli Meat & Deli Cheese"
+    "grocery_subcategory": "Sliced Deli Meat & Deli Cheese",
+    "grocery_group_path": "Target/Grocery/Deli/Sliced Deli Meat & Deli Cheese"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/meatless-alternatives-meat-seafood-grocery/-/N-4tgi3",
     "grocery_category": "Meat & Seafood",
-    "grocery_subcategory": "Meatless Alternatives"
+    "grocery_subcategory": "Meatless Alternatives",
+    "grocery_group_path": "Target/Grocery/Meat & Seafood/Meatless Alternatives"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/fresh-fruit-produce-grocery/-/N-4tglt",
     "grocery_category": "Produce",
-    "grocery_subcategory": "Fresh Fruit"
+    "grocery_subcategory": "Fresh Fruit",
+    "grocery_group_path": "Target/Grocery/Produce/Fresh Fruit"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/fresh-vegetables-produce-grocery/-/N-4tglh",
     "grocery_category": "Produce",
-    "grocery_subcategory": "Fresh Vegetables"
+    "grocery_subcategory": "Fresh Vegetables",
+    "grocery_group_path": "Target/Grocery/Produce/Fresh Vegetables"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/salad-mixes-produce-grocery/-/N-by5pi",
     "grocery_category": "Produce",
-    "grocery_subcategory": "Salad Mixes"
+    "grocery_subcategory": "Salad Mixes",
+    "grocery_group_path": "Target/Grocery/Produce/Salad Mixes"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/berries/-/N-h0uds",
     "grocery_category": "Produce",
-    "grocery_subcategory": "Berries"
+    "grocery_subcategory": "Berries",
+    "grocery_group_path": "Target/Grocery/Produce/Berries"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/melons/-/N-k3hu6",
     "grocery_category": "Produce",
-    "grocery_subcategory": "Melons"
+    "grocery_subcategory": "Melons",
+    "grocery_group_path": "Target/Grocery/Produce/Melons"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/organic-produce/-/N-h6rph",
     "grocery_category": "Produce",
-    "grocery_subcategory": "Organic Produce"
+    "grocery_subcategory": "Organic Produce",
+    "grocery_group_path": "Target/Grocery/Produce/Organic Produce"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/fresh-juices-produce-grocery/-/N-c5lky",
     "grocery_category": "Produce",
-    "grocery_subcategory": "Fresh Juices"
+    "grocery_subcategory": "Fresh Juices",
+    "grocery_group_path": "Target/Grocery/Produce/Fresh Juices"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/fresh-flowers/-/N-2dei4",
     "grocery_category": "Produce",
-    "grocery_subcategory": "Fresh Flowers"
+    "grocery_subcategory": "Fresh Flowers",
+    "grocery_group_path": "Target/Grocery/Produce/Fresh Flowers"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/fresh-dressings-dips-produce-grocery/-/N-flfjt",
     "grocery_category": "Produce",
-    "grocery_subcategory": "Fresh Dressings & Dips"
+    "grocery_subcategory": "Fresh Dressings & Dips",
+    "grocery_group_path": "Target/Grocery/Produce/Fresh Dressings & Dips"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/meatless-alternatives-meat-seafood-grocery/-/N-4tgi3",
     "grocery_category": "Produce",
-    "grocery_subcategory": "Meatless Alternatives"
+    "grocery_subcategory": "Meatless Alternatives",
+    "grocery_group_path": "Target/Grocery/Meat & Seafood/Meatless Alternatives"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/snack-variety-packs/-/N-sjs32",
     "grocery_category": "Snacks",
-    "grocery_subcategory": "Snack Variety Packs"
+    "grocery_subcategory": "Snack Variety Packs",
+    "grocery_group_path": "Target/Grocery/Snacks/Snack Variety Packs"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/chips-snacks-grocery/-/N-5xsy7",
     "grocery_category": "Snacks",
-    "grocery_subcategory": "Chips"
+    "grocery_subcategory": "Chips",
+    "grocery_group_path": "Target/Grocery/Snacks/Chips"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/cookies-snacks-grocery/-/N-54v3e",
     "grocery_category": "Snacks",
-    "grocery_subcategory": "Cookies"
+    "grocery_subcategory": "Cookies",
+    "grocery_group_path": "Target/Grocery/Snacks/Cookies"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/crackers-snacks-grocery/-/N-5xsy6",
     "grocery_category": "Snacks",
-    "grocery_subcategory": "Crackers"
+    "grocery_subcategory": "Crackers",
+    "grocery_group_path": "Target/Grocery/Snacks/Crackers"
   },
   {
     "is_website_possibly_paginated": false,
     "url": "https://www.target.com/c/candy-grocery/-/N-5xt0d",
     "grocery_category": "Snacks",
-    "grocery_subcategory": "Candy"
+    "grocery_subcategory": "Candy",
+    "grocery_group_path": "Target/Grocery/Candy"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/nuts-snacks-grocery/-/N-tc851",
     "grocery_category": "Snacks",
-    "grocery_subcategory": "Nuts"
+    "grocery_subcategory": "Nuts",
+    "grocery_group_path": "Target/Grocery/Snacks/Nuts"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/trail-snack-mixes-snacks-grocery/-/N-5xsy1",
     "grocery_category": "Snacks",
-    "grocery_subcategory": "Trail & Snack Mixes"
+    "grocery_subcategory": "Trail & Snack Mixes",
+    "grocery_group_path": "Target/Grocery/Snacks/Trail & Snack Mixes"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/pretzels-snacks-grocery/-/N-f7azc",
     "grocery_category": "Snacks",
-    "grocery_subcategory": "Pretzels"
+    "grocery_subcategory": "Pretzels",
+    "grocery_group_path": "Target/Grocery/Snacks/Pretzels"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/dips-spreads-chips-snacks-cookies-grocery/-/N-5xsy5",
     "grocery_category": "Snacks",
-    "grocery_subcategory": "Salsa & Dips"
+    "grocery_subcategory": "Salsa & Dips",
+    "grocery_group_path": "Target/Grocery/Snacks/Salsa & Dips"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/snack-packs-on-the-go-snacks-deli-grocery/-/N-dhjbd",
     "grocery_category": "Snacks",
-    "grocery_subcategory": "Snack Packs & On the Go Snacks"
+    "grocery_subcategory": "Snack Packs & On the Go Snacks",
+    "grocery_group_path": "Target/Grocery/Deli/Snack Packs & On the Go Snacks"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/granola-cereal-bars-snacks-grocery/-/N-4ydo1",
     "grocery_category": "Snacks",
-    "grocery_subcategory": "Granola & Cereal Bars"
+    "grocery_subcategory": "Granola & Cereal Bars",
+    "grocery_group_path": "Target/Grocery/Snacks/Granola & Cereal Bars"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/popcorn-snacks-grocery/-/N-5xsy0",
     "grocery_category": "Snacks",
-    "grocery_subcategory": "Popcorn"
+    "grocery_subcategory": "Popcorn",
+    "grocery_group_path": "Target/Grocery/Snacks/Popcorn"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/snack-cakes-snacks-grocery/-/N-5xsxz",
     "grocery_category": "Snacks",
-    "grocery_subcategory": "Snack Cakes"
+    "grocery_subcategory": "Snack Cakes",
+    "grocery_group_path": "Target/Grocery/Snacks/Snack Cakes"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/fruit-snacks-grocery/-/N-5xsy4",
     "grocery_category": "Snacks",
-    "grocery_subcategory": "Fruit Snacks"
+    "grocery_subcategory": "Fruit Snacks",
+    "grocery_group_path": "Target/Grocery/Snacks/Fruit Snacks"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/dried-fruit-raisins-snacks-grocery/-/N-5xt0y",
     "grocery_category": "Snacks",
-    "grocery_subcategory": "Dried Fruit & Raisins"
+    "grocery_subcategory": "Dried Fruit & Raisins",
+    "grocery_group_path": "Target/Grocery/Snacks/Dried Fruit & Raisins"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/jerky-meat-sticks-snacks-grocery/-/N-5xsy2",
     "grocery_category": "Snacks",
-    "grocery_subcategory": "Jerky & Meat Sticks"
+    "grocery_subcategory": "Jerky & Meat Sticks",
+    "grocery_group_path": "Target/Grocery/Snacks/Jerky & Meat Sticks"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/applesauce-fruit-cups-snacks-grocery/-/N-5xsy8",
     "grocery_category": "Snacks",
-    "grocery_subcategory": "Applesauce & Fruit Cups"
+    "grocery_subcategory": "Applesauce & Fruit Cups",
+    "grocery_group_path": "Target/Grocery/Snacks/Applesauce & Fruit Cups"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/gelatin-pudding-snacks-grocery/-/N-5xsy3",
     "grocery_category": "Snacks",
-    "grocery_subcategory": "Gelatin & Pudding"
+    "grocery_subcategory": "Gelatin & Pudding",
+    "grocery_group_path": "Target/Grocery/Snacks/Gelatin & Pudding"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/breads-bakery-bread-grocery/-/N-5xt18",
     "grocery_category": "Bakery & Bread",
-    "grocery_subcategory": "Breads"
+    "grocery_subcategory": "Breads",
+    "grocery_group_path": "Target/Grocery/Bakery & Bread/Breads"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/donuts-pastries-bakery-bread-grocery/-/N-5xt15",
     "grocery_category": "Bakery & Bread",
-    "grocery_subcategory": "Donuts & Pastries"
+    "grocery_subcategory": "Donuts & Pastries",
+    "grocery_group_path": "Target/Grocery/Bakery & Bread/Donuts & Pastries"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/cakes-cookies-pies-bakery-bread-grocery/-/N-5xt17",
     "grocery_category": "Bakery & Bread",
-    "grocery_subcategory": "Cakes, Cookies & Pies"
+    "grocery_subcategory": "Cakes, Cookies & Pies",
+    "grocery_group_path": "Target/Grocery/Bakery & Bread/Cakes, Cookies & Pies"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/bagels-muffins-bakery-bread-grocery/-/N-4smkx",
     "grocery_category": "Bakery & Bread",
-    "grocery_subcategory": "Bagels & Muffins"
+    "grocery_subcategory": "Bagels & Muffins",
+    "grocery_group_path": "Target/Grocery/Bakery & Bread/Bagels & Muffins"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/tortillas-pitas-wraps-bakery-bread-grocery/-/N-4ss7f",
     "grocery_category": "Bakery & Bread",
-    "grocery_subcategory": "Tortillas, Pitas & Wraps"
+    "grocery_subcategory": "Tortillas, Pitas & Wraps",
+    "grocery_group_path": "Target/Grocery/Bakery & Bread/Tortillas, Pitas & Wraps"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/snack-cakes-snacks-grocery/-/N-5xsxz",
     "grocery_category": "Bakery & Bread",
-    "grocery_subcategory": "Snack Cakes"
+    "grocery_subcategory": "Snack Cakes",
+    "grocery_group_path": "Target/Grocery/Snacks/Snack Cakes"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/pizza-crusts-bakery-bread-grocery/-/N-5xt14",
     "grocery_category": "Bakery & Bread",
-    "grocery_subcategory": "Pizza Crusts"
+    "grocery_subcategory": "Pizza Crusts",
+    "grocery_group_path": "Target/Grocery/Bakery & Bread/Pizza Crusts"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/rolls-buns-bakery-bread-grocery/-/N-c51ff",
     "grocery_category": "Bakery & Bread",
-    "grocery_subcategory": "Rolls & Buns"
+    "grocery_subcategory": "Rolls & Buns",
+    "grocery_group_path": "Target/Grocery/Bakery & Bread/Rolls & Buns"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/juice-cider-beverages-grocery/-/N-5xt0o",
     "grocery_category": "Beverages",
-    "grocery_subcategory": "Juice & Cider"
+    "grocery_subcategory": "Juice & Cider",
+    "grocery_group_path": "Target/Grocery/Beverages/Juice & Cider"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/kids-multi-pack-drinks/-/N-5j6q6",
     "grocery_category": "Beverages",
-    "grocery_subcategory": "Kids’ Multi-Pack Drinks"
+    "grocery_subcategory": "Kids’ Multi-Pack Drinks",
+    "grocery_group_path": "Target/Grocery/Beverages/Kids’ Multi-Pack Drinks"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/soda-pop-beverages-food-beverage/-/N-5xt0m",
     "grocery_category": "Beverages",
-    "grocery_subcategory": "Soda & Pop"
+    "grocery_subcategory": "Soda & Pop",
+    "grocery_group_path": "Target/Grocery/Beverages/Soda & Pop"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/sports-drinks-beverages-grocery/-/N-75dvf",
     "grocery_category": "Beverages",
-    "grocery_subcategory": "Sports Drinks"
+    "grocery_subcategory": "Sports Drinks",
+    "grocery_group_path": "Target/Grocery/Beverages/Sports Drinks"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/water-beverages-grocery/-/N-5xt0k",
     "grocery_category": "Beverages",
-    "grocery_subcategory": "Water"
+    "grocery_subcategory": "Water",
+    "grocery_group_path": "Target/Grocery/Beverages/Water"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/energy-drinks-beverages-grocery/-/N-4uez2",
     "grocery_category": "Beverages",
-    "grocery_subcategory": "Energy Drinks"
+    "grocery_subcategory": "Energy Drinks",
+    "grocery_group_path": "Target/Grocery/Beverages/Energy Drinks"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/milk-dairy-grocery/-/N-5xszh",
     "grocery_category": "Beverages",
-    "grocery_subcategory": "Milk"
+    "grocery_subcategory": "Milk",
+    "grocery_group_path": "Target/Grocery/Dairy/Milk"
   },
   {
     "is_website_possibly_paginated": false,
     "url": "https://www.target.com/c/coffee-beverages-grocery/-/N-4yi5p",
     "grocery_category": "Beverages",
-    "grocery_subcategory": "Coffee"
+    "grocery_subcategory": "Coffee",
+    "grocery_group_path": "Target/Grocery/Beverages/Coffee"
   },
   {
     "is_website_possibly_paginated": false,
     "url": "https://www.target.com/c/wine-beer-liquor-beverages/-/N-5n5q6",
     "grocery_category": "Beverages",
-    "grocery_subcategory": "Wine, Beer & Liquor"
+    "grocery_subcategory": "Wine, Beer & Liquor",
+    "grocery_group_path": "Target/Grocery/Wine, Beer & Liquor"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/milk-substitutes-dairy-grocery/-/N-zkvwk",
     "grocery_category": "Beverages",
-    "grocery_subcategory": "Milk Substitutes"
+    "grocery_subcategory": "Milk Substitutes",
+    "grocery_group_path": "Target/Grocery/Dairy/Milk Substitutes"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/tea-beverages-grocery/-/N-4yi5o",
     "grocery_category": "Beverages",
-    "grocery_subcategory": "Tea"
+    "grocery_subcategory": "Tea",
+    "grocery_group_path": "Target/Grocery/Beverages/Tea"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/cocktail-mixers-beverages-grocery/-/N-4uez3",
     "grocery_category": "Beverages",
-    "grocery_subcategory": "Cocktail Mixers"
+    "grocery_subcategory": "Cocktail Mixers",
+    "grocery_group_path": "Target/Grocery/Beverages/Cocktail Mixers"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/cocoa-beverages-grocery/-/N-4yi5n",
     "grocery_category": "Beverages",
-    "grocery_subcategory": "Cocoa"
+    "grocery_subcategory": "Cocoa",
+    "grocery_group_path": "Target/Grocery/Beverages/Cocoa"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/powdered-liquid-drink-mixes-beverages-grocery/-/N-5xt0n",
     "grocery_category": "Beverages",
-    "grocery_subcategory": "Powdered & Liquid Drink Mixes"
+    "grocery_subcategory": "Powdered & Liquid Drink Mixes",
+    "grocery_group_path": "Target/Grocery/Beverages/Powdered & Liquid Drink Mixes"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/bulk-pantry/-/N-gev3n",
     "grocery_category": "Pantry",
-    "grocery_subcategory": "Bulk Pantry"
+    "grocery_subcategory": "Bulk Pantry",
+    "grocery_group_path": "Target/Grocery/Pantry/Bulk Pantry"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/boxed-meals-side-dishes-pantry-grocery/-/N-5xsyf",
     "grocery_category": "Pantry",
-    "grocery_subcategory": "Boxed Meals & Side Dishes"
+    "grocery_subcategory": "Boxed Meals & Side Dishes",
+    "grocery_group_path": "Target/Grocery/Pantry/Boxed Meals & Side Dishes"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/pasta-rice-grains-pantry-grocery/-/N-5xsyc",
     "grocery_category": "Pantry",
-    "grocery_subcategory": "Pasta, Rice & Grains"
+    "grocery_subcategory": "Pasta, Rice & Grains",
+    "grocery_group_path": "Target/Grocery/Pantry/Pasta, Rice & Grains"
   },
   {
     "is_website_possibly_paginated": false,
     "url": "https://www.target.com/c/canned-packaged-foods-pantry-grocery/-/N-5xt05",
     "grocery_category": "Pantry",
-    "grocery_subcategory": "Canned & Packaged Foods"
+    "grocery_subcategory": "Canned & Packaged Foods",
+    "grocery_group_path": "Target/Grocery/Pantry/Canned & Packaged Foods"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/sauces-salsa-marinades-pantry-grocery/-/N-4tg6h",
     "grocery_category": "Pantry",
-    "grocery_subcategory": "Sauces, Salsa & Marinades"
+    "grocery_subcategory": "Sauces, Salsa & Marinades",
+    "grocery_group_path": "Target/Grocery/Pantry/Sauces, Salsa & Marinades"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/condiments-salad-dressings-pantry-grocery/-/N-5xszw",
     "grocery_category": "Pantry",
-    "grocery_subcategory": "Condiments & Salad Dressings"
+    "grocery_subcategory": "Condiments & Salad Dressings",
+    "grocery_group_path": "Target/Grocery/Pantry/Condiments & Salad Dressings"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/peanut-butter-jelly-pantry-grocery/-/N-5xszr",
     "grocery_category": "Pantry",
-    "grocery_subcategory": "Peanut Butter & Jelly"
+    "grocery_subcategory": "Peanut Butter & Jelly",
+    "grocery_group_path": "Target/Grocery/Pantry/Peanut Butter & Jelly"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/soups-broth-chili-pantry-grocery/-/N-5xszx",
     "grocery_category": "Pantry",
-    "grocery_subcategory": "Soups, Broth & Chili"
+    "grocery_subcategory": "Soups, Broth & Chili",
+    "grocery_group_path": "Target/Grocery/Pantry/Soups, Broth & Chili"
   },
   {
     "is_website_possibly_paginated": false,
     "url": "https://www.target.com/c/spices-seasonings-pantry-grocery/-/N-5xszu",
     "grocery_category": "Pantry",
-    "grocery_subcategory": "Spices & Seasonings"
+    "grocery_subcategory": "Spices & Seasonings",
+    "grocery_group_path": "Target/Grocery/Pantry/Spices & Seasonings"
   },
   {
     "is_website_possibly_paginated": false,
     "url": "https://www.target.com/c/baking-staples-pantry-grocery/-/N-4u9lv",
     "grocery_category": "Pantry",
-    "grocery_subcategory": "Baking Staples"
+    "grocery_subcategory": "Baking Staples",
+    "grocery_group_path": "Target/Grocery/Pantry/Baking Staples"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/cooking-oil-vinegar-pantry-grocery/-/N-4u9ly",
     "grocery_category": "Pantry",
-    "grocery_subcategory": "Cooking Oil & Vinegar"
+    "grocery_subcategory": "Cooking Oil & Vinegar",
+    "grocery_group_path": "Target/Grocery/Pantry/Cooking Oil & Vinegar"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/sugar-sweeteners-pantry-grocery/-/N-5xt0u",
     "grocery_category": "Pantry",
-    "grocery_subcategory": "Sugar & Sweeteners"
+    "grocery_subcategory": "Sugar & Sweeteners",
+    "grocery_group_path": "Target/Grocery/Pantry/Sugar & Sweeteners"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/emergency-food-pantry-grocery/-/N-4ykz6",
     "grocery_category": "Pantry",
-    "grocery_subcategory": "Emergency Food"
+    "grocery_subcategory": "Emergency Food",
+    "grocery_group_path": "Target/Grocery/Pantry/Emergency Food"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/cereal-granola-breakfast-grocery/-/N-5xt0g",
     "grocery_category": "Breakfast & Cereal",
-    "grocery_subcategory": "Cereal & Granola"
+    "grocery_subcategory": "Cereal & Granola",
+    "grocery_group_path": "Target/Grocery/Breakfast & Cereal/Cereal & Granola"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/oatmeal/-/N-8tu6y",
     "grocery_category": "Breakfast & Cereal",
-    "grocery_subcategory": "Oatmeal"
+    "grocery_subcategory": "Oatmeal",
+    "grocery_group_path": "Target/Grocery/Breakfast & Cereal/Oatmeal"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/pancake-mixes-waffle-syrup-breakfast-cereal-grocery/-/N-5xt0f",
     "grocery_category": "Breakfast & Cereal",
-    "grocery_subcategory": "Pancake Mixes, Waffle Mixes & Syrup"
+    "grocery_subcategory": "Pancake Mixes, Waffle Mixes & Syrup",
+    "grocery_group_path": "Target/Grocery/Breakfast & Cereal/Pancake Mixes, Waffle Mixes & Syrup"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/toaster-pastries-breakfast-cereal-grocery/-/N-5xt0i",
     "grocery_category": "Breakfast & Cereal",
-    "grocery_subcategory": "Toaster Pastries"
+    "grocery_subcategory": "Toaster Pastries",
+    "grocery_group_path": "Target/Grocery/Breakfast & Cereal/Toaster Pastries"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/organic-breakfast-cereal/-/N-qrydr",
     "grocery_category": "Breakfast & Cereal",
-    "grocery_subcategory": "Organic Breakfast & Cereal"
+    "grocery_subcategory": "Organic Breakfast & Cereal",
+    "grocery_group_path": "Target/Grocery/Breakfast & Cereal/Organic Breakfast & Cereal"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/granola-cereal-bars-snacks-grocery/-/N-4ydo1",
     "grocery_category": "Breakfast & Cereal",
-    "grocery_subcategory": "Granola & Cereal Bars"
+    "grocery_subcategory": "Granola & Cereal Bars",
+    "grocery_group_path": "Target/Grocery/Snacks/Granola & Cereal Bars"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/cheese-dairy-grocery/-/N-5xszk",
     "grocery_category": "Dairy",
-    "grocery_subcategory": "Cheese"
+    "grocery_subcategory": "Cheese",
+    "grocery_group_path": "Target/Grocery/Dairy/Cheese"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/milk-dairy-grocery/-/N-5xszh",
     "grocery_category": "Dairy",
-    "grocery_subcategory": "Milk"
+    "grocery_subcategory": "Milk",
+    "grocery_group_path": "Target/Grocery/Dairy/Milk"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/cream-cheese-dairy-grocery/-/N-4tgo8",
     "grocery_category": "Dairy",
-    "grocery_subcategory": "Cream Cheese"
+    "grocery_subcategory": "Cream Cheese",
+    "grocery_group_path": "Target/Grocery/Dairy/Cream Cheese"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/butter-margarine-dairy-grocery/-/N-5xszl",
     "grocery_category": "Dairy",
-    "grocery_subcategory": "Butter & Margarine"
+    "grocery_subcategory": "Butter & Margarine",
+    "grocery_group_path": "Target/Grocery/Dairy/Butter & Margarine"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/cream-whipped-toppings-dairy-grocery/-/N-5xszj",
     "grocery_category": "Dairy",
-    "grocery_subcategory": "Cream & Whipped Toppings"
+    "grocery_subcategory": "Cream & Whipped Toppings",
+    "grocery_group_path": "Target/Grocery/Dairy/Cream & Whipped Toppings"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/eggs-dairy-grocery/-/N-5xszi",
     "grocery_category": "Dairy",
-    "grocery_subcategory": "Eggs"
+    "grocery_subcategory": "Eggs",
+    "grocery_group_path": "Target/Grocery/Dairy/Eggs"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/milk-substitutes-dairy-grocery/-/N-zkvwk",
     "grocery_category": "Dairy",
-    "grocery_subcategory": "Milk Substitutes"
+    "grocery_subcategory": "Milk Substitutes",
+    "grocery_group_path": "Target/Grocery/Dairy/Milk Substitutes"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/refrigerated-doughs-dairy-grocery/-/N-4tgo6",
     "grocery_category": "Dairy",
-    "grocery_subcategory": "Refrigerated Doughs"
+    "grocery_subcategory": "Refrigerated Doughs",
+    "grocery_group_path": "Target/Grocery/Dairy/Refrigerated Doughs"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/yogurt-dairy-grocery/-/N-5xszf",
     "grocery_category": "Dairy",
-    "grocery_subcategory": "Yogurt"
+    "grocery_subcategory": "Yogurt",
+    "grocery_group_path": "Target/Grocery/Dairy/Yogurt"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/sour-cream-dips-dairy-grocery/-/N-5xszg",
     "grocery_category": "Dairy",
-    "grocery_subcategory": "Sour Cream & Dips"
+    "grocery_subcategory": "Sour Cream & Dips",
+    "grocery_group_path": "Target/Grocery/Dairy/Sour Cream & Dips"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/coffee-creamers-beverages-grocery/-/N-5xszv",
     "grocery_category": "Dairy",
-    "grocery_subcategory": "Coffee Creamers"
+    "grocery_subcategory": "Coffee Creamers",
+    "grocery_group_path": "Target/Grocery/Beverages/Coffee/Coffee Creamers"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/cottage-cheese-dairy-grocery/-/N-4tgo9",
     "grocery_category": "Dairy",
-    "grocery_subcategory": "Cottage Cheese"
+    "grocery_subcategory": "Cottage Cheese",
+    "grocery_group_path": "Target/Grocery/Dairy/Cottage Cheese"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/prepared-salads-sandwiches-deli-grocery/-/N-mdt7r",
     "grocery_category": "Deli",
-    "grocery_subcategory": "Prepared Salads & Sandwiches"
+    "grocery_subcategory": "Prepared Salads & Sandwiches",
+    "grocery_group_path": "Target/Grocery/Deli/Prepared Salads & Sandwiches"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/fresh-dips-salsas-hummus-deli-grocery/-/N-cjg5k",
     "grocery_category": "Deli",
-    "grocery_subcategory": "Fresh Dips, Salsas & Hummus"
+    "grocery_subcategory": "Fresh Dips, Salsas & Hummus",
+    "grocery_group_path": "Target/Grocery/Deli/Fresh Dips, Salsas & Hummus"
   },
   {
     "is_website_possibly_paginated": false,
     "url": "https://www.target.com/c/artisan-cheese-cured-meats-deli-grocery/-/N-czzeu",
     "grocery_category": "Deli",
-    "grocery_subcategory": "Artisan Cheese & Cured Meats"
+    "grocery_subcategory": "Artisan Cheese & Cured Meats",
+    "grocery_group_path": "Target/Grocery/Deli/Artisan Cheese & Cured Meats"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/snack-packs-on-the-go-snacks-deli-grocery/-/N-dhjbd",
     "grocery_category": "Deli",
-    "grocery_subcategory": "Snack Packs & On the Go Snacks"
+    "grocery_subcategory": "Snack Packs & On the Go Snacks",
+    "grocery_group_path": "Target/Grocery/Deli/Snack Packs & On the Go Snacks"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/packaged-lunch-meat-deli-grocery/-/N-4tgi6",
     "grocery_category": "Deli",
-    "grocery_subcategory": "Packaged Lunch Meat"
+    "grocery_subcategory": "Packaged Lunch Meat",
+    "grocery_group_path": "Target/Grocery/Deli/Packaged Lunch Meat"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/prepared-meals-sides-deli-grocery/-/N-7dopp",
     "grocery_category": "Deli",
-    "grocery_subcategory": "Prepared Meals & Sides"
+    "grocery_subcategory": "Prepared Meals & Sides",
+    "grocery_group_path": "Target/Grocery/Deli/Prepared Meals & Sides"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/fresh-soups-deli-grocery/-/N-p2osw",
     "grocery_category": "Deli",
-    "grocery_subcategory": "Fresh Soups"
+    "grocery_subcategory": "Fresh Soups",
+    "grocery_group_path": "Target/Grocery/Deli/Fresh Soups"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/sliced-deli-meat-cheese-grocery/-/N-zomk2",
     "grocery_category": "Deli",
-    "grocery_subcategory": "Sliced Deli Meat & Deli Cheese"
+    "grocery_subcategory": "Sliced Deli Meat & Deli Cheese",
+    "grocery_group_path": "Target/Grocery/Deli/Sliced Deli Meat & Deli Cheese"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/charcuterie-board-ideas/-/N-sv5if",
     "grocery_category": "Deli",
-    "grocery_subcategory": "Charcuterie Board Ideas"
+    "grocery_subcategory": "Charcuterie Board Ideas",
+    "grocery_group_path": "Target/Grocery/Meal Ideas/Charcuterie Board Ideas"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/meal-kits-deli-grocery/-/N-fql6w",
     "grocery_category": "Deli",
-    "grocery_subcategory": "Meal Kits"
+    "grocery_subcategory": "Meal Kits",
+    "grocery_group_path": "Target/Grocery/Deli/Meal Kits"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/party-trays-deli-grocery/-/N-tgba0",
     "grocery_category": "Deli",
-    "grocery_subcategory": "Party Trays"
+    "grocery_subcategory": "Party Trays",
+    "grocery_group_path": "Target/Grocery/Deli/Party Trays"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/chocolate-candy-grocery/-/N-5xt0b",
     "grocery_category": "Candy",
-    "grocery_subcategory": "Chocolate Candy"
+    "grocery_subcategory": "Chocolate Candy",
+    "grocery_group_path": "Target/Grocery/Candy/Chocolate Candy"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/gum-mints-candy-grocery/-/N-5xt0a",
     "grocery_category": "Candy",
-    "grocery_subcategory": "Gum & Mints"
+    "grocery_subcategory": "Gum & Mints",
+    "grocery_group_path": "Target/Grocery/Candy/Gum & Mints"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/gummy-chewy-candy-grocery/-/N-5xt09",
     "grocery_category": "Candy",
-    "grocery_subcategory": "Gummy & Chewy Candy"
+    "grocery_subcategory": "Gummy & Chewy Candy",
+    "grocery_group_path": "Target/Grocery/Candy/Gummy & Chewy Candy"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/hard-candy-grocery/-/N-5xt08",
     "grocery_category": "Candy",
-    "grocery_subcategory": "Hard Candy"
+    "grocery_subcategory": "Hard Candy",
+    "grocery_group_path": "Target/Grocery/Candy/Hard Candy"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/candy-variety-packs/-/N-iomx6",
     "grocery_category": "Candy",
-    "grocery_subcategory": "Candy Variety Packs"
+    "grocery_subcategory": "Candy Variety Packs",
+    "grocery_group_path": "Target/Grocery/Candy/Candy Variety Packs"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/premium-candy/-/N-m4inq",
     "grocery_category": "Candy",
-    "grocery_subcategory": "Premium Candy"
+    "grocery_subcategory": "Premium Candy",
+    "grocery_group_path": "Target/Grocery/Candy/Premium Candy"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/k-cups-coffee-pods-beverages-grocery/-/N-6kpkn",
     "grocery_category": "Coffee",
-    "grocery_subcategory": "K-Cups & Coffee Pods"
+    "grocery_subcategory": "K-Cups & Coffee Pods",
+    "grocery_group_path": "Target/Grocery/Beverages/Coffee/K-Cups & Coffee Pods"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/ground-coffee-beverages-grocery/-/N-x2hqv",
     "grocery_category": "Coffee",
-    "grocery_subcategory": "Ground Coffee"
+    "grocery_subcategory": "Ground Coffee",
+    "grocery_group_path": "Target/Grocery/Beverages/Coffee/Ground Coffee"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/whole-bean-coffee-beverages-grocery/-/N-n8upo",
     "grocery_category": "Coffee",
-    "grocery_subcategory": "Whole Bean Coffee"
+    "grocery_subcategory": "Whole Bean Coffee",
+    "grocery_group_path": "Target/Grocery/Beverages/Coffee/Whole Bean Coffee"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/espresso-coffee-beverages-grocery/-/N-2dpp9",
     "grocery_category": "Coffee",
-    "grocery_subcategory": "Espresso Pods"
+    "grocery_subcategory": "Espresso Pods",
+    "grocery_group_path": "Target/Grocery/Beverages/Coffee/Espresso Pods"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/coffee-creamers-beverages-grocery/-/N-5xszv",
     "grocery_category": "Coffee",
-    "grocery_subcategory": "Coffee Creamers"
+    "grocery_subcategory": "Coffee Creamers",
+    "grocery_group_path": "Target/Grocery/Beverages/Coffee/Coffee Creamers"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/cold-brew-coffee-beverages-grocery/-/N-260b3",
     "grocery_category": "Coffee",
-    "grocery_subcategory": "Cold Brew & Bottled Coffee"
+    "grocery_subcategory": "Cold Brew & Bottled Coffee",
+    "grocery_group_path": "Target/Grocery/Beverages/Coffee/Cold Brew & Bottled Coffee"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/instant-coffee-beverages-grocery/-/N-05hso",
     "grocery_category": "Coffee",
-    "grocery_subcategory": "Instant Coffee"
+    "grocery_subcategory": "Instant Coffee",
+    "grocery_group_path": "Target/Grocery/Beverages/Coffee/Instant Coffee"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/fresh-flowers/-/N-2dei4",
-    "grocery_category": "Fresh Flowers"
+    "grocery_category": "Fresh Flowers",
+    "grocery_group_path": "Target/Grocery/Produce/Fresh Flowers"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/wine-beer-liquor-grocery/-/N-5xsxv",
     "grocery_category": "Wine, Beer & Liquor",
-    "grocery_subcategory": "Wine"
+    "grocery_subcategory": "Wine",
+    "grocery_group_path": "Target/Grocery/Wine, Beer & Liquor/Wine"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/hard-seltzers/-/N-mar4j",
     "grocery_category": "Wine, Beer & Liquor",
-    "grocery_subcategory": "Hard Seltzers & Canned Cocktails"
+    "grocery_subcategory": "Hard Seltzers & Canned Cocktails",
+    "grocery_group_path": "Target/Grocery/Wine, Beer & Liquor/Hard Seltzers & Canned Cocktails"
   },
   {
     "is_website_possibly_paginated": false,
     "url": "https://www.target.com/c/beer-wine-liquor-grocery/-/N-5xsxx",
     "grocery_category": "Wine, Beer & Liquor",
-    "grocery_subcategory": "Beer"
+    "grocery_subcategory": "Beer",
+    "grocery_group_path": "Target/Grocery/Wine, Beer & Liquor/Beer"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/liquor-wine-beer-grocery/-/N-5xsxw",
     "grocery_category": "Wine, Beer & Liquor",
-    "grocery_subcategory": "Liquor"
+    "grocery_subcategory": "Liquor",
+    "grocery_group_path": "Target/Grocery/Wine, Beer & Liquor/Liquor"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/brands-we-love/-/N-iscgt",
     "grocery_category": "Wine, Beer & Liquor",
-    "grocery_subcategory": "Target Selects"
+    "grocery_subcategory": "Target Selects",
+    "grocery_group_path": "Target/Grocery/Wine, Beer & Liquor/Target Selects"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/non-alcoholic-drinks-wine-beer-liquor-grocery/-/N-gjl0q",
     "grocery_category": "Wine, Beer & Liquor",
-    "grocery_subcategory": "Non-Alcoholic Drinks"
+    "grocery_subcategory": "Non-Alcoholic Drinks",
+    "grocery_group_path": "Target/Grocery/Wine, Beer & Liquor/Non-Alcoholic Drinks"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/perfect-meal-pairings/-/N-10ab1",
     "grocery_category": "Wine, Beer & Liquor",
-    "grocery_subcategory": "Perfect Meal Pairings"
+    "grocery_subcategory": "Perfect Meal Pairings",
+    "grocery_group_path": "Target/Grocery/Wine, Beer & Liquor/Perfect Meal Pairings"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/game-day/-/N-ypj4e",
     "grocery_category": "Wine, Beer & Liquor",
-    "grocery_subcategory": "Top Rated Wines Under $15"
+    "grocery_subcategory": "Top Rated Wines Under $15",
+    "grocery_group_path": "Target/Grocery/Wine, Beer & Liquor/Top Rated Wines Under $15"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/cocktail-mixers-beverages-grocery/-/N-4uez3",
     "grocery_category": "Wine, Beer & Liquor",
-    "grocery_subcategory": "Cocktail Mixers"
+    "grocery_subcategory": "Cocktail Mixers",
+    "grocery_group_path": "Target/Grocery/Beverages/Cocktail Mixers"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/bar-wine-tools-kitchen-dining/-/N-5xts9",
     "grocery_category": "Wine, Beer & Liquor",
-    "grocery_subcategory": "Bar & Wine Tools"
+    "grocery_subcategory": "Bar & Wine Tools",
+    "grocery_group_path": "Target/Kitchen & Dining/Bar & Wine/Bar & Wine Tools"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/snack-packs-on-the-go-snacks-deli-grocery/-/N-dhjbd",
-    "grocery_category": "Snack Packs & On the Go Snacks"
+    "grocery_category": "Snack Packs & On the Go Snacks",
+    "grocery_group_path": "Target/Grocery/Deli/Snack Packs & On the Go Snacks"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/tabitha-brown-for-target/-/N-3k8lx",
-    "grocery_category": "Tabitha Brown for Target"
+    "grocery_category": "Tabitha Brown for Target",
+    "grocery_group_path": "Target/Ways to Shop/Brand Experiences/Tabitha Brown for Target"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/b/good-gather/-/N-yfqzk",
-    "grocery_category": "Good & Gather"
+    "grocery_category": "Good & Gather",
+    "grocery_group_path": "Good & Gather"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/b/favorite-day/-/N-q643lewlzpu",
-    "grocery_category": "Favorite Day"
+    "grocery_category": "Favorite Day",
+    "grocery_group_path": "Favorite Day"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/b/market-pantry/-/N-85ceg",
-    "grocery_category": "Market Pantry"
+    "grocery_category": "Market Pantry",
+    "grocery_group_path": "Market Pantry"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/starbucks/-/N-5cofw",
-    "grocery_category": "Starbucks"
+    "grocery_category": "Starbucks",
+    "grocery_group_path": "Target/Featured Brands/Grocery/Starbucks"
   },
   {
     "is_website_possibly_paginated": true,
     "url": "https://www.target.com/c/food-gifts-grocery/-/N-54wac",
-    "grocery_category": "Food Gifts"
+    "grocery_category": "Food Gifts",
+    "grocery_group_path": "Target/Grocery/Food Gifts"
   }
 ]
