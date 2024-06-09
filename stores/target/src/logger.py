@@ -4,12 +4,6 @@ import sys
 import logging.config
 from yaml import safe_load
 
-# Use Lima, Peru timezone for datetime in logs
-# Source: https://stackoverflow.com/a/62265324
-from pytz import timezone
-from datetime import datetime
-logging.Formatter.converter = lambda *args: datetime.now(tz = timezone('America/Lima')).timetuple()
-
 
 def get_logger(logger_name: str):
   if config['profile'] == 'local':

@@ -13,34 +13,62 @@ handlers:
     formatter: simple
     stream: ext://sys.stdout
 
-  file_task_1:
+  file_task_1.1:
     class: logging.FileHandler
     level: INFO
     formatter: simple
     encoding: utf-8
-    filename: logs/grocery_cat_or_subcat_url_extraction.log
+    filename: logs/task-1.1.log
     mode: w
     # Avoid log file deletion until respective 
     # invoked logger writes into file
     # Source: https://stackoverflow.com/a/19656056
     delay: true
-
-  file_task_2:
+  
+  file_task_2.1:
     class: logging.FileHandler
     level: INFO
     formatter: simple
     encoding: utf-8
-    filename: logs/grocery_products_basic_info_extraction.log
+    filename: logs/task-2.1.log
+    mode: w
+    delay: true
+  
+  file_task_2.2:
+    class: logging.FileHandler
+    level: INFO
+    formatter: simple
+    encoding: utf-8
+    filename: logs/task-2.2.log
+    mode: w
+    delay: true
+
+  file_task_3.1:
+    class: logging.FileHandler
+    level: INFO
+    formatter: simple
+    encoding: utf-8
+    filename: logs/task-3.1.log
     mode: w
     delay: true
 
 loggers:
-  task_one:
+  task_1.1:
     level: INFO
-    handlers: [file_task_1]
+    handlers: [file_task_1.1]
     propagate: no
 
-  task_two:
+  task_2.1:
     level: INFO
-    handlers: [console, file_task_2]
+    handlers: [file_task_2.1]
+    propagate: no
+  
+  task_2.2:
+    level: INFO
+    handlers: [file_task_2.2]
+    propagate: no
+
+  task_3.1:
+    level: INFO
+    handlers: [file_task_3.1]
     propagate: no

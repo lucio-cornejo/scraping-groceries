@@ -1,7 +1,7 @@
 from .instances import config
 
 from tempfile import mkdtemp
-from selenium import webdriver
+from seleniumwire import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
@@ -11,8 +11,12 @@ def get_chrome_driver() -> webdriver.Chrome:
     options = webdriver.ChromeOptions()
     options.add_argument("--guest")
     options.add_argument("--start-maximized")
-    # options.add_argument("--window-size=1920,1080")
-    # options.add_argument('--headless')
+    options.add_argument('--ignore-certificate-errors')
+    options.add_argument("--window-size=1920,1080")
+    options.add_argument("--headless=new")
+    # Do not wait for page load after accessing website
+    # Source: https://stackoverflow.com/a/46339092
+    options.page_load_strategy = 'eager'
 
     chrome_driver = webdriver.Chrome(
       service = Service(ChromeDriverManager().install()), 

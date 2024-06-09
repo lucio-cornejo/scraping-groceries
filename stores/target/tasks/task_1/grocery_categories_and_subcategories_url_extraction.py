@@ -1,4 +1,4 @@
-from src.instances import config, task_one_logger, driver
+from src.instances import config, task_1_1_logger, driver
 
 from src.categories_scraper import (
   click_show_all_categories_button_if_present,
@@ -11,41 +11,34 @@ from src.subcategories_scraper import (
 )
 
 
-if __name__ == '__main__':
-  """
-  Save into JSON file url of every Grocery category or subcategory
-  """
-  task_one_logger.info('Logging timestamps are respect to America/Lima timezone')
-
+def extract_urls_of_categories_and_subcategories():
   # Access Groceries homepage
   driver.set_page_load_timeout(config['selenium']['page_load_seconds_timeout'])
   driver.get(config['groceries_homepage']['url'])
-
-  # Show all categories
-  try:
-    click_show_all_categories_button_if_present()
-  except Exception as e:
-    task_one_logger.exception(e)
+  click_show_all_categories_button_if_present()
 
   categories_name_and_url = extract_categories_name_and_url()
 
   # Extract url of each subcategory, if found
   for category_dict in categories_name_and_url:
     category_url = category_dict['url']
-    task_one_logger.info(f"Category: {category_dict['grocery_category']}")
+    task_1_1_logger.info(f"Category: {category_dict['grocery_category']}")
     
     are_there_subcategories = are_subcategories_available(category_url)
     if not are_there_subcategories:
-      task_one_logger.warning('No subcategories found')
+      task_1_1_logger.info('No subcategories found')
       continue
 
     # Click button to show all categories, if available in website
     try:
       click_show_all_categories_button_if_present()
-    except Exception as e:
-      task_one_logger.exception(e)
+    except:
+      task_1_1_logger.info('All subcategories are shown by default in website')
 
-    category_dict['subcategories'] = extract_categories_name_and_url()
+    category_dict['subcategories'] = extract_categories_name_and_url(
+      is_subcategories_extraction = True, 
+      category_name_for_subcategories = category_dict['grocery_category']
+    )
 
 
   driver.quit()
@@ -55,12 +48,19 @@ if __name__ == '__main__':
   )
 
   """
-  Create JSON list where each item contains an URL which points to a 
-  website of multiple products, that will be used in the next task for
-  scraping, page by page, the products' basic info 
-  (title, main image url, (upc not yet), etc) .
+  Create list where each item contains a group (category or subcategory)
+  URL corresponding to a possibly paginated website of products
   """
   url_dicts_list = flatten_list_of_categories_and_subcategories_url(
     categories_name_and_url
   )
-  save_list_as_JSON(url_dicts_list, file_path = 'data/urls_for_task_2.json')
+  save_list_as_JSON(url_dicts_list, file_path = 'data/urls_for_task_1.2.json')
+
+
+if __name__ == '__main__':
+  try:
+    task_1_1_logger.info('Started subtask')
+    extract_urls_of_categories_and_subcategories()
+    task_1_1_logger.info('Completed subtask')
+  except Exception as e:
+    task_1_1_logger.exception(e)

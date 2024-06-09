@@ -2,10 +2,11 @@ profile: !ENV ${PROFILE}
 
 selenium:
   page_load_seconds_timeout: 30
+  products_basic_info_get_request_seconds_timeout: 60
 
 groceries_homepage:
   url: "https://www.target.com/c/grocery/-/N-5xt1a"
-  categories_container: 
+  categories_container:
     css_selector: "[data-test='@web/slingshot-components/bubcat']"
     categories_button_appended_css_selector: " button"
     categories_element_appended_css_selector: " li"
@@ -22,3 +23,18 @@ products_website:
     product_title_html_anchor_css_selector: "[data-test='product-title']"
     product_url_html_anchor_css_selector: "[data-test] a"
     product_image_html_img_css_selector: "[data-test] img"
+
+
+  max_number_of_products_to_fetch_via_GET_request: 28
+  
+  # Set max at offset value in queries to Target's website
+  # https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2,
+  # due to such company limiting themselves the amount of products
+  # displayed in their paginated websites of products, for example
+  # in https://www.target.com/c/bulk-pantry/-/N-gev3n .
+  max_offset_value_accepted_by_Target_API: 1199
+
+aws:
+  region: !ENV ${AWS_REGION}
+  access_key_id: !ENV ${ACCESS_KEY_ID}
+  access_key_secret: !ENV ${ACCESS_KEY_SECRET}

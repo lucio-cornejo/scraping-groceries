@@ -53,7 +53,9 @@ def filter_non_deal_categories(
   return categories
 
 
-def extract_categories_name_and_url() -> list[dict]:
+def extract_categories_name_and_url(
+  is_subcategories_extraction = False, category_name_for_subcategories = ''
+) -> list[dict]:
   categories_element_css_selector = ''.join([
     config['groceries_homepage']['categories_container']['css_selector'],
     config['groceries_homepage']['categories_container']['categories_element_appended_css_selector']
@@ -74,12 +76,19 @@ def extract_categories_name_and_url() -> list[dict]:
 
   url_per_grocery_category = [{} for _ in range(len(groceries_non_deal_categories))]
   for index, grocery_category_dict in enumerate(url_per_grocery_category):
-    grocery_category_dict['grocery_category'] = (groceries_non_deal_categories[index]
-      .get_attribute('innerText')
-    )
     grocery_category_dict['url'] = (groceries_non_deal_categories[index]
       .find_element(By.CSS_SELECTOR, 'a')
       .get_attribute('href')
     )
+
+    if is_subcategories_extraction:
+      grocery_category_dict['grocery_category'] = category_name_for_subcategories
+      grocery_category_dict['grocery_subcategory'] = (groceries_non_deal_categories[index]
+        .get_attribute('innerText')
+      )
+    else:
+      grocery_category_dict['grocery_category'] = (groceries_non_deal_categories[index]
+        .get_attribute('innerText')
+      )
 
   return url_per_grocery_category
