@@ -4,19 +4,35 @@ import json
 import pandas as pd
 
 
-"""
-Remove duplicate url items of list from which URLs will be extracted
-for fetching the products' basic info, per category/subcategory 
-"""
+task_2_1_logger.info('Started subtask')
 with open('data/urls_for_task_2.1.json', 'r', encoding = 'utf-8') as f:
-  df = pd.DataFrame(json.loads(f.read())).fillna(pd.NA)
-  list_categories_products_url_dict = df[~df.duplicated(subset = ['url'])].to_dict('records')
+  grocery_groups_data_frame = pd.DataFrame(json.loads(f.read()))
+
+  # Include in GET request url search, those URLs for which the test 
+  # for paginated products webpage failed to assign a boolean .
+  grocery_groups_data_frame["is_website_possibly_paginated"] = grocery_groups_data_frame["is_website_possibly_paginated"].fillna(True)
+
+  task_2_1_logger.info(f'Number of URLs assigned as possibly not-paginated: {(grocery_groups_data_frame["is_website_possibly_paginated"] == False).sum()}\n')
+
+  # Assemble grocery groups labels
+  grocery_groups_data_frame["grocery_group"]  = (
+    grocery_groups_data_frame["grocery_category"] +
+    grocery_groups_data_frame["grocery_subcategory"].apply(lambda x: '/' + x if not pd.isna(x) else '')
+  )
+
+  # Remove URL duplicates and keep only the grocery group label and URL
+  grocery_groups_data_frame = grocery_groups_data_frame[~grocery_groups_data_frame.duplicated(subset = ['url'])]
+  grocery_groups_dicts = (grocery_groups_data_frame
+    [grocery_groups_data_frame["is_website_possibly_paginated"]]
+    [["grocery_group", "url"]]
+    .to_dict('records')
+  )
 
 
 PRODUCTS_BASIC_INFO_PATTERN_URL ="https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2"
 
-def find_products_basic_info_get_request_url(categories_products_url_dict: dict):
-  category_url = categories_products_url_dict['url']
+def find_products_basic_info_get_request_url(grocery_group_dict: dict):
+  category_url = grocery_group_dict['url']
   
   del driver.requests
   driver.get(category_url)
@@ -33,24 +49,21 @@ def find_products_basic_info_get_request_url(categories_products_url_dict: dict)
   if len(products_basic_info_get_request) > 1:
     raise Exception(f"More than one request matched the url pattern for url {category_url}")
   
-  categories_products_url_dict['get_request_url'] = products_basic_info_get_request[0].url
-  task_2_1_logger.critical(products_basic_info_get_request[0].url)
+  grocery_group_dict['get_request_url'] = products_basic_info_get_request[0].url
+  task_2_1_logger.info(f'{products_basic_info_get_request[0].url}\n')
 
 
 if __name__ == '__main__':
-  task_2_1_logger.info('Started URLs extraction')
-  
-  for index, categories_products_url_dict in enumerate(list_categories_products_url_dict):
-    task_2_1_logger.info(f'List index, category url: {index}, {categories_products_url_dict["url"]}')
-    try:
-      find_products_basic_info_get_request_url(categories_products_url_dict)
-    except Exception as e:
-      task_2_1_logger.exception(e)
+  try:
+    for index, grocery_group_dict in enumerate(grocery_groups_dicts):
+      task_2_1_logger.info(f'List index, category url: {index}, {grocery_group_dict["url"]}')
+      find_products_basic_info_get_request_url(grocery_group_dict)
 
       del driver.requests
-      continue
+    
+    with open('data/get_request_urls_for_task_2.2.json', 'w', encoding = 'utf-8') as f:
+      json.dump(grocery_groups_dicts, f, ensure_ascii = False, indent = 2)
 
-  with open('data/get_request_urls_for_task_2.2.json', 'w', encoding = 'utf-8') as f:
-    json.dump(list_categories_products_url_dict, f, ensure_ascii = False, indent = 2)
-
-  task_2_1_logger.info('Completed subtask')
+    task_2_1_logger.info('Completed subtask')
+  except Exception as e:
+    task_2_1_logger.exception(e)
