@@ -25,15 +25,6 @@ handlers:
     # Source: https://stackoverflow.com/a/19656056
     delay: true
   
-  file_task_1.2:
-    class: logging.FileHandler
-    level: INFO
-    formatter: simple
-    encoding: utf-8
-    filename: logs/task-1.2.log
-    mode: w
-    delay: true
-
   file_task_2.1:
     class: logging.FileHandler
     level: INFO
@@ -65,11 +56,6 @@ loggers:
   task_1.1:
     level: INFO
     handlers: [file_task_1.1]
-    propagate: no
-
-  task_1.2:
-    level: INFO
-    handlers: [file_task_1.2]
     propagate: no
 
   task_2.1:
