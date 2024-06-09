@@ -2,7 +2,6 @@ profile: !ENV ${PROFILE}
 
 selenium:
   page_load_seconds_timeout: 30
-  product_html_container_presence_seconds_timeout: 20
   products_basic_info_get_request_seconds_timeout: 60
 
 groceries_homepage:
