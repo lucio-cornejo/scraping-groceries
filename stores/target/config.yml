@@ -12,6 +12,7 @@ groceries_homepage:
     categories_element_appended_css_selector: " li"
     categories_name_container_appended_css_selector: " [data-test='bubcatItemTitleComponent'] span"
 
+expected_string_in_paginated_products_page_html: "@web/site-top-of-funnel/ProductCardPlaceholder"
 products_website:
   paginator:
     css_selector: "[data-test='pagination']"
