@@ -24,7 +24,7 @@ with open('data/urls_for_task_2.1.json', 'r', encoding = 'utf-8') as f:
   grocery_groups_data_frame = grocery_groups_data_frame[~grocery_groups_data_frame.duplicated(subset = ['url'])]
   grocery_groups_dicts = (grocery_groups_data_frame
     [grocery_groups_data_frame["is_website_possibly_paginated"]]
-    [["grocery_group", "url"]]
+    [["grocery_group", "url", "grocery_group_path"]]
     .to_dict('records')
   )
 

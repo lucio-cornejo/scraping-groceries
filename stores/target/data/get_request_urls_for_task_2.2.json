@@ -2,631 +2,757 @@
   {
     "grocery_group": "Frozen Foods/Frozen Single Serve Meals",
     "url": "https://www.target.com/c/frozen-single-serve-meals-foods-grocery/-/N-wdysv",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=wdysv&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fwdysv&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Single Serve Meals",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=wdysv&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fwdysv&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Frozen Foods/Frozen Family Meals",
     "url": "https://www.target.com/c/frozen-family-meals-foods-grocery/-/N-a3dpa",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=a3dpa&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fa3dpa&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Family Meals",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=a3dpa&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fa3dpa&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Frozen Foods/Ice Cream & Frozen Desserts",
     "url": "https://www.target.com/c/ice-cream-frozen-foods-grocery/-/N-5xsz2",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsz2&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsz2&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Ice Cream & Frozen Desserts",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsz2&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsz2&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Frozen Foods/Frozen Foods: Kids",
     "url": "https://www.target.com/c/frozen-foods-kids/-/N-rb4pu",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=rb4pu&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Frb4pu&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Foods: Kids",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=rb4pu&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Frb4pu&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Frozen Foods/Frozen Pizza",
     "url": "https://www.target.com/c/frozen-pizza-foods-grocery/-/N-5xsz4",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsz4&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsz4&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Pizza",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsz4&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsz4&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Frozen Foods/Frozen Breakfast Food",
     "url": "https://www.target.com/c/frozen-breakfast-food-foods-grocery/-/N-5xsza",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsza&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsza&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Breakfast Food",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsza&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsza&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Frozen Foods/Frozen Appetizers & Snacks",
     "url": "https://www.target.com/c/frozen-appetizers-snacks-foods-grocery/-/N-5xszb",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszb&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszb&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Appetizers & Snacks",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszb&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszb&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Frozen Foods/Frozen Desserts",
     "url": "https://www.target.com/c/frozen-desserts-foods-grocery/-/N-5xsz9",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsz9&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsz9&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Desserts",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsz9&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsz9&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Frozen Foods/Frozen Fruit",
     "url": "https://www.target.com/c/frozen-fruit-foods-grocery/-/N-5xsz7",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsz7&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsz7&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Fruit",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsz7&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsz7&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Frozen Foods/Frozen Potatoes",
     "url": "https://www.target.com/c/frozen-potatoes-foods-grocery/-/N-a479c",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=a479c&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fa479c&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Potatoes",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=a479c&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fa479c&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Frozen Foods/Frozen Vegetables",
     "url": "https://www.target.com/c/frozen-vegetables-foods-grocery/-/N-5xsz3",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsz3&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsz3&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Vegetables",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsz3&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsz3&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Frozen Foods/Frozen Bread & Dough",
     "url": "https://www.target.com/c/frozen-bread-dough-foods-grocery/-/N-4tglw",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tglw&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tglw&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Frozen Foods/Frozen Bread & Dough",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tglw&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tglw&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Meat & Seafood/Beef",
     "url": "https://www.target.com/c/beef-meat-seafood-grocery/-/N-4tgi8",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgi8&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgi8&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Meat & Seafood/Beef",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgi8&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgi8&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Meat & Seafood/Chicken",
     "url": "https://www.target.com/c/chicken-meat-seafood-grocery/-/N-4tgi7",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgi7&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgi7&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Meat & Seafood/Chicken",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgi7&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgi7&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Meat & Seafood/Fish & Seafood",
     "url": "https://www.target.com/c/seafood-meat-grocery/-/N-4tgi0",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgi0&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgi0&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Meat & Seafood/Fish & Seafood",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgi0&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgi0&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Meat & Seafood/Packaged Lunch Meat",
     "url": "https://www.target.com/c/packaged-lunch-meat-deli-grocery/-/N-4tgi6",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgi6&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgi6&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Deli/Packaged Lunch Meat",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgi6&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgi6&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Meat & Seafood/Pork",
     "url": "https://www.target.com/c/pork-meat-seafood-grocery/-/N-4tgi2",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgi2&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgi2&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Meat & Seafood/Pork",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgi2&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgi2&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Meat & Seafood/Bacon",
     "url": "https://www.target.com/c/bacon-meat-seafood-grocery/-/N-4tgi9",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgi9&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgi9&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Meat & Seafood/Bacon",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgi9&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgi9&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Meat & Seafood/Sausages",
     "url": "https://www.target.com/c/sausages-meat-seafood-grocery/-/N-p9cdq",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=p9cdq&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fp9cdq&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Meat & Seafood/Sausages",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=p9cdq&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fp9cdq&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Meat & Seafood/Hot Dogs",
     "url": "https://www.target.com/c/hot-dogs-meat-seafood-grocery/-/N-4tgi5",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgi5&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgi5&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Meat & Seafood/Hot Dogs",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgi5&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgi5&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Meat & Seafood/Turkey",
     "url": "https://www.target.com/c/turkey-meat-seafood-grocery/-/N-4tghz",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tghz&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tghz&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Meat & Seafood/Turkey",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tghz&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tghz&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Meat & Seafood/Sliced Deli Meat & Deli Cheese",
     "url": "https://www.target.com/c/sliced-deli-meat-cheese-grocery/-/N-zomk2",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=zomk2&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fzomk2&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Deli/Sliced Deli Meat & Deli Cheese",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=zomk2&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fzomk2&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Meat & Seafood/Meatless Alternatives",
     "url": "https://www.target.com/c/meatless-alternatives-meat-seafood-grocery/-/N-4tgi3",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgi3&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgi3&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Meat & Seafood/Meatless Alternatives",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgi3&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgi3&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Produce/Fresh Fruit",
     "url": "https://www.target.com/c/fresh-fruit-produce-grocery/-/N-4tglt",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tglt&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tglt&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Produce/Fresh Fruit",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tglt&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tglt&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Produce/Fresh Vegetables",
     "url": "https://www.target.com/c/fresh-vegetables-produce-grocery/-/N-4tglh",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tglh&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tglh&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Produce/Fresh Vegetables",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tglh&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tglh&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Produce/Salad Mixes",
     "url": "https://www.target.com/c/salad-mixes-produce-grocery/-/N-by5pi",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=by5pi&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fby5pi&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Produce/Salad Mixes",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=by5pi&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fby5pi&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Produce/Berries",
     "url": "https://www.target.com/c/berries/-/N-h0uds",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=h0uds&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fh0uds&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Produce/Berries",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=h0uds&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fh0uds&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Produce/Melons",
     "url": "https://www.target.com/c/melons/-/N-k3hu6",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=k3hu6&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fk3hu6&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Produce/Melons",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=k3hu6&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fk3hu6&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Produce/Organic Produce",
     "url": "https://www.target.com/c/organic-produce/-/N-h6rph",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=h6rph&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fh6rph&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Produce/Organic Produce",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=h6rph&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fh6rph&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Produce/Fresh Juices",
     "url": "https://www.target.com/c/fresh-juices-produce-grocery/-/N-c5lky",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=c5lky&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fc5lky&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Produce/Fresh Juices",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=c5lky&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fc5lky&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Produce/Fresh Flowers",
     "url": "https://www.target.com/c/fresh-flowers/-/N-2dei4",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=2dei4&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F2dei4&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Produce/Fresh Flowers",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=2dei4&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F2dei4&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Produce/Fresh Dressings & Dips",
     "url": "https://www.target.com/c/fresh-dressings-dips-produce-grocery/-/N-flfjt",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=flfjt&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fflfjt&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Produce/Fresh Dressings & Dips",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=flfjt&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fflfjt&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Snacks/Snack Variety Packs",
     "url": "https://www.target.com/c/snack-variety-packs/-/N-sjs32",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=sjs32&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fsjs32&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Snacks/Snack Variety Packs",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=sjs32&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fsjs32&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Snacks/Chips",
     "url": "https://www.target.com/c/chips-snacks-grocery/-/N-5xsy7",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsy7&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsy7&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Snacks/Chips",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsy7&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsy7&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Snacks/Cookies",
     "url": "https://www.target.com/c/cookies-snacks-grocery/-/N-54v3e",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=54v3e&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F54v3e&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Snacks/Cookies",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=54v3e&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F54v3e&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Snacks/Crackers",
     "url": "https://www.target.com/c/crackers-snacks-grocery/-/N-5xsy6",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsy6&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsy6&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Snacks/Crackers",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsy6&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsy6&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Snacks/Nuts",
     "url": "https://www.target.com/c/nuts-snacks-grocery/-/N-tc851",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=tc851&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Ftc851&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Snacks/Nuts",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=tc851&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Ftc851&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Snacks/Trail & Snack Mixes",
     "url": "https://www.target.com/c/trail-snack-mixes-snacks-grocery/-/N-5xsy1",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsy1&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsy1&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Snacks/Trail & Snack Mixes",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsy1&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsy1&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Snacks/Pretzels",
     "url": "https://www.target.com/c/pretzels-snacks-grocery/-/N-f7azc",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=f7azc&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Ff7azc&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Snacks/Pretzels",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=f7azc&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Ff7azc&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Snacks/Salsa & Dips",
     "url": "https://www.target.com/c/dips-spreads-chips-snacks-cookies-grocery/-/N-5xsy5",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsy5&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsy5&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Snacks/Salsa & Dips",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsy5&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsy5&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Snacks/Snack Packs & On the Go Snacks",
     "url": "https://www.target.com/c/snack-packs-on-the-go-snacks-deli-grocery/-/N-dhjbd",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=dhjbd&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fdhjbd&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Deli/Snack Packs & On the Go Snacks",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=dhjbd&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fdhjbd&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Snacks/Granola & Cereal Bars",
     "url": "https://www.target.com/c/granola-cereal-bars-snacks-grocery/-/N-4ydo1",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4ydo1&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4ydo1&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Snacks/Granola & Cereal Bars",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4ydo1&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4ydo1&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Snacks/Popcorn",
     "url": "https://www.target.com/c/popcorn-snacks-grocery/-/N-5xsy0",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsy0&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsy0&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Snacks/Popcorn",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsy0&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsy0&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Snacks/Snack Cakes",
     "url": "https://www.target.com/c/snack-cakes-snacks-grocery/-/N-5xsxz",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsxz&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsxz&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Snacks/Snack Cakes",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsxz&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsxz&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Snacks/Fruit Snacks",
     "url": "https://www.target.com/c/fruit-snacks-grocery/-/N-5xsy4",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsy4&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsy4&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Snacks/Fruit Snacks",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsy4&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsy4&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Snacks/Dried Fruit & Raisins",
     "url": "https://www.target.com/c/dried-fruit-raisins-snacks-grocery/-/N-5xt0y",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0y&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0y&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Snacks/Dried Fruit & Raisins",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0y&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0y&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Snacks/Jerky & Meat Sticks",
     "url": "https://www.target.com/c/jerky-meat-sticks-snacks-grocery/-/N-5xsy2",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsy2&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsy2&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Snacks/Jerky & Meat Sticks",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsy2&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsy2&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Snacks/Applesauce & Fruit Cups",
     "url": "https://www.target.com/c/applesauce-fruit-cups-snacks-grocery/-/N-5xsy8",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsy8&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsy8&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Snacks/Applesauce & Fruit Cups",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsy8&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsy8&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Snacks/Gelatin & Pudding",
     "url": "https://www.target.com/c/gelatin-pudding-snacks-grocery/-/N-5xsy3",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsy3&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsy3&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Snacks/Gelatin & Pudding",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsy3&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsy3&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Bakery & Bread/Breads",
     "url": "https://www.target.com/c/breads-bakery-bread-grocery/-/N-5xt18",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt18&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt18&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Bakery & Bread/Breads",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt18&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt18&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Bakery & Bread/Donuts & Pastries",
     "url": "https://www.target.com/c/donuts-pastries-bakery-bread-grocery/-/N-5xt15",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt15&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt15&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Bakery & Bread/Donuts & Pastries",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt15&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt15&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Bakery & Bread/Cakes, Cookies & Pies",
     "url": "https://www.target.com/c/cakes-cookies-pies-bakery-bread-grocery/-/N-5xt17",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt17&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt17&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Bakery & Bread/Cakes, Cookies & Pies",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt17&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt17&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Bakery & Bread/Bagels & Muffins",
     "url": "https://www.target.com/c/bagels-muffins-bakery-bread-grocery/-/N-4smkx",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4smkx&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4smkx&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Bakery & Bread/Bagels & Muffins",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4smkx&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4smkx&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Bakery & Bread/Tortillas, Pitas & Wraps",
     "url": "https://www.target.com/c/tortillas-pitas-wraps-bakery-bread-grocery/-/N-4ss7f",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4ss7f&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4ss7f&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Bakery & Bread/Tortillas, Pitas & Wraps",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4ss7f&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4ss7f&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Bakery & Bread/Pizza Crusts",
     "url": "https://www.target.com/c/pizza-crusts-bakery-bread-grocery/-/N-5xt14",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt14&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt14&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Bakery & Bread/Pizza Crusts",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt14&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt14&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Bakery & Bread/Rolls & Buns",
     "url": "https://www.target.com/c/rolls-buns-bakery-bread-grocery/-/N-c51ff",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=c51ff&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fc51ff&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Bakery & Bread/Rolls & Buns",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=c51ff&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fc51ff&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Beverages/Juice & Cider",
     "url": "https://www.target.com/c/juice-cider-beverages-grocery/-/N-5xt0o",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0o&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0o&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Beverages/Juice & Cider",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0o&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0o&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Beverages/Kids’ Multi-Pack Drinks",
     "url": "https://www.target.com/c/kids-multi-pack-drinks/-/N-5j6q6",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5j6q6&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5j6q6&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Beverages/Kids’ Multi-Pack Drinks",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5j6q6&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5j6q6&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Beverages/Soda & Pop",
     "url": "https://www.target.com/c/soda-pop-beverages-food-beverage/-/N-5xt0m",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0m&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0m&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Beverages/Soda & Pop",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0m&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0m&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Beverages/Sports Drinks",
     "url": "https://www.target.com/c/sports-drinks-beverages-grocery/-/N-75dvf",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=75dvf&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F75dvf&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Beverages/Sports Drinks",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=75dvf&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F75dvf&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Beverages/Water",
     "url": "https://www.target.com/c/water-beverages-grocery/-/N-5xt0k",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0k&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0k&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Beverages/Water",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0k&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0k&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Beverages/Energy Drinks",
     "url": "https://www.target.com/c/energy-drinks-beverages-grocery/-/N-4uez2",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4uez2&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4uez2&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Beverages/Energy Drinks",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4uez2&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4uez2&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Beverages/Milk",
     "url": "https://www.target.com/c/milk-dairy-grocery/-/N-5xszh",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszh&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszh&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Dairy/Milk",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszh&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszh&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Beverages/Milk Substitutes",
     "url": "https://www.target.com/c/milk-substitutes-dairy-grocery/-/N-zkvwk",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=zkvwk&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fzkvwk&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Dairy/Milk Substitutes",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=zkvwk&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fzkvwk&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Beverages/Tea",
     "url": "https://www.target.com/c/tea-beverages-grocery/-/N-4yi5o",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4yi5o&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4yi5o&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Beverages/Tea",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4yi5o&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4yi5o&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Beverages/Cocktail Mixers",
     "url": "https://www.target.com/c/cocktail-mixers-beverages-grocery/-/N-4uez3",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4uez3&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4uez3&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Beverages/Cocktail Mixers",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4uez3&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4uez3&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Beverages/Cocoa",
     "url": "https://www.target.com/c/cocoa-beverages-grocery/-/N-4yi5n",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4yi5n&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4yi5n&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Beverages/Cocoa",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4yi5n&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4yi5n&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Beverages/Powdered & Liquid Drink Mixes",
     "url": "https://www.target.com/c/powdered-liquid-drink-mixes-beverages-grocery/-/N-5xt0n",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0n&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0n&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Beverages/Powdered & Liquid Drink Mixes",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0n&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0n&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Pantry/Bulk Pantry",
     "url": "https://www.target.com/c/bulk-pantry/-/N-gev3n",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=gev3n&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fgev3n&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Pantry/Bulk Pantry",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=gev3n&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fgev3n&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Pantry/Boxed Meals & Side Dishes",
     "url": "https://www.target.com/c/boxed-meals-side-dishes-pantry-grocery/-/N-5xsyf",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsyf&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsyf&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Pantry/Boxed Meals & Side Dishes",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsyf&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsyf&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Pantry/Pasta, Rice & Grains",
     "url": "https://www.target.com/c/pasta-rice-grains-pantry-grocery/-/N-5xsyc",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsyc&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsyc&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Pantry/Pasta, Rice & Grains",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsyc&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsyc&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Pantry/Sauces, Salsa & Marinades",
     "url": "https://www.target.com/c/sauces-salsa-marinades-pantry-grocery/-/N-4tg6h",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tg6h&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tg6h&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Pantry/Sauces, Salsa & Marinades",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tg6h&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tg6h&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Pantry/Condiments & Salad Dressings",
     "url": "https://www.target.com/c/condiments-salad-dressings-pantry-grocery/-/N-5xszw",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszw&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszw&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Pantry/Condiments & Salad Dressings",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszw&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszw&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Pantry/Peanut Butter & Jelly",
     "url": "https://www.target.com/c/peanut-butter-jelly-pantry-grocery/-/N-5xszr",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszr&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszr&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Pantry/Peanut Butter & Jelly",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszr&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszr&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Pantry/Soups, Broth & Chili",
     "url": "https://www.target.com/c/soups-broth-chili-pantry-grocery/-/N-5xszx",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszx&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszx&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Pantry/Soups, Broth & Chili",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszx&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszx&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Pantry/Cooking Oil & Vinegar",
     "url": "https://www.target.com/c/cooking-oil-vinegar-pantry-grocery/-/N-4u9ly",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4u9ly&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4u9ly&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Pantry/Cooking Oil & Vinegar",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4u9ly&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4u9ly&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Pantry/Sugar & Sweeteners",
     "url": "https://www.target.com/c/sugar-sweeteners-pantry-grocery/-/N-5xt0u",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0u&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0u&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Pantry/Sugar & Sweeteners",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0u&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0u&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Pantry/Emergency Food",
     "url": "https://www.target.com/c/emergency-food-pantry-grocery/-/N-4ykz6",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4ykz6&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4ykz6&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Pantry/Emergency Food",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4ykz6&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4ykz6&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Breakfast & Cereal/Cereal & Granola",
     "url": "https://www.target.com/c/cereal-granola-breakfast-grocery/-/N-5xt0g",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0g&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0g&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Breakfast & Cereal/Cereal & Granola",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0g&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0g&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Breakfast & Cereal/Oatmeal",
     "url": "https://www.target.com/c/oatmeal/-/N-8tu6y",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=8tu6y&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F8tu6y&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Breakfast & Cereal/Oatmeal",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=8tu6y&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F8tu6y&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Breakfast & Cereal/Pancake Mixes, Waffle Mixes & Syrup",
     "url": "https://www.target.com/c/pancake-mixes-waffle-syrup-breakfast-cereal-grocery/-/N-5xt0f",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0f&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0f&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Breakfast & Cereal/Pancake Mixes, Waffle Mixes & Syrup",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0f&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0f&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Breakfast & Cereal/Toaster Pastries",
     "url": "https://www.target.com/c/toaster-pastries-breakfast-cereal-grocery/-/N-5xt0i",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0i&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0i&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Breakfast & Cereal/Toaster Pastries",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0i&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0i&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Breakfast & Cereal/Organic Breakfast & Cereal",
     "url": "https://www.target.com/c/organic-breakfast-cereal/-/N-qrydr",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=qrydr&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fqrydr&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Breakfast & Cereal/Organic Breakfast & Cereal",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=qrydr&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fqrydr&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Dairy/Cheese",
     "url": "https://www.target.com/c/cheese-dairy-grocery/-/N-5xszk",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszk&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszk&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Dairy/Cheese",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszk&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszk&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Dairy/Cream Cheese",
     "url": "https://www.target.com/c/cream-cheese-dairy-grocery/-/N-4tgo8",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgo8&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgo8&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Dairy/Cream Cheese",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgo8&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgo8&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Dairy/Butter & Margarine",
     "url": "https://www.target.com/c/butter-margarine-dairy-grocery/-/N-5xszl",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszl&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszl&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Dairy/Butter & Margarine",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszl&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszl&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Dairy/Cream & Whipped Toppings",
     "url": "https://www.target.com/c/cream-whipped-toppings-dairy-grocery/-/N-5xszj",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszj&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszj&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Dairy/Cream & Whipped Toppings",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszj&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszj&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Dairy/Eggs",
     "url": "https://www.target.com/c/eggs-dairy-grocery/-/N-5xszi",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszi&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszi&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Dairy/Eggs",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszi&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszi&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Dairy/Refrigerated Doughs",
     "url": "https://www.target.com/c/refrigerated-doughs-dairy-grocery/-/N-4tgo6",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgo6&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgo6&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Dairy/Refrigerated Doughs",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgo6&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgo6&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Dairy/Yogurt",
     "url": "https://www.target.com/c/yogurt-dairy-grocery/-/N-5xszf",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszf&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszf&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Dairy/Yogurt",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszf&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszf&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Dairy/Sour Cream & Dips",
     "url": "https://www.target.com/c/sour-cream-dips-dairy-grocery/-/N-5xszg",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszg&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszg&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Dairy/Sour Cream & Dips",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszg&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszg&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Dairy/Coffee Creamers",
     "url": "https://www.target.com/c/coffee-creamers-beverages-grocery/-/N-5xszv",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszv&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszv&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Beverages/Coffee/Coffee Creamers",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xszv&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xszv&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Dairy/Cottage Cheese",
     "url": "https://www.target.com/c/cottage-cheese-dairy-grocery/-/N-4tgo9",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgo9&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgo9&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Dairy/Cottage Cheese",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=4tgo9&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F4tgo9&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Deli/Prepared Salads & Sandwiches",
     "url": "https://www.target.com/c/prepared-salads-sandwiches-deli-grocery/-/N-mdt7r",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=mdt7r&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fmdt7r&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Deli/Prepared Salads & Sandwiches",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=mdt7r&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fmdt7r&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Deli/Fresh Dips, Salsas & Hummus",
     "url": "https://www.target.com/c/fresh-dips-salsas-hummus-deli-grocery/-/N-cjg5k",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=cjg5k&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fcjg5k&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Deli/Fresh Dips, Salsas & Hummus",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=cjg5k&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fcjg5k&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Deli/Prepared Meals & Sides",
     "url": "https://www.target.com/c/prepared-meals-sides-deli-grocery/-/N-7dopp",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=7dopp&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F7dopp&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Deli/Prepared Meals & Sides",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=7dopp&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F7dopp&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Deli/Fresh Soups",
     "url": "https://www.target.com/c/fresh-soups-deli-grocery/-/N-p2osw",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=p2osw&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fp2osw&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Deli/Fresh Soups",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=p2osw&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fp2osw&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Deli/Charcuterie Board Ideas",
     "url": "https://www.target.com/c/charcuterie-board-ideas/-/N-sv5if",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=sv5if&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fsv5if&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Meal Ideas/Charcuterie Board Ideas",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=sv5if&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fsv5if&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Deli/Meal Kits",
     "url": "https://www.target.com/c/meal-kits-deli-grocery/-/N-fql6w",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=fql6w&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Ffql6w&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Deli/Meal Kits",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=fql6w&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Ffql6w&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Deli/Party Trays",
     "url": "https://www.target.com/c/party-trays-deli-grocery/-/N-tgba0",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=tgba0&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Ftgba0&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Deli/Party Trays",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=tgba0&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Ftgba0&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Candy/Chocolate Candy",
     "url": "https://www.target.com/c/chocolate-candy-grocery/-/N-5xt0b",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0b&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0b&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Candy/Chocolate Candy",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0b&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0b&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Candy/Gum & Mints",
     "url": "https://www.target.com/c/gum-mints-candy-grocery/-/N-5xt0a",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0a&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0a&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Candy/Gum & Mints",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt0a&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt0a&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Candy/Gummy & Chewy Candy",
     "url": "https://www.target.com/c/gummy-chewy-candy-grocery/-/N-5xt09",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt09&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt09&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Candy/Gummy & Chewy Candy",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt09&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt09&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Candy/Hard Candy",
     "url": "https://www.target.com/c/hard-candy-grocery/-/N-5xt08",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt08&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt08&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Candy/Hard Candy",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xt08&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xt08&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Candy/Candy Variety Packs",
     "url": "https://www.target.com/c/candy-variety-packs/-/N-iomx6",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=iomx6&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fiomx6&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Candy/Candy Variety Packs",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=iomx6&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fiomx6&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Candy/Premium Candy",
     "url": "https://www.target.com/c/premium-candy/-/N-m4inq",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=m4inq&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fm4inq&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Candy/Premium Candy",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=m4inq&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fm4inq&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Coffee/K-Cups & Coffee Pods",
     "url": "https://www.target.com/c/k-cups-coffee-pods-beverages-grocery/-/N-6kpkn",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=6kpkn&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F6kpkn&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Beverages/Coffee/K-Cups & Coffee Pods",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=6kpkn&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F6kpkn&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Coffee/Ground Coffee",
     "url": "https://www.target.com/c/ground-coffee-beverages-grocery/-/N-x2hqv",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=x2hqv&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fx2hqv&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Beverages/Coffee/Ground Coffee",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=x2hqv&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fx2hqv&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Coffee/Whole Bean Coffee",
     "url": "https://www.target.com/c/whole-bean-coffee-beverages-grocery/-/N-n8upo",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=n8upo&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fn8upo&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Beverages/Coffee/Whole Bean Coffee",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=n8upo&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fn8upo&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Coffee/Espresso Pods",
     "url": "https://www.target.com/c/espresso-coffee-beverages-grocery/-/N-2dpp9",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=2dpp9&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F2dpp9&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Beverages/Coffee/Espresso Pods",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=2dpp9&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F2dpp9&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Coffee/Cold Brew & Bottled Coffee",
     "url": "https://www.target.com/c/cold-brew-coffee-beverages-grocery/-/N-260b3",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=260b3&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F260b3&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Beverages/Coffee/Cold Brew & Bottled Coffee",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=260b3&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F260b3&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Coffee/Instant Coffee",
     "url": "https://www.target.com/c/instant-coffee-beverages-grocery/-/N-05hso",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=05hso&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F05hso&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Beverages/Coffee/Instant Coffee",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=05hso&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F05hso&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Wine, Beer & Liquor/Wine",
     "url": "https://www.target.com/c/wine-beer-liquor-grocery/-/N-5xsxv",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsxv&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsxv&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Wine, Beer & Liquor/Wine",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsxv&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsxv&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Wine, Beer & Liquor/Hard Seltzers & Canned Cocktails",
     "url": "https://www.target.com/c/hard-seltzers/-/N-mar4j",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=mar4j&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fmar4j&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Wine, Beer & Liquor/Hard Seltzers & Canned Cocktails",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=mar4j&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fmar4j&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Wine, Beer & Liquor/Liquor",
     "url": "https://www.target.com/c/liquor-wine-beer-grocery/-/N-5xsxw",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsxw&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsxw&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Wine, Beer & Liquor/Liquor",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xsxw&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xsxw&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Wine, Beer & Liquor/Target Selects",
     "url": "https://www.target.com/c/brands-we-love/-/N-iscgt",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=iscgt&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fiscgt&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Wine, Beer & Liquor/Target Selects",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=iscgt&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fiscgt&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Wine, Beer & Liquor/Non-Alcoholic Drinks",
     "url": "https://www.target.com/c/non-alcoholic-drinks-wine-beer-liquor-grocery/-/N-gjl0q",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=gjl0q&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fgjl0q&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Wine, Beer & Liquor/Non-Alcoholic Drinks",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=gjl0q&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fgjl0q&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Wine, Beer & Liquor/Perfect Meal Pairings",
     "url": "https://www.target.com/c/perfect-meal-pairings/-/N-10ab1",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=10ab1&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F10ab1&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Wine, Beer & Liquor/Perfect Meal Pairings",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=10ab1&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F10ab1&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Wine, Beer & Liquor/Top Rated Wines Under $15",
     "url": "https://www.target.com/c/game-day/-/N-ypj4e",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=ypj4e&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fypj4e&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Wine, Beer & Liquor/Top Rated Wines Under $15",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=ypj4e&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2Fypj4e&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Wine, Beer & Liquor/Bar & Wine Tools",
     "url": "https://www.target.com/c/bar-wine-tools-kitchen-dining/-/N-5xts9",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xts9&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xts9&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Kitchen & Dining/Bar & Wine/Bar & Wine Tools",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5xts9&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F5xts9&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Tabitha Brown for Target",
     "url": "https://www.target.com/c/tabitha-brown-for-target/-/N-3k8lx",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=3k8lx&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&new_search=false&offset=0&page=%2Fc%2F3k8lx&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Ways to Shop/Brand Experiences/Tabitha Brown for Target",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=3k8lx&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&new_search=false&offset=0&page=%2Fc%2F3k8lx&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Good & Gather",
     "url": "https://www.target.com/b/good-gather/-/N-yfqzk",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&brand_id=yfqzk&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&new_search=true&offset=0&page=%2Fb%2Fyfqzk&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Good & Gather",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&brand_id=yfqzk&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&new_search=true&offset=0&page=%2Fb%2Fyfqzk&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Favorite Day",
     "url": "https://www.target.com/b/favorite-day/-/N-q643lewlzpu",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&brand_id=q643lewlzpu&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&new_search=true&offset=0&page=%2Fb%2Fq643lewlzpu&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Favorite Day",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&brand_id=q643lewlzpu&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&new_search=true&offset=0&page=%2Fb%2Fq643lewlzpu&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Market Pantry",
     "url": "https://www.target.com/b/market-pantry/-/N-85ceg",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&brand_id=85ceg&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&new_search=true&offset=0&page=%2Fb%2F85ceg&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Market Pantry",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&brand_id=85ceg&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&new_search=true&offset=0&page=%2Fb%2F85ceg&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Starbucks",
     "url": "https://www.target.com/c/starbucks/-/N-5cofw",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5cofw&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&new_search=false&offset=0&page=%2Fc%2F5cofw&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Featured Brands/Grocery/Starbucks",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=5cofw&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&new_search=false&offset=0&page=%2Fc%2F5cofw&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   },
   {
     "grocery_group": "Food Gifts",
     "url": "https://www.target.com/c/food-gifts-grocery/-/N-54wac",
-    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=54wac&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F54wac&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFD6076FE0201B4A544FBC8371A53&zip=15400"
+    "grocery_group_path": "Target/Grocery/Food Gifts",
+    "get_request_url": "https://redsky.target.com/redsky_aggregations/v1/web/plp_search_v2?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&category=54wac&channel=WEB&count=24&default_purchasability_filter=false&include_dmc_dmr=false&include_sponsored=true&new_search=false&offset=0&page=%2Fc%2F54wac&platform=desktop&pricing_store_id=3991&spellcheck=true&useragent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+HeadlessChrome%2F125.0.0.0+Safari%2F537.36&visitor_id=018FFE27DA950201BD7C09943D12B677&zip=15400"
   }
 ]

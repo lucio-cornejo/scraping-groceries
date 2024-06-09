@@ -27,7 +27,7 @@ with respect to the GET request url
 with open('data/get_request_urls_for_task_2.2.json', 'r', encoding = 'utf-8') as f:
   GET_request_urls_data_frame = pd.DataFrame(json.loads(f.read()))
 
-  GET_request_urls_dict = GET_request_urls_data_frame[
+  GET_request_dicts_list = GET_request_urls_data_frame[
     ~GET_request_urls_data_frame.duplicated(subset = ["get_request_url"])
   ].to_dict('records')
 
@@ -50,7 +50,12 @@ def extract_grocery_group_products_basic_info(
   task_2_2_logger.info(f'Number of products: {number_of_products}')
 
   merged_bread_crumbs = merge_bread_crumbs_labels(rsp_json)
-  if merged_bread_crumbs is None: raise Exception("Failed extraction of grocery's group products basic info")
+  if merged_bread_crumbs is None: 
+    task_2_2_logger.critical("Failed extraction of grocery's group path")
+    # Assign grocery group path to corresponding value extracted in task-1.2,
+    # else, assign None, because in task-3, the grocery group path may be
+    # able to be extracted for each product .
+    merged_bread_crumbs = GET_request_url_dict.get('grocery_group_path', None)
 
   products_dicts_list = attempt_extraction_of_nested_dict_value(rsp_json, 'data;search;products')
   if products_dicts_list is None: raise Exception("Failed extraction of grocery's group products basic info")
@@ -122,19 +127,21 @@ if __name__ == '__main__':
   was_IP_banned = True
   max_number_of_IP_rotation_attempts = 3
 
-  for index, GET_request_url_dict in enumerate(GET_request_urls_dict):
+  for index in range(len(GET_request_dicts_list)):
     task_2_2_logger.info('\n')
-    task_2_2_logger.info(f'GET_request_urls_dict list index: {index}')
+    task_2_2_logger.info(f'GET_request_dicts list index: {index}')
 
     attempt_number = 1
     while attempt_number <= max_number_of_IP_rotation_attempts:
       if was_IP_banned:
         gateway, gateway_session = create_gateway_and_session_for_random_IP(
-          GET_request_url_dict['get_request_url']
+          GET_request_dicts_list[index]['get_request_url']
         )
 
       try:
-        extract_grocery_group_products_basic_info(gateway_session, index, GET_request_url_dict)
+        extract_grocery_group_products_basic_info(
+          gateway_session, index, GET_request_dicts_list[index]
+        )
         was_IP_banned = False
         break
       except Exception as e:
