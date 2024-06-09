@@ -2,17 +2,17 @@ profile: !ENV ${PROFILE}
 
 selenium:
   page_load_seconds_timeout: 30
+  product_html_container_presence_seconds_timeout: 20
   products_basic_info_get_request_seconds_timeout: 60
 
 groceries_homepage:
   url: "https://www.target.com/c/grocery/-/N-5xt1a"
-  categories_container: 
+  categories_container:
     css_selector: "[data-test='@web/slingshot-components/bubcat']"
     categories_button_appended_css_selector: " button"
     categories_element_appended_css_selector: " li"
     categories_name_container_appended_css_selector: " [data-test='bubcatItemTitleComponent'] span"
 
-expected_string_in_paginated_products_page_html: "@web/site-top-of-funnel/ProductCardPlaceholder"
 products_website:
   paginator:
     css_selector: "[data-test='pagination']"

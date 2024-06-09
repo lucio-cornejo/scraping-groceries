@@ -1,0 +1,4 @@
+2024/06/08 21:46:08 PM - task_1.2 - INFO - Started subtask
+2024/06/08 21:46:08 PM - task_1.2 - INFO - List index: 0
+2024/06/08 21:46:54 PM - task_1.2 - CRITICAL - Possible non-paginated type corresponding to URL: https://www.target.com/c/frozen-single-serve-meals-foods-grocery/-/N-wdysv
+2024/06/08 21:46:54 PM - task_1.2 - INFO - List index: 1
