@@ -1,5 +1,11 @@
 # Scraping **Target**
 
+**WARNING: THIS DOCUMENTATION IS NOT UP TO DATE**
+
+- Possible solution to IP ban, invokin multiple 
+AWS Lambdas, each with a different IP address: <https://www.youtube.com/watch?v=8BbOVhHs950>
+
+
 ## Tasks
 
 ### Task 1
