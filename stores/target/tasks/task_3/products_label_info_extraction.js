@@ -16,7 +16,7 @@ logger.info('Started subtask')
 
 
 const productsObjectsArray = JSON.parse(fs.readFileSync('data/unique_products_urls.json', 'utf8'));
-// productsObjectsArray.splice(200);
+productsObjectsArray.splice(200);
 
 async.mapLimit(productsObjectsArray, 5, async function(productObject) {
   const tcinOfProduct = productObject['tcin'].toString();
@@ -70,7 +70,7 @@ async.mapLimit(productsObjectsArray, 5, async function(productObject) {
     return productObject;
   }
 
-  logger.warning(`GET request reponse status was ${response.status}, for url ${GETRequesURL}`)
+  logger.warn(`GET request reponse status was ${response.status}, for url ${GETRequesURL}`)
   return null;
 
 }, (err, results) => {
