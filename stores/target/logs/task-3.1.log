@@ -1,0 +1,14 @@
+2024/06/09 20:19:54 PM - task_3.1 - INFO - Started subtask
+2024/06/09 20:19:54 PM - task_3.1 - INFO - Successful CSV file creation for all unique GET request urls
+2024/06/09 20:19:56 PM - task_3.1 - INFO - Number of scraped product URLs: 37819
+2024/06/09 20:19:56 PM - task_3.1 - INFO - Number of unique product URLs: 30592
+2024/06/09 20:19:56 PM - task_3.1 - INFO - Number of missing values per column:
+2024/06/09 20:19:56 PM - task_3.1 - INFO - tcin                       0
+original_tcin              0
+dpci                   10087
+title                      0
+url                        0
+image_url                  0
+merged_bread_crumbs        0
+dtype: int64
+2024/06/09 20:19:56 PM - task_3.1 - INFO - Completed subtask
