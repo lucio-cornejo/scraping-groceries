@@ -1,0 +1,114 @@
+[
+    {
+        "tcin": 47868632,
+        "original_tcin": 47868632,
+        "dpci": "270-05-0488",
+        "title": "Good Food Made Simple All Natural Bacon, Egg & Cheese Breakfast Frozen Burrito - 5oz",
+        "url": "https://www.target.com/p/good-food-made-simple-all-natural-bacon-egg-cheese-breakfast-frozen-burrito-5oz/-/A-47868632",
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_f8d34a4c-47ee-42c0-8fe1-aa21342926ef",
+        "merged_bread_crumbs": "Target/Grocery/Frozen Foods/Frozen Single Serve Meals",
+        "nutrition_facts": {
+            "ingredients": "FLOUR TORTILLA (WHEAT FLOUR, WATER, WHOLE WHEAT FLOUR, PALM OIL, BAKING POWDER, CANE SUGAR, SALT, GUAR GUM, NON-GMO CORN STARCH), CAGE-FREE** EGGS (EGGS, WHOLE MILK, NON-GMO CORN STARCH, SEA SALT, PEPPER), WHITE CHEDDAR CHEESE (PASTEURIZED CULTURED MILK, SALT, ENZYMES), UNCURED SMOKED BACON* (PORK, WATER, SEA SALT, SUGAR, CELERY POWDER), ORGANIC WHITE CHEDDAR CHEESE SAUCE (WATER, ORGANIC CORN STARCH, SALT, ORGANIC CANE SUGAR, ORGANIC NATURAL CHEDDAR CHEESE FLAVOR, AND 2% OR LESS ORGANIC CANOLA OIL), ORGANIC ROASTED RUSSET POTATOES (ORGANIC POTATOES WITH ORGANIC OLIVE OIL), ORGANIC SALSA (ORGANIC DICED TOMATOES [ORGANIC TOMATOES, ORGANIC TOMATO JUICE, SEA SALT, NATURALLY DERIVED CITRIC ACID, CALCIUM CHLORIDE], ORGANIC DICED ONIONS, ORGANIC JALAPENO PEPPERS, ORGANIC VINEGAR, ORGANIC LIME JUICE, ORGANIC SCALLIONS, ORGANIC CILANTRO, ORGANIC CORN STARCH, SEA SALT, ORGANIC GARLIC POWDER, ORGANIC CUMIN, ORGANIC BLACK PEPPER, ORGANIC CORIANDER, ORGANIC CHILI POWDER), ORGANIC GREEN PEPPERS, ORGANIC SCALLIONS, ORGANIC CORN STARCH. ",
+            "nutrition_label_type_code": "LEGACY_FORMAT",
+            "value_prepared_list": [
+                {
+                    "description": "Amount per serving\n",
+                    "serving_size": "142",
+                    "serving_size_unit_of_measurement": "g",
+                    "servings_per_container": "1",
+                    "nutrients": [
+                        {
+                            "name": "Calories",
+                            "quantity": 330,
+                            "unit_of_measurement": "Cal"
+                        },
+                        {
+                            "name": "Total Fat",
+                            "percentage": 18,
+                            "quantity": 14,
+                            "unit_of_measurement": "g"
+                        },
+                        {
+                            "name": "Total Carbohydrate",
+                            "percentage": 13,
+                            "quantity": 37,
+                            "unit_of_measurement": "g"
+                        },
+                        {
+                            "name": "Dietary Fiber",
+                            "percentage": 11,
+                            "quantity": 3,
+                            "unit_of_measurement": "g"
+                        },
+                        {
+                            "name": "Trans Fat",
+                            "quantity": 0,
+                            "unit_of_measurement": "g"
+                        },
+                        {
+                            "name": "Sugars",
+                            "quantity": 2,
+                            "unit_of_measurement": "g"
+                        },
+                        {
+                            "name": "Cholesterol",
+                            "percentage": 32,
+                            "quantity": 95,
+                            "unit_of_measurement": "mg"
+                        },
+                        {
+                            "name": "Added Sugars",
+                            "percentage": 1,
+                            "quantity": 1,
+                            "unit_of_measurement": "g"
+                        },
+                        {
+                            "name": "Sodium",
+                            "percentage": 29,
+                            "quantity": 660,
+                            "unit_of_measurement": "mg"
+                        },
+                        {
+                            "name": "Protein",
+                            "quantity": 14,
+                            "unit_of_measurement": "g"
+                        },
+                        {
+                            "name": "Vitamin D",
+                            "percentage": 2
+                        },
+                        {
+                            "name": "Calcium",
+                            "percentage": 10
+                        },
+                        {
+                            "name": "Iron",
+                            "percentage": 15
+                        },
+                        {
+                            "name": "Potassium",
+                            "percentage": 4
+                        }
+                    ]
+                }
+            ],
+            "warning": "CONTAINS: WHEAT, EGGS, MILK"
+        },
+        "bullet_descriptions": [
+            "<B>Contains:</B> Eggs, Milk, Wheat",
+            "<B>Package Quantity:</B> 1",
+            "<B>Net weight:</B> 5 Ounces"
+        ],
+        "upc": "080618411238",
+        "origin": "Made in the USA or Imported"
+    },
+    {
+        "tcin": 13234505,
+        "original_tcin": 13234505,
+        "dpci": "270-02-0058",
+        "title": "Smucker&#39;s Uncrustables Frozen Peanut Butter &#38; Strawberry Jam Sandwich - 8oz/4ct",
+        "url": "https://www.target.com/p/smucker-39-s-uncrustables-frozen-peanut-butter-38-strawberry-jam-sandwich-8oz-4ct/-/A-13234505",
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_a044eae8-3808-4123-80a0-490339e02fba",
+        "merged_bread_crumbs": "Target/Grocery/Frozen Foods/Frozen Single Serve Meals"
+    }
+]

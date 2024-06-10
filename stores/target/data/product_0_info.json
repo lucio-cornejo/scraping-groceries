@@ -1,0 +1,422 @@
+{
+    "data": {
+        "product": {
+            "__typename": "Product",
+            "tcin": "47868632",
+            "category": {
+                "parent_category_id": "5xszd",
+                "name": "Frozen Single Serve Meals"
+            },
+            "ratings_and_reviews": {
+                "has_verified": true,
+                "statistics": {
+                    "not_recommended_count": 2,
+                    "question_count": 0,
+                    "rating": {
+                        "average": 3.72,
+                        "count": 25,
+                        "distribution": {
+                            "rating1": 3,
+                            "rating2": 2,
+                            "rating3": 5,
+                            "rating4": 4,
+                            "rating5": 11
+                        },
+                        "secondary_averages": [
+                            {
+                                "id": "Value",
+                                "label": "value",
+                                "range": 5,
+                                "type": "RATING",
+                                "value": 3.67
+                            },
+                            {
+                                "id": "Quality",
+                                "label": "quality",
+                                "range": 5,
+                                "type": "RATING",
+                                "value": 3.67
+                            },
+                            {
+                                "id": "Taste",
+                                "label": "taste",
+                                "range": 5,
+                                "type": "RATING",
+                                "value": 3.67
+                            }
+                        ]
+                    },
+                    "recommended_count": 3,
+                    "recommended_percentage": 60,
+                    "review_count": 6
+                },
+                "most_recent": [
+                    {
+                        "id": "0ce842be-ba10-489d-a95a-e002500683d9",
+                        "text": "zero stars if i could. this is disgusting! eating it now and without exaggeration, every bite makes me nauseous and want to vomit. i'm guessing it's the flavor of the bacon but i'm not sure; it's awful. bacon is also chewy and seems gristly. ugh, avoid!",
+                        "author": {
+                            "nickname": "DoBetter",
+                            "external_id": "7989070293"
+                        },
+                        "title": "hell no",
+                        "rating": {
+                            "value": 1,
+                            "submitted_at": "2023-02-26T22:17:52.769Z"
+                        }
+                    },
+                    {
+                        "id": "4c2ba0b4-bca4-48db-b43d-ad7389aed5b1",
+                        "text": "Love that it is quick and healthy, tastes fresh and amazing. Only part is that the tortilla can get a bit hard even when I put a wet paper towel over it in the microwave.",
+                        "author": {
+                            "nickname": "Jordynb",
+                            "external_id": "8081614001"
+                        },
+                        "title": "Yum!!",
+                        "rating": {
+                            "value": 4,
+                            "submitted_at": "2022-09-27T16:37:02.337Z"
+                        }
+                    },
+                    {
+                        "id": "34d8242f-8216-44bd-9249-24e96175ecff",
+                        "text": "Good for a frozen burrito",
+                        "author": {
+                            "nickname": "Jackie",
+                            "external_id": "3672882063"
+                        },
+                        "title": "Good",
+                        "rating": {
+                            "value": 5,
+                            "submitted_at": "2022-03-05T13:12:28.659Z"
+                        }
+                    },
+                    {
+                        "id": "b592ecd1-7cf7-46a6-92e6-720a90408123",
+                        "text": "I mistakenly believed their lies and didn't read the label; my bad. Who adds sugar, canola oil, and palm oil to a breakfast buritto? Even katchup couldn't cover up the foulness of this burrito so I chucked it. Never again!",
+                        "author": {
+                            "nickname": "Miss Andi",
+                            "external_id": "20025569436"
+                        },
+                        "title": "NOT Good Food as claimed",
+                        "rating": {
+                            "value": 1,
+                            "submitted_at": "2021-12-16T22:37:38.456Z"
+                        }
+                    },
+                    {
+                        "id": "43d951a3-726c-4b62-be6c-c281813ae2b2",
+                        "text": "i love it so much. i just want to eat it every day.",
+                        "author": {
+                            "nickname": "review",
+                            "external_id": "20000952478"
+                        },
+                        "title": "love it",
+                        "rating": {
+                            "value": 5,
+                            "submitted_at": "2021-08-25T14:50:17.721Z"
+                        }
+                    },
+                    {
+                        "id": "75cb250c-cfe1-48eb-9596-b7bb199fcf18",
+                        "text": "Nothing says breakfast more than bacon and eggs! Love this burrito for when I'm running out the door in the morning. Also, great to have around for when the kids are looking for something quick.",
+                        "author": {
+                            "nickname": "MTB",
+                            "external_id": "1134952091"
+                        },
+                        "title": "Bacon!",
+                        "rating": {
+                            "value": 5,
+                            "submitted_at": "2020-06-10T14:31:21.869Z"
+                        }
+                    }
+                ]
+            },
+            "free_shipping": {
+                "enabled": false
+            },
+            "item": {
+                "cart_add_on_threshold": 35,
+                "compliance": {
+                    "is_proposition_65": false
+                },
+                "disclaimer": {
+                    "description": "Content on this site is for reference purposes only.  Target does not represent or warrant that the nutrition, ingredient, allergen and other product information on our Web or Mobile sites are accurate or complete, since this information comes from the product manufacturers.  On occasion, manufacturers may improve or change their product formulas and update their labels.  We recommend that you do not rely solely on the information presented on our Web or Mobile sites and that you review the product's label or contact the manufacturer directly if you have specific product concerns or questions.  If you have specific healthcare concerns or questions about the products displayed, please contact your licensed healthcare professional for advice or answers.  Any additional pictures are suggested servings only.",
+                    "type": "Grocery Disclaimer"
+                },
+                "dpci": "270-05-0488",
+                "eligibility_rules": {
+                    "add_on": {
+                        "is_active": false
+                    },
+                    "hold": {
+                        "is_active": true
+                    },
+                    "inventory_notification_to_guest_excluded": {
+                        "is_active": true
+                    },
+                    "scheduled_delivery": {
+                        "is_active": true
+                    }
+                },
+                "enrichment": {
+                    "buy_url": "https://www.target.com/p/good-food-made-simple-all-natural-bacon-egg-cheese-breakfast-frozen-burrito-5oz/-/A-47868632",
+                    "images": {
+                        "base_url": "//target.scene7.com/is/image/Target/",
+                        "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_f8d34a4c-47ee-42c0-8fe1-aa21342926ef",
+                        "primary_image": "GUEST_f8d34a4c-47ee-42c0-8fe1-aa21342926ef",
+                        "alternate_images": [
+                            "GUEST_643546ec-a386-49bd-b0f2-15a7d6dbdd64",
+                            "GUEST_1a6f2f2d-77dc-4090-acc8-7a3564d9f4e9"
+                        ],
+                        "alternate_image_urls": [
+                            "https://target.scene7.com/is/image/Target/GUEST_643546ec-a386-49bd-b0f2-15a7d6dbdd64",
+                            "https://target.scene7.com/is/image/Target/GUEST_1a6f2f2d-77dc-4090-acc8-7a3564d9f4e9"
+                        ],
+                        "content_labels": [
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_643546ec-a386-49bd-b0f2-15a7d6dbdd64"
+                            },
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_1a6f2f2d-77dc-4090-acc8-7a3564d9f4e9"
+                            },
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_f8d34a4c-47ee-42c0-8fe1-aa21342926ef"
+                            }
+                        ]
+                    },
+                    "image_info": {
+                        "base_url": "//target.scene7.com/is/image/Target/",
+                        "primary_image": {
+                            "url": "https://target.scene7.com/is/image/Target/GUEST_f8d34a4c-47ee-42c0-8fe1-aa21342926ef",
+                            "image_name": "GUEST_f8d34a4c-47ee-42c0-8fe1-aa21342926ef"
+                        },
+                        "alternate_images": [
+                            {
+                                "url": "https://target.scene7.com/is/image/Target/GUEST_643546ec-a386-49bd-b0f2-15a7d6dbdd64",
+                                "image_name": "GUEST_643546ec-a386-49bd-b0f2-15a7d6dbdd64"
+                            },
+                            {
+                                "url": "https://target.scene7.com/is/image/Target/GUEST_1a6f2f2d-77dc-4090-acc8-7a3564d9f4e9",
+                                "image_name": "GUEST_1a6f2f2d-77dc-4090-acc8-7a3564d9f4e9"
+                            }
+                        ],
+                        "swatch_image": {},
+                        "content_labels": [
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_643546ec-a386-49bd-b0f2-15a7d6dbdd64"
+                            },
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_1a6f2f2d-77dc-4090-acc8-7a3564d9f4e9"
+                            },
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_f8d34a4c-47ee-42c0-8fe1-aa21342926ef"
+                            }
+                        ]
+                    },
+                    "nutrition_facts": {
+                        "ingredients": "FLOUR TORTILLA (WHEAT FLOUR, WATER, WHOLE WHEAT FLOUR, PALM OIL, BAKING POWDER, CANE SUGAR, SALT, GUAR GUM, NON-GMO CORN STARCH), CAGE-FREE** EGGS (EGGS, WHOLE MILK, NON-GMO CORN STARCH, SEA SALT, PEPPER), WHITE CHEDDAR CHEESE (PASTEURIZED CULTURED MILK, SALT, ENZYMES), UNCURED SMOKED BACON* (PORK, WATER, SEA SALT, SUGAR, CELERY POWDER), ORGANIC WHITE CHEDDAR CHEESE SAUCE (WATER, ORGANIC CORN STARCH, SALT, ORGANIC CANE SUGAR, ORGANIC NATURAL CHEDDAR CHEESE FLAVOR, AND 2% OR LESS ORGANIC CANOLA OIL), ORGANIC ROASTED RUSSET POTATOES (ORGANIC POTATOES WITH ORGANIC OLIVE OIL), ORGANIC SALSA (ORGANIC DICED TOMATOES [ORGANIC TOMATOES, ORGANIC TOMATO JUICE, SEA SALT, NATURALLY DERIVED CITRIC ACID, CALCIUM CHLORIDE], ORGANIC DICED ONIONS, ORGANIC JALAPENO PEPPERS, ORGANIC VINEGAR, ORGANIC LIME JUICE, ORGANIC SCALLIONS, ORGANIC CILANTRO, ORGANIC CORN STARCH, SEA SALT, ORGANIC GARLIC POWDER, ORGANIC CUMIN, ORGANIC BLACK PEPPER, ORGANIC CORIANDER, ORGANIC CHILI POWDER), ORGANIC GREEN PEPPERS, ORGANIC SCALLIONS, ORGANIC CORN STARCH. ",
+                        "nutrition_label_type_code": "LEGACY_FORMAT",
+                        "value_prepared_list": [
+                            {
+                                "description": "Amount per serving\n",
+                                "serving_size": "142",
+                                "serving_size_unit_of_measurement": "g",
+                                "servings_per_container": "1",
+                                "nutrients": [
+                                    {
+                                        "name": "Calories",
+                                        "quantity": 330,
+                                        "unit_of_measurement": "Cal"
+                                    },
+                                    {
+                                        "name": "Total Fat",
+                                        "percentage": 18,
+                                        "quantity": 14,
+                                        "unit_of_measurement": "g"
+                                    },
+                                    {
+                                        "name": "Total Carbohydrate",
+                                        "percentage": 13,
+                                        "quantity": 37,
+                                        "unit_of_measurement": "g"
+                                    },
+                                    {
+                                        "name": "Dietary Fiber",
+                                        "percentage": 11,
+                                        "quantity": 3,
+                                        "unit_of_measurement": "g"
+                                    },
+                                    {
+                                        "name": "Trans Fat",
+                                        "quantity": 0,
+                                        "unit_of_measurement": "g"
+                                    },
+                                    {
+                                        "name": "Sugars",
+                                        "quantity": 2,
+                                        "unit_of_measurement": "g"
+                                    },
+                                    {
+                                        "name": "Cholesterol",
+                                        "percentage": 32,
+                                        "quantity": 95,
+                                        "unit_of_measurement": "mg"
+                                    },
+                                    {
+                                        "name": "Added Sugars",
+                                        "percentage": 1,
+                                        "quantity": 1,
+                                        "unit_of_measurement": "g"
+                                    },
+                                    {
+                                        "name": "Sodium",
+                                        "percentage": 29,
+                                        "quantity": 660,
+                                        "unit_of_measurement": "mg"
+                                    },
+                                    {
+                                        "name": "Protein",
+                                        "quantity": 14,
+                                        "unit_of_measurement": "g"
+                                    },
+                                    {
+                                        "name": "Vitamin D",
+                                        "percentage": 2
+                                    },
+                                    {
+                                        "name": "Calcium",
+                                        "percentage": 10
+                                    },
+                                    {
+                                        "name": "Iron",
+                                        "percentage": 15
+                                    },
+                                    {
+                                        "name": "Potassium",
+                                        "percentage": 4
+                                    }
+                                ]
+                            }
+                        ],
+                        "warning": "CONTAINS: WHEAT, EGGS, MILK"
+                    },
+                    "return_policies": [
+                        {
+                            "user_type": "best_guest",
+                            "day_count": 120
+                        },
+                        {
+                            "user_type": "regular_guest",
+                            "day_count": 90
+                        }
+                    ]
+                },
+                "environmental_segmentation": {
+                    "is_hazardous_material": false
+                },
+                "formatted_return_method": "This item can be returned to any Target store or Target.com.",
+                "fulfillment": {
+                    "is_gift_wrap_eligible": true,
+                    "purchase_limit": 10
+                },
+                "handling": {
+                    "import_designation_description": "Made in the USA or Imported"
+                },
+                "is_fresh_grocery": true,
+                "is_limited_time_offer": false,
+                "merchandise_classification": {
+                    "class_id": 5,
+                    "department_id": 270,
+                    "department_name": "FROZEN MEALS/SIDES"
+                },
+                "package_dimensions": {
+                    "depth": 7,
+                    "dimension_unit_of_measure": "INCH",
+                    "height": 1.5,
+                    "weight": 5,
+                    "weight_unit_of_measure": "OUNCE",
+                    "width": 3
+                },
+                "primary_barcode": "080618411238",
+                "primary_brand": {
+                    "canonical_url": "/b/good-food-made-simple/-/N-knrbc",
+                    "linking_id": "knrbc",
+                    "name": "Good Food Made Simple"
+                },
+                "product_classification": {
+                    "product_type": 109420,
+                    "product_type_name": "GROCERY",
+                    "purchase_behavior": "Frequency"
+                },
+                "product_description": {
+                    "bullet_descriptions": [
+                        "<B>Contains:</B> Eggs, Milk, Wheat",
+                        "<B>Package Quantity:</B> 1",
+                        "<B>Net weight:</B> 5 Ounces"
+                    ],
+                    "downstream_description": "Say good morning to your new breakfast partner! Hectic mornings no longer mean you have to skip breakfast. In less than 2 minutes, you will be ready to take on the day with this burrito. Packed with just enough protein, this will keep you full all morning! Fueling yourself with good food has never been so simple.",
+                    "soft_bullet_description": "&bull;15 grams protein<br>&bull;Nitrate free bacon<br>&bull;Organic veggies<br>&bull;Cage free eggs<br>&bull;Always hormone & antibiotic free",
+                    "soft_bullets": {
+                        "bullets": [
+                            "15 grams protein",
+                            "Nitrate free bacon",
+                            "Organic veggies",
+                            "Cage free eggs",
+                            "Always hormone & antibiotic free"
+                        ],
+                        "title": "highlights"
+                    },
+                    "title": "Good Food Made Simple All Natural Bacon, Egg & Cheese Breakfast Frozen Burrito - 5oz"
+                },
+                "product_vendors": [
+                    {
+                        "id": "1302008",
+                        "vendor_name": "GOOD FOOD MADE SIMPLE LLC"
+                    },
+                    {
+                        "id": "1256646",
+                        "vendor_name": "C & S HAWAII"
+                    },
+                    {
+                        "id": "1213676",
+                        "vendor_name": "STORE ONLY DUMMY VENDOR"
+                    },
+                    {
+                        "id": "1142161",
+                        "vendor_name": "C & S WHOLESALE GROCERS"
+                    }
+                ],
+                "relationship_type_code": "SA",
+                "return_policies_guest_message": "This item must be returned within 90 days of the date it was purchased in store, shipped, delivered by a Shipt shopper, or made ready for pickup. If purchased online with SNAP EBT, this item must be returned within 90 days of the date it was shipped, delivered by a Shipt shopper, or made ready for pickup. This 90-day return window is required by SNAP.",
+                "wellness_merchandise_attributes": []
+            },
+            "price": {
+                "current_retail": 2.89,
+                "formatted_current_price": "$2.89",
+                "formatted_current_price_type": "reg",
+                "formatted_unit_price": "$0.58",
+                "formatted_unit_price_suffix": "/ounce",
+                "reg_retail": 2.89,
+                "location_id": 3991,
+                "external_system_id": "47868632-3991-2.89-2023062311"
+            },
+            "promotions": [
+                {
+                    "promotion_id": "451203457",
+                    "promotion_url": "http://www.target.com/pl/451203457",
+                    "promotion_class": "Mandated Multiple",
+                    "pdp_message": "Buy 3 for $7 on Good Food Made Simple frozen breakfast",
+                    "channel": "online_and_store",
+                    "subscription_type": "ALL",
+                    "global_subscription_flag": false,
+                    "threshold_type": "quantity",
+                    "threshold_value": 3,
+                    "reward_type": "FixedPrice",
+                    "reward_value": 7,
+                    "circle_offer": false,
+                    "mass_offer": true
+                }
+            ]
+        }
+    }
+}

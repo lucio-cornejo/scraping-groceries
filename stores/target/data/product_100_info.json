@@ -1,0 +1,519 @@
+{
+    "data": {
+        "product": {
+            "__typename": "Product",
+            "tcin": "52024017",
+            "category": {
+                "parent_category_id": "5xszd",
+                "name": "Frozen Single Serve Meals"
+            },
+            "ratings_and_reviews": {
+                "has_verified": true,
+                "statistics": {
+                    "not_recommended_count": 14,
+                    "question_count": 1,
+                    "rating": {
+                        "average": 3.98,
+                        "count": 1096,
+                        "distribution": {
+                            "rating1": 126,
+                            "rating2": 68,
+                            "rating3": 102,
+                            "rating4": 211,
+                            "rating5": 589
+                        },
+                        "secondary_averages": [
+                            {
+                                "id": "Quality",
+                                "label": "quality",
+                                "range": 5,
+                                "type": "RATING",
+                                "value": 3.81
+                            },
+                            {
+                                "id": "easyToPrepare",
+                                "label": "easy to prepare",
+                                "range": 5,
+                                "type": "RATING",
+                                "value": 4.97
+                            },
+                            {
+                                "id": "Taste",
+                                "label": "taste",
+                                "range": 5,
+                                "type": "RATING",
+                                "value": 3.19
+                            },
+                            {
+                                "id": "Value",
+                                "label": "value",
+                                "range": 5,
+                                "type": "RATING",
+                                "value": 3.71
+                            }
+                        ]
+                    },
+                    "recommended_count": 20,
+                    "recommended_percentage": 58,
+                    "review_count": 911
+                },
+                "most_recent": [
+                    {
+                        "id": "11a958ac-b93f-44ad-a621-9297401eb4a2",
+                        "text": "This isn't spicy at all! It's also loaded with tough kale stems that are barely edible. This was my first and last Healthy Choice meal!",
+                        "author": {
+                            "nickname": "elzi",
+                            "external_id": "d5bee75b-68ab-5404-8039-8627ff693a74"
+                        },
+                        "title": "Ugh... no",
+                        "rating": {
+                            "value": 1,
+                            "submitted_at": "2024-04-27T16:28:04Z"
+                        }
+                    },
+                    {
+                        "id": "7ba540fa-f85a-4a41-9178-4cf02bde79b6",
+                        "text": "Recently, I've noticed the kale stalks or other plant stems in the meal. It is becoming one of the reasons I may pass this meal up when purchasing. I very much enjoy the meal otherwise. Please remove the awkward, inedible stalk pieces!",
+                        "author": {
+                            "nickname": "Huskermom",
+                            "external_id": "1818a559-af63-5e3f-a274-aceb01d033ea"
+                        },
+                        "title": "Generally Great!",
+                        "rating": {
+                            "value": 4,
+                            "submitted_at": "2024-04-10T18:48:13Z"
+                        }
+                    },
+                    {
+                        "id": "b5863a86-3de7-46ca-bd8d-b609661a9277",
+                        "text": "I've been trying to find some frozen meals high in protein and fiber for those weeks I'm too burned out to meal prep. The flavor isn't intense but it'll do. Calories, protein, and fiber is a little low for my needs so I added dry roasted edamame to boost those numbers. Overall I love it and I think it would be great for those who are trying to stay full and still be in a deficit if that's your goal.",
+                        "author": {
+                            "nickname": "Steiner",
+                            "external_id": "febf7edf-0c07-5811-ac35-ff5a4c61ff54"
+                        },
+                        "title": "Great base for a meal",
+                        "rating": {
+                            "value": 4,
+                            "submitted_at": "2024-04-10T18:06:47Z"
+                        }
+                    },
+                    {
+                        "id": "31c33e46-920d-4b90-94ef-e298ef67429a",
+                        "text": "These are great except the inedible chunks of plant fiber that seem to be added now...what are you doing healthy choice? Do better.",
+                        "author": {
+                            "nickname": "Abcde",
+                            "external_id": "8017ac9f-3913-58cd-8395-4c523c7fe92a"
+                        },
+                        "title": "I just....what is this?",
+                        "rating": {
+                            "value": 1,
+                            "submitted_at": "2024-03-28T16:55:59Z"
+                        }
+                    },
+                    {
+                        "id": "730f392e-48f9-467e-b33e-e6e5a07ad536",
+                        "text": "Super healthy and super tasty! Has helped me with my gestational diabetes. I hope you never get rid of it.",
+                        "author": {
+                            "nickname": "SinNym",
+                            "external_id": "4c85e4a8-424d-5d1a-b902-8a8482d6322f"
+                        },
+                        "title": "Thank you!",
+                        "rating": {
+                            "value": 5,
+                            "submitted_at": "2024-03-20T04:37:06Z"
+                        }
+                    },
+                    {
+                        "id": "d376613a-97e2-4329-bba5-a125ea5abf75",
+                        "text": "This is the most delicious frozen dinner I’ve ever had and I eat it four nights a week. Awesome flavor and texture! And it definitely fills me up. Here’s the thing that bothers me: there are these tough kale stems that they seem to sprinkle on top. Why would they do that? They taste like yard clippings. It’s so bad I thought it was a manufacturing mistake but it’s been the case ever since I started buying it a year ago.",
+                        "author": {
+                            "nickname": "hollyg",
+                            "external_id": "8d2102e1-5924-5528-9cea-ac8f9129f32b"
+                        },
+                        "title": "LOVE THIS except one thing",
+                        "rating": {
+                            "value": 3,
+                            "submitted_at": "2024-02-17T22:58:54Z"
+                        }
+                    },
+                    {
+                        "id": "d088d017-9cc2-4bba-bc47-a91fa9f9615f",
+                        "text": "I love this Adobo Chicken. Some of Healthy Choice meals are not great but this one is really good. I love that the plate is not plastic either so I feel safe heating this up in the microwave. I just wish portion was little more but it's typical portion for a frozen meal.",
+                        "author": {
+                            "nickname": "JHokie",
+                            "external_id": "98d56e1a-9902-56b7-b0a0-83fc609e0290"
+                        },
+                        "title": "Great and healthy meal without plastic",
+                        "rating": {
+                            "value": 5,
+                            "submitted_at": "2024-02-05T02:56:06Z"
+                        }
+                    },
+                    {
+                        "id": "2a4199d2-5924-4188-a318-0a7f4f38e551",
+                        "text": "This is a delicious dish. The Adobe Chicken is perfect in its combination of healthy ingredients and it tastes great. It has the right amount of seasoning, not too spicy and not too mild. I bought it some time ago and it was slightly milder. But in the most recent purchases, the flavor has been perfect. Thank you. Please do not change",
+                        "author": {
+                            "nickname": "Jennie",
+                            "external_id": "180a10c1-17b2-5825-8a22-eaaf3964e081"
+                        },
+                        "title": "Delicious Dish!",
+                        "rating": {
+                            "value": 5,
+                            "submitted_at": "2024-01-28T07:14:58Z"
+                        }
+                    }
+                ],
+                "photos": [
+                    "https://target.scene7.com/is/image/Target/GUEST_d838a62e-6c32-4958-b9d9-df228441e03a",
+                    "https://target.scene7.com/is/image/Target/GUEST_20d61278-f5e0-4b57-ac1c-0867cfd7fa34",
+                    "https://target.scene7.com/is/image/Target/GUEST_eb0afbc6-a9b2-43d9-b193-93bb412e9a24",
+                    "https://target.scene7.com/is/image/Target/GUEST_4347dcea-181e-4445-8095-1dd96cf7a3a5",
+                    "https://target.scene7.com/is/image/Target/GUEST_3295603f-0e53-4a7a-80b9-cf3b07a838a4",
+                    "https://target.scene7.com/is/image/Target/GUEST_d8ed7992-93a7-4819-9943-d90634b30ad5",
+                    "https://target.scene7.com/is/image/Target/GUEST_d65c0dec-5578-4b22-91cb-41b0ee9cce9c",
+                    "https://target.scene7.com/is/image/Target/GUEST_7847176c-0dd0-4218-9379-8813ebf11414"
+                ]
+            },
+            "free_shipping": {
+                "enabled": false
+            },
+            "item": {
+                "cart_add_on_threshold": 35,
+                "compliance": {
+                    "is_proposition_65": false
+                },
+                "disclaimer": {
+                    "description": "Content on this site is for reference purposes only.  Target does not represent or warrant that the nutrition, ingredient, allergen and other product information on our Web or Mobile sites are accurate or complete, since this information comes from the product manufacturers.  On occasion, manufacturers may improve or change their product formulas and update their labels.  We recommend that you do not rely solely on the information presented on our Web or Mobile sites and that you review the product's label or contact the manufacturer directly if you have specific product concerns or questions.  If you have specific healthcare concerns or questions about the products displayed, please contact your licensed healthcare professional for advice or answers.  Any additional pictures are suggested servings only.",
+                    "type": "Grocery Disclaimer"
+                },
+                "dpci": "270-02-0183",
+                "eligibility_rules": {
+                    "add_on": {
+                        "is_active": false
+                    },
+                    "hold": {
+                        "is_active": true
+                    },
+                    "inventory_notification_to_guest_excluded": {
+                        "is_active": true
+                    },
+                    "scheduled_delivery": {
+                        "is_active": true
+                    }
+                },
+                "enrichment": {
+                    "buy_url": "https://www.target.com/p/healthy-choice-power-bowls-frozen-adobo-chicken-9oz/-/A-52024017",
+                    "images": {
+                        "base_url": "//target.scene7.com/is/image/Target/",
+                        "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_7a81a535-431d-4949-a4af-812d4578e721",
+                        "primary_image": "GUEST_7a81a535-431d-4949-a4af-812d4578e721",
+                        "alternate_images": [
+                            "GUEST_4387cb3c-3c3a-4b39-b7a4-eed1f3299f08",
+                            "GUEST_91846411-d808-4caa-95e0-06b8c5ddb54b",
+                            "GUEST_ef75890b-b7ef-4fb1-b891-4c284ba3f615",
+                            "GUEST_8c4972ec-dae4-4579-98e3-1d6aa2d9f67a"
+                        ],
+                        "alternate_image_urls": [
+                            "https://target.scene7.com/is/image/Target/GUEST_4387cb3c-3c3a-4b39-b7a4-eed1f3299f08",
+                            "https://target.scene7.com/is/image/Target/GUEST_91846411-d808-4caa-95e0-06b8c5ddb54b",
+                            "https://target.scene7.com/is/image/Target/GUEST_ef75890b-b7ef-4fb1-b891-4c284ba3f615",
+                            "https://target.scene7.com/is/image/Target/GUEST_8c4972ec-dae4-4579-98e3-1d6aa2d9f67a"
+                        ],
+                        "content_labels": [
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_7a81a535-431d-4949-a4af-812d4578e721"
+                            },
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_4387cb3c-3c3a-4b39-b7a4-eed1f3299f08"
+                            },
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_ef75890b-b7ef-4fb1-b891-4c284ba3f615"
+                            },
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_8c4972ec-dae4-4579-98e3-1d6aa2d9f67a"
+                            },
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_91846411-d808-4caa-95e0-06b8c5ddb54b"
+                            }
+                        ]
+                    },
+                    "image_info": {
+                        "base_url": "//target.scene7.com/is/image/Target/",
+                        "primary_image": {
+                            "url": "https://target.scene7.com/is/image/Target/GUEST_7a81a535-431d-4949-a4af-812d4578e721",
+                            "image_name": "GUEST_7a81a535-431d-4949-a4af-812d4578e721"
+                        },
+                        "alternate_images": [
+                            {
+                                "url": "https://target.scene7.com/is/image/Target/GUEST_4387cb3c-3c3a-4b39-b7a4-eed1f3299f08",
+                                "image_name": "GUEST_4387cb3c-3c3a-4b39-b7a4-eed1f3299f08"
+                            },
+                            {
+                                "url": "https://target.scene7.com/is/image/Target/GUEST_91846411-d808-4caa-95e0-06b8c5ddb54b",
+                                "image_name": "GUEST_91846411-d808-4caa-95e0-06b8c5ddb54b"
+                            },
+                            {
+                                "url": "https://target.scene7.com/is/image/Target/GUEST_ef75890b-b7ef-4fb1-b891-4c284ba3f615",
+                                "image_name": "GUEST_ef75890b-b7ef-4fb1-b891-4c284ba3f615"
+                            },
+                            {
+                                "url": "https://target.scene7.com/is/image/Target/GUEST_8c4972ec-dae4-4579-98e3-1d6aa2d9f67a",
+                                "image_name": "GUEST_8c4972ec-dae4-4579-98e3-1d6aa2d9f67a"
+                            }
+                        ],
+                        "swatch_image": {},
+                        "content_labels": [
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_7a81a535-431d-4949-a4af-812d4578e721"
+                            },
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_4387cb3c-3c3a-4b39-b7a4-eed1f3299f08"
+                            },
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_ef75890b-b7ef-4fb1-b891-4c284ba3f615"
+                            },
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_8c4972ec-dae4-4579-98e3-1d6aa2d9f67a"
+                            },
+                            {
+                                "image_url": "https://target.scene7.com/is/image/Target/GUEST_91846411-d808-4caa-95e0-06b8c5ddb54b"
+                            }
+                        ]
+                    },
+                    "nutrition_facts": {
+                        "ingredients": "Seasoned Cooked Chicken (Chicken Breast, Water, Olive Oil, Brown Sugar, Sea Salt, Natural Flavorings), Cooked Brown Rice (Water, Brown Rice), Water, Cooked Pinto Beans, Cooked Black Barley (Water, Black Barley), Cooked Red Quinoa (Water, Red Quinoa), Cooked Red Rice (Water, Red Rice), Chard, Kale, Corn, Tomatoes, Pumpkin Seed Kernels, Spinach, Tomato Paste, Contains 2% or Less of: Poblano Chili Peppers, Butter (Cream, Salt), Guajillo Pepper Puree (Water, Dried Guajillo Chili Peppers), Corn Starch, Salt, Honey, Natural Flavorings.",
+                        "nutrition_label_type_code": "LEGACY_FORMAT",
+                        "value_prepared_list": [
+                            {
+                                "description": "1 meal (276g)",
+                                "serving_size": "1",
+                                "serving_size_unit_of_measurement": "meal",
+                                "servings_per_container": "1",
+                                "nutrients": [
+                                    {
+                                        "name": "Total Fat",
+                                        "percentage": 10,
+                                        "quantity": 8,
+                                        "unit_of_measurement": "grm"
+                                    },
+                                    {
+                                        "name": "Saturated Fat",
+                                        "percentage": 13,
+                                        "quantity": 2.5,
+                                        "unit_of_measurement": "grm"
+                                    },
+                                    {
+                                        "name": "Trans Fat",
+                                        "percentage": 0,
+                                        "quantity": 0,
+                                        "unit_of_measurement": "grm"
+                                    },
+                                    {
+                                        "name": "Polyunsaturated Fat",
+                                        "percentage": 0,
+                                        "quantity": 2.5,
+                                        "unit_of_measurement": "grm"
+                                    },
+                                    {
+                                        "name": "Monounsaturated Fat",
+                                        "percentage": 0,
+                                        "quantity": 2.5,
+                                        "unit_of_measurement": "grm"
+                                    },
+                                    {
+                                        "name": "Cholesterol",
+                                        "percentage": 17,
+                                        "quantity": 50,
+                                        "unit_of_measurement": "mg"
+                                    },
+                                    {
+                                        "name": "Sodium",
+                                        "percentage": 26,
+                                        "quantity": 600,
+                                        "unit_of_measurement": "mg"
+                                    },
+                                    {
+                                        "name": "Total Carbohydrate",
+                                        "percentage": 14,
+                                        "quantity": 38,
+                                        "unit_of_measurement": "grm"
+                                    },
+                                    {
+                                        "name": "Dietary Fiber",
+                                        "percentage": 29,
+                                        "quantity": 8,
+                                        "unit_of_measurement": "grm"
+                                    },
+                                    {
+                                        "name": "Total Sugars",
+                                        "percentage": 0,
+                                        "quantity": 4,
+                                        "unit_of_measurement": "grm"
+                                    },
+                                    {
+                                        "name": "Added Sugars",
+                                        "percentage": 2,
+                                        "quantity": 1,
+                                        "unit_of_measurement": "grm"
+                                    },
+                                    {
+                                        "name": "Protein",
+                                        "percentage": 40,
+                                        "quantity": 26,
+                                        "unit_of_measurement": "grm"
+                                    },
+                                    {
+                                        "name": "Vitamin D",
+                                        "percentage": 0,
+                                        "quantity": 0,
+                                        "unit_of_measurement": "mcg"
+                                    },
+                                    {
+                                        "name": "Calcium",
+                                        "percentage": 6,
+                                        "quantity": 70,
+                                        "unit_of_measurement": "mg"
+                                    },
+                                    {
+                                        "name": "Iron",
+                                        "percentage": 15,
+                                        "quantity": 2.6,
+                                        "unit_of_measurement": "mg"
+                                    },
+                                    {
+                                        "name": "Potassium",
+                                        "percentage": 10,
+                                        "quantity": 530,
+                                        "unit_of_measurement": "mg"
+                                    },
+                                    {
+                                        "name": "Calories",
+                                        "percentage": 0,
+                                        "quantity": 330,
+                                        "unit_of_measurement": "kcal"
+                                    }
+                                ]
+                            }
+                        ],
+                        "warning": "Contains: milk."
+                    },
+                    "videos": [
+                        {
+                            "video_captions": [
+                                {
+                                    "caption_url": "https://target.scene7.com/is/content/Target/GUEST_9a1324ba-bdf2-4c56-8714-30dca75599e4",
+                                    "language": "EN"
+                                }
+                            ],
+                            "video_files": [
+                                {
+                                    "mime_type": "video/mp4",
+                                    "video_height_pixels": "720",
+                                    "video_url": "https://target.scene7.com/is/content/Target/GUEST_9a9f3af4-db7f-4322-a6ef-e34e92fa9081_Flash9_Autox720p_2600k"
+                                }
+                            ],
+                            "video_length_seconds": "10",
+                            "video_poster_image": "https://target.scene7.com/is/image/Target/GUEST_9a9f3af4-db7f-4322-a6ef-e34e92fa9081",
+                            "video_title": "Healthy Choice Power Bowls FY24"
+                        }
+                    ],
+                    "return_policies": [
+                        {
+                            "user_type": "best_guest",
+                            "day_count": 120
+                        },
+                        {
+                            "user_type": "regular_guest",
+                            "day_count": 90
+                        }
+                    ]
+                },
+                "environmental_segmentation": {
+                    "is_hazardous_material": false
+                },
+                "formatted_return_method": "This item can be returned to any Target store or Target.com.",
+                "fulfillment": {
+                    "is_gift_wrap_eligible": true,
+                    "purchase_limit": 10
+                },
+                "handling": {
+                    "import_designation_description": "Made in the USA or Imported"
+                },
+                "is_fresh_grocery": true,
+                "is_limited_time_offer": false,
+                "merchandise_classification": {
+                    "class_id": 2,
+                    "department_id": 270,
+                    "department_name": "FROZEN MEALS/SIDES"
+                },
+                "package_dimensions": {
+                    "depth": 1.67,
+                    "dimension_unit_of_measure": "INCH",
+                    "height": 7.5,
+                    "weight": 0.81,
+                    "weight_unit_of_measure": "POUND",
+                    "width": 7.5
+                },
+                "primary_barcode": "072655001312",
+                "primary_brand": {
+                    "canonical_url": "/b/healthy-choice/-/N-56dq9",
+                    "linking_id": "56dq9",
+                    "name": "Healthy Choice"
+                },
+                "product_classification": {
+                    "product_type": 109420,
+                    "product_type_name": "GROCERY",
+                    "purchase_behavior": "Frequency"
+                },
+                "product_description": {
+                    "bullet_descriptions": [
+                        "<B>Contains:</B> Soy, Milk, Wheat",
+                        "<B>Package Quantity:</B> 1",
+                        "<B>Net weight:</B> 9.75 Ounces"
+                    ],
+                    "downstream_description": "Liven up your day with Healthy Choice Power Bowls Adobo Chicken. This frozen meal features pulled, all natural* frozen chicken breast and vegetables over brown and red rice, red quinoa and black barley with a spicy guajillo chili sauce and roasted pepitas. This power bowl provides 40% of your daily protein with 26 grams per serving, perfect as frozen dinners for quick meals. Microwave for 4 to 4 1/2 minutes and let stand for 1 minute for quick frozen entrees. This 9.75 ounce frozen dinner comes in a serving bowl made from plant-based fiber. *No artificial ingredients. Minimally processed.",
+                    "soft_bullet_description": "&bull;One 9.75 oz Healthy Choice Power Bowls Adobo Chicken frozen meal<br>&bull;This flavorful and hearty power bowl is ready in minutes for a quick healthy dinner or lunch<br>&bull;Pulled chicken, vegetables, grains and spicy guajillo chili sauce make for healthy frozen meals<br>&bull;With 26 grams of protein, this power bowl is a tasty alternative to protein bowls<br>&bull;Microwave meals are perfect for quick, healthy meals, heat 4 to 4 1/2 minutes and let stand 1 minute",
+                    "soft_bullets": {
+                        "bullets": [
+                            "One 9.75 oz Healthy Choice Power Bowls Adobo Chicken frozen meal",
+                            "This flavorful and hearty power bowl is ready in minutes for a quick healthy dinner or lunch",
+                            "Pulled chicken, vegetables, grains and spicy guajillo chili sauce make for healthy frozen meals",
+                            "With 26 grams of protein, this power bowl is a tasty alternative to protein bowls",
+                            "Microwave meals are perfect for quick, healthy meals, heat 4 to 4 1/2 minutes and let stand 1 minute"
+                        ],
+                        "title": "highlights"
+                    },
+                    "title": "Healthy Choice Power Bowls Frozen Adobo Chicken - 9oz"
+                },
+                "product_vendors": [
+                    {
+                        "id": "2675598",
+                        "vendor_name": "CONAGRA FOODS SALES INC."
+                    },
+                    {
+                        "id": "1256646",
+                        "vendor_name": "C & S HAWAII"
+                    },
+                    {
+                        "id": "1142161",
+                        "vendor_name": "C & S WHOLESALE GROCERS"
+                    }
+                ],
+                "relationship_type_code": "SA",
+                "return_policies_guest_message": "This item must be returned within 90 days of the date it was purchased in store, shipped, delivered by a Shipt shopper, or made ready for pickup. If purchased online with SNAP EBT, this item must be returned within 90 days of the date it was shipped, delivered by a Shipt shopper, or made ready for pickup. This 90-day return window is required by SNAP.",
+                "wellness_merchandise_attributes": []
+            },
+            "price": {
+                "current_retail": 4.29,
+                "formatted_current_price": "$4.29",
+                "formatted_current_price_type": "reg",
+                "formatted_unit_price": "$0.44",
+                "formatted_unit_price_suffix": "/ounce",
+                "reg_retail": 4.29,
+                "location_id": 3991,
+                "external_system_id": "52024017-3991-4.29-2022070607"
+            },
+            "promotions": []
+        }
+    }
+}

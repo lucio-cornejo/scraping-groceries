@@ -11,6 +11,7 @@
   "dependencies": {
     "async": "^3.2.5",
     "log4js": "^6.9.1",
+    "mathjs": "^13.0.0",
     "node-html-parser": "^6.1.13"
   }
 }
