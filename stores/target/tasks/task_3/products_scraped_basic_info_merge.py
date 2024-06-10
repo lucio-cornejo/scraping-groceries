@@ -1,5 +1,7 @@
 from src.instances import task_3_1_logger
 
+from src.subcategories_scraper import save_list_as_JSON
+
 import os
 import json
 import pandas as pd
@@ -59,5 +61,9 @@ if __name__ == '__main__':
   task_3_1_logger.info(extracted_products_basic_info_data_frame.isna().sum())
 
   extracted_products_basic_info_data_frame.to_csv('data/unique_products_urls.csv', index = False)
+  save_list_as_JSON(
+    extracted_products_basic_info_data_frame.fillna(pd.NA).to_dict('records'),
+    file_path = 'data/unique_products_urls.json'
+  )
 
   task_3_1_logger.info('Completed subtask')
