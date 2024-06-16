@@ -18,7 +18,7 @@ logger.info('Started subtask')
 const productsObjectsArray = JSON.parse(fs.readFileSync('data/unique_products_urls.json', 'utf8'));
 productsObjectsArray.splice(10);
 
-async.mapLimit(productsObjectsArray, 5, async function(productObject) {
+async.mapLimit(productsObjectsArray, 4, async function(productObject) {
   const tcinOfProduct = productObject['tcin'].toString();
 
   const randomThreeDigitInteger = Math.random(100, 999);
