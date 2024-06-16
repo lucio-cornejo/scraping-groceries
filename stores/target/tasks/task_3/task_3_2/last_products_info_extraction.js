@@ -5,6 +5,7 @@ const { logger } = require('./src/instances.js');
 const { sleep, randomFloatInRange } = require('./src/wait_generators.js');
 const { groupedFilteredProductsArray } = require('./src/products_array_partitioner');
 const { sequentialGETrequestsForGroup } = require('./src/sequential_get_requests_agent.js');
+const { uploadJsonToS3 } = require('./src/aws_s3_bucket_updater.js');
 
 const fs = require("fs"); 
 const async = require("async");
@@ -33,11 +34,22 @@ async.mapLimit(groupedFilteredProductsArray, 4, async function(productsGroup) {
 }, (err, results) => {
   if (err) { logger.error(err); throw err;  }
   
-  fs.writeFileSync(
-    'grocery-products-info.json',
-    JSON.stringify(results.flat(), null, 4), 
-    'utf8'
-  );
+  const StringifiedJsonData = JSON.stringify(results.flat(), null, 4);
+  
+  const s3_file_name = 'grocery-products-info-for-indices-range-' +
+    process.env.PRODUCTS_JSON_LIST_FIRST_INDEX +
+    '_' +
+    process.env.PRODUCTS_JSON_LIST_LAST_INDEX +
+    '.json';
+
+  // Save locally
+  fs.writeFileSync(s3_file_name, StringifiedJsonData, 'utf8');
+  
+  uploadJsonToS3(
+    process.env.S3_BUCKET_NAME,
+    s3_file_name,
+    StringifiedJsonData
+  )
 
   logger.info('Completed subtask')
 });
