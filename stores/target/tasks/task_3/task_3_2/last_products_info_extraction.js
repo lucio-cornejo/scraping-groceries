@@ -3,7 +3,7 @@ require('dotenv').config();
 const { logger } = require('./src/instances.js');
 
 const { sleep, randomFloatInRange } = require('./src/wait_generators.js');
-const { groupedFilteredProductsArray } = require('./src/products_array_partitioner');
+const { filterAndGroupFetchedProductsArray } = require('./src/products_array_partitioner');
 const { sequentialGETrequestsForGroup } = require('./src/sequential_get_requests_agent.js');
 const { uploadJsonToS3 } = require('./src/aws_s3_bucket_updater.js');
 
@@ -17,8 +17,11 @@ const maxSecondsWaitBetweenRequest = 2;
 const minSecondsWaitBetweenGroups = 5;
 const maxSecondsWaitBetweenGroups = 10;
 
-logger.info('Started subtask')
+(async () => {
+  logger.info('Started subtask')
+  const groupedFilteredProductsArray = await filterAndGroupFetchedProductsArray();
 
+// /*
 async.mapLimit(groupedFilteredProductsArray, 4, async function(productsGroup) {
   logger.info("Started sequential fetch task for some group");
 
@@ -53,3 +56,5 @@ async.mapLimit(groupedFilteredProductsArray, 4, async function(productsGroup) {
 
   logger.info('Completed subtask')
 });
+// */
+})();

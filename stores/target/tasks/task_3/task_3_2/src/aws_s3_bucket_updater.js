@@ -26,6 +26,18 @@ const uploadJsonToS3 = async (bucketName, keyName, jsonData) => {
   }
 };
 
+const downloadJsonInS3 = async (bucketName, keyName) => {
+  const params = {
+    Bucket: bucketName,
+    Key: keyName
+  }
+
+  const data = await s3.getObject(params).promise();
+  return data.Body.toString('utf-8');
+}
+
+
 module.exports = {
+  downloadJsonInS3: downloadJsonInS3,
   uploadJsonToS3: uploadJsonToS3
 }
