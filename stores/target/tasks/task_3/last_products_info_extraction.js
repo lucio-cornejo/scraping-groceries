@@ -1,6 +1,5 @@
 require('dotenv').config();
 
-const { getLogger } = require('./src/logger.js');
 const { sleep, randomFloatInRange } = require('./src/wait_generators.js');
 const { groupedFilteredProductsArray } = require('./src/products_array_partitioner');
 
@@ -9,7 +8,7 @@ const Math = require('mathjs');
 const async = require("async");
 
 
-const logger = getLogger(process.env.PROFILE);
+const { logger } = require('./src/instances.js');
 logger.info('Started subtask')
 
 
