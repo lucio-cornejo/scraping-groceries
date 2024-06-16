@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const fs = require("fs"); 
 const Math = require('mathjs');
 const async = require("async");
@@ -15,9 +17,15 @@ const logger = log4js.getLogger("target");
 logger.info('Started subtask')
 
 
-const productsObjectsArray = JSON.parse(fs.readFileSync('data/unique_products_urls.json', 'utf8'));
-productsObjectsArray.splice(10);
+const arrayFirstIndex = parseInt(process.env.PRODUCTS_JSON_LIST_FIRST_INDEX);
+const arrayLastIndex = parseInt(process.env.PRODUCTS_JSON_LIST_LAST_INDEX);
 
+// Filter by indices "i" which satisfy arrayFirstIndex <= i < arrayLastIndex .
+const productsObjectsArray = JSON.parse(
+  fs.readFileSync('data/unique_products_urls.json', 'utf8')
+).filter((productObject, index) => (index >= arrayFirstIndex ) && (index < arrayLastIndex))
+
+/*
 async.mapLimit(productsObjectsArray, 4, async function(productObject) {
   const tcinOfProduct = productObject['tcin'].toString();
 
@@ -84,3 +92,4 @@ async.mapLimit(productsObjectsArray, 4, async function(productObject) {
 
   logger.info('Completed subtask')
 });
+*/
