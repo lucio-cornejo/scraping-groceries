@@ -21,7 +21,7 @@ const expectedStringInNonPaginatedProductsWebpageHTML = "@web/slingshot-componen
 const expectedStringInPaginatedProductsWebpageHTML = "@web/site-top-of-funnel/ProductCardPlaceholder";
 
 
-async.mapLimit(productsObjectsArray, 5, async function(productObject) {
+async.mapLimit(productsObjectsArray, 4, async function(productObject) {
   const url = productObject['url'];
   const response = await fetch(url);
 

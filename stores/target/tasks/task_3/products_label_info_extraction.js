@@ -16,7 +16,7 @@ logger.info('Started subtask')
 
 
 const productsObjectsArray = JSON.parse(fs.readFileSync('data/unique_products_urls.json', 'utf8'));
-productsObjectsArray.splice(200);
+productsObjectsArray.splice(10);
 
 async.mapLimit(productsObjectsArray, 5, async function(productObject) {
   const tcinOfProduct = productObject['tcin'].toString();

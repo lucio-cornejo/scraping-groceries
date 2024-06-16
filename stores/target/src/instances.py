@@ -14,6 +14,8 @@ task_2_2_logger = get_logger(logger_name = 'task_2.2')
 
 task_3_1_logger = get_logger(logger_name = 'task_3.1')
 
+task_4_1_logger = get_logger(logger_name = 'task_4.1')
+
 
 # Load Selenium web driver
 from .setup_selenium_driver import get_chrome_driver

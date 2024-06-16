@@ -52,6 +52,15 @@ handlers:
     mode: w
     delay: true
 
+  file_task_4.1:
+    class: logging.FileHandler
+    level: INFO
+    formatter: simple
+    encoding: utf-8
+    filename: logs/task-4.1.log
+    mode: w
+    delay: true
+
 loggers:
   task_1.1:
     level: INFO
@@ -71,4 +80,9 @@ loggers:
   task_3.1:
     level: INFO
     handlers: [file_task_3.1]
+    propagate: no
+
+  task_4.1:
+    level: INFO
+    handlers: [console, file_task_4.1]
     propagate: no

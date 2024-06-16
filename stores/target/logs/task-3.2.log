@@ -200,3 +200,15 @@
 2024-06-10T00:40:20.550-target:[WARN]: GET request reponse status was 404, for url https://redsky.target.com/redsky_aggregations/v1/web/pdp_client_v1?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&tcin=85320712&pricing_store_id=3991&visitor_id=018EECDE90C702018E5EA8C77C7A314.46854706877366D&channel=WEB&page=%2Fp%2FA-85320712
 2024-06-10T00:40:20.595-target:[WARN]: GET request reponse status was 404, for url https://redsky.target.com/redsky_aggregations/v1/web/pdp_client_v1?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&tcin=89093502&pricing_store_id=3991&visitor_id=018EECDE90C702018E5EA8C77C7A477.74250047324324D&channel=WEB&page=%2Fp%2FA-89093502
 2024-06-10T00:40:20.598-target:[INFO]: Completed subtask
+2024-06-16T11:53:56.365-target:[INFO]: Started subtask
+2024-06-16T11:53:57.405-target:[INFO]: Completed extraction attempt for product with tcin value 26398567
+2024-06-16T11:53:57.419-target:[INFO]: Completed extraction attempt for product with tcin value 13234505
+2024-06-16T11:53:57.478-target:[INFO]: Completed extraction attempt for product with tcin value 13234506
+2024-06-16T11:53:57.533-target:[INFO]: Completed extraction attempt for product with tcin value 13459031
+2024-06-16T11:53:57.545-target:[INFO]: Completed extraction attempt for product with tcin value 47868632
+2024-06-16T11:53:58.009-target:[INFO]: Completed extraction attempt for product with tcin value 86800703
+2024-06-16T11:53:58.048-target:[INFO]: Completed extraction attempt for product with tcin value 82397108
+2024-06-16T11:53:58.058-target:[INFO]: Completed extraction attempt for product with tcin value 13505877
+2024-06-16T11:53:58.070-target:[INFO]: Completed extraction attempt for product with tcin value 88063605
+2024-06-16T11:53:58.175-target:[INFO]: Completed extraction attempt for product with tcin value 14931971
+2024-06-16T11:53:58.178-target:[INFO]: Completed subtask
