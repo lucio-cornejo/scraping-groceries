@@ -1,29 +1,17 @@
 require('dotenv').config();
 
+const { getLogger } = require('./src/logger.js');
+const { sleep, randomFloatInRange } = require('./src/wait_generators.js');
+const { groupedFilteredProductsArray } = require('./src/products_array_partitioner');
+
 const fs = require("fs"); 
 const Math = require('mathjs');
 const async = require("async");
 
-const log4js = require("log4js");
-log4js.configure({
-  appenders: { target: { 
-    type: "fileSync", 
-    filename: "logs/task-3.2.log",
-    layout: { type: 'pattern', pattern: '%d-%c:[%p]: %m' },
-  } },
-  categories: { default: { appenders: ["target"], level: "info" } },
-});
-const logger = log4js.getLogger("target");
+
+const logger = getLogger(process.env.PROFILE);
 logger.info('Started subtask')
 
-
-const arrayFirstIndex = parseInt(process.env.PRODUCTS_JSON_LIST_FIRST_INDEX);
-const arrayLastIndex = parseInt(process.env.PRODUCTS_JSON_LIST_LAST_INDEX);
-
-// Filter by indices "i" which satisfy arrayFirstIndex <= i < arrayLastIndex .
-const productsObjectsArray = JSON.parse(
-  fs.readFileSync('data/unique_products_urls.json', 'utf8')
-).filter((productObject, index) => (index >= arrayFirstIndex ) && (index < arrayLastIndex))
 
 /*
 async.mapLimit(productsObjectsArray, 4, async function(productObject) {
