@@ -1,0 +1,13 @@
+{
+  "name": "scraping-target",
+  "version": "1.1.0",
+  "description": "Web scraping Target's grocery products info",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.5",
+    "dotenv": "^16.4.5",
+    "log4js": "^6.9.1",
+    "mathjs": "^13.0.0"
+  }
+}
