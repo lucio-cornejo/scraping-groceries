@@ -1,22 +1,22 @@
 require('dotenv').config();
 
-// const fs = require('fs');
+const fs = require('fs');
 
 const { downloadJsonInS3 } = require('./aws_s3_bucket_updater.js');
 
 const filterAndGroupFetchedProductsArray = async () => {
-  const unique_products_urls_JSON_string = await downloadJsonInS3(
-    process.env.S3_BUCKET_NAME,
-    "unique_products_urls.json"
-  );
+  // const unique_products_urls_JSON_string = await downloadJsonInS3(
+  //   process.env.S3_BUCKET_NAME,
+  //   "unique_products_urls.json"
+  // );
 
   const arrayFirstIndex = parseInt(process.env.PRODUCTS_JSON_LIST_FIRST_INDEX);
   const arrayLastIndex = parseInt(process.env.PRODUCTS_JSON_LIST_LAST_INDEX);
 
   // Filter by indices "i" which satisfy arrayFirstIndex <= i < arrayLastIndex .
   const productsObjectsArray = JSON.parse(
-    unique_products_urls_JSON_string
-    // fs.readFileSync('unique_products_urls.json', 'utf8')
+    // unique_products_urls_JSON_string
+    fs.readFileSync('unique_products_urls.json', 'utf8')
   ).filter((productObject, index) => (index >= arrayFirstIndex ) && (index < arrayLastIndex));
 
 
