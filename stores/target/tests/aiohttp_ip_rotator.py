@@ -50,7 +50,8 @@ async def main():
     )
     response_json = await response.json()
 
-    save_list_as_JSON(response_json, f'data/testing/{index}.json')
+    print(response_json)
+    # save_list_as_JSON(response_json, f'data/testing/{index}.json')
 
   await session.close()
 
