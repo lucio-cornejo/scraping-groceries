@@ -22,14 +22,14 @@ to direct to a **paginated** website displaying multiple products.
 
 #### Subtask 1.2
 
-- **File**:
+- **File**: `tasks/task_1/paginated_products_webpage_filter.js`
 
-- **Goal**:
+- **Goal**: Filter which URLs extracted in task-1.1 point to a **paginated** products website,
+based on the HTML content of such websites.
 
-- **Command for execution**: 
+- **Command for execution**: `node ./tasks/task_1/paginated_products_webpage_filter.js`
 
-- **Execution time**: 5 minutes
-
+- **Execution time**: 30 seconds
 
 ### Task 2
 
