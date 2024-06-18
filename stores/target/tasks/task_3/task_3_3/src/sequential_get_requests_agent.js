@@ -35,33 +35,38 @@ const sequentialGETrequestsForGroup = async (productsGroup, secondsWaitRangeBetw
     await sleep(randomFloatInRange(secondsWaitRangeBetweenRequests[0], secondsWaitRangeBetweenRequests[1]));
 
     if (response.status == 200) {
-      const productJSON = await response.json();
+      try {
+        const productJSON = await response.json();
   
-      let productItem;
-      if (productJSON['data']['product'].hasOwnProperty('children')) {
-        if (productJSON['data']['product']['children'].some(productItem => productItem?.tcin === tcinOfProduct)) {
-          productItem = productJSON['data']['product']['children']
-            .filter(productItem => productItem?.tcin === tcinOfProduct)
-            [0]
-            ['item'];      
+        let productItem;
+        if (productJSON['data']['product'].hasOwnProperty('children')) {
+          if (productJSON['data']['product']['children'].some(productItem => productItem?.tcin === tcinOfProduct)) {
+            productItem = productJSON['data']['product']['children']
+              .filter(productItem => productItem?.tcin === tcinOfProduct)
+              [0]
+              ['item'];      
+          } else {
+            logger.error('Failed extraction of product children with matching tcin value');
+            GETrequestResults.push(productObject);
+            continue
+          }
         } else {
-          logger.error('Failed extraction of product children with matching tcin value');
-          GETrequestResults.push(productObject);
-          continue
+          productItem = productJSON['data']['product']['item'];
         }
-      } else {
-        productItem = productJSON['data']['product']['item'];
+    
+        productObject['nutrition_facts'] = productItem?.enrichment?.nutrition_facts;
+        productObject['bullet_descriptions'] = productItem?.product_description?.bullet_descriptions;
+        productObject['upc'] = productItem?.primary_barcode;
+        productObject['dpci'] = productItem?.dpci;
+        productObject['origin'] = productItem?.handling?.import_designation_description;
+    
+        logger.info(`Completed extraction attempt for product with tcin value ${tcinOfProduct}`)
+        GETrequestResults.push(productObject);
+        continue
+      } catch (error) {
+        logger.warn(`Tcin ${tcinOfProduct}: Failure in some step of product JSON info extraction`);
+        logger.error(error);
       }
-  
-      productObject['nutrition_facts'] = productItem?.enrichment?.nutrition_facts;
-      productObject['bullet_descriptions'] = productItem?.product_description?.bullet_descriptions;
-      productObject['upc'] = productItem?.primary_barcode;
-      productObject['dpci'] = productItem?.dpci;
-      productObject['origin'] = productItem?.handling?.import_designation_description;
-  
-      logger.info(`Completed extraction attempt for product with tcin value ${tcinOfProduct}`)
-      GETrequestResults.push(productObject);
-      continue
     }
   
     logger.warn(`GET request reponse status was ${response.status}, for url ${GETRequesURL}`)
