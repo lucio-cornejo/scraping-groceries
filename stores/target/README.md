@@ -1,16 +1,37 @@
 # Scraping **Target**
 
-**WARNING: THIS DOCUMENTATION IS NOT UP TO DATE**
-
-- Possible solution to IP ban, invokin multiple 
-AWS Lambdas, each with a different IP address: <https://www.youtube.com/watch?v=8BbOVhHs950>
-
-
 ## Tasks
+
+For this project, all commands for executing Python scripts
+are supossed to be used after having activated the virtual environment,
+and with `stores/target` as root folder .
 
 ### Task 1
 
-- **Status**: Completed
+#### Subtask 1.1
+
+- **File**: `tasks/task_1/grocery_categories_and_subcategories_url_extraction.py`
+
+- **Goal**: Extract URLs of categories or subcategories which are expected
+to direct to a **paginated** website displaying multiple products.
+
+- **Command for execution**: `python -m tasks.task_1.grocery_categories_and_subcategories_url_extraction`
+
+- **Execution time**: 5 minutes
+
+
+#### Subtask 1.2
+
+- **File**:
+
+- **Goal**:
+
+- **Command for execution**: 
+
+- **Execution time**: 5 minutes
+
+
+### Task 2
 
 - **Goal**: Extract the URLs of the websites (sometimes is a grocery subcategory,
 but other times it's just a grocery category) which display multiple products
