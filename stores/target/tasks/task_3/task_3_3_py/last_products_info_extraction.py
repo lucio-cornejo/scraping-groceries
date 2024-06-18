@@ -157,6 +157,7 @@ async def main():
       grouped_products_array[group_index], group_index
     )
     for group_index in range(len(grouped_products_array))
+    if group_index > 41
   ]
   
   results = await asyncio.gather(*tasks)
