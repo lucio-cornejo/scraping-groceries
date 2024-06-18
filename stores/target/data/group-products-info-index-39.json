@@ -1,0 +1,3496 @@
+[
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87518603",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804136D",
+    "page": "%2Fp%2FA-87518603"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "83518527",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804390D",
+    "page": "%2Fp%2FA-83518527"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "83112160",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804284D",
+    "page": "%2Fp%2FA-83112160",
+    "nutrition_facts": {
+      "ingredients": "ingredients: organic brewed tea (water, organic hibiscus), alcohol, natural flavors, monk fruit juice concentrate, citric acid, lime juice concentrate",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "can",
+          "servings_per_container": "6",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 90.0,
+              "unit_of_measurement": "calories"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 4.2",
+      "<B>Package Quantity:</B> 6",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 8.4",
+      "<B>Net weight:</B> 69 fl oz (US)"
+    ],
+    "upc": "860001867213",
+    "dpci": "213-01-8848",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "80633958",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804203D",
+    "page": "%2Fp%2FA-80633958"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87499748",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804316D",
+    "page": "%2Fp%2FA-87499748",
+    "nutrition_facts": {
+      "ingredients": "Pineapple Hibiscus: Organic Brewed Tea (Water, Organic Hibiscus Tea), Alcohol, Natural Flavors, Pineapple Juice Concentrate, Monk Fruit Juice Concentrate, Citric Acid. Half & Half: Organic Brewed Tea (Water, Organic Black Tea), Alcohol, Natural Flavors, Lemon Juice Concentrate, Monk Fruit Juice Concentrate, Citric Acid, Stevia Leaf Extract. Mango Pear: Organic Brewed Tea (Water, Organic White Tea), Alcohol, Natural Flavors, Mango Puree, Malic Acid, Pear Juice Concentrate. Black Cherry Vanilla: Organic Brewed Tea (Water, Organic Black Tea), Alcohol, Natural Flavors, Malic Acid, Cherry Juice Concentrate, Sodium Citrate, Stevia Leaf Extract, Natural Vanilla Extract, Monk Fruit Juice Concentrate.",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "1 can 11.5 fl oz (340mL) of Pineapple Hibiscus:",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "can",
+          "servings_per_container": "8",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 90.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        },
+        {
+          "description": "1 can 11.5 fl oz (340mL) of Half & Half:",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "can",
+          "servings_per_container": "8",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 90.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        },
+        {
+          "description": "1 can 11.5 fl oz (340mL) of Mango Pear:",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "can",
+          "servings_per_container": "8",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 90.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        },
+        {
+          "description": "1 can 11.5 fl oz (340mL) of Black Cherry Vanilla:",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "can",
+          "servings_per_container": "8",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 1.0,
+              "quantity": 25.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 80.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Contains alcohol., Government Warning: (1) According to the surgeon general, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 4.2",
+      "<B>Package Quantity:</B> 8",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 92 fl oz (US)"
+    ],
+    "upc": "860007986529",
+    "dpci": "213-01-9844",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84658769",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804105D",
+    "page": "%2Fp%2FA-84658769",
+    "nutrition_facts": {
+      "ingredients": "Organic Jun Kombucha (Organic Honey, Organic Dragonwell Green Tea), Purified Water, Organic Cane Sugar, Organic Passion Fruit Juice, Organic Elderflower, Organic Jasmine, Yeast.",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "12 fl oz (355ml)",
+          "serving_size": "12.0",
+          "serving_size_unit_of_measurement": "fl oz",
+          "servings_per_container": "1",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 4.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 120.0,
+              "unit_of_measurement": "kcal"
+            },
+            {
+              "name": "Calories From Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems. IRC Beer."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 5",
+      "<B>Package Quantity:</B> 6",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 72 fl oz (US)"
+    ],
+    "upc": "850007625276",
+    "dpci": "213-01-0673",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87741892",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804760D",
+    "page": "%2Fp%2FA-87741892"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81805080",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804506D",
+    "page": "%2Fp%2FA-81805080"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87431158",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804604D",
+    "page": "%2Fp%2FA-87431158",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 5",
+      "<B>Package Quantity:</B> 12",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 144 fl oz (US)"
+    ],
+    "upc": "613008763831",
+    "dpci": "213-01-9840",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88249772",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804116D",
+    "page": "%2Fp%2FA-88249772",
+    "nutrition_facts": {
+      "ingredients": "Sparkling Water, Alcohol, Natural Flavors, Sugar, Citric Acid, and Sodium Citrate.",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "1 can",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "can",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 1.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 2.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 90.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Gluten Free, Does not contain distilled spirits., Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 4.5",
+      "<B>Package Quantity:</B> 12",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 144 fl oz (US)",
+      "<B>Style:</B> Hard Punch Drinks"
+    ],
+    "upc": "034100013004",
+    "dpci": "213-01-5580",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82082564",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804265D",
+    "page": "%2Fp%2FA-82082564"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84631489",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804693D",
+    "page": "%2Fp%2FA-84631489"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88382604",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804357D",
+    "page": "%2Fp%2FA-88382604"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88111140",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804425D",
+    "page": "%2Fp%2FA-88111140"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82149416",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804763D",
+    "page": "%2Fp%2FA-82149416"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82149417",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804399D",
+    "page": "%2Fp%2FA-82149417"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88111143",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804811D",
+    "page": "%2Fp%2FA-88111143"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82149415",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804394D",
+    "page": "%2Fp%2FA-82149415"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88111144",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804615D",
+    "page": "%2Fp%2FA-88111144",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "355ML",
+          "serving_size": "355.0",
+          "serving_size_unit_of_measurement": "ml",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 100.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Contains alcohol., Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 4.5",
+      "<B>Alcohol Type:</B> Vodka",
+      "<B>Package Quantity:</B> 4",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 48 fl oz (US)"
+    ],
+    "upc": "635985801955",
+    "dpci": "213-09-9788",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "80743857",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804465D",
+    "page": "%2Fp%2FA-80743857"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "80930711",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804374D",
+    "page": "%2Fp%2FA-80930711"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81815227",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804903D",
+    "page": "%2Fp%2FA-81815227",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "12 fl oz",
+          "serving_size": "12",
+          "serving_size_unit_of_measurement": "fl oz",
+          "servings_per_container": "12",
+          "nutrients": [
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 6.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 110.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Crafted to remove gluten (Product fermented from grains containing gluten and crafted to remove gluten. The gluten content of this product cannot be verified, and this product may contain gluten)., Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 4",
+      "<B>Package Quantity:</B> 12",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 144 fl oz (US)"
+    ],
+    "upc": "852313004929",
+    "dpci": "213-01-1081",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88054391",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804931D",
+    "page": "%2Fp%2FA-88054391",
+    "nutrition_facts": {
+      "ingredients": "Sparkling Water, Alcohol, Natural Flavor, Pomegranate Juice Concentrate, Citric Acid, Sodium Citrate, Dried Acerola Cherry Juice, Stevia.",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "1 can",
+          "serving_size": "1.0",
+          "serving_size_unit_of_measurement": "can",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 1.0,
+              "quantity": 35.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 2.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Iron",
+              "percentage": 2.0,
+              "quantity": 0.04,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 100.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Contains alcohol., Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 5",
+      "<B>Package Quantity:</B> 12",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 144 fl oz (US)"
+    ],
+    "upc": "034100012861",
+    "dpci": "213-01-5666",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84216369",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804748D",
+    "page": "%2Fp%2FA-84216369"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "83084914",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804458D",
+    "page": "%2Fp%2FA-83084914"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89889812",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804958D",
+    "page": "%2Fp%2FA-89889812"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "83518526",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804173D",
+    "page": "%2Fp%2FA-83518526"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "83377906",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804149D",
+    "page": "%2Fp%2FA-83377906",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 5",
+      "<B>Package Quantity:</B> 15",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 180.0 Ounces"
+    ],
+    "upc": "745432780013",
+    "dpci": "213-01-7971",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82532389",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804575D",
+    "page": "%2Fp%2FA-82532389",
+    "nutrition_facts": {
+      "ingredients": "Organic Jun Kombucha (Purified Water, Organic Honey, Organic Green Tea, Jun Culture), Organic Passion Fruit Juice, Organic Cane Sugar, Organic Elderflower, Organic Jasmine, Yeast ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "12",
+          "serving_size_unit_of_measurement": "fl oz",
+          "servings_per_container": "1",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 120.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Calories From Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 2.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            }
+          ]
+        }
+      ],
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 4.5",
+      "<B>Package Quantity:</B> 4",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 48 fl oz (US)"
+    ],
+    "upc": "850007625054",
+    "dpci": "213-01-9895",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82634686",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804235D",
+    "page": "%2Fp%2FA-82634686"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "85852962",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804108D",
+    "page": "%2Fp%2FA-85852962"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81410339",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804381D",
+    "page": "%2Fp%2FA-81410339"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89114269",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804509D",
+    "page": "%2Fp%2FA-89114269"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82634685",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804283D",
+    "page": "%2Fp%2FA-82634685"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79758162",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804966D",
+    "page": "%2Fp%2FA-79758162",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 7",
+      "<B>Package Quantity:</B> 6",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 72 fl oz (US)"
+    ],
+    "upc": "850014675097",
+    "dpci": "213-01-4878",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84638330",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804810D",
+    "page": "%2Fp%2FA-84638330",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [],
+      "warning": "Contains alcohol. Good things come to those who wait - don't drink until you are 21., Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 5.8",
+      "<B>Package Quantity:</B> 12",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 144 fl oz (US)",
+      "<B>Style:</B> Margarita Drinks"
+    ],
+    "upc": "815829011539",
+    "dpci": "213-01-0153",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "86127481",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804143D",
+    "page": "%2Fp%2FA-86127481"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88269770",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804688D",
+    "page": "%2Fp%2FA-88269770",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "12 FL. OZ. of Watermelon:",
+          "serving_size": "12",
+          "serving_size_unit_of_measurement": "fl oz",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 34.2,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 197.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        },
+        {
+          "description": "12 FL. OZ. of Cucumber Lime:",
+          "serving_size": "12",
+          "serving_size_unit_of_measurement": "fl oz",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 25.7,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 189.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        },
+        {
+          "description": "12 FL. OZ. of Pineapple:",
+          "serving_size": "12",
+          "serving_size_unit_of_measurement": "fl oz",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 26.4,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 193.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        },
+        {
+          "description": "12 FL. OZ. of Hibiscus:",
+          "serving_size": "12",
+          "serving_size_unit_of_measurement": "fl oz",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 22.6,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 171.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Contains alcohol., Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 4.5",
+      "<B>Package Quantity:</B> 12",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 144 fl oz (US)"
+    ],
+    "upc": "033544002018",
+    "dpci": "213-01-8811",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89195754",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804580D",
+    "page": "%2Fp%2FA-89195754"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "85912349",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804337D",
+    "page": "%2Fp%2FA-85912349",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "1 CAN (12 FL OZ)",
+          "serving_size": "12",
+          "serving_size_unit_of_measurement": "fl oz",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 2.6,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugar ",
+              "percentage": 0.0,
+              "quantity": 2.6,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 100.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 4.5",
+      "<B>Package Quantity:</B> 4",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 1420 mL",
+      "<B>Style:</B> Hard Punch Drinks"
+    ],
+    "upc": "085000432563",
+    "dpci": "213-11-0131",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89889852",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804692D",
+    "page": "%2Fp%2FA-89889852",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 5",
+      "<B>Alcohol Type:</B> Whiskey",
+      "<B>Package Quantity:</B> 4",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 10",
+      "<B>Net weight:</B> 48 fl oz (US)",
+      "<B>Style:</B> Whiskey Drinks"
+    ],
+    "upc": "080432000779",
+    "dpci": "213-11-4862",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "83910685",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804410D",
+    "page": "%2Fp%2FA-83910685",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "PER 12 FL. OZ. (355ML)",
+          "serving_size": "12.0",
+          "serving_size_unit_of_measurement": "fl oz",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 7.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 120.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 9",
+      "<B>Alcohol Type:</B> Vodka",
+      "<B>Package Quantity:</B> 4",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 48 fl oz (US)",
+      "<B>Style:</B> Hard Punch Drinks"
+    ],
+    "upc": "096749004706",
+    "dpci": "213-11-0040",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89114391",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804175D",
+    "page": "%2Fp%2FA-89114391"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84622847",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804268D",
+    "page": "%2Fp%2FA-84622847"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81815294",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804596D",
+    "page": "%2Fp%2FA-81815294",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "12 FL. OZ. (355 mL) of Black Cherry",
+          "serving_size": "12.0",
+          "serving_size_unit_of_measurement": "fl oz",
+          "servings_per_container": "3",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 2.1,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 100.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        },
+        {
+          "description": "12 FL. OZ. (355 mL) of Original",
+          "serving_size": "12.0",
+          "serving_size_unit_of_measurement": "fl oz",
+          "servings_per_container": "3",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 2.5,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 100.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        },
+        {
+          "description": "12 FL. OZ. (355 mL) of Orange",
+          "serving_size": "12.0",
+          "serving_size_unit_of_measurement": "fl oz",
+          "servings_per_container": "3",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 2.8,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 100.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        },
+        {
+          "description": "12 FL. OZ. (355 mL) of Raspberry",
+          "serving_size": "12.0",
+          "serving_size_unit_of_measurement": "fl oz",
+          "servings_per_container": "3",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 2.5,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 100.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 4.5",
+      "<B>Package Quantity:</B> 12",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 144 fl oz (US)"
+    ],
+    "upc": "082000796411",
+    "dpci": "213-01-1075",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "80930727",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804700D",
+    "page": "%2Fp%2FA-80930727"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88096513",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804290D",
+    "page": "%2Fp%2FA-88096513"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88156723",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804685D",
+    "page": "%2Fp%2FA-88156723",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 14",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 1.5 Liter",
+      "<B>Style:</B> Margarita Drinks"
+    ],
+    "upc": "850034149851",
+    "dpci": "213-00-0176",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87572365",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804858D",
+    "page": "%2Fp%2FA-87572365",
+    "nutrition_facts": {
+      "ingredients": "Mango: Sparkling Water, Alcohol from Organic Cane Sugar, Organic Natural Flavors, Organic Mint, Citric Acid, Malic Acid, Organic Lime Juice, Organic Mango Flavor, Organic Monk Fruit. Lime: Sparkling Water, Alcohol from Organic Cane Sugar, Organic Natural Flavors, Organic Mint, Citric Acid, Malic Acid, Organic Lime Juice, Organic Monk Fruit. Watermelon: Sparkling Water, Alcohol from Organic Cane Sugar, Organic Natural Flavors, Organic Mint, Citric Acid, Malic Acid, Organic Lime Juice, Organic Watermelon Flavor, Organic Monk Fruit. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "1 can (12 oz) of Mango:",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "can",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 155.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        },
+        {
+          "description": "1 can (12 oz) of Lime:",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "can",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 155.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        },
+        {
+          "description": "1 can (12 oz) of Watermelon:",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "can",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 155.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Contains alcohol. 21+ please drink responsibly., Government Warning: (1) According to the Surgeon General women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 8",
+      "<B>Package Quantity:</B> 6",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 72 fl oz (US)"
+    ],
+    "upc": "810058731036",
+    "dpci": "213-01-7471",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "85236434",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804716D",
+    "page": "%2Fp%2FA-85236434",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS., CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 14",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 1.5 Liter"
+    ],
+    "upc": "850035350027",
+    "dpci": "213-00-0750",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78119899",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804795D",
+    "page": "%2Fp%2FA-78119899"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "83910686",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804355D",
+    "page": "%2Fp%2FA-83910686",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "12 FL. OZ. (355ML)",
+          "serving_size": "12.0",
+          "serving_size_unit_of_measurement": "fl oz",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 7.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 120.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 9",
+      "<B>Alcohol Type:</B> Vodka",
+      "<B>Package Quantity:</B> 4",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 48 fl oz (US)",
+      "<B>Style:</B> Hard Punch Drinks"
+    ],
+    "upc": "096749003839",
+    "dpci": "213-11-0041",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87926579",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804377D",
+    "page": "%2Fp%2FA-87926579"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "52297218",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804631D",
+    "page": "%2Fp%2FA-52297218",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 12.5",
+      "<B>Alcohol Type:</B> Rum",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 25",
+      "<B>Net weight:</B> 1.75 Liter",
+      "<B>Style:</B> Hard Punch Drinks"
+    ],
+    "upc": "080480985530",
+    "dpci": "213-11-0092",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88545356",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804913D",
+    "page": "%2Fp%2FA-88545356"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "80137025",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804590D",
+    "page": "%2Fp%2FA-80137025"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88545355",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804769D",
+    "page": "%2Fp%2FA-88545355",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 20",
+      "<B>Alcohol Type:</B> Vodka",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 40",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Style:</B> Martinis"
+    ],
+    "upc": "080686897163",
+    "dpci": "213-11-1655",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87894255",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804964D",
+    "page": "%2Fp%2FA-87894255"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87431160",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804237D",
+    "page": "%2Fp%2FA-87431160",
+    "nutrition_facts": {
+      "ingredients": "Tiger's Blood: Purified Carbonated Water, Alcohol, Natural White Grape Juice from Concentrate, Citric Acid, Natural Flavors, Potassium Citrate. Rocket Pop: Purified Carbonated Water, Alcohol, Natural White Grape Juice from Concentrate, Citric Acid, Natural Flavors, Potassium Citrate. Pink Colada: Purified Carbonated Water, Alcohol, Natural White Grape Juice from Concentrate, Citric Acid, Natural Flavors, Potassium Citrate. Purple Magic: Purified Carbonated Water, Alcohol, Natural White Grape Juice from Concentrate, Citric Acid, Natural Flavors, Potassium Citrate. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "1 can (12 fl. oz./355 mL) of Tiger's Blood:",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "can",
+          "servings_per_container": "1",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 2.5,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 100.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        },
+        {
+          "description": "1 can (12 fl. oz./355 mL) of Rocket Pop:",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "can",
+          "servings_per_container": "1",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 2.5,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 100.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        },
+        {
+          "description": "1 can (12 fl. oz./355 mL) of Pink Colada:",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "can",
+          "servings_per_container": "1",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 2.5,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 100.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        },
+        {
+          "description": "1 can (12 fl. oz./355 mL) of Purple Magic:",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "can",
+          "servings_per_container": "1",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 2.5,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 100.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Contains alcohol. , Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 5",
+      "<B>Package Quantity:</B> 12",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 144 fl oz (US)"
+    ],
+    "upc": "854599007281",
+    "dpci": "213-01-9963",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88545357",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804801D",
+    "page": "%2Fp%2FA-88545357",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHIN- ERY, AND MAY CAUSE HEALTH PROBLEMS., DO NOT FREEZE"
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 35.0",
+      "<B>Alcohol Type:</B> Whiskey",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 70",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Style:</B> Whiskey Drinks"
+    ],
+    "upc": "080686897156",
+    "dpci": "213-11-1671",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87711220",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804815D",
+    "page": "%2Fp%2FA-87711220",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 10",
+      "<B>Alcohol Type:</B> Tequilla",
+      "<B>Package Quantity:</B> 8",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 96 fl oz (US)",
+      "<B>Style:</B> Margarita Drinks"
+    ],
+    "upc": "850006844777",
+    "dpci": "213-11-3951",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87470975",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804336D",
+    "page": "%2Fp%2FA-87470975",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS ALCOHOL"
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 5",
+      "<B>Package Quantity:</B> 12",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 144 fl oz (US)"
+    ],
+    "upc": "850677006313",
+    "dpci": "213-01-0232",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53008511",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804962D",
+    "page": "%2Fp%2FA-53008511"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87813736",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804834D",
+    "page": "%2Fp%2FA-87813736"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89120318",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804163D",
+    "page": "%2Fp%2FA-89120318",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount Per Serving:",
+          "serving_size": "1.5",
+          "serving_size_unit_of_measurement": "fl oz",
+          "servings_per_container": "8.5",
+          "nutrients": [
+            {
+              "name": "ALCOHOL BY VOLUME",
+              "percentage": 24.9
+            },
+            {
+              "name": "FL. OZ. OF ALCOHOL",
+              "quantity": 0.4,
+              "unit_of_measurement": "other"
+            },
+            {
+              "name": "Calories",
+              "quantity": 85.0
+            },
+            {
+              "name": "Total Carbohydrate",
+              "quantity": 6.4
+            },
+            {
+              "name": "Total Fat",
+              "quantity": 0.0
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS SULFITES CONTAINS: WALNUTS CONTAINS CARAMEL AND CERTIFIED COLOR, CONTAINS SULFITES CONTAINS: WALNUTS CONTAINS CARAMEL AND CERTIFIED COLOR"
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 20",
+      "<B>Alcohol Type:</B> Gin",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 375 mL",
+      "<B>Style:</B> Hard Punch Drinks"
+    ],
+    "upc": "088076188624",
+    "dpci": "213-11-2174",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87957195",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804369D",
+    "page": "%2Fp%2FA-87957195"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87894254",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804795D",
+    "page": "%2Fp%2FA-87894254"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84665859",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804602D",
+    "page": "%2Fp%2FA-84665859"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89889857",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804651D",
+    "page": "%2Fp%2FA-89889857"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "51256141",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804761D",
+    "page": "%2Fp%2FA-51256141",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 5.9",
+      "<B>Alcohol Type:</B> Whiskey",
+      "<B>Package Quantity:</B> 6",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 72 Ounces",
+      "<B>Style:</B> Moscow Mule Drinks"
+    ],
+    "upc": "009450021368",
+    "dpci": "213-01-0376",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "86482957",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804142D",
+    "page": "%2Fp%2FA-86482957"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47568665",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804150D",
+    "page": "%2Fp%2FA-47568665",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 4.8",
+      "<B>Alcohol Type:</B> Whiskey",
+      "<B>Package Quantity:</B> 6",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 9.6",
+      "<B>Net weight:</B> 60.0 fl oz (US)",
+      "<B>Style:</B> Whiskey Drinks"
+    ],
+    "upc": "082184226018",
+    "dpci": "213-01-0077",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87499745",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804121D",
+    "page": "%2Fp%2FA-87499745"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89981437",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804683D",
+    "page": "%2Fp%2FA-89981437",
+    "nutrition_facts": {
+      "ingredients": "Sparkling White Wine, Spring Water. Passionfruit Juice, Orange Juice, Guava Puree, Natural Flavors ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount Per Serving",
+          "servings_per_container": "1",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 190.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Polyunsaturated Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Monounsaturated Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 4.0,
+              "quantity": 12.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 12.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 2.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 22.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 6.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 6.0,
+              "quantity": 267.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 6",
+      "<B>Package Quantity:</B> 4",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 48 fl oz (US)",
+      "<B>Style:</B> Hard Punch Drinks"
+    ],
+    "upc": "860007521614",
+    "dpci": "213-00-6749",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "51743790",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804401D",
+    "page": "%2Fp%2FA-51743790",
+    "nutrition_facts": {
+      "ingredients": "GRAPE WINE, CARBONATE WATER, LESS THAN 1% OF: DEXTROSE, FRUCTOSE, CITRIC ACID, POTASSIUM CITRATE, POTASSIUM SORBATE TO PROTECT FLAVOR, SULFITING AGENTS ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "250",
+          "serving_size_unit_of_measurement": "mL",
+          "servings_per_container": "ABOUT 1",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 150.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 5.0,
+              "quantity": 14.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 10.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 5.5",
+      "<B>Package Quantity:</B> 4",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 1000 mL"
+    ],
+    "upc": "085000423882",
+    "dpci": "213-00-2958",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14904172",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804972D",
+    "page": "%2Fp%2FA-14904172",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "serving_size": "1.5",
+          "serving_size_unit_of_measurement": "fl oz",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 1.2,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 37.2,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 11.7",
+      "<B>Alcohol Type:</B> Tequilla",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Style:</B> Margarita Drinks"
+    ],
+    "upc": "080686110101",
+    "dpci": "213-11-0106",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "77570670",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804957D",
+    "page": "%2Fp%2FA-77570670"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82033107",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804636D",
+    "page": "%2Fp%2FA-82033107",
+    "nutrition_facts": {
+      "ingredients": "White Tea, Raspberry & Watermelon: Fresh Brewed Organic Tea (Water, White Tea, Lemon Peel), Alcohol, Cane Sugar, Carbon Dioxide, Lemon Juice Concentrate, Lime Juice Concentrate, Watermelon Juice Concentrate Raspberry Juice Concentrate, Malic Acid. English Breakfast Tea, Lemon & Lime: Fresh Brewed Organic Tea (Water, English Breakfast Tea, Lemon Peel), Alcohol, Cane Sugar, Lemon Juice Concentrae, Carbon Dioxide, Lime Juice Concentrate. Darjeeling Tea & Hibiscus Flowers: Fresh Brewed Organic Tea (Water, Darjeeling Tea, Habiscus Flowers), Alcohol, Cane Sugar, Carbon Dioxide, Lemon Juice Concentrate, Strawberry Juice Concentrate, Raspberry Juice Concentrate. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "1 can (355mL)",
+          "serving_size": "1.0",
+          "serving_size_unit_of_measurement": "can",
+          "servings_per_container": "2",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 3.0,
+              "quantity": 7.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 8.0,
+              "quantity": 4.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Vitamin C",
+              "percentage": 6.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 100.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        },
+        {
+          "description": "1 can (355 mL)",
+          "serving_size": "1.0",
+          "serving_size_unit_of_measurement": "can",
+          "servings_per_container": "2",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 3.0,
+              "quantity": 7.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 6.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Vitamin C",
+              "percentage": 10.0,
+              "quantity": 11.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 100.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        },
+        {
+          "description": "1 can (355mL)",
+          "serving_size": "1.0",
+          "serving_size_unit_of_measurement": "can",
+          "servings_per_container": "2",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 2.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 6.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Vitamin C",
+              "percentage": 8.0,
+              "quantity": 7.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 100.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Please drink responsibly. Contains alcohol - FDA/TTB designation., Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 4.8",
+      "<B>Package Quantity:</B> 6",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 72 fl oz (US)"
+    ],
+    "upc": "858187003082",
+    "dpci": "213-01-1344",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47798643",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804866D",
+    "page": "%2Fp%2FA-47798643",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS ALCOHOL."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 5",
+      "<B>Package Quantity:</B> 6",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 67.2 fl oz (US)"
+    ],
+    "upc": "635985060703",
+    "dpci": "213-01-0401",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54556284",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804429D",
+    "page": "%2Fp%2FA-54556284",
+    "nutrition_facts": {
+      "ingredients": "Filtered Water, Alcohol from Cane Sugar, Natural Fruit Essences, Natural Flavors, Citric Acid, Malic Acid, Acetic Acid, Carbon Dioxide.",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "1 can",
+          "serving_size": "1.0",
+          "serving_size_unit_of_measurement": "can",
+          "servings_per_container": "1",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Trans Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 1.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 85.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Contains alcohol., Government Warning: (1) According to the surgeon general, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 4.2",
+      "<B>Package Quantity:</B> 12",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 144 fl oz (US)"
+    ],
+    "upc": "855988008117",
+    "dpci": "213-01-0319",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87445594",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804961D",
+    "page": "%2Fp%2FA-87445594",
+    "nutrition_facts": {
+      "ingredients": "Lemon Iced Tea: Organic Brewed Tea (Purified Water, Organic Black Tea), Organic Brewed Alcohol, Organic Natural Flavors, Less than 1% of: Organic Stevia Leaf Extract, Vitamin C (Ascorbic Acid for Freshness), Sodium Citrate, Citric Acid. Peach Iced Tea: Organic Brewed Tea (Purified Water, Organic Black Tea), Organic Brewed Alcohol, Organic Natural Flavors, Less than 1% of: Organic Stevia Leaf Extract, Citric & Malic Acids, Vitamin C (Ascorbic Acid for Freshness), Sodium Citrate. Classic Lemonade: Purified Water, Organic Brewed Alcohol, Organic Natural Flavors, Less than 1% of: Organic Lemon Juice Concentrate, Organic Stevia Leaf Extract, Vitamin C (Ascorbic Acid for Freshness), Sodium Citrate, Citric Acid. Blueberry Lemonade: Purified Water, Organic Brewed Alcohol, Organic Natural Flavors, Less than 1% of: Organic Lemon Juice Concentrate, Organic Stevia Leaf Extract, Citric & Malic Acids, Vitamin C (Ascorbic Acid for Freshness), Fruit & Vegetables Juice Concentrates (for Color), Sodium Citrate. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "1 can (340mL) of Lemon Iced Tea:",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "can",
+          "servings_per_container": "8",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 1.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 100.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        },
+        {
+          "description": "1 can (340mL) of Peach Iced Tea:",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "can",
+          "servings_per_container": "8",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 1.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 100.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        },
+        {
+          "description": "1 can (340mL) of Classic Lemonade:",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "can",
+          "servings_per_container": "8",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 1.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 100.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        },
+        {
+          "description": "1 can (340mL) of Blueberry Lemonade:",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "can",
+          "servings_per_container": "8",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 1.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 100.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 5",
+      "<B>Alcohol Type:</B> Supergrain Alcohol",
+      "<B>Package Quantity:</B> 8",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 92 fl oz (US)",
+      "<B>Style:</B> Hard Punch Drinks"
+    ],
+    "upc": "850017837898",
+    "dpci": "213-01-9939",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79806317",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804130D",
+    "page": "%2Fp%2FA-79806317",
+    "nutrition_facts": {
+      "ingredients": "French Rose Wine, Carbonated Water, Natural Flavors.",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "8.5 fl. oz. (1 can)",
+          "serving_size": "8.5",
+          "serving_size_unit_of_measurement": "fl. oz.",
+          "servings_per_container": "1",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 2.0,
+              "quantity": 5.8,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 3.0,
+              "quantity": 115.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 93.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Contains sulfites., Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 5",
+      "<B>Package Quantity:</B> 4",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 1 Liter"
+    ],
+    "upc": "084279004549",
+    "dpci": "213-00-5695",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87821396",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804206D",
+    "page": "%2Fp%2FA-87821396",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 5.5",
+      "<B>Package Quantity:</B> 12",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 144 fl oz (US)"
+    ],
+    "upc": "810005491228",
+    "dpci": "213-05-9407",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14904174",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804110D",
+    "page": "%2Fp%2FA-14904174"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79806316",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804953D",
+    "page": "%2Fp%2FA-79806316",
+    "nutrition_facts": {
+      "ingredients": "French Rose Wine, Carbonated Water, Natural Flavors.",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "8.5 fl. oz. (1 can)",
+          "serving_size": "8.5",
+          "serving_size_unit_of_measurement": "fl oz",
+          "servings_per_container": "1",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 2.0,
+              "quantity": 5.8,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 3.0,
+              "quantity": 115.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 93.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Contains sulfites., Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 5",
+      "<B>Package Quantity:</B> 4",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 1 Liter"
+    ],
+    "upc": "084279004563",
+    "dpci": "213-00-6030",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88510169",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804156D",
+    "page": "%2Fp%2FA-88510169"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84294090",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804848D",
+    "page": "%2Fp%2FA-84294090"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "34842385",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804474D",
+    "page": "%2Fp%2FA-34842385"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "86131398",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804547D",
+    "page": "%2Fp%2FA-86131398",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "12",
+          "serving_size_unit_of_measurement": "fl oz",
+          "servings_per_container": "4",
+          "nutrients": [
+            {
+              "name": "ALCOHOL BY VOLUME",
+              "percentage": 7.0
+            },
+            {
+              "name": "fl oz of Alcohol",
+              "quantity": 0.8,
+              "unit_of_measurement": "other"
+            },
+            {
+              "name": "Calories",
+              "quantity": 172.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "quantity": 9.8,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Total Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            }
+          ]
+        }
+      ],
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 7.0",
+      "<B>Alcohol Type:</B> Vodka",
+      "<B>Package Quantity:</B> 4",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 14.0",
+      "<B>Net weight:</B> 48 fl oz (US)",
+      "<B>Style:</B> Hard Punch Drinks"
+    ],
+    "upc": "088076187214",
+    "dpci": "213-11-0316",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "86131401",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804273D",
+    "page": "%2Fp%2FA-86131401"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "86131400",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804826D",
+    "page": "%2Fp%2FA-86131400",
+    "nutrition_facts": {
+      "ingredients": "CONTAINS FD&C YELLOW #5 ",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 7.0",
+      "<B>Alcohol Type:</B> Vodka",
+      "<B>Package Quantity:</B> 4",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 14.0",
+      "<B>Net weight:</B> 48 fl oz (US)",
+      "<B>Style:</B> Hard Punch Drinks"
+    ],
+    "upc": "088076187207",
+    "dpci": "213-11-0323",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88510168",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804738D",
+    "page": "%2Fp%2FA-88510168",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 9",
+      "<B>Alcohol Type:</B> Vodka",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 1.75 Liter",
+      "<B>Style:</B> Bloody Mary Drinks"
+    ],
+    "upc": "616003175012",
+    "dpci": "213-11-3184",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84737492",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804696D",
+    "page": "%2Fp%2FA-84737492"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "86131399",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804186D",
+    "page": "%2Fp%2FA-86131399",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "AMOUNT PER SERVING",
+          "serving_size": "12",
+          "serving_size_unit_of_measurement": "FL OZ",
+          "servings_per_container": "1",
+          "nutrients": [
+            {
+              "name": "ALCOHOL BY VOLUME",
+              "percentage": 7.0
+            },
+            {
+              "name": "FL. OZ. OF ALCOHOL",
+              "quantity": 0.8
+            },
+            {
+              "name": "Calories",
+              "quantity": 172.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "quantity": 9.6,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Total Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0
+            }
+          ]
+        }
+      ],
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS "
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 7.0",
+      "<B>Alcohol Type:</B> Vodka",
+      "<B>Package Quantity:</B> 4",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 14.0",
+      "<B>Net weight:</B> 48 fl oz (US)",
+      "<B>Style:</B> Hard Punch Drinks"
+    ],
+    "upc": "088076187238",
+    "dpci": "213-11-0317",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "52302128",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804930D",
+    "page": "%2Fp%2FA-52302128"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53987880",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804873D",
+    "page": "%2Fp%2FA-53987880"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47573391",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804956D",
+    "page": "%2Fp%2FA-47573391",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 9.95",
+      "<B>Alcohol Type:</B> Tequilla",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 19.9",
+      "<B>Net weight:</B> 1.75 Liter",
+      "<B>Style:</B> Margarita Drinks"
+    ],
+    "upc": "811538010399",
+    "dpci": "213-11-0034",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "83607452",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804222D",
+    "page": "%2Fp%2FA-83607452"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13354839",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804743D",
+    "page": "%2Fp%2FA-13354839"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "86482950",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804370D",
+    "page": "%2Fp%2FA-86482950"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "86482953",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804651D",
+    "page": "%2Fp%2FA-86482953"
+  }
+]

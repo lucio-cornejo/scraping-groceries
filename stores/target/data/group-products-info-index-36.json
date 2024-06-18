@@ -1,0 +1,2799 @@
+[
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47131873",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804225D",
+    "page": "%2Fp%2FA-47131873",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 15.0",
+      "<B>Region:</B> California",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Petit Verdot, Petit Syrah",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "652935100210",
+    "dpci": "213-00-1043",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82002494",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804937D",
+    "page": "%2Fp%2FA-82002494",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> Great Lakes",
+      "<B>Alcohol Percentage:</B> 11.8",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Rose",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "083161201912",
+    "dpci": "213-00-3733",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "85333452",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804326D",
+    "page": "%2Fp%2FA-85333452",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 13.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Chardonnay",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "839146081129",
+    "dpci": "213-00-0504",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47134232",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804102D",
+    "page": "%2Fp%2FA-47134232",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 15.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Sauvignon Blanc",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "080887493942",
+    "dpci": "213-00-1805",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "85636656",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804194D",
+    "page": "%2Fp%2FA-85636656",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> United States",
+      "<B>Alcohol Percentage:</B> 12",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> White Blend",
+      "<B>Net weight:</B> 1.5 Liter"
+    ],
+    "upc": "084970001106",
+    "dpci": "213-00-1431",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53556474",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804965D",
+    "page": "%2Fp%2FA-53556474",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> Midwestern United States",
+      "<B>Alcohol Percentage:</B> 11",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Red Blend",
+      "<B>Net weight:</B> 750 ml"
+    ],
+    "upc": "012584000116",
+    "dpci": "213-00-0218",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89948955",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804150D",
+    "page": "%2Fp%2FA-89948955",
+    "nutrition_facts": {
+      "ingredients": "Grapes, Yeast, Tartaric Acid, Nitrogen and Amino Acids for yeast nutrition, Sulfur Dioxide ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery and may cause health problems., Contains Sulfites."
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> United States",
+      "<B>Alcohol Percentage:</B> 14",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Red Blend",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "196852908110",
+    "dpci": "213-00-5809",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81593988",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804504D",
+    "page": "%2Fp%2FA-81593988",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> Paso Robles, California",
+      "<B>Alcohol Percentage:</B> 13.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Cabernet Sauvignon",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "739958194805",
+    "dpci": "213-00-1695",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89952854",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804788D",
+    "page": "%2Fp%2FA-89952854",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES, CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 7.5",
+      "<B>Region:</B> California",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> White Moscato",
+      "<B>Net weight:</B> 750 fl oz (US)",
+      "<B>Style:</B> Dry"
+    ],
+    "upc": "085000037607",
+    "dpci": "213-00-8575",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "85645750",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804275D",
+    "page": "%2Fp%2FA-85645750",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> United States",
+      "<B>Alcohol Percentage:</B> 13.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Pinot Noir",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "180937000004",
+    "dpci": "213-00-1617",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54613753",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804226D",
+    "page": "%2Fp%2FA-54613753",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 11.5",
+      "<B>Region:</B> Columbia Valley, Washington",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Prosecco",
+      "<B>Net weight:</B> 355 mL",
+      "<B>Style:</B> Brut"
+    ],
+    "upc": "088586010378",
+    "dpci": "213-00-3404",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47132875",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804498D",
+    "page": "%2Fp%2FA-47132875",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> Great Lakes",
+      "<B>Alcohol Percentage:</B> 13.0",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Red Blend",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "084970001267",
+    "dpci": "213-00-1234",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47537022",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804803D",
+    "page": "%2Fp%2FA-47537022",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 18",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Red Blend",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "086003004917",
+    "dpci": "213-00-1201",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13288395",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804170D",
+    "page": "%2Fp%2FA-13288395",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS., CONTAINS SULPHITES"
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 12.0",
+      "<B>Region:</B> Chile",
+      "<B>Features:</B> No Added Oils",
+      "<B>Dietary Needs:</B> Gluten-Free, 0 Grams Trans Fat",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Merlot",
+      "<B>Net weight:</B> 1.5  Liter"
+    ],
+    "upc": "082734001010",
+    "dpci": "213-00-0001",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53205456",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804354D",
+    "page": "%2Fp%2FA-53205456",
+    "nutrition_facts": {
+      "ingredients": "Red Wine .",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "750",
+          "serving_size_unit_of_measurement": "ml",
+          "servings_per_container": "varies",
+          "nutrients": [
+            {
+              "name": "Calcium",
+              "percentage": 4.59
+            },
+            {
+              "name": "Calories",
+              "quantity": 633.75,
+              "unit_of_measurement": "calories"
+            },
+            {
+              "name": "Calories From Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "calories"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Iron",
+              "percentage": 19.05
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.52,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 1.0,
+              "quantity": 29.82,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 4.62,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 6.0,
+              "quantity": 19.46,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin A",
+              "percentage": 0.3
+            },
+            {
+              "name": "Vitamin C",
+              "percentage": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 15",
+      "<B>Region:</B> Australia",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Red Blend",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "012354001930",
+    "dpci": "213-00-2933",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54397870",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804633D",
+    "page": "%2Fp%2FA-54397870",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> Portugal",
+      "<B>Alcohol Percentage:</B> 10",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Vinho Verde",
+      "<B>Net weight:</B> 750 ml"
+    ],
+    "upc": "764793208301",
+    "dpci": "213-00-3360",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14768694",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804976D",
+    "page": "%2Fp%2FA-14768694",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES, GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS."
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 13.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Cabernet Sauvignon",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "099988071140",
+    "dpci": "213-00-0809",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81581840",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804791D",
+    "page": "%2Fp%2FA-81581840",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [],
+      "warning": "Contains sulfites. Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 13.7",
+      "<B>Region:</B> Chile",
+      "<B>Features:</B> No Artificial Flavors, Colors or Preservatives",
+      "<B>Dietary Needs:</B> Gluten-Free",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Cabernet Sauvignon",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Style:</B> Dry"
+    ],
+    "upc": "082734620044",
+    "dpci": "213-00-3482",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47129445",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804449D",
+    "page": "%2Fp%2FA-47129445",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 12.0",
+      "<B>Region:</B> Alexander Valley, California",
+      "<B>Features:</B> No Added Antibiotics",
+      "<B>Dietary Needs:</B> Gluten-Free, Sodium Free",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Cabernet Sauvignon",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "085000010532",
+    "dpci": "213-00-0624",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88009010",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804866D",
+    "page": "%2Fp%2FA-88009010",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 12.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Blanc de Blanc",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Style:</B> Brut"
+    ],
+    "upc": "852832106241",
+    "dpci": "213-00-7085",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81827506",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804827D",
+    "page": "%2Fp%2FA-81827506",
+    "nutrition_facts": {
+      "ingredients": "WINE, GRAPE MUST, SUGAR, NATURAL FLAVORS, SULPHUR DIOXIDE (ANTIOXIDANT). ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount Per Serving",
+          "serving_size": "6",
+          "serving_size_unit_of_measurement": "fl oz",
+          "servings_per_container": "about 4",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 103.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 5.0,
+              "quantity": 16.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 16.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Italy",
+      "<B>Alcohol Percentage:</B> 8",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Red Blend",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "087872643122",
+    "dpci": "213-00-2516",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13462178",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804903D",
+    "page": "%2Fp%2FA-13462178",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 13.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> White Blend",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "099988071058",
+    "dpci": "213-00-1011",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79182391",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804719D",
+    "page": "%2Fp%2FA-79182391",
+    "nutrition_facts": {
+      "ingredients": "Rosé Wine",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Oregon",
+      "<B>Alcohol Percentage:</B> 13",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Rose",
+      "<B>Net weight:</B> 375 mL",
+      "<B>Style:</B> Dry"
+    ],
+    "upc": "856036001074",
+    "dpci": "213-00-3480",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82002490",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804328D",
+    "page": "%2Fp%2FA-82002490",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> Great Lakes",
+      "<B>Alcohol Percentage:</B> 12",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Fruit Varietal",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "084970051217",
+    "dpci": "213-00-3712",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53207805",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804331D",
+    "page": "%2Fp%2FA-53207805",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> Italy",
+      "<B>Alcohol Percentage:</B> 15.1",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Prosecco",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Style:</B> Extra Dry"
+    ],
+    "upc": "632987201615",
+    "dpci": "213-00-2910",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14913780",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804542D",
+    "page": "%2Fp%2FA-14913780",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 14.5",
+      "<B>Region:</B> Lodi, California",
+      "<B>Features:</B> No Added Antibiotics",
+      "<B>Dietary Needs:</B> Sodium Free, Gluten-Free",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Cabernet Sauvignon",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "082242280433",
+    "dpci": "213-00-1200",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87887736",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804389D",
+    "page": "%2Fp%2FA-87887736",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 13",
+      "<B>Region:</B> United States",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Red Blend",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "729763213006",
+    "dpci": "213-00-9225",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "51743844",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804149D",
+    "page": "%2Fp%2FA-51743844",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES."
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 10.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Red Blend",
+      "<B>Net weight:</B> 1.5  Liter"
+    ],
+    "upc": "085000018682",
+    "dpci": "213-00-2959",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "86459625",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804916D",
+    "page": "%2Fp%2FA-86459625",
+    "nutrition_facts": {
+      "ingredients": "Carbonated Water, White Grape Juice Concentrate, Red Grape Juice Concentrate, Malic Acid, Citric Acid, Sodium Benzoate and Potassium Metabisulphite (as Preservatives).",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "5 fl oz (150mL)",
+          "serving_size": "5",
+          "serving_size_unit_of_measurement": "fl oz",
+          "servings_per_container": "5",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Trans Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 1.0,
+              "quantity": 28.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 24.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 60.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> United States",
+      "<B>Alcohol Percentage:</B> 0",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Non-Alcoholic",
+      "<B>Wine varietals:</B> Rose",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Style:</B> Brut"
+    ],
+    "upc": "848375010503",
+    "dpci": "213-00-4907",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47935480",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804748D",
+    "page": "%2Fp%2FA-47935480",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 13.7",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Sauvignon Blanc",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "088553094059",
+    "dpci": "213-00-0145",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87880905",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804761D",
+    "page": "%2Fp%2FA-87880905",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 12",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Multiple Varietals",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Style:</B> Brut"
+    ],
+    "upc": "850040686005",
+    "dpci": "213-00-7844",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13248612",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804580D",
+    "page": "%2Fp%2FA-13248612",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 11",
+      "<B>Region:</B> California",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> White Moscato",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "857151003264",
+    "dpci": "213-00-1672",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47134090",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804607D",
+    "page": "%2Fp%2FA-47134090",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS., CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Oregon",
+      "<B>Alcohol Percentage:</B> 13.2",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Pinot Gris",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "188985000281",
+    "dpci": "213-00-1778",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47132839",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804924D",
+    "page": "%2Fp%2FA-47132839",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> Midwestern United States",
+      "<B>Alcohol Percentage:</B> 12.0",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Concord",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "088790217495",
+    "dpci": "213-00-1187",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "48630273",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804126D",
+    "page": "%2Fp%2FA-48630273",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Napa Valley, California",
+      "<B>Alcohol Percentage:</B> 13.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Sauvignon Blanc",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "669576019405",
+    "dpci": "213-00-0529",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87892401",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804390D",
+    "page": "%2Fp%2FA-87892401",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 13",
+      "<B>Region:</B> United States",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Fruit Varietal",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "853714007267",
+    "dpci": "213-00-5746",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47986734",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804207D",
+    "page": "%2Fp%2FA-47986734",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 11.5",
+      "<B>Region:</B> United States",
+      "<B>Features:</B> Vegan",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Champagne",
+      "<B>Net weight:</B> 1.5 Liter",
+      "<B>Style:</B> Extra Dry"
+    ],
+    "upc": "083804043169",
+    "dpci": "213-00-0166",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89952853",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804577D",
+    "page": "%2Fp%2FA-89952853",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> United States",
+      "<B>Alcohol Percentage:</B> 8",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> White Moscato",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "085000034927",
+    "dpci": "213-00-5772",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89194792",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804133D",
+    "page": "%2Fp%2FA-89194792",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems., CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 11",
+      "<B>Region:</B> United States",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Multiple Varietals",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "851422006510",
+    "dpci": "213-00-4736",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13359274",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804591D",
+    "page": "%2Fp%2FA-13359274",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 13.5",
+      "<B>Region:</B> California",
+      "<B>Features:</B> Vegan",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Merlot",
+      "<B>Net weight:</B> 1.5 Liter"
+    ],
+    "upc": "086003000506",
+    "dpci": "213-00-0193",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88115862",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804209D",
+    "page": "%2Fp%2FA-88115862",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS., CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 7.5",
+      "<B>Package Quantity:</B> 4",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Fruit Varietal",
+      "<B>Net weight:</B> 187 mL"
+    ],
+    "upc": "085200002368",
+    "dpci": "213-00-7843",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89202121",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804534D",
+    "page": "%2Fp%2FA-89202121",
+    "nutrition_facts": {
+      "ingredients": "FARM FRESH MOSCATO WINE, FILTERED WATER, SUGAR, RASPBERRY CONCENTRATE, CARBON DIOXIDE, CITRIC ACID, POTASSIUM SORBATE AND POTASSIUM METABISULFITE (TO PRESERVE FRESHNESS) ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Servings",
+          "serving_size": "5",
+          "serving_size_unit_of_measurement": "oz",
+          "servings_per_container": "5",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 120.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 4.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 9.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 16.0,
+              "quantity": 8.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Calcium",
+              "quantity": 10.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 2.0,
+              "quantity": 0.3,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 90.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE HEALTH RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALOCHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS., CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 6.8",
+      "<B>Region:</B> United States",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Multiple Varietals",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Style:</B> Dry"
+    ],
+    "upc": "084970010559",
+    "dpci": "213-00-6725",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47134208",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804458D",
+    "page": "%2Fp%2FA-47134208",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVER- AGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS., CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 14.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Red Blend",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "080887490231",
+    "dpci": "213-00-1803",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47134869",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804868D",
+    "page": "%2Fp%2FA-47134869",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 14.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Red Blend",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "085000019689",
+    "dpci": "213-00-2123",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "17125359",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804686D",
+    "page": "%2Fp%2FA-17125359",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 13.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Sauvignon Blanc",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "898756001040",
+    "dpci": "213-00-2394",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89202810",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804735D",
+    "page": "%2Fp%2FA-89202810",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS., CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Washington",
+      "<B>Alcohol Percentage:</B> 13.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Red Blend",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "099988072048",
+    "dpci": "213-00-8496",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87893485",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804638D",
+    "page": "%2Fp%2FA-87893485",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> Paso Robles, California",
+      "<B>Alcohol Percentage:</B> 13.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Rose",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Style:</B> Dry"
+    ],
+    "upc": "087872135504",
+    "dpci": "213-00-7616",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88035560",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804121D",
+    "page": "%2Fp%2FA-88035560",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 13.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Cabernet Sauvignon",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "085200020812",
+    "dpci": "213-00-7086",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81786049",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804398D",
+    "page": "%2Fp%2FA-81786049",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> Livermore Valley, California",
+      "<B>Alcohol Percentage:</B> 14",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Cabernet Sauvignon",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "089636420000",
+    "dpci": "213-00-3578",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84738685",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804255D",
+    "page": "%2Fp%2FA-84738685",
+    "nutrition_facts": {
+      "ingredients": "Water, Moscato Wine, Grape Juice Concentrate, Neutral Grape Spirits, Citric Acid, Natural Flavors, Potassium Sorbate, Tannin, Sulfur dioxide, Gum Arabic ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount Per Serving",
+          "serving_size": "5",
+          "serving_size_unit_of_measurement": "fl oz",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 90.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 3.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 8.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            }
+          ]
+        }
+      ],
+      "warning": "GOVERNMENT WARNING: (0 ACCORDING TO THE SURGEON GENERAL WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS, [2] CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS, CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> United States",
+      "<B>Alcohol Percentage:</B> 6.5",
+      "<B>Dietary Needs:</B> 0 Grams Trans Fat, 0 Grams Saturated Fat",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> White Moscato",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "083120013655",
+    "dpci": "213-00-0577",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "52525732",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804221D",
+    "page": "%2Fp%2FA-52525732",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 11.5",
+      "<B>Region:</B> California",
+      "<B>Package Quantity:</B> 4",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Prosecco",
+      "<B>Net weight:</B> 800 mL",
+      "<B>Style:</B> Brut"
+    ],
+    "upc": "739958163252",
+    "dpci": "213-00-2834",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "49086212",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804696D",
+    "page": "%2Fp%2FA-49086212",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> United States",
+      "<B>Alcohol Percentage:</B> 10.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Concord",
+      "<B>Net weight:</B> 1.5 Liter"
+    ],
+    "upc": "088582000410",
+    "dpci": "213-00-2442",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90471771",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804625D",
+    "page": "%2Fp%2FA-90471771",
+    "nutrition_facts": {
+      "ingredients": "Dealcoholized wine, Rectified concentrated grape must, Dimethyl dicarbonate (preservative), Sulphites. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "3/4",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "4",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 33.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.1,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 9.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 3.0,
+              "quantity": 7.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 7.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 10.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 3.0,
+              "quantity": 40.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 6.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 6.0,
+              "quantity": 300.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "Contains sulphites., Contains sulphites."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 0",
+      "<B>Region:</B> United States",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Non-Alcoholic",
+      "<B>Wine varietals:</B> Rose",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Style:</B> Dry"
+    ],
+    "upc": "197644528578",
+    "dpci": "213-12-0201",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88041029",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804127D",
+    "page": "%2Fp%2FA-88041029",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS., CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 13",
+      "<B>Region:</B> United States",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Sangria",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "088587214751",
+    "dpci": "213-00-5751",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47133220",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804282D",
+    "page": "%2Fp%2FA-47133220",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Great Lakes",
+      "<B>Alcohol Percentage:</B> 13.0",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Riesling",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "083161970030",
+    "dpci": "213-00-1359",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89948686",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804266D",
+    "page": "%2Fp%2FA-89948686",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> United States",
+      "<B>Alcohol Percentage:</B> 13",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> White Moscato",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "012584020084",
+    "dpci": "213-00-5644",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "51759155",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804605D",
+    "page": "%2Fp%2FA-51759155",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 12.68",
+      "<B>Region:</B> Burgundy",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Red Blend",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "084692400249",
+    "dpci": "213-00-3079",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81593982",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804554D",
+    "page": "%2Fp%2FA-81593982",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 11.9",
+      "<B>Region:</B> California",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Rose",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "769611000204",
+    "dpci": "213-00-3490",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "51792587",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804131D",
+    "page": "%2Fp%2FA-51792587",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Italy",
+      "<B>Alcohol Percentage:</B> 9.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> White Moscato",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "081308003009",
+    "dpci": "213-00-3010",
+    "origin": "Made in the USA and Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89948685",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804880D",
+    "page": "%2Fp%2FA-89948685",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> United States",
+      "<B>Alcohol Percentage:</B> 13",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> White Moscato",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "012584020114",
+    "dpci": "213-00-8416",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14767824",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804374D",
+    "page": "%2Fp%2FA-14767824",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS., CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 12",
+      "<B>Region:</B> Australia",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Red Blend",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "031259044095",
+    "dpci": "213-00-1990",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "15505028",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804610D",
+    "page": "%2Fp%2FA-15505028",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 13",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Sauvignon Blanc",
+      "<B>Net weight:</B> 1.5 Liter"
+    ],
+    "upc": "018341151022",
+    "dpci": "213-00-1615",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53427024",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804111D",
+    "page": "%2Fp%2FA-53427024",
+    "nutrition_facts": {
+      "ingredients": "WINE, GRAPE MUST, SUGAR, NATURAL FLAVORS, SULPHUR DIOXIDE (ANTIOXIDANT). ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount Per Serving",
+          "serving_size": "6",
+          "serving_size_unit_of_measurement": "fl oz",
+          "servings_per_container": "about 4",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 160.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 1.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 8.0,
+              "quantity": 23.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 22.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Italy",
+      "<B>Alcohol Percentage:</B> 5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> White Moscato",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "087872633864",
+    "dpci": "213-00-3019",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81594011",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804441D",
+    "page": "%2Fp%2FA-81594011",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> Lodi, California",
+      "<B>Alcohol Percentage:</B> 15",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Cabernet Sauvignon",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "082242014847",
+    "dpci": "213-00-2210",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "83641663",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804109D",
+    "page": "%2Fp%2FA-83641663",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 14",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Champagne",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Style:</B> Brut"
+    ],
+    "upc": "860152000705",
+    "dpci": "213-00-3773",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "83442727",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804782D",
+    "page": "%2Fp%2FA-83442727",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL WOMEN SHOULD NOT DRINK ALCOHOLIC BRTH DEFECTS (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS., CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> France",
+      "<B>Alcohol Percentage:</B> 11",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Blanc de Blanc",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Style:</B> Demi-Sec"
+    ],
+    "upc": "810885011219",
+    "dpci": "213-00-2792",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81783101",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804497D",
+    "page": "%2Fp%2FA-81783101",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 14",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Merlot",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "085000032145",
+    "dpci": "213-00-1673",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "52900021",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804610D",
+    "page": "%2Fp%2FA-52900021",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Midwestern United States",
+      "<B>Alcohol Percentage:</B> 10",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Fruit Varietal",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "088582000113",
+    "dpci": "213-00-1401",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14765586",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804310D",
+    "page": "%2Fp%2FA-14765586",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES."
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 12.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Red Blend",
+      "<B>Net weight:</B> 1.5 Liter"
+    ],
+    "upc": "085200000760",
+    "dpci": "213-00-0210",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "83444968",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804184D",
+    "page": "%2Fp%2FA-83444968",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 13",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Fruit Varietal",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "643390346176",
+    "dpci": "213-00-3590",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89948956",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804693D",
+    "page": "%2Fp%2FA-89948956",
+    "nutrition_facts": {
+      "ingredients": "Grapes, Yeast, Tartaric Acid, Nitrogen and Amino Acids for yeast nutrition, Sulfur Dioxide ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "Contains Sulfites."
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> United States",
+      "<B>Alcohol Percentage:</B> 14",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Cabernet Sauvignon",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "860008914439",
+    "dpci": "213-00-5679",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "83613769",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804705D",
+    "page": "%2Fp%2FA-83613769",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> Italy",
+      "<B>Alcohol Percentage:</B> 7",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Red Blend",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "087241880493",
+    "dpci": "213-00-3771",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81856381",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804644D",
+    "page": "%2Fp%2FA-81856381",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> Monterey, California",
+      "<B>Alcohol Percentage:</B> 14",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Chardonnay",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "750084187608",
+    "dpci": "213-00-9806",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13359374",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804908D",
+    "page": "%2Fp%2FA-13359374",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 13.5",
+      "<B>Region:</B> Paso Robles, California",
+      "<B>Features:</B> Lactose-Free",
+      "<B>Dietary Needs:</B> Gluten-Free, 0 Grams Trans Fat",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Cabernet Sauvignon",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "083085300265",
+    "dpci": "213-00-0031",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "49127132",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804668D",
+    "page": "%2Fp%2FA-49127132",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL,WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THIS RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS., CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Marlborough",
+      "<B>Alcohol Percentage:</B> 11.0",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Sauvignon Blanc",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "098709198005",
+    "dpci": "213-00-0627",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88005618",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804801D",
+    "page": "%2Fp%2FA-88005618",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS., CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 13",
+      "<B>Region:</B> Willamette Valley, Oregon",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Rose",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "086891089690",
+    "dpci": "213-00-7615",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47132531",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804606D",
+    "page": "%2Fp%2FA-47132531",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> United States",
+      "<B>Alcohol Percentage:</B> 11",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Fruit Varietal",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "085976034006",
+    "dpci": "213-00-1125",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13462173",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804442D",
+    "page": "%2Fp%2FA-13462173",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 13.5",
+      "<B>Region:</B> California",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Red Blend",
+      "<B>Net weight:</B> 3 Liter"
+    ],
+    "upc": "085200600137",
+    "dpci": "213-00-0841",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "52250423",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804385D",
+    "page": "%2Fp%2FA-52250423",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES, CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Central Coast, California",
+      "<B>Alcohol Percentage:</B> 13",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Rose",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "081308003856",
+    "dpci": "213-00-2127",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87892402",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804273D",
+    "page": "%2Fp%2FA-87892402",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 13",
+      "<B>Region:</B> United States",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Fruit Varietal",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "853714007281",
+    "dpci": "213-00-5747",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13300533",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804414D",
+    "page": "%2Fp%2FA-13300533",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 13.0",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Chardonnay",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "018341751055",
+    "dpci": "213-00-1085",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89194793",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804323D",
+    "page": "%2Fp%2FA-89194793",
+    "nutrition_facts": {
+      "ingredients": "Muscat Grape Juice, Water, Citric Acid, Natural Flavors, Potassium Metabisulfite. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per\nserving",
+          "serving_size": "5",
+          "serving_size_unit_of_measurement": "oz",
+          "servings_per_container": "5",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 147.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.4,
+              "quantity": 8.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 7.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 17.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 0.0
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "GOVERNMENT WARNING: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems. , CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> United States",
+      "<B>Alcohol Percentage:</B> 11",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Multiple Varietals",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Style:</B> Brut"
+    ],
+    "upc": "851422006480",
+    "dpci": "213-00-5453",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87880904",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804172D",
+    "page": "%2Fp%2FA-87880904",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES, CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 12",
+      "<B>Region:</B> California",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Rose",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "860002633008",
+    "dpci": "213-00-7845",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "49166526",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804334D",
+    "page": "%2Fp%2FA-49166526",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES."
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Midwestern United States",
+      "<B>Alcohol Percentage:</B> 11.0",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Multiple Varietals",
+      "<B>Net weight:</B> 750 ml",
+      "<B>Style:</B> Brut"
+    ],
+    "upc": "012584000130",
+    "dpci": "213-00-0484",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "80205302",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804837D",
+    "page": "%2Fp%2FA-80205302",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> United States",
+      "<B>Alcohol Percentage:</B> 12",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Muscadine",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Style:</B> Demi-Sec"
+    ],
+    "upc": "182681000330",
+    "dpci": "213-00-8680",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14767279",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804242D",
+    "page": "%2Fp%2FA-14767279",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 10.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Red Blend",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "085000018491",
+    "dpci": "213-00-1826",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47128391",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804318D",
+    "page": "%2Fp%2FA-47128391",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Spain",
+      "<B>Alcohol Percentage:</B> 11.0",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Cava",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Style:</B> Extra Dry"
+    ],
+    "upc": "033293003809",
+    "dpci": "213-00-0314",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47129473",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804429D",
+    "page": "%2Fp%2FA-47129473",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> Midwestern United States",
+      "<B>Alcohol Percentage:</B> 11.0",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Blush",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "088790216481",
+    "dpci": "213-00-0671",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13397028",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804353D",
+    "page": "%2Fp%2FA-13397028",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2)CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS., CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 14.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Petit Syrah",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "080887493744",
+    "dpci": "213-00-0516",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81786057",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804602D",
+    "page": "%2Fp%2FA-81786057",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 14.5",
+      "<B>Region:</B> Los Carneros, California",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Pinot Noir",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Style:</B> Dry"
+    ],
+    "upc": "082242011204",
+    "dpci": "213-00-3586",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89948683",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804495D",
+    "page": "%2Fp%2FA-89948683",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> United States",
+      "<B>Alcohol Percentage:</B> 14",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Red Blend",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "013385851518",
+    "dpci": "213-00-5726",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47132834",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804637D",
+    "page": "%2Fp%2FA-47132834",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS., CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Monterey, California",
+      "<B>Alcohol Percentage:</B> 12.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Riesling",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "089121018521",
+    "dpci": "213-00-1182",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47134085",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804706D",
+    "page": "%2Fp%2FA-47134085",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "Warning. Contents under pressure: keep cork pointed away from head and body when removing cork, GOVERNMENT WARNING: (1) ACCORDING TO THE SUR- GEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEV- ERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OP- ERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS., CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Italy",
+      "<B>Alcohol Percentage:</B> 5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Blush",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Style:</B> Doux"
+    ],
+    "upc": "038075205303",
+    "dpci": "213-00-1773",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "51759396",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804578D",
+    "page": "%2Fp%2FA-51759396",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 14.5",
+      "<B>Region:</B> Alexander Valley, California",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Cabernet Sauvignon",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "087512929685",
+    "dpci": "213-00-3108",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89962163",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804148D",
+    "page": "%2Fp%2FA-89962163",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Average analysis",
+          "serving_size": "5",
+          "serving_size_unit_of_measurement": "oz",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 80.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "quantity": 2.1,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Total Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> United States",
+      "<B>Alcohol Percentage:</B> 9",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Sauvignon Blanc",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "088586013355",
+    "dpci": "213-00-7052",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13299909",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804778D",
+    "page": "%2Fp%2FA-13299909",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 12.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Pinot Noir",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "492130003189",
+    "dpci": "213-00-0318",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13359465",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804963D",
+    "page": "%2Fp%2FA-13359465",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 13.5",
+      "<B>Region:</B> California",
+      "<B>Features:</B> Vegan",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Pinot Noir",
+      "<B>Net weight:</B> 1.5 Liter"
+    ],
+    "upc": "086003003408",
+    "dpci": "213-00-0459",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "51759393",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804580D",
+    "page": "%2Fp%2FA-51759393",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS: SULFITES."
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Russian River Valley, California",
+      "<B>Alcohol Percentage:</B> 14.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Pinot Noir",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "087512927957",
+    "dpci": "213-00-3110",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53577591",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804425D",
+    "page": "%2Fp%2FA-53577591",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> Italy",
+      "<B>Alcohol Percentage:</B> 11",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Prosecco",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Style:</B> Brut"
+    ],
+    "upc": "086891087740",
+    "dpci": "213-00-1220",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47935479",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804169D",
+    "page": "%2Fp%2FA-47935479",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Alexander Valley, California",
+      "<B>Alcohol Percentage:</B> 13.7",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Cabernet Sauvignon",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "088553093496",
+    "dpci": "213-00-0144",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13359286",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804543D",
+    "page": "%2Fp%2FA-13359286",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS SULFITES"
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 14.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Chardonnay",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "087110400579",
+    "dpci": "213-00-0736",
+    "origin": "Made in the USA or Imported"
+  }
+]

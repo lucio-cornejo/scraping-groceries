@@ -1,0 +1,3159 @@
+[
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986843",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804285D",
+    "page": "%2Fp%2FA-91986843",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Dietary Needs:</B> Non-GMO Project Verified",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 10",
+      "<B>Net weight:</B> 1.2 ounces"
+    ],
+    "upc": "716270060063",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986728",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804821D",
+    "page": "%2Fp%2FA-91986728",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Dietary Needs:</B> Non-GMO Project Verified, Fair Trade Certified",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 12",
+      "<B>Net weight:</B> 3.2 ounces"
+    ],
+    "upc": "716270002711",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79577971",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804777D",
+    "page": "%2Fp%2FA-79577971",
+    "nutrition_facts": {
+      "ingredients": "Ground Arabica Coffee.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig 2.0, Keurig K-Cup, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Dark Roast",
+      "<B>Net weight:</B> 9.3 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "762111301796",
+    "dpci": "231-10-5065",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54461792",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804724D",
+    "page": "%2Fp%2FA-54461792",
+    "nutrition_facts": {
+      "ingredients": "Arabica Coffee, Natural and Artificial Flavors ",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Package Quantity:</B> 42",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 14 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "611247367384",
+    "dpci": "231-10-2634",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81279967",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804817D",
+    "page": "%2Fp%2FA-81279967",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 8",
+      "<B>Compatible With:</B> Nespresso Vertuo Line",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Coffee variety:</B> Latin America",
+      "<B>Net weight:</B> 3.52 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "7630477890816",
+    "dpci": "231-10-2841",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79582232",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804691D",
+    "page": "%2Fp%2FA-79582232",
+    "nutrition_facts": {
+      "ingredients": "COFFEE, NATURAL AND ARTIFICIAL FLAVORS ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CAUTION: POD IS HOT. ALLOW TO COOL AFTER USE."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 7.9 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "099555067002",
+    "dpci": "231-10-5264",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53141362",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804356D",
+    "page": "%2Fp%2FA-53141362",
+    "nutrition_facts": {
+      "ingredients": "Coffee, Natural and Artificial Flavor. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING Not for use by children without adult supervision. Potential for exposure to very hot liquid."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Package Quantity:</B> 12",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig Bolt, Keurig 2.0, Keurig, Keurig Vue",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 4.02 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "085239016985",
+    "dpci": "231-10-2032",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79578014",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804383D",
+    "page": "%2Fp%2FA-79578014",
+    "nutrition_facts": {
+      "ingredients": "Ground Arabica Coffee.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig 2.0, Keurig K-Cup, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Coffee variety:</B> Latin America",
+      "<B>Net weight:</B> 9.7 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "762111301826",
+    "dpci": "231-10-5067",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79578215",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804117D",
+    "page": "%2Fp%2FA-79578215",
+    "nutrition_facts": {
+      "ingredients": "Ground Arabica Coffee.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig 2.0, Keurig, Keurig K-Cup",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Coffee variety:</B> Latin America",
+      "<B>Net weight:</B> 9.3 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "762111301864",
+    "dpci": "231-10-5071",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "52428880",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804408D",
+    "page": "%2Fp%2FA-52428880",
+    "nutrition_facts": {
+      "ingredients": "ARABICA COFFEE, COFFEE, 100% ARABICA COFFEE ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CAUTION: POD IS HOT. ALLOW TO COOL AFTER USE."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Package Quantity:</B> 42",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 15 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "611247391945",
+    "dpci": "231-10-1766",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82236499",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804339D",
+    "page": "%2Fp%2FA-82236499",
+    "nutrition_facts": {
+      "ingredients": "Coffee, Agave, Garcinia Cambogia Extract (Std, to 60% Hydroxycitric Acid), Ginseng, Pantothenic Acid (B5), Pyridoxine (B6), Thiamin (B1), Methylcobalamin (B12), Methylfolate (B9).",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "1 Cup (11.5 g)",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "18",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 2.0,
+              "quantity": 45.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 4.0,
+              "quantity": 50.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 2.0,
+              "quantity": 0.5,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 6.0,
+              "quantity": 256.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Thiamin",
+              "percentage": 380.0,
+              "quantity": 4.5,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Vitamin B6",
+              "percentage": 290.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Folate",
+              "percentage": 40.0,
+              "quantity": 164.0
+            },
+            {
+              "name": "Vitamin B12",
+              "percentage": 10000.0,
+              "quantity": 240.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Pantothenic Acid",
+              "percentage": 200.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Vegan",
+      "<B>Dietary Needs:</B> Sugar-Free",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 18",
+      "<B>Compatible With:</B> Keurig, Keurig K-Cup",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 7.3 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "850012316657",
+    "dpci": "231-10-2596",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79582438",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804946D",
+    "page": "%2Fp%2FA-79582438",
+    "nutrition_facts": {
+      "ingredients": "COFFEE ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CAUTION: POD IS HOT. ALLOW TO COOL AFTER USE."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 9.3 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "834259007059",
+    "dpci": "231-10-5277",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "51509181",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804327D",
+    "page": "%2Fp%2FA-51509181",
+    "nutrition_facts": {
+      "ingredients": "Arabica Coffee. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING Not for use by children without adult supervision. Potential for exposure to very hot liquid."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Package Quantity:</B> 12",
+      "<B>Compatible With:</B> Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 4.02 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "085239000762",
+    "dpci": "231-10-1954",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79572920",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804459D",
+    "page": "%2Fp%2FA-79572920",
+    "nutrition_facts": {
+      "ingredients": "Coffee.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Coffee variety:</B> Source Varies",
+      "<B>Net weight:</B> 8.14 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "881334012675",
+    "dpci": "231-10-6639",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81280073",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804118D",
+    "page": "%2Fp%2FA-81280073",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 8",
+      "<B>Compatible With:</B> Nespresso Vertuo Line",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Coffee variety:</B> Colombian",
+      "<B>Net weight:</B> 3.52 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "7630477890779",
+    "dpci": "231-10-2844",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78308086",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804308D",
+    "page": "%2Fp%2FA-78308086",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 10",
+      "<B>Compatible With:</B> Nespresso Original Line",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Coffee variety:</B> African",
+      "<B>Net weight:</B> 1.86 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "7613038176529",
+    "dpci": "231-10-5422",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79582224",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804746D",
+    "page": "%2Fp%2FA-79582224",
+    "nutrition_facts": {
+      "ingredients": "COFFEE ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CAUTION: POD IS HOT."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 7.5 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "099555065206",
+    "dpci": "231-10-5260",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79581833",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804438D",
+    "page": "%2Fp%2FA-79581833",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Dietary Needs:</B> Rainforest Alliance Certified",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 9.6 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "611247376706",
+    "dpci": "231-10-5254",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79586018",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804538D",
+    "page": "%2Fp%2FA-79586018",
+    "nutrition_facts": {
+      "ingredients": "100% Arabica Coffee.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 8.3 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "043000080375",
+    "dpci": "231-10-5297",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88063448",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804947D",
+    "page": "%2Fp%2FA-88063448",
+    "nutrition_facts": {
+      "ingredients": "Roast and Ground Coffee, Natural Flavor.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients, No Artificial Flavors",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Package Quantity:</B> 8",
+      "<B>Compatible With:</B> Nespresso Vertuo Line",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 3.52 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "8445290388582",
+    "dpci": "231-10-1269",
+    "origin": "Made in the USA and Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53141348",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804602D",
+    "page": "%2Fp%2FA-53141348",
+    "nutrition_facts": {
+      "ingredients": "Arabica Coffee. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING Not for use by children without adult supervision. Potential for exposure to very hot liquid."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Package Quantity:</B> 12",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig Bolt, Keurig 2.0, Keurig Vue, Keurig, Keurig KOLD",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 3.81 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "085239016954",
+    "dpci": "231-10-2029",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53141437",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804571D",
+    "page": "%2Fp%2FA-53141437",
+    "nutrition_facts": {
+      "ingredients": "Arabica Coffee. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING Not for use by children without adult supervision. Potential for exposure to very hot liquid."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Package Quantity:</B> 48",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig Bolt, Keurig 2.0, Keurig, Keurig Vue",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Dark Roast",
+      "<B>Net weight:</B> 16.1 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "085239016978",
+    "dpci": "231-10-2031",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81280074",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804136D",
+    "page": "%2Fp%2FA-81280074",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 10",
+      "<B>Compatible With:</B> Nespresso Vertuo Line",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Coffee variety:</B> African",
+      "<B>Net weight:</B> 2.39 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "7630477890854",
+    "dpci": "231-10-2845",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53141386",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804411D",
+    "page": "%2Fp%2FA-53141386",
+    "nutrition_facts": {
+      "ingredients": "Coffee, Natural and Artificial Flavor. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING Not for use by children without adult supervision. Potential for exposure to very hot liquid."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Package Quantity:</B> 12",
+      "<B>Compatible With:</B> Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 3.81 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "085239017012",
+    "dpci": "231-10-2034",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79577650",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804917D",
+    "page": "%2Fp%2FA-79577650",
+    "nutrition_facts": {
+      "ingredients": "Ground Arabica Coffee, Natural Flavors.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients, No Artificial Flavors, No Added Sugar, No Artificial Sweeteners",
+      "<B>Dietary Needs:</B> Naturally Flavored, Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 7.8 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "762111301963",
+    "dpci": "231-10-5062",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79581865",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804378D",
+    "page": "%2Fp%2FA-79581865",
+    "nutrition_facts": {
+      "ingredients": "Arabica Coffee, Natural and Artificial Flavors.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 7.9 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "099555063059",
+    "dpci": "231-10-5256",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78617235",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804488D",
+    "page": "%2Fp%2FA-78617235",
+    "nutrition_facts": {
+      "ingredients": "ARABICA COFFEE*, NATURAL FLAVORS. *FAIR TRADE CERTIFIED BY FAIR TRADE USA",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING: NOT FOR USE BY CHILDREN WITHOUT ADULT SUPERVISION. POTENTIAL FOR EXPOSURE TO VERY HOT LIQUID."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 16",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 5.6 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "085239096994",
+    "dpci": "231-10-2655",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79577987",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804561D",
+    "page": "%2Fp%2FA-79577987",
+    "nutrition_facts": {
+      "ingredients": "Ground Arabica Coffee.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Coffee variety:</B> Latin America",
+      "<B>Net weight:</B> 9.2 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "762111301840",
+    "dpci": "231-10-5066",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78617236",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804399D",
+    "page": "%2Fp%2FA-78617236",
+    "nutrition_facts": {
+      "ingredients": "ARABICA COFFEE*, NATURAL FLAVORS. *FAIR TRADE CERTIFIED BY FAIR TRADE USA",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING: NOT FOR USE BY CHILDREN WITHOUT ADULT SUPERVISION. POTENTIAL FOR EXPOSURE TO VERY HOT LIQUID."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 16",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 5.6 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "085239097007",
+    "dpci": "231-10-2656",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78617237",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804497D",
+    "page": "%2Fp%2FA-78617237",
+    "nutrition_facts": {
+      "ingredients": "ARABICA COFFEE*, NATURAL FLAVORS. *FAIR TRADE CERTIFIED BY FAIR TRADE USA",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING: NOT FOR USE BY CHILDREN WITHOUT ADULT SUPERVISION. POTENTIAL FOR EXPOSURE TO VERY HOT LIQUID."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 16",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 5.6 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "085239097014",
+    "dpci": "231-10-2657",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79622364",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804992D",
+    "page": "%2Fp%2FA-79622364",
+    "nutrition_facts": {
+      "ingredients": "GROUND ARABICA COFFEE. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CAUTION: POD IS HOT. ALLOW TO COOL AFTER USE."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig 2.0, Keurig, Keurig K-Cup",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Italian Roast",
+      "<B>Net weight:</B> 9.2 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "050000451579",
+    "dpci": "231-10-5075",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78617239",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804892D",
+    "page": "%2Fp%2FA-78617239",
+    "nutrition_facts": {
+      "ingredients": "ARABICA COFFEE*. *FAIR TRADE CERTIFIED BY FAIR TRADE USA",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING: NOT FOR USE BY CHILDREN WITHOUT ADULT SUPERVISION. POTENTIAL FOR EXPOSURE TO VERY HOT LIQUID."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 16",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 6.24 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "085239097038",
+    "dpci": "231-10-2659",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79582257",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804842D",
+    "page": "%2Fp%2FA-79582257",
+    "nutrition_facts": {
+      "ingredients": "ARABICA COFFEE ",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Half Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 7.9 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "099555069990",
+    "dpci": "231-10-5270",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79572141",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804471D",
+    "page": "%2Fp%2FA-79572141",
+    "nutrition_facts": {
+      "ingredients": "COFFEE. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CAUTION: POD IS HOT. ALLOW TO COOL AFTER USE."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Varies",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Coffee variety:</B> Source Varies",
+      "<B>Net weight:</B> 6.77 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "025500774565",
+    "dpci": "231-10-6638",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79577925",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804895D",
+    "page": "%2Fp%2FA-79577925",
+    "nutrition_facts": {
+      "ingredients": "Decaffeinated Ground Arabica Coffee.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig 2.0, Keurig K-Cup, Keurig",
+      "<B>Caffeine claim:</B> Decaffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Coffee variety:</B> Latin America",
+      "<B>Net weight:</B> 9.3 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "762111301857",
+    "dpci": "231-10-5064",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79574267",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804654D",
+    "page": "%2Fp%2FA-79574267",
+    "nutrition_facts": {
+      "ingredients": "COFFEE. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CAUTION: POD IS HOT. ALLOW TO COOL AFTER USE."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Varies",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Espresso Roast",
+      "<B>Coffee variety:</B> Source Varies",
+      "<B>Net weight:</B> 8.88 Ounces",
+      "<B>Style:</B> Espresso"
+    ],
+    "upc": "074471289967",
+    "dpci": "231-10-6646",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79588905",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804423D",
+    "page": "%2Fp%2FA-79588905",
+    "nutrition_facts": {
+      "ingredients": "Decaffeinated Arabica Coffee.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig Bolt, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Decaffeinated",
+      "<B>Coffee roast:</B> Dark Roast",
+      "<B>Net weight:</B> 9.5 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "785357024083",
+    "dpci": "231-10-2718",
+    "origin": "Assem USA w/foreign/dom. parts"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "85766825",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804472D",
+    "page": "%2Fp%2FA-85766825",
+    "nutrition_facts": {
+      "ingredients": "Organic 100% Arabica Coffee.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Dietary Needs:</B> Organic Certified",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 18",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Dark Roast",
+      "<B>Net weight:</B> 6.98 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "850036288060",
+    "dpci": "231-10-3572",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82236500",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804878D",
+    "page": "%2Fp%2FA-82236500",
+    "nutrition_facts": {
+      "ingredients": "Coffee, Mct (Medium Chain Oil, Cinnamon, Turmeric, Triglycerides) Pantothenic Acid (B5), Resveratrol, Cholecalciferol (D3), Pyridoxine (B6), Thiamin (B1), Methylcobalamin (B12), Methylfolate (B9).",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "1 Cup (12 g)",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "Cup ",
+          "servings_per_container": "18",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 1.0,
+              "quantity": 0.5,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 3.0,
+              "quantity": 0.5,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 2.0,
+              "quantity": 45.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 4.0,
+              "quantity": 186.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Vitamin B3",
+              "percentage": 100.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Thiamin",
+              "percentage": 380.0,
+              "quantity": 4.5,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Vitamin B6",
+              "percentage": 290.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Folate DFE",
+              "percentage": 40.0,
+              "quantity": 164.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Vitamin B12",
+              "percentage": 10000.0,
+              "quantity": 240.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Pantothenic Acid",
+              "percentage": 200.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Vegan",
+      "<B>Dietary Needs:</B> Sugar-Free",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 18",
+      "<B>Compatible With:</B> Keurig, Keurig K-Cup",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 7.3 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "850012316671",
+    "dpci": "231-10-2597",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79577824",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804224D",
+    "page": "%2Fp%2FA-79577824",
+    "nutrition_facts": {
+      "ingredients": "Ground Arabica Coffee, Natural Flavors.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients, No Artificial Flavors, No Added Sugar, No Artificial Sweeteners",
+      "<B>Dietary Needs:</B> Naturally Flavored, Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig 2.0, Keurig, Keurig K-Cup",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 7.8 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "762111301987",
+    "dpci": "231-10-5063",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79569466",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804797D",
+    "page": "%2Fp%2FA-79569466",
+    "nutrition_facts": {
+      "ingredients": "100% ARABICA COFFEE. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CAUTION: POD IS HOT. ALLOW TO COOL AFTER USE."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig K-Cup",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 8.89 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "063209112813",
+    "dpci": "231-10-0001",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79588686",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804272D",
+    "page": "%2Fp%2FA-79588686",
+    "nutrition_facts": {
+      "ingredients": "awaken your inner barista in two simple steps. 100% arabica beans are carefully slow roasted and snap cooled for a full-bodied espresso style coffee. this perfectly cared for coffee is then blended with a rich froth made from real milk, so you can enjoy the perfect cappuccino.",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "k-cup pod",
+          "servings_per_container": "12",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 90.0,
+              "unit_of_measurement": "calories"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 4.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 15.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 4.0,
+              "quantity": 85.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 5.0,
+              "quantity": 13.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 11.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 12.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 8.0,
+              "quantity": 110.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 4.0,
+              "quantity": 210.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "Caution: pod is hot: allow to cool after use."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 12",
+      "<B>Compatible With:</B> Keurig K-Cup",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Espresso Roast",
+      "<B>Net weight:</B> 11.2 Ounces",
+      "<B>Style:</B> Espresso"
+    ],
+    "upc": "043000086254",
+    "dpci": "231-10-7416",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79582252",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804580D",
+    "page": "%2Fp%2FA-79582252",
+    "nutrition_facts": {
+      "ingredients": "ingredients: arabica coffee",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Dark Roast",
+      "<B>Net weight:</B> 9.6 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "099555040616",
+    "dpci": "231-10-5265",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "83025580",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804939D",
+    "page": "%2Fp%2FA-83025580",
+    "nutrition_facts": {
+      "ingredients": "100% Arabica Coffee.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 8",
+      "<B>Compatible With:</B> Nespresso Vertuo Line",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Dark Roast",
+      "<B>Net weight:</B> 3.52 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "7630477890694",
+    "dpci": "231-10-0265",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79553236",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804687D",
+    "page": "%2Fp%2FA-79553236",
+    "nutrition_facts": {
+      "ingredients": "100% Arabica Coffee.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig Bolt, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Dark Roast",
+      "<B>Net weight:</B> 9.7 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "785357024038",
+    "dpci": "231-10-2713",
+    "origin": "Assem USA w/foreign/dom. parts"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79572921",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804584D",
+    "page": "%2Fp%2FA-79572921",
+    "nutrition_facts": {
+      "ingredients": "COFFEE, NATURAL AND ARTIFICIAL FLAVOR. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CAUTION: POD IS HOT. ALLOW TO COOL AFTER USE."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Coffee variety:</B> Source Varies",
+      "<B>Net weight:</B> 8.14 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "881334012682",
+    "dpci": "231-10-6640",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78617242",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804319D",
+    "page": "%2Fp%2FA-78617242",
+    "nutrition_facts": {
+      "ingredients": "ARABICA COFFEE*. *FAIR TRADE CERTIFIED BY FAIR TRADE USA",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING: NOT FOR USE BY CHILDREN WITHOUT ADULT SUPERVISION. POTENTIAL FOR EXPOSURE TO VERY HOT LIQUID."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 16",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 6.24 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "085239097083",
+    "dpci": "231-10-2663",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79577643",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804971D",
+    "page": "%2Fp%2FA-79577643",
+    "nutrition_facts": {
+      "ingredients": "Ground Arabica Coffee.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Dark Roast",
+      "<B>Net weight:</B> 9.2 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "762111301819",
+    "dpci": "231-10-5061",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88679804",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804887D",
+    "page": "%2Fp%2FA-88679804",
+    "nutrition_facts": {
+      "ingredients": "ARABICA COFFEE*, NATURAL FLAVORS. *FAIR TRADE CERTIFIED BY FAIR TRADE USA",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING: NOT FOR USE BY CHILDREN WITHOUT ADULT SUPERVISION. POTENTIAL FOR EXPOSURE TO VERY HOT LIQUID."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 16",
+      "<B>Compatible With:</B> Keurig 2.0",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 10 Grams",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "085239970096",
+    "dpci": "231-10-0181",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79578060",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804160D",
+    "page": "%2Fp%2FA-79578060",
+    "nutrition_facts": {
+      "ingredients": "Ground Arabica Coffee, Natural Flavors.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients, No Artificial Flavors, No Added Sugar, No Artificial Sweeteners",
+      "<B>Dietary Needs:</B> Naturally Flavored, Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig 2.0, Keurig, Keurig K-Cup",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 7.8 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "762111301970",
+    "dpci": "231-10-5070",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81280082",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804745D",
+    "page": "%2Fp%2FA-81280082",
+    "nutrition_facts": {
+      "ingredients": "100% Arabica Coffee. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 8",
+      "<B>Compatible With:</B> Nespresso Vertuo Line",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Coffee variety:</B> Latin America",
+      "<B>Net weight:</B> 3.52 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "7630477890656",
+    "dpci": "231-10-2846",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89638980",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804601D",
+    "page": "%2Fp%2FA-89638980",
+    "nutrition_facts": {
+      "ingredients": "GROUND ARABICA COFFEE NATURAL FLAVORS. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CAUTION: POD IS HOT. ALLOW TO COOL AFTER USE."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients, No Artificial Flavors, No Added Sugar, No Artificial Sweeteners",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Dark Roast",
+      "<B>Net weight:</B> 7.9 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "050000105335",
+    "dpci": "231-10-0455",
+    "origin": "Made in the USA and Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79588730",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804494D",
+    "page": "%2Fp%2FA-79588730",
+    "nutrition_facts": {
+      "ingredients": "100% ARABICA COFFEE ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "A CAUTION: POD IS HOT. ALLOW TO COOL AFTER USE."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig Bolt, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 9.3 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "785357024045",
+    "dpci": "231-10-2714",
+    "origin": "Assem USA w/foreign/dom. parts"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79581747",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804626D",
+    "page": "%2Fp%2FA-79581747",
+    "nutrition_facts": {
+      "ingredients": "ingredients: sugar, hydrogenated coconut oil, glucose syrup, nonfat dry milk, instant tea, modified tapioca starch, natural and artificial flavor, salt, less than 2% of: sodium caseinate (a milk derivative), sodium polyphosphate, dipotassium phosphate, sodium stearoyl-2-lactylate, sucralose.",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "k-cup pod",
+          "servings_per_container": "24",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 60.0,
+              "unit_of_measurement": "calories"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 3.0,
+              "quantity": 2.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 13.0,
+              "quantity": 2.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 8.0,
+              "quantity": 180.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 3.0,
+              "quantity": 9.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 7.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 12.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 23.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 88.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "Contains: milk"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Dark Roast",
+      "<B>Net weight:</B> 11.7 Ounces",
+      "<B>Style:</B> Latte"
+    ],
+    "upc": "099555068054",
+    "dpci": "231-10-5251",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81279988",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804209D",
+    "page": "%2Fp%2FA-81279988",
+    "nutrition_facts": {
+      "ingredients": "100% Arabica Coffee.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 8",
+      "<B>Compatible With:</B> Nespresso Vertuo Line",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Dark Roast",
+      "<B>Coffee variety:</B> Sumatra",
+      "<B>Net weight:</B> 3.35 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "7630477890731",
+    "dpci": "231-10-2842",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79582475",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804777D",
+    "page": "%2Fp%2FA-79582475",
+    "nutrition_facts": {
+      "ingredients": "COFFEE, NATURAL AND ARTIFICIAL FLAVORS ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CAUTION: POD IS HOT. ALLOW TO COOL AFTER USE."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 8.8 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "611247388068",
+    "dpci": "231-10-5278",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "85911033",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804761D",
+    "page": "%2Fp%2FA-85911033",
+    "nutrition_facts": {
+      "ingredients": "ingredients the original donut shop coffee regular: coffee, ingredients green mountain coffee roasters, breakfast blend and nantucket blend: arabica coffee, ingredients krispy kreme doughnuts classic:, arabica coffee, ingredients mccafe premium roast:, 100% arabica coffee, ingredients cinnabon classic cinnamon roll:, arabica coffee, natural and artificial flavors",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig 2.0, Keurig, Keurig K-Cup",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 8.1 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "611247393826",
+    "dpci": "231-10-0260",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79572923",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804325D",
+    "page": "%2Fp%2FA-79572923",
+    "nutrition_facts": {
+      "ingredients": "Decaffeinated Coffee.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Decaffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Coffee variety:</B> Source Varies",
+      "<B>Net weight:</B> 8.14 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "881334012699",
+    "dpci": "231-10-6642",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "85776656",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804625D",
+    "page": "%2Fp%2FA-85776656",
+    "nutrition_facts": {
+      "ingredients": "ARABICA COFFEE* NATURAL FLAVORS., *FAIR TRADE CERTIFIED BY FAIR TRADE USA *FAIR TRADE CERTIFIED BY FAIR TRADE USA",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING: NOT FOR USE BY CHILDREN WITHOUT ADULT SUPERVISION. POTENTIAL FOR EXPOSURE TO VERY HOT LIQUID."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Package Quantity:</B> 16",
+      "<B>Compatible With:</B> Keurig 2.0",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 5.6 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "085239296349",
+    "dpci": "231-10-0284",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "80786373",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804559D",
+    "page": "%2Fp%2FA-80786373",
+    "nutrition_facts": {
+      "ingredients": "COFFEE. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING: NOT FOR CHILDREN CAPSULE HOT AFTER EXTRACTION"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Dietary Needs:</B> Fair Trade Certified",
+      "<B>Coffee Bean Type:</B> Varies",
+      "<B>Package Quantity:</B> 10",
+      "<B>Compatible With:</B> Nespresso Original Line",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Espresso Roast",
+      "<B>Net weight:</B> 1.83 Ounces",
+      "<B>Style:</B> Espresso"
+    ],
+    "upc": "085239150986",
+    "dpci": "231-10-2579",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81552615",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804307D",
+    "page": "%2Fp%2FA-81552615",
+    "nutrition_facts": {
+      "ingredients": "GROUND ARABICA COFFEE. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CAUTION: POD IS HOT. ALLOW TO COOL AFTER USE."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Coffee variety:</B> African",
+      "<B>Net weight:</B> 9.7 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "050000158065",
+    "dpci": "231-10-6364",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82404634",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804269D",
+    "page": "%2Fp%2FA-82404634",
+    "nutrition_facts": {
+      "ingredients": "Ground Arabica Coffee, Natural Flavors.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients, No Artificial Flavors, No Added Sugar, No Artificial Sweeteners",
+      "<B>Dietary Needs:</B> Naturally Flavored, Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 7.2 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "762111301994",
+    "dpci": "231-10-0325",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79582254",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804278D",
+    "page": "%2Fp%2FA-79582254",
+    "nutrition_facts": {
+      "ingredients": "COFFEE ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CAUTION: POD IS HOT."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 7.9 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "099555066630",
+    "dpci": "231-10-5266",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79572922",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804918D",
+    "page": "%2Fp%2FA-79572922",
+    "nutrition_facts": {
+      "ingredients": "COFFEE, NATURAL AND ARTIFICIAL FLAVOR. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CAUTION: POD IS HOT. ALLOW TO COOL AFTER USE."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Coffee variety:</B> Source Varies",
+      "<B>Net weight:</B> 8.14 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "881334012705",
+    "dpci": "231-10-6641",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79574439",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804566D",
+    "page": "%2Fp%2FA-79574439",
+    "nutrition_facts": {
+      "ingredients": "100% Premium Arabica Coffee.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Dietary Needs:</B> Gluten-Free, Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 8.68 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "010668307069",
+    "dpci": "231-10-2962",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88402906",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804475D",
+    "page": "%2Fp%2FA-88402906",
+    "nutrition_facts": {
+      "ingredients": "100% Arabica Coffee, Natural and Artificial Flavors.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 8.04 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "072323035939",
+    "dpci": "231-10-0327",
+    "origin": "Made in the USA and Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79585373",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804836D",
+    "page": "%2Fp%2FA-79585373",
+    "nutrition_facts": {
+      "ingredients": "ARABICA COFFEE ",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Dark Roast",
+      "<B>Net weight:</B> 9.3 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "611247373989",
+    "dpci": "231-10-5281",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78617245",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804712D",
+    "page": "%2Fp%2FA-78617245",
+    "nutrition_facts": {
+      "ingredients": "ORGANIC ARABICA COFFEE*. *FAIR TRADE CERTIFIED\nBY FAIR TRADE USA",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING: NOT FOR USE BY CHILDREN WITHOUT ADULT SUPERVISION. POTENTIAL FOR EXPOSURE TO VERY HOT LIQUID."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 16",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Dark Roast",
+      "<B>Net weight:</B> 6.72 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "085239097113",
+    "dpci": "231-10-2666",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79577641",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804275D",
+    "page": "%2Fp%2FA-79577641",
+    "nutrition_facts": {
+      "ingredients": "100% Arabica coffee, Natural and Artificial flavors ",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 8.04 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "072323051762",
+    "dpci": "231-10-4549",
+    "origin": "Assem In USA w/ foreign parts"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87526188",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804916D",
+    "page": "%2Fp%2FA-87526188",
+    "nutrition_facts": {
+      "ingredients": "GROUND ARABICA COFFEE, NATURAL FLAVORS. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS: COCONUT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients, No Artificial Flavors, No Added Sugar, No Artificial Sweeteners",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 13.65 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "050000276462",
+    "dpci": "231-10-0225",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79577640",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804125D",
+    "page": "%2Fp%2FA-79577640",
+    "nutrition_facts": {
+      "ingredients": "100% Arabica coffee (10% from Kona, Hawaii) ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "Do not remove foil seal as the cup will not work properly in the machine and could result in hot water burns. When finished, the single serve cups are hot and may drip. Help avoid dripping by tilting the single serve cup during removal from the machine."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 8.04 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "072323051779",
+    "dpci": "231-10-4548",
+    "origin": "Assem In USA w/ foreign parts"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78617546",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804947D",
+    "page": "%2Fp%2FA-78617546",
+    "nutrition_facts": {
+      "ingredients": "DECAFFEINATED ARABICA COFFEE*, NATURAL FLAVORS. *FAIR TRADE CERTIFIED BY FAIR TRADE USA",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING: NOT FOR USE BY CHILDREN WITHOUT ADULT SUPERVISION. POTENTIAL FOR EXPOSURE TO VERY HOT LIQUID."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Package Quantity:</B> 16",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Decaffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 5.6 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "085239097205",
+    "dpci": "231-10-2675",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78617258",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804698D",
+    "page": "%2Fp%2FA-78617258",
+    "nutrition_facts": {
+      "ingredients": "DECAFFEINATED ARABICA COFFEE*. *FAIR TRADE CERTIFIED BY FAIR TRADE USA",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING: NOT FOR USE BY CHILDREN WITHOUT ADULT SUPERVISION. POTENTIAL FOR EXPOSURE TO VERY HOT LIQUID."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 16",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Decaffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 5.6 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "085239097267",
+    "dpci": "231-10-2681",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79585352",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804261D",
+    "page": "%2Fp%2FA-79585352",
+    "nutrition_facts": {
+      "ingredients": "Coffee, Natural and Artificial Flavors.",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [],
+      "warning": "Caution: Pod is hot. Allow to cool after use."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 8.3 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "611247374764",
+    "dpci": "231-10-5280",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79577642",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804306D",
+    "page": "%2Fp%2FA-79577642",
+    "nutrition_facts": {
+      "ingredients": "100% Arabica coffee, Natural and Artificial flavors ",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 8.04 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "072323051816",
+    "dpci": "231-10-4550",
+    "origin": "Assem In USA w/ foreign parts"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82147342",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804189D",
+    "page": "%2Fp%2FA-82147342",
+    "nutrition_facts": {
+      "ingredients": "ingredients: creamer (coconut oil, nonfat dry milk, whey solids, sodium caseinate, dipotassium phosphate, mono- and diglycerides), sugar, soluble coffee, natural flavors, sea salt, cocoa powder (alkalized), sucralose.",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "k-cup pod",
+          "servings_per_container": "20",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 100.0,
+              "unit_of_measurement": "calories"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 6.0,
+              "quantity": 4.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 20.0,
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 11.0,
+              "quantity": 250.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 5.0,
+              "quantity": 13.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 11.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 18.0,
+              "quantity": 9.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 4.0,
+              "quantity": 52.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 4.0,
+              "quantity": 199.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "Contains: milk, Caution: pod is hot. allow to cool after use."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk",
+      "<B>Package Quantity:</B> 20",
+      "<B>Compatible With:</B> Keurig, Keurig K-Cup, Keurig 2.0",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Dark Roast",
+      "<B>Net weight:</B> 14.7 Ounces",
+      "<B>Style:</B> Latte"
+    ],
+    "upc": "611247381779",
+    "dpci": "231-10-4810",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79588687",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804125D",
+    "page": "%2Fp%2FA-79588687",
+    "nutrition_facts": {
+      "ingredients": "100% ARABICA COFFEE. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CAUTION: POD IS HOT. ALLOW TO COOL AFTER USE."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig K-Cup",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 8.3 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "043000080337",
+    "dpci": "231-10-7417",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82236528",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804511D",
+    "page": "%2Fp%2FA-82236528",
+    "nutrition_facts": {
+      "ingredients": "ingredients: 100% arabica coffee,ingredients: 100% arabic coffee",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 20",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 220 Grams",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "733411077810",
+    "dpci": "231-10-2589",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78617244",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804637D",
+    "page": "%2Fp%2FA-78617244",
+    "nutrition_facts": {
+      "ingredients": "ARABICA COFFEE*, NATURAL FLAVORS. *FAIR TRADE CERTIFIED BY FAIR TRADE USA",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING: NOT FOR USE BY CHILDREN WITHOUT ADULT SUPERVISION. POTENTIAL FOR EXPOSURE TO VERY HOT LIQUID."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 16",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 5.6 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "085239097106",
+    "dpci": "231-10-2665",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79581832",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804285D",
+    "page": "%2Fp%2FA-79581832",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 10 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "611247376690",
+    "dpci": "231-10-5253",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78617250",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804735D",
+    "page": "%2Fp%2FA-78617250",
+    "nutrition_facts": {
+      "ingredients": "ORGANIC ARABICA COFFEE*. *\nFAIR TRADE CERTIFIED\nBY FAIR TRADE USA",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING: NOT FOR USE BY CHILDREN WITHOUT ADULT SUPERVISION. POTENTIAL FOR EXPOSURE TO VERY HOT LIQUID."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 16",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Dark Roast",
+      "<B>Net weight:</B> 6.56 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "085239097212",
+    "dpci": "231-10-2676",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79590467",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804859D",
+    "page": "%2Fp%2FA-79590467",
+    "nutrition_facts": {
+      "ingredients": "MOCHA LATTE FROTH (SUGAR, NONFAT MILK, MALTODEXTRIN, COCOA PROCESSED WITH ALKALI, HYDROGENATED COCONUT OIL, CONTAINS LESS THAN 2% OF MODIFIED CORNSTARCH, SALT, SILICON DIOXIDE, SODIUM PHOSPHATE, SUCRALOSE, NATURAL AND ARTIFICIAL FLAVOR), COFFEE (100% ARABICA COFFEE). ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving\n",
+          "serving_size": "8",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "12",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 90.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 3.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 10.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 6.0,
+              "quantity": 140.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 6.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 2.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 11.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 17.0,
+              "quantity": 8.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 6.0,
+              "quantity": 70.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 6.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 4.0,
+              "quantity": 190.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CAUTION: POD IS HOT. ALLOW TO COOL AFTER USE., CONTAINS: MILK."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 12",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Espresso Roast",
+      "<B>Net weight:</B> 11.9 Ounces",
+      "<B>Style:</B> Latte"
+    ],
+    "upc": "043000086261",
+    "dpci": "231-10-0081",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78617246",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804528D",
+    "page": "%2Fp%2FA-78617246",
+    "nutrition_facts": {
+      "ingredients": "ORGANIC ARABICA COFFEE*. *FAIR TRADE CERTIFIED BY FAIR TRADE USA",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING: NOT FOR USE BY CHILDREN WITHOUT ADULT SUPERVISION. POTENTIAL FOR EXPOSURE TO VERY HOT LIQUID."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 16",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 6.56 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "085239097120",
+    "dpci": "231-10-2667",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79585351",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804117D",
+    "page": "%2Fp%2FA-79585351",
+    "nutrition_facts": {
+      "ingredients": "Coffee, Natural and Artificial Flavors ",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 8.3 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "099555062489",
+    "dpci": "231-10-5279",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89938060",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804720D",
+    "page": "%2Fp%2FA-89938060",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Package Quantity:</B> 10",
+      "<B>Compatible With:</B> Nespresso Vertuo Line",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 1.1 Pounds",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "7630477816007",
+    "dpci": "231-10-3112",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79588897",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804993D",
+    "page": "%2Fp%2FA-79588897",
+    "nutrition_facts": {
+      "ingredients": "100% Arabica Coffee.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig Bolt, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 9.3 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "785357024076",
+    "dpci": "231-10-2717",
+    "origin": "Assem USA w/foreign/dom. parts"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79582225",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804967D",
+    "page": "%2Fp%2FA-79582225",
+    "nutrition_facts": {
+      "ingredients": "COFFEE ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CAUTION: POD IS HOT. ALLOW TO COOL AFTER USE."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Decaffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 7.5 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "099555075229",
+    "dpci": "231-10-5268",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79574546",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804231D",
+    "page": "%2Fp%2FA-79574546",
+    "nutrition_facts": {
+      "ingredients": "100% Premium Arabica Coffee with Natural and Artificial Flavors.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Dietary Needs:</B> Gluten-Free, Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 8.68 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "010668307007",
+    "dpci": "231-10-2963",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79569383",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804383D",
+    "page": "%2Fp%2FA-79569383",
+    "nutrition_facts": {
+      "ingredients": "100% Premium Arabica Coffee with Natural and Artificial Flavors.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Dietary Needs:</B> Gluten-Free, Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 8.68 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "010668307014",
+    "dpci": "231-10-3042",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88498113",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804264D",
+    "page": "%2Fp%2FA-88498113",
+    "nutrition_facts": {
+      "ingredients": "Certified Organic Coffee ",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Varies",
+      "<B>Package Quantity:</B> 18",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Dark Roast",
+      "<B>Coffee variety:</B> Indian, Peruvian",
+      "<B>Net weight:</B> 7.9 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "856413007132",
+    "dpci": "231-10-2972",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79576122",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804145D",
+    "page": "%2Fp%2FA-79576122",
+    "nutrition_facts": {
+      "ingredients": "COFFEE ",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 7.6 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "041953004332",
+    "dpci": "231-10-7451",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79588876",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804189D",
+    "page": "%2Fp%2FA-79588876",
+    "nutrition_facts": {
+      "ingredients": "100% ARABICA COFFEE ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CAUTION: POD IS HOT. ALLOW TO COOL AFTER USE."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig Bolt, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Dark Roast",
+      "<B>Net weight:</B> 9.3 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "785357024052",
+    "dpci": "231-10-2715",
+    "origin": "Assem USA w/foreign/dom. parts"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78308025",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804273D",
+    "page": "%2Fp%2FA-78308025",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 10",
+      "<B>Compatible With:</B> Nespresso Original Line",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Espresso Roast",
+      "<B>Net weight:</B> 2.01 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "7613038175621",
+    "dpci": "231-10-5420",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "80786376",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804834D",
+    "page": "%2Fp%2FA-80786376",
+    "nutrition_facts": {
+      "ingredients": "COFFEE. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING: NOT FOR CHILDREN CAPSULE HOT AFTER EXTRACTION"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Dietary Needs:</B> Fair Trade Certified",
+      "<B>Coffee Bean Type:</B> Varies",
+      "<B>Package Quantity:</B> 10",
+      "<B>Compatible With:</B> Nespresso Original Line",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Espresso Roast",
+      "<B>Net weight:</B> 1.83 Ounces",
+      "<B>Style:</B> Espresso"
+    ],
+    "upc": "085239151013",
+    "dpci": "231-10-2582",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78617249",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804188D",
+    "page": "%2Fp%2FA-78617249",
+    "nutrition_facts": {
+      "ingredients": "ARABICA COFFEE*, NATURAL FLAVORS. *FAIR TRADE CERTIFIED BY FAIR TRADE USA",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING: NOT FOR USE BY CHILDREN WITHOUT ADULT SUPERVISION. POTENTIAL FOR EXPOSURE TO VERY HOT LIQUID."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 16",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 5.6 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "085239097168",
+    "dpci": "231-10-2671",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89973378",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804113D",
+    "page": "%2Fp%2FA-89973378",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Package Quantity:</B> 40",
+      "<B>Compatible With:</B> Nespresso Vertuo Line",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Roast",
+      "<B>Net weight:</B> 1.6 Pounds",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "7630585346212",
+    "dpci": "231-10-3116",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87388536",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804731D",
+    "page": "%2Fp%2FA-87388536",
+    "nutrition_facts": {
+      "ingredients": "COFFEE, NATURAL FLAVOR. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING: NOT FOR CHILDREN CAPSULE HOT AFTER EXTRACTION"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Dietary Needs:</B> Naturally Flavored, Fair Trade Certified",
+      "<B>Package Quantity:</B> 1",
+      "<B>Compatible With:</B> Nespresso Original Line",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 1.83 Ounces",
+      "<B>Style:</B> Espresso"
+    ],
+    "upc": "085239996874",
+    "dpci": "231-10-0007",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87474139",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804963D",
+    "page": "%2Fp%2FA-87474139",
+    "nutrition_facts": {
+      "ingredients": "Coffee, Natural and Artificial Flavor.",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 22",
+      "<B>Compatible With:</B> Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Medium Dark Roast",
+      "<B>Coffee variety:</B> Source Varies",
+      "<B>Net weight:</B> 8.14 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "881334015232",
+    "dpci": "231-10-1230",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79582230",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804541D",
+    "page": "%2Fp%2FA-79582230",
+    "nutrition_facts": {
+      "ingredients": "COFFEE, NATURAL AND ARTIFICIAL FLAVORS ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CAUTION: POD IS HOT. ALLOW TO COOL AFTER USE."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 24",
+      "<B>Compatible With:</B> Keurig K-Cup, Keurig 2.0, Keurig",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Light Roast",
+      "<B>Net weight:</B> 7.9 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "099555067927",
+    "dpci": "231-10-5262",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81280069",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804950D",
+    "page": "%2Fp%2FA-81280069",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Features:</B> Limited Ingredients",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Coffee Bean Type:</B> Arabica Beans",
+      "<B>Package Quantity:</B> 10",
+      "<B>Compatible With:</B> Nespresso Vertuo Line",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Dark Roast",
+      "<B>Net weight:</B> 2.39 Ounces",
+      "<B>Style:</B> Brewed Coffee"
+    ],
+    "upc": "7630477890458",
+    "dpci": "231-10-2843",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "80786378",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804103D",
+    "page": "%2Fp%2FA-80786378",
+    "nutrition_facts": {
+      "ingredients": "COFFEE, NATURAL FLAVOR. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "WARNING: NOT FOR CHILDREN CAPSULE HOT AFTER EXTRACTION"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Dietary Needs:</B> Fair Trade Certified",
+      "<B>Coffee Bean Type:</B> Varies",
+      "<B>Package Quantity:</B> 10",
+      "<B>Compatible With:</B> Nespresso Original Line",
+      "<B>Caffeine claim:</B> Caffeinated",
+      "<B>Coffee roast:</B> Espresso Roast",
+      "<B>Net weight:</B> 1.83 Ounces",
+      "<B>Style:</B> Espresso"
+    ],
+    "upc": "085239151037",
+    "dpci": "231-10-2584",
+    "origin": "Made in the USA or Imported"
+  }
+]

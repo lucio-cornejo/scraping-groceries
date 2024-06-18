@@ -1,0 +1,3216 @@
+[
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91493805",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804568D",
+    "page": "%2Fp%2FA-91493805",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> .75 ounces",
+      "<B>Package Quantity:</B> 40"
+    ],
+    "upc": "715786656067",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47088682",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804696D",
+    "page": "%2Fp%2FA-47088682",
+    "nutrition_facts": {
+      "ingredients": "Sugar, Corn Syrup, Chocolate, Fish Gelatin, Artificial Flavor, Chocolate Contains: Sugar, Chocolate, Cocoa Butter, Soy Lecithin (an Emulsifier), Vanillin (an Artificial Flavor) ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "40.0",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "1",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 140.0,
+              "unit_of_measurement": "kcal"
+            },
+            {
+              "name": "Calories From Fat",
+              "quantity": 15.0,
+              "unit_of_measurement": "kcal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 2.0,
+              "quantity": 1.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 5.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 10.0,
+              "quantity": 30.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 19.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 4.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Vitamin A",
+              "percentage": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Vitamin C",
+              "percentage": 0.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk",
+      "<B>May Contain:</B> Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 1.3 Ounces",
+      "<B>Chocolate types:</B> Dark Chocolate"
+    ],
+    "upc": "041795000141",
+    "dpci": "212-28-0265",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90642478",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804342D",
+    "page": "%2Fp%2FA-90642478",
+    "nutrition_facts": {
+      "ingredients": "Dairy Free Caramel (Coconut Cream [Coconut Kernel Extract, Water], Rice Syrup, Cane Sugar, Water, Tapioca Syrup, Vanilla Extract, Carrageenan), Bittersweet Chocolate (Fair Trade Chocolate Liquor, Fair Trade Cane Sugar, Fair Trade Cocoa Butter, Fair Trade Vanilla Extract), Sea Salt.",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "1 package (43g)",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "package",
+          "servings_per_container": "1",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 14.0,
+              "quantity": 11.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 40.0,
+              "quantity": 8.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Trans Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 21.0,
+              "quantity": 480.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 10.0,
+              "quantity": 27.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 7.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 16.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 32.0,
+              "quantity": 16.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 210.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Contains: tree nuts (coconut). Manufactured on equipment that also processes milk, peanuts, soy, and other tree nuts."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Coconut",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Features:</B> Dairy-Free",
+      "<B>Dietary Needs:</B> Fair Trade Certified",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 8",
+      "<B>Net weight:</B> 1.5 ounces"
+    ],
+    "upc": "035900312199",
+    "dpci": null,
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89095046",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804332D",
+    "page": "%2Fp%2FA-89095046",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1 ounces",
+      "<B>Package Quantity:</B> 90"
+    ],
+    "upc": "783515202977",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986720",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804718D",
+    "page": "%2Fp%2FA-91986720",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Milk",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Dietary Needs:</B> Gluten-Free",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Package Quantity:</B> 12",
+      "<B>Net weight:</B> 3.1 ounces"
+    ],
+    "upc": "716270001479",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87922092",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804766D",
+    "page": "%2Fp%2FA-87922092",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Milk, Wheat",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Stick",
+      "<B>Package Quantity:</B> 6",
+      "<B>Net weight:</B> 51 Ounces",
+      "<B>Chocolate types:</B> Dark Chocolate"
+    ],
+    "upc": "598016079214",
+    "dpci": "055-02-1302",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "86803679",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804576D",
+    "page": "%2Fp%2FA-86803679",
+    "nutrition_facts": {
+      "ingredients": "Dark Chocolate (Chocolate Liquor‡, Cane Sugar‡, Cocoa Butter‡, Vanilla), Roasted Peanuts (Peanuts, Peanut Oil), Organic Cane Sugar‡, Gum Acacia, Colored with (Beet Juice, Spirulina Extract), Organic Tapioca Syrup, Carnauba Wax. ‡Fair Trade Certified by Fair Trade USA. 68% Fair Trade Certified Ingredients.",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "30",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "About 4.5",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 150.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 13.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 20.0,
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 6.0,
+              "quantity": 16.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 7.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 13.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 24.0,
+              "quantity": 12.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 0.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 8.0,
+              "quantity": 1.6,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 120.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "+ALLERGEN INFORMATION: Contains Peanuts. Made in a facility that handles tree nuts, soy, wheat and milk. Made on equipment that processes milk chocolate."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Peanuts",
+      "<B>May Contain:</B> Wheat, Tree Nuts, Soy, Milk",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Dietary Needs:</B> Non-GMO Project Verified, Fair Trade Certified",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 5 Ounces",
+      "<B>Chocolate types:</B> Dark Chocolate"
+    ],
+    "upc": "857484006291",
+    "dpci": "055-02-0674",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87951683",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804506D",
+    "page": "%2Fp%2FA-87951683",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Milk, Peanuts, Eggs",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Package Quantity:</B> 24",
+      "<B>Net weight:</B> 78.96 Ounces",
+      "<B>Chocolate types:</B> Milk Chocolate"
+    ],
+    "upc": "810050889216",
+    "dpci": "055-02-1021",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87920474",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804167D",
+    "page": "%2Fp%2FA-87920474",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Milk",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 36 Ounces",
+      "<B>Chocolate types:</B> Dark Chocolate"
+    ],
+    "upc": "810050886949",
+    "dpci": "055-02-1252",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87925279",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804860D",
+    "page": "%2Fp%2FA-87925279",
+    "nutrition_facts": {
+      "ingredients": "Milk Chocolate (Sugar, Cocoa Butter, Chocolate, Nonfat Milk, Milkfat, Lactose, Soy Lecithin, Natural Flavor), Corn Syrup, Sugar, Rice Flour, Nonfat Milk, Coconut Oil, Cream, 1% or Less of Mono- and Diglycerides, Salt, Barley Malt, Soy Lecithin, Natural Flavor.",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "1 pack (43g)",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "pack",
+          "servings_per_container": "36",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 10.0,
+              "quantity": 8.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 30.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Trans Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 2.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 4.0,
+              "quantity": 90.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 11.0,
+              "quantity": 31.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 22.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 42.0,
+              "quantity": 21.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 30.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0,
+              "quantity": 0.1,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0,
+              "quantity": 70.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 200.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Contains: milk, soy. May contain egg, peanut."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Milk",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Package Quantity:</B> 36",
+      "<B>Net weight:</B> 54 Ounces",
+      "<B>Chocolate types:</B> Milk Chocolate"
+    ],
+    "upc": "099900723270",
+    "dpci": "055-02-0690",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986941",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804489D",
+    "page": "%2Fp%2FA-91986941",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Coconut",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Features:</B> No Added Sugar",
+      "<B>Dietary Needs:</B> Gluten-Free, Organic Certified",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 9",
+      "<B>Net weight:</B> 1.41 ounces"
+    ],
+    "upc": "850006293087",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91987044",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804940D",
+    "page": "%2Fp%2FA-91987044",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Dietary Needs:</B> Certified Gluten-Free, Non-GMO Project Verified, Kosher",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 12",
+      "<B>Net weight:</B> 2 ounces"
+    ],
+    "upc": "866206000233",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91987086",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804836D",
+    "page": "%2Fp%2FA-91987086",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Dietary Needs:</B> Certified Gluten-Free, Kosher, Non-GMO Project Verified",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 12",
+      "<B>Net weight:</B> 2 ounces"
+    ],
+    "upc": "854571007070",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87925781",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804955D",
+    "page": "%2Fp%2FA-87925781",
+    "nutrition_facts": {
+      "ingredients": "Corn Syrup, Sugar, Palm Kernel and Palm Oil, Nonfat Dry Milk, Cocoa, Lactose, Milk Protein Concentrate, Egg Albumen, Artificial Flavor, Soy Lecithin, Soy Protein, Salt, Sodium Citrate.",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "4 Bars (28g)",
+          "serving_size": "4",
+          "serving_size_unit_of_measurement": "bars",
+          "servings_per_container": "30",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 4.0,
+              "quantity": 3.5,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 15.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Trans Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 8.0,
+              "quantity": 23.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 16.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 32.0,
+              "quantity": 16.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 0.0,
+              "quantity": 12.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0,
+              "quantity": 25.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 120.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Milk",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Package Quantity:</B> 120",
+      "<B>Net weight:</B> 29.4 Ounces",
+      "<B>Chocolate types:</B> Milk Chocolate"
+    ],
+    "upc": "071720531082",
+    "dpci": "055-02-0750",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986890",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804620D",
+    "page": "%2Fp%2FA-91986890",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Coconut, Milk, Peanuts",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Features:</B> No Added Sugar",
+      "<B>Dietary Needs:</B> Fair Trade Certified",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Package Quantity:</B> 12",
+      "<B>Net weight:</B> 1.25 ounces"
+    ],
+    "upc": "810003460592",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89410157",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804954D",
+    "page": "%2Fp%2FA-89410157",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1.65 ounces",
+      "<B>Package Quantity:</B> 131"
+    ],
+    "upc": "715786510307",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54589522",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804732D",
+    "page": "%2Fp%2FA-54589522",
+    "nutrition_facts": {
+      "ingredients": "Sugar, Unsweetened Chocolate Processed with Alkali, Cocoa Butter, Milk Powder, Sweetened Condensed Milk, Corn Syrup, Heavy Cream, Unsweetened Chocolate, Hazelnuts, Evaporated Milk (Vitamin D3), Palm Kernel Oil, Brown Sugar, Invert Sugar, Palm Oil, Butter (Unsalted), Hydrogenated Palm Kernel Oil, High Fructose Corn Syrup, Honey, Skim Milk Powder, Coconut, Skim Milk, Almonds, Xylitol, Sorbitol, Butter Oil (Milk), Emulsifier (Soy Lecithin Mono- and Diglycerides), Breakfast Cocoa, Natural Flavor, Dried Coconut, Raspberry Juice Concentrate, Glycerin, Salt, Citric Acid, Water, Invertase, Natural Flavor (Soy).",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "2 pieces (26g)",
+          "serving_size": "2.0",
+          "serving_size_unit_of_measurement": "pieces",
+          "servings_per_container": "About 5",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 10.0,
+              "quantity": 8.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 24.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Trans Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 2.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 1.0,
+              "quantity": 25.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 5.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 3.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 11.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 20.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 6.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 31.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 6.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 85.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 120.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "May contain other tree nuts., Do not purchase if open or torn."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk",
+      "<B>May Contain:</B> Tree Nuts",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 4.7 Ounces",
+      "<B>Chocolate types:</B> White Chocolate, Dark Chocolate"
+    ],
+    "upc": "031290132959",
+    "dpci": "055-02-1618",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986847",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804359D",
+    "page": "%2Fp%2FA-91986847",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Coconut",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Dietary Needs:</B> Gluten-Free, Organic Certified",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 8",
+      "<B>Net weight:</B> 2.5 ounces"
+    ],
+    "upc": "748252203137",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89089196",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804763D",
+    "page": "%2Fp%2FA-89089196",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1 ounces",
+      "<B>Package Quantity:</B> 90"
+    ],
+    "upc": "783515202908",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89685172",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804706D",
+    "page": "%2Fp%2FA-89685172",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1.5 ounces",
+      "<B>Package Quantity:</B> 116"
+    ],
+    "upc": "715786987284",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986805",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804673D",
+    "page": "%2Fp%2FA-91986805",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Hazelnuts",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Features:</B> Plant-Based",
+      "<B>Dietary Needs:</B> Gluten-Free, Organic Certified",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 6",
+      "<B>Net weight:</B> 4.93 ounces"
+    ],
+    "upc": "850006293186",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47077204",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804654D",
+    "page": "%2Fp%2FA-47077204",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Package Quantity:</B> 1"
+    ],
+    "upc": "071873221830",
+    "dpci": "055-02-0609",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90299589",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804381D",
+    "page": "%2Fp%2FA-90299589",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 7.28 Ounces",
+      "<B>Chocolate types:</B> Milk Chocolate"
+    ],
+    "upc": "052745727803",
+    "dpci": "055-02-1278",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986945",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804332D",
+    "page": "%2Fp%2FA-91986945",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Almonds, Soy, Milk",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Features:</B> No Added Sugar",
+      "<B>Dietary Needs:</B> Non-GMO Project Verified, Certified Gluten-Free",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 12",
+      "<B>Net weight:</B> 3 ounces"
+    ],
+    "upc": "856481003036",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88657209",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804710D",
+    "page": "%2Fp%2FA-88657209",
+    "nutrition_facts": {
+      "ingredients": "ingredients: dark chocolate (unsweetened chocolate, cane sugar, cocoa butter, chicory root fiber, cocoa powder processed with alkali, sunflower lecithin, sea salt, vanilla) chicory root fiber, peanuts, peanut butter, allulose, cocoa butter, butter, nonfat dry milk, coconut oil, peanut flour, maple sugar, cane sugar, sea salt, sunflower lecithin.",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "6",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 60.0,
+              "unit_of_measurement": "calories"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 6.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 13.0,
+              "quantity": 2.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 2.0,
+              "quantity": 40.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 3.0,
+              "quantity": 7.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 14.0,
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 4.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugar Alcohol",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 0.0,
+              "quantity": 8.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 4.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 67.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "Contains: peanuts, milk, coconut,."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Peanuts, Coconut, Milk",
+      "<B>May Contain:</B> Soy, Other Tree Nuts",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 3.17 Ounces",
+      "<B>Chocolate types:</B> Milk Chocolate"
+    ],
+    "upc": "850034219158",
+    "dpci": "055-02-1916",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90904669",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804735D",
+    "page": "%2Fp%2FA-90904669",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1.65 ounces",
+      "<B>Package Quantity:</B> 131"
+    ],
+    "upc": "715786664833",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986857",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804263D",
+    "page": "%2Fp%2FA-91986857",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Coconut",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Features:</B> Plant-Based",
+      "<B>Dietary Needs:</B> Gluten-Free, Organic Certified",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 6",
+      "<B>Net weight:</B> 4.93 ounces"
+    ],
+    "upc": "748252204738",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90642437",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804536D",
+    "page": "%2Fp%2FA-90642437",
+    "nutrition_facts": {
+      "ingredients": "Milk Chocolate [Sugar, Cocoa Butter, Milk, Chocolate, Whey (Milk), Milkfat, Lecithin (Soy), PGPR, Emulsifier, Natural Flavor], Peanuts, Marshmallows [Sugar, Glucose Syrup, Invert Syrup, Water, Gelatin, Natural Flavors, Corn Starch (Maize)], Toasted Coconut ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "34.0",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "5",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 180.0,
+              "unit_of_measurement": "kcal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 13.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 30.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 2.0,
+              "quantity": 53.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 7.0,
+              "quantity": 18.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 17.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 26.0,
+              "quantity": 13.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy, Peanuts, Coconut",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Features:</B> Non-GMO",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Package Quantity:</B> 12",
+      "<B>Net weight:</B> 6.4 ounces"
+    ],
+    "upc": "811737048995",
+    "dpci": null,
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89479893",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804986D",
+    "page": "%2Fp%2FA-89479893",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1.65 ounces",
+      "<B>Package Quantity:</B> 131"
+    ],
+    "upc": "715786755203",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89164821",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804236D",
+    "page": "%2Fp%2FA-89164821",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 2 ounces",
+      "<B>Package Quantity:</B> 100"
+    ],
+    "upc": "715786589006",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87951199",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804216D",
+    "page": "%2Fp%2FA-87951199",
+    "nutrition_facts": {
+      "ingredients": "Milk Chocolate [Sugar; Cocoa Butter; Chocolate; Skim Milk; Milk Fat; Lactose; Lecithin (Soy); PGPR]; Peanuts; Sugar; Dextrose; Salt; TBHQ and Citric Acid, to Maintain Freshness.",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "3 pieces (26g)",
+          "serving_size": "3",
+          "serving_size_unit_of_measurement": "pieces",
+          "servings_per_container": "About 73",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 10.0,
+              "quantity": 7.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 15.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Trans Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 1.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 3.0,
+              "quantity": 80.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 6.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 3.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 14.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 26.0,
+              "quantity": 13.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.1,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 30.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 4.0,
+              "quantity": 0.7,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 90.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 130.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Milk, Peanuts",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 66.7 Ounces",
+      "<B>Chocolate types:</B> Milk Chocolate"
+    ],
+    "upc": "034000400096",
+    "dpci": "055-02-0986",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89722986",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804723D",
+    "page": "%2Fp%2FA-89722986",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1.5 ounces",
+      "<B>Package Quantity:</B> 116"
+    ],
+    "upc": "715786963806",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89293264",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804252D",
+    "page": "%2Fp%2FA-89293264",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1 ounces",
+      "<B>Package Quantity:</B> 90"
+    ],
+    "upc": "783515202953",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986785",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804227D",
+    "page": "%2Fp%2FA-91986785",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Almonds, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Dietary Needs:</B> Organic Certified",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 12",
+      "<B>Net weight:</B> 1.4 ounces"
+    ],
+    "upc": "840379101416",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88331360",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804684D",
+    "page": "%2Fp%2FA-88331360",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Coconut, Milk, Peanuts, Eggs, Wheat, Almonds",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Dietary Needs:</B> Gluten-Free",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 44.19 Ounces",
+      "<B>Chocolate types:</B> Milk Chocolate"
+    ],
+    "upc": "034000247165",
+    "dpci": "055-02-1744",
+    "origin": "Made in the USA and Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89095053",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804340D",
+    "page": "%2Fp%2FA-89095053",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1.5 ounces",
+      "<B>Package Quantity:</B> 77"
+    ],
+    "upc": "715786908883",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91377349",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804557D",
+    "page": "%2Fp%2FA-91377349",
+    "nutrition_facts": null,
+    "bullet_descriptions": null,
+    "upc": "715786781851",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986688",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804202D",
+    "page": "%2Fp%2FA-91986688",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Dietary Needs:</B> Non-GMO Project Verified",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 8",
+      "<B>Net weight:</B> 3.5 ounces"
+    ],
+    "upc": "716270075029",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89164820",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804179D",
+    "page": "%2Fp%2FA-89164820",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 2 ounces",
+      "<B>Package Quantity:</B> 100"
+    ],
+    "upc": "715786832645",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89195191",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804648D",
+    "page": "%2Fp%2FA-89195191",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 2 ounces",
+      "<B>Package Quantity:</B> 90"
+    ],
+    "upc": "715786936633",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89738543",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804245D",
+    "page": "%2Fp%2FA-89738543",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1.5 ounces",
+      "<B>Package Quantity:</B> 116"
+    ],
+    "upc": "715786814030",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986869",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804182D",
+    "page": "%2Fp%2FA-91986869",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Dietary Needs:</B> Non-GMO Project Verified, Fair Trade Certified",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Package Quantity:</B> 12",
+      "<B>Net weight:</B> 3 ounces"
+    ],
+    "upc": "037014242317",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87922261",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804763D",
+    "page": "%2Fp%2FA-87922261",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Milk",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 69.12 Ounces",
+      "<B>Chocolate types:</B> Milk Chocolate"
+    ],
+    "upc": "810050887601",
+    "dpci": "055-02-1337",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90915298",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804830D",
+    "page": "%2Fp%2FA-90915298",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1.65 ounces",
+      "<B>Package Quantity:</B> 131"
+    ],
+    "upc": "715786709589",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91987051",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804675D",
+    "page": "%2Fp%2FA-91987051",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Dietary Needs:</B> Fair Trade Certified",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Package Quantity:</B> 12",
+      "<B>Net weight:</B> 1.3 ounces"
+    ],
+    "upc": "857484006406",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88435928",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804669D",
+    "page": "%2Fp%2FA-88435928",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 2 ounces",
+      "<B>Package Quantity:</B> 180"
+    ],
+    "upc": "783515197112",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88384353",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804909D",
+    "page": "%2Fp%2FA-88384353",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1 ounces",
+      "<B>Package Quantity:</B> 100"
+    ],
+    "upc": "783515155235",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88384329",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804863D",
+    "page": "%2Fp%2FA-88384329",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy, Peanuts",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate, Dark Chocolate",
+      "<B>Net weight:</B> 8 ounces",
+      "<B>Package Quantity:</B> 1"
+    ],
+    "upc": "778477383444",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89722989",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804162D",
+    "page": "%2Fp%2FA-89722989",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1.5 ounces",
+      "<B>Package Quantity:</B> 116"
+    ],
+    "upc": "715786950851",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91987011",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804357D",
+    "page": "%2Fp%2FA-91987011",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Cashews",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Features:</B> Plant-Based",
+      "<B>Dietary Needs:</B> Organic Certified",
+      "<B>Chocolate types:</B> White Chocolate",
+      "<B>Package Quantity:</B> 8",
+      "<B>Net weight:</B> 2.5 ounces"
+    ],
+    "upc": "850006293353",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89685183",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804292D",
+    "page": "%2Fp%2FA-89685183",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1.65 ounces",
+      "<B>Package Quantity:</B> 131"
+    ],
+    "upc": "715786930662",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986924",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804806D",
+    "page": "%2Fp%2FA-91986924",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Almonds, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Features:</B> No Added Sugar",
+      "<B>Dietary Needs:</B> Non-GMO Project Verified, Fair Trade Certified, Vegan",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 12",
+      "<B>Net weight:</B> 2.8 ounces"
+    ],
+    "upc": "856481003814",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88503795",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804334D",
+    "page": "%2Fp%2FA-88503795",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy, Peanuts",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate, Dark Chocolate",
+      "<B>Net weight:</B> 14 ounces",
+      "<B>Package Quantity:</B> 1"
+    ],
+    "upc": "783515197556",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89551835",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804607D",
+    "page": "%2Fp%2FA-89551835",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 2.25 ounces",
+      "<B>Package Quantity:</B> 123"
+    ],
+    "upc": "715786931478",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986793",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804711D",
+    "page": "%2Fp%2FA-91986793",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Features:</B> Dairy-Free",
+      "<B>Dietary Needs:</B> Gluten-Free, Organic Certified, Non-GMO Project Verified, Kosher",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 6",
+      "<B>Net weight:</B> 4.66 ounces"
+    ],
+    "upc": "897988012053",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986791",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804469D",
+    "page": "%2Fp%2FA-91986791",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Peanuts, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Dietary Needs:</B> Non-GMO Project Verified",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 10",
+      "<B>Net weight:</B> 1.2 ounces"
+    ],
+    "upc": "716270060025",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89195185",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804388D",
+    "page": "%2Fp%2FA-89195185",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 2 ounces",
+      "<B>Package Quantity:</B> 90"
+    ],
+    "upc": "715786797289",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89551845",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804756D",
+    "page": "%2Fp%2FA-89551845",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 3 ounces",
+      "<B>Package Quantity:</B> 164"
+    ],
+    "upc": "715786570943",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89095045",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804992D",
+    "page": "%2Fp%2FA-89095045",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1 ounces",
+      "<B>Package Quantity:</B> 90"
+    ],
+    "upc": "783515202960",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89256240",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804476D",
+    "page": "%2Fp%2FA-89256240",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy, Peanuts",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate, Dark Chocolate",
+      "<B>Net weight:</B> 2 ounces",
+      "<B>Package Quantity:</B> 1"
+    ],
+    "upc": "715786897484",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986960",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804482D",
+    "page": "%2Fp%2FA-91986960",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Barley, Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Package Quantity:</B> 10",
+      "<B>Net weight:</B> 3.5 ounces"
+    ],
+    "upc": "050255011009",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89219503",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804463D",
+    "page": "%2Fp%2FA-89219503",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1 ounces",
+      "<B>Package Quantity:</B> 300"
+    ],
+    "upc": "715786912293",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986883",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804175D",
+    "page": "%2Fp%2FA-91986883",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Dietary Needs:</B> Non-GMO Project Verified, Fair Trade Certified",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 12",
+      "<B>Net weight:</B> 3 ounces"
+    ],
+    "upc": "037014000375",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986921",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804317D",
+    "page": "%2Fp%2FA-91986921",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Almonds, Soy, Milk",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Features:</B> No Added Sugar",
+      "<B>Dietary Needs:</B> Fair Trade Certified",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 12",
+      "<B>Net weight:</B> 3.5 ounces"
+    ],
+    "upc": "810003460325",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87944290",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804610D",
+    "page": "%2Fp%2FA-87944290",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Milk",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Whole",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 80 Ounces",
+      "<B>Chocolate types:</B> Milk Chocolate"
+    ],
+    "upc": "810050888493",
+    "dpci": "055-02-0809",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986752",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804661D",
+    "page": "%2Fp%2FA-91986752",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Almonds, Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Dietary Needs:</B> Non-GMO Project Verified",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 10",
+      "<B>Net weight:</B> 1.2 ounces"
+    ],
+    "upc": "716270060018",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89738542",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804755D",
+    "page": "%2Fp%2FA-89738542",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1.5 ounces",
+      "<B>Package Quantity:</B> 116"
+    ],
+    "upc": "715786995388",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90642446",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804418D",
+    "page": "%2Fp%2FA-90642446",
+    "nutrition_facts": {
+      "ingredients": "DARK CHOCOLATE (UNSWEETENED CHOCOLATE, SUGAR, COCOA BUTTER), TAPIOCA SYRUP, CANE SUGAR, COCOA BUTTER, WATER, SUNFLOWER LECITHIN, PEPPERMINT OIL, SEA SALT. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving:",
+          "serving_size": "30",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "1",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 160.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 11.0,
+              "quantity": 9.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 27.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 6.0,
+              "quantity": 18.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 4.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 14.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 28.0,
+              "quantity": 14.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 6.0,
+              "quantity": 1.1,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 0.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 10.0,
+              "quantity": 1.8,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 70.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Cup",
+      "<B>Features:</B> Dairy-Free",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 12",
+      "<B>Net weight:</B> 1.05 ounces"
+    ],
+    "upc": "852134008274",
+    "dpci": null,
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "80315245",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804365D",
+    "page": "%2Fp%2FA-80315245",
+    "nutrition_facts": {
+      "ingredients": "ingredients: *dark chocolate (*†cacao beans, *evaporated cane sugar, *†cocoa butter, sunflower lecithin), *tapioca syrup, *†coconut, *sugar (*cane sugar, *tapioca starch), water, sea salt, *sunflower lecithin, and *vanilla extract.",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "bar",
+          "servings_per_container": "1",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 210.0,
+              "unit_of_measurement": "calories"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 16.0,
+              "quantity": 13.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 45.0,
+              "quantity": 9.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 2.0,
+              "quantity": 50.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 9.0,
+              "quantity": 23.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 11.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 14.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 28.0,
+              "quantity": 14.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 0.0,
+              "quantity": 11.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 10.0,
+              "quantity": 2.1,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 137.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "Contains: tree nuts."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Coconut",
+      "<B>May Contain:</B> Eggs, Peanuts, Milk",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Dietary Needs:</B> Fair Trade Certified, Organic Certified",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 1.5 Ounces",
+      "<B>Chocolate types:</B> Dark Chocolate"
+    ],
+    "upc": "817911020252",
+    "dpci": "055-09-0011",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986899",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804306D",
+    "page": "%2Fp%2FA-91986899",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Peanuts, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 8",
+      "<B>Net weight:</B> 5 ounces"
+    ],
+    "upc": "859453005168",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89291946",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804978D",
+    "page": "%2Fp%2FA-89291946",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1.65 ounces",
+      "<B>Package Quantity:</B> 131"
+    ],
+    "upc": "715786706373",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91987032",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804916D",
+    "page": "%2Fp%2FA-91987032",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Wheat, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Package Quantity:</B> 15",
+      "<B>Net weight:</B> 6.35 ounces"
+    ],
+    "upc": "850011828328",
+    "dpci": null,
+    "origin": "imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89685179",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804714D",
+    "page": "%2Fp%2FA-89685179",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy, Almonds",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1.65 ounces",
+      "<B>Package Quantity:</B> 131"
+    ],
+    "upc": "715786877028",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89627106",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804560D",
+    "page": "%2Fp%2FA-89627106",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> .75 ounces",
+      "<B>Package Quantity:</B> 41"
+    ],
+    "upc": "715786828815",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89695347",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804953D",
+    "page": "%2Fp%2FA-89695347",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1.5 ounces",
+      "<B>Package Quantity:</B> 116"
+    ],
+    "upc": "715786909699",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89293309",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804666D",
+    "page": "%2Fp%2FA-89293309",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 3 ounces",
+      "<B>Package Quantity:</B> 164"
+    ],
+    "upc": "715786779308",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88384340",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804985D",
+    "page": "%2Fp%2FA-88384340",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1 ounces",
+      "<B>Package Quantity:</B> 75"
+    ],
+    "upc": "783515195576",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88752756",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804597D",
+    "page": "%2Fp%2FA-88752756",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1 ounces",
+      "<B>Package Quantity:</B> 100"
+    ],
+    "upc": "783515197976",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89256242",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804706D",
+    "page": "%2Fp%2FA-89256242",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> .75 ounces",
+      "<B>Package Quantity:</B> 41"
+    ],
+    "upc": "715786663881",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89196153",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804565D",
+    "page": "%2Fp%2FA-89196153",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1 ounces",
+      "<B>Package Quantity:</B> 100"
+    ],
+    "upc": "715786798927",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89604106",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804982D",
+    "page": "%2Fp%2FA-89604106",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>May Contain:</B> Tree Nuts",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> White Chocolate",
+      "<B>Net weight:</B> 1 ounces",
+      "<B>Package Quantity:</B> 1"
+    ],
+    "upc": "715786978824",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91376353",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804203D",
+    "page": "%2Fp%2FA-91376353",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> .75 ounces",
+      "<B>Package Quantity:</B> 40"
+    ],
+    "upc": "715786716266",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89465364",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804989D",
+    "page": "%2Fp%2FA-89465364",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1.5 ounces",
+      "<B>Package Quantity:</B> 82"
+    ],
+    "upc": "715786917793",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89465382",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804732D",
+    "page": "%2Fp%2FA-89465382",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1.5 ounces",
+      "<B>Package Quantity:</B> 82"
+    ],
+    "upc": "715786964803",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986851",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804252D",
+    "page": "%2Fp%2FA-91986851",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Milk",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 10",
+      "<B>Net weight:</B> 4.8 ounces"
+    ],
+    "upc": "747599418730",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986777",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804398D",
+    "page": "%2Fp%2FA-91986777",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Almonds",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Features:</B> Plant-Based",
+      "<B>Dietary Needs:</B> Gluten-Free, Organic Certified",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 6",
+      "<B>Net weight:</B> 4.93 ounces"
+    ],
+    "upc": "850006293070",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986895",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804131D",
+    "page": "%2Fp%2FA-91986895",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 12",
+      "<B>Net weight:</B> 1.41 ounces"
+    ],
+    "upc": "063783577480",
+    "dpci": null,
+    "origin": "imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91377352",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804125D",
+    "page": "%2Fp%2FA-91377352",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> .75 ounces",
+      "<B>Package Quantity:</B> 40"
+    ],
+    "upc": "715786813378",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89465379",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804373D",
+    "page": "%2Fp%2FA-89465379",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> .75 ounces",
+      "<B>Package Quantity:</B> 41"
+    ],
+    "upc": "715786877097",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986862",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804989D",
+    "page": "%2Fp%2FA-91986862",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Almonds, Cashews",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Features:</B> Plant-Based",
+      "<B>Dietary Needs:</B> Gluten-Free, Organic Certified",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 8",
+      "<B>Net weight:</B> 2.5 ounces"
+    ],
+    "upc": "850006293384",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986906",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804424D",
+    "page": "%2Fp%2FA-91986906",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Cashews, Coconut",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Features:</B> Dairy-Free",
+      "<B>Dietary Needs:</B> Gluten-Free, Organic Certified",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 8",
+      "<B>Net weight:</B> 2.5 ounces"
+    ],
+    "upc": "850006293155",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89465373",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804435D",
+    "page": "%2Fp%2FA-89465373",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 2.25 ounces",
+      "<B>Package Quantity:</B> 123"
+    ],
+    "upc": "715786942689",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89465402",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804287D",
+    "page": "%2Fp%2FA-89465402",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1.5 ounces",
+      "<B>Package Quantity:</B> 82"
+    ],
+    "upc": "715786557296",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89465412",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804511D",
+    "page": "%2Fp%2FA-89465412",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> .75 ounces",
+      "<B>Package Quantity:</B> 41"
+    ],
+    "upc": "715786810285",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89551848",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804860D",
+    "page": "%2Fp%2FA-89551848",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 2.25 ounces",
+      "<B>Package Quantity:</B> 123"
+    ],
+    "upc": "715786821045",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89246056",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804430D",
+    "page": "%2Fp%2FA-89246056",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1 ounces",
+      "<B>Package Quantity:</B> 100"
+    ],
+    "upc": "715786533405",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91986968",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804674D",
+    "page": "%2Fp%2FA-91986968",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Almonds, Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Bar",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Package Quantity:</B> 11",
+      "<B>Net weight:</B> 3.5 ounces"
+    ],
+    "upc": "050255704000",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91987098",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804542D",
+    "page": "%2Fp%2FA-91987098",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Peanuts, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Cup",
+      "<B>Dietary Needs:</B> Fair Trade Certified, Non-GMO Project Verified",
+      "<B>Chocolate types:</B> Dark Chocolate",
+      "<B>Package Quantity:</B> 40",
+      "<B>Net weight:</B> .5 ounces"
+    ],
+    "upc": "855571005172",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88693763",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804658D",
+    "page": "%2Fp%2FA-88693763",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1 ounces",
+      "<B>Package Quantity:</B> 1"
+    ],
+    "upc": "783515200232",
+    "dpci": null,
+    "origin": "made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88999237",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804732D",
+    "page": "%2Fp%2FA-88999237",
+    "nutrition_facts": {
+      "ingredients": "ingredients: organic dark chocolate (organic cocoa mass, organic cane sugar, organic cocoa butter, organic soy lecithin, organic vanilla extract), organic peanut butter (organic peanuts, organic palm oil, organic coconut butter, organic evaporated cane sugar, organic peanut flour, sea salt, organic mct powder, organic coconut oil, organic sunflower lecithin) organic hemp powder.",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "7",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 80.0,
+              "unit_of_measurement": "calories"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 8.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 15.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 1.0,
+              "quantity": 25.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 2.0,
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 5.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 6.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0,
+              "quantity": 0.2,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "Contains: soy and peanuts."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Almonds",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 3.45 Ounces",
+      "<B>Chocolate types:</B> Dark Chocolate"
+    ],
+    "upc": "068116104821",
+    "dpci": "055-02-0188",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89722982",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804419D",
+    "page": "%2Fp%2FA-89722982",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Chocolate types:</B> Milk Chocolate",
+      "<B>Net weight:</B> 1.5 ounces",
+      "<B>Package Quantity:</B> 116"
+    ],
+    "upc": "715786837107",
+    "dpci": null,
+    "origin": "made in the USA"
+  }
+]
