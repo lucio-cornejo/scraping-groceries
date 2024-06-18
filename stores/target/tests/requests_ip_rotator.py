@@ -62,3 +62,33 @@ rsp.json()
 
 # %%
 gateway.shutdown()
+
+# %%
+gateway, session = create_gateway_and_session_for_random_IP("https://api.ipify.org")
+
+# %%
+rsp = session.get(
+  "https://api.ipify.org", 
+  headers = HEADERS, 
+  params = {
+    "format" : "json"
+  }
+)
+
+rsp.json()
+
+# %%
+rsp = session.get(
+  "https://api.ipify.org", 
+  headers = HEADERS, 
+  params = {
+    "format" : "json"
+  }
+)
+
+rsp.json()
+
+# %%
+gateway.shutdown()
+
+# %%
