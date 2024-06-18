@@ -119,7 +119,6 @@ def extract_grocery_group_products_basic_info(
   task_2_2_logger.critical('Completed local storage of data frame')
 
 
-
 if __name__ == '__main__':
   gateway = None
   gateway_session = None

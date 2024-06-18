@@ -49,6 +49,21 @@ products corresponding to the URL's grocery **group** (category or subcategory w
 
 #### Subtask 2.2
 
+- Requires **Amazon Web Services** account, due to API Gateway use.
+
+- **File**: `tasks/task_2/grocery_products_basic_info_extraction.py`
+
+- **Goal**: Extract every grocery product's basic info (tcin,original_tcin,dpci,title,url,image_url,merged_bread_crumbs), by appropriately modifying each group product's GET request url contained
+in file `data/get_request_urls_for_task_2.2.json` .
+
+- **Command for execution**: `python -m tasks.task_2.grocery_products_basic_info_extraction`
+
+- **Execution time**: 11 minutes
+
+
+### Task 3
+
+#### Task 3.1
 
 
 
