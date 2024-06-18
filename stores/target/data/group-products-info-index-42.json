@@ -1,0 +1,1375 @@
+[
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81827552",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804711D",
+    "page": "%2Fp%2FA-81827552",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 40.0",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 8000",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Flavor profile:</B> Fruit",
+      "<B>Style:</B> Flavored Whiskey"
+    ],
+    "upc": "850003347653",
+    "dpci": "213-07-2533",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137317",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804989D",
+    "page": "%2Fp%2FA-47137317",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "CONTAINS CARAMEL"
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 15",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 30",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "085592126451",
+    "dpci": "213-07-0134",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137368",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804619D",
+    "page": "%2Fp%2FA-47137368"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89114147",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804813D",
+    "page": "%2Fp%2FA-89114147",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY AND MAY CAUSE HEALTH PROBLEMS."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 40",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 80",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "088076189041",
+    "dpci": "213-07-4442",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47572796",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804452D",
+    "page": "%2Fp%2FA-47572796"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13355117",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804535D",
+    "page": "%2Fp%2FA-13355117"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137577",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804543D",
+    "page": "%2Fp%2FA-47137577"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "48627396",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804593D",
+    "page": "%2Fp%2FA-48627396",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 47.0",
+      "<B>Region:</B> United States",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 94.0",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Aged:</B> 8 Years",
+      "<B>Flavor profile:</B> Spice, Smoke, Vanilla",
+      "<B>Style:</B> Small Batch"
+    ],
+    "upc": "096749000067",
+    "dpci": "213-07-0927",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "15414900",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804552D",
+    "page": "%2Fp%2FA-15414900"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79331003",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804600D",
+    "page": "%2Fp%2FA-79331003"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14765232",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804347D",
+    "page": "%2Fp%2FA-14765232",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> United States",
+      "<B>Alcohol Percentage:</B> 40",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 80",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Aged:</B> 2 Years",
+      "<B>Flavor profile:</B> Light"
+    ],
+    "upc": "080480025403",
+    "dpci": "213-07-0077",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137233",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804539D",
+    "page": "%2Fp%2FA-47137233"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137275",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804918D",
+    "page": "%2Fp%2FA-47137275",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> Canada",
+      "<B>Alcohol Percentage:</B> 21.0",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 42",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Aged:</B> Unaged",
+      "<B>Flavor profile:</B> Fruit"
+    ],
+    "upc": "089540463131",
+    "dpci": "213-07-0069",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53054401",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804175D",
+    "page": "%2Fp%2FA-53054401"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47981990",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804584D",
+    "page": "%2Fp%2FA-47981990"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "52297200",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804807D",
+    "page": "%2Fp%2FA-52297200",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> France",
+      "<B>Alcohol Percentage:</B> 20",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 40",
+      "<B>Net weight:</B> 375 mL",
+      "<B>Flavor profile:</B> Fruit"
+    ],
+    "upc": "080480006662",
+    "dpci": "213-07-1410",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47552754",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804441D",
+    "page": "%2Fp%2FA-47552754"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137719",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804932D",
+    "page": "%2Fp%2FA-47137719",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 40.0",
+      "<B>Region:</B> Kentucky",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 80",
+      "<B>Net weight:</B> 1.75 Liter"
+    ],
+    "upc": "088004012724",
+    "dpci": "213-07-0719",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81995639",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804167D",
+    "page": "%2Fp%2FA-81995639"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "49099473",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804966D",
+    "page": "%2Fp%2FA-49099473",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> United States",
+      "<B>Alcohol Percentage:</B> 43.29",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 86.58",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Aged:</B> 4 Years",
+      "<B>Flavor profile:</B> Rich",
+      "<B>Style:</B> Straight Whiskey"
+    ],
+    "upc": "850047003003",
+    "dpci": "213-07-0982",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47829581",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804712D",
+    "page": "%2Fp%2FA-47829581",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Average Analysis:",
+          "serving_size": "1.5",
+          "serving_size_unit_of_measurement": "fl oz",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 97.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Total Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 40",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 80",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "080686836025",
+    "dpci": "213-07-0870",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137377",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804204D",
+    "page": "%2Fp%2FA-47137377"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "51487371",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804237D",
+    "page": "%2Fp%2FA-51487371",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "1.5 fl. oz. (44 mL)",
+          "serving_size": "1.5",
+          "serving_size_unit_of_measurement": "fl. oz.",
+          "servings_per_container": "17",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 4.4,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 100.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 35.0",
+      "<B>Region:</B> Canada",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 70.0",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Aged:</B> 3 Years",
+      "<B>Flavor profile:</B> Vanilla, Chocolate",
+      "<B>Style:</B> Blended Whiskey, Flavored Whiskey"
+    ],
+    "upc": "082000776598",
+    "dpci": "213-07-1059",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53054389",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804420D",
+    "page": "%2Fp%2FA-53054389"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13355303",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804174D",
+    "page": "%2Fp%2FA-13355303",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 35.0",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 70.0",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "087000002715",
+    "dpci": "213-07-0083",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14765234",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804891D",
+    "page": "%2Fp%2FA-14765234"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47985225",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804934D",
+    "page": "%2Fp%2FA-47985225"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "50483725",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804491D",
+    "page": "%2Fp%2FA-50483725"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53184524",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804997D",
+    "page": "%2Fp%2FA-53184524",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BE- CAUSE OF THE RISK OF BIRTH DEFECTS. (2) CON- SUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MA- CHINERY, AND MAY CAUSE HEALTH PROBLEMS."
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Kentucky",
+      "<B>Alcohol Percentage:</B> 40",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 80",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Aged:</B> 11 Years",
+      "<B>Flavor profile:</B> Fruit, Oak, Light",
+      "<B>Style:</B> Small Batch"
+    ],
+    "upc": "080686012146",
+    "dpci": "213-07-1827",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137308",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804910D",
+    "page": "%2Fp%2FA-47137308"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53038559",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804856D",
+    "page": "%2Fp%2FA-53038559"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14765242",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804500D",
+    "page": "%2Fp%2FA-14765242"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14904161",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804462D",
+    "page": "%2Fp%2FA-14904161",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 47.0",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 94.0",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "811538013024",
+    "dpci": "213-07-0660",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137578",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804374D",
+    "page": "%2Fp%2FA-47137578",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 40",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 80",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "080686835325",
+    "dpci": "213-07-0526",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54241203",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804677D",
+    "page": "%2Fp%2FA-54241203"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137621",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804127D",
+    "page": "%2Fp%2FA-47137621"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137554",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804385D",
+    "page": "%2Fp%2FA-47137554"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14765241",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804897D",
+    "page": "%2Fp%2FA-14765241",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [],
+      "warning": "Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 40",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 80",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "083664871766",
+    "dpci": "213-07-0166",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "52036776",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804329D",
+    "page": "%2Fp%2FA-52036776",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 40.0",
+      "<B>Region:</B> Jalisco",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 80.0",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "744607111317",
+    "dpci": "213-07-1188",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82690199",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804823D",
+    "page": "%2Fp%2FA-82690199"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "48332960",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804407D",
+    "page": "%2Fp%2FA-48332960"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "51346161",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804721D",
+    "page": "%2Fp%2FA-51346161"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87925736",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804483D",
+    "page": "%2Fp%2FA-87925736",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount Per Serving",
+          "serving_size": "1.5",
+          "serving_size_unit_of_measurement": "fl oz",
+          "servings_per_container": "17",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 104.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Total Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            }
+          ]
+        }
+      ],
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BE- CAUSE OF THE RISK OF BIRTH DEFECTS (2) CON- SUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MA- CHINERY, AND MAY CAUSE HEALTH PROBLEMS."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 43.4",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 86.8",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "083664874965",
+    "dpci": "213-07-5790",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "52429816",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804392D",
+    "page": "%2Fp%2FA-52429816",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS."
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Canada",
+      "<B>Alcohol Percentage:</B> 40.0",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 80.0",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Aged:</B> 12 Years",
+      "<B>Flavor profile:</B> Spice, Wood",
+      "<B>Style:</B> Blended Whiskey"
+    ],
+    "upc": "811538019408",
+    "dpci": "213-07-1466",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87500126",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804390D",
+    "page": "%2Fp%2FA-87500126",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "serving_size": "1.5",
+          "serving_size_unit_of_measurement": "fl oz",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 8.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 121.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 35",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 70",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Flavor profile:</B> Spice"
+    ],
+    "upc": "080480988340",
+    "dpci": "213-07-7030",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "52457040",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804430D",
+    "page": "%2Fp%2FA-52457040"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14983847",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804141D",
+    "page": "%2Fp%2FA-14983847"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137600",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804725D",
+    "page": "%2Fp%2FA-47137600"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "52116782",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804605D",
+    "page": "%2Fp%2FA-52116782",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> Oaxaca",
+      "<B>Alcohol Percentage:</B> 43",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 86",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "863415000023",
+    "dpci": "213-07-1295",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "52125075",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804491D",
+    "page": "%2Fp%2FA-52125075"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47993582",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804826D",
+    "page": "%2Fp%2FA-47993582"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14984933",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804946D",
+    "page": "%2Fp%2FA-14984933"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137345",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804422D",
+    "page": "%2Fp%2FA-47137345",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 40",
+      "<B>Region:</B> Canada",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 80",
+      "<B>Net weight:</B> 1.75 Liter",
+      "<B>Flavor profile:</B> Fruit, Caramel",
+      "<B>Style:</B> Blended Whiskey"
+    ],
+    "upc": "088100134511",
+    "dpci": "213-07-0183",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14765233",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804398D",
+    "page": "%2Fp%2FA-14765233"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137500",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804787D",
+    "page": "%2Fp%2FA-47137500",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 40.0",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 80.0",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "087000201781",
+    "dpci": "213-07-0394",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137539",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804217D",
+    "page": "%2Fp%2FA-47137539"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137648",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804408D",
+    "page": "%2Fp%2FA-47137648"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14984940",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804267D",
+    "page": "%2Fp%2FA-14984940"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14904163",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804529D",
+    "page": "%2Fp%2FA-14904163"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "80396113",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804723D",
+    "page": "%2Fp%2FA-80396113",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> Oaxaca",
+      "<B>Alcohol Percentage:</B> 20.0",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 40",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Aged:</B> Unaged",
+      "<B>Flavor profile:</B> Coffee"
+    ],
+    "upc": "089540535548",
+    "dpci": "213-07-2458",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137519",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804923D",
+    "page": "%2Fp%2FA-47137519",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 39.92",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 79.84",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "856075000113",
+    "dpci": "213-07-0427",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53039846",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804124D",
+    "page": "%2Fp%2FA-53039846"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137305",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804143D",
+    "page": "%2Fp%2FA-47137305"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137536",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804807D",
+    "page": "%2Fp%2FA-47137536"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14765236",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804360D",
+    "page": "%2Fp%2FA-14765236",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 40.0",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 80.0",
+      "<B>Net weight:</B> 1.75 Liter",
+      "<B>Flavor profile:</B> Oak, Sweet, Balanced, Vanilla, Light"
+    ],
+    "upc": "082000192985",
+    "dpci": "213-07-0120",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "51884937",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804889D",
+    "page": "%2Fp%2FA-51884937"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47779623",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804745D",
+    "page": "%2Fp%2FA-47779623"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137232",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804525D",
+    "page": "%2Fp%2FA-47137232"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53187420",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804283D",
+    "page": "%2Fp%2FA-53187420"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137391",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804888D",
+    "page": "%2Fp%2FA-47137391"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47958470",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804280D",
+    "page": "%2Fp%2FA-47958470"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "15389256",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804901D",
+    "page": "%2Fp%2FA-15389256"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137260",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804182D",
+    "page": "%2Fp%2FA-47137260"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84795459",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804434D",
+    "page": "%2Fp%2FA-84795459"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47984780",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804672D",
+    "page": "%2Fp%2FA-47984780"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89121186",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804732D",
+    "page": "%2Fp%2FA-89121186"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137645",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804320D",
+    "page": "%2Fp%2FA-47137645",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 40.0",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 80.0",
+      "<B>Net weight:</B> 750 mL"
+    ],
+    "upc": "811538011426",
+    "dpci": "213-07-0634",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "51502278",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804332D",
+    "page": "%2Fp%2FA-51502278"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47778685",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804185D",
+    "page": "%2Fp%2FA-47778685"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14983863",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804202D",
+    "page": "%2Fp%2FA-14983863"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137390",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804974D",
+    "page": "%2Fp%2FA-47137390"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "52415048",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804399D",
+    "page": "%2Fp%2FA-52415048"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137543",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804825D",
+    "page": "%2Fp%2FA-47137543"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "48626856",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804629D",
+    "page": "%2Fp%2FA-48626856",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PREGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 40",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 80",
+      "<B>Net weight:</B> 1.75 Liter"
+    ],
+    "upc": "086036815474",
+    "dpci": "213-07-0962",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "51373446",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804956D",
+    "page": "%2Fp%2FA-51373446",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "1.5",
+          "serving_size_unit_of_measurement": "fl oz",
+          "servings_per_container": "9",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 110.0,
+              "unit_of_measurement": "calories"
+            },
+            {
+              "name": "Total Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Kentucky",
+      "<B>Alcohol Percentage:</B> 45.0",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 90.0",
+      "<B>Net weight:</B> 375 mL",
+      "<B>Aged:</B> 5 Years",
+      "<B>Flavor profile:</B> Caramel, Balanced, Citrus",
+      "<B>Style:</B> Small Batch"
+    ],
+    "upc": "087000004122",
+    "dpci": "213-07-1033",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "52250382",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804934D",
+    "page": "%2Fp%2FA-52250382"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53271731",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804652D",
+    "page": "%2Fp%2FA-53271731"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53731353",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804113D",
+    "page": "%2Fp%2FA-53731353"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137350",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804667D",
+    "page": "%2Fp%2FA-47137350"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14983862",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804906D",
+    "page": "%2Fp%2FA-14983862"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54637053",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804795D",
+    "page": "%2Fp%2FA-54637053"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137525",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804909D",
+    "page": "%2Fp%2FA-47137525"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53071806",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804743D",
+    "page": "%2Fp%2FA-53071806"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137346",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804474D",
+    "page": "%2Fp%2FA-47137346"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47137351",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804570D",
+    "page": "%2Fp%2FA-47137351"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "52125040",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804500D",
+    "page": "%2Fp%2FA-52125040"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14765239",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804340D",
+    "page": "%2Fp%2FA-14765239"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "52414873",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804216D",
+    "page": "%2Fp%2FA-52414873"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87926461",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804322D",
+    "page": "%2Fp%2FA-87926461"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "52563355",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804626D",
+    "page": "%2Fp%2FA-52563355",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 35",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Proof:</B> 70",
+      "<B>Net weight:</B> 375 mL"
+    ],
+    "upc": "083089660358",
+    "dpci": "213-07-1500",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14765237",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804744D",
+    "page": "%2Fp%2FA-14765237"
+  }
+]

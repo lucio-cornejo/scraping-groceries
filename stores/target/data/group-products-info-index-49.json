@@ -1,0 +1,1537 @@
+[
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54656255",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804527D",
+    "page": "%2Fp%2FA-54656255",
+    "nutrition_facts": {
+      "ingredients": "Ingredients: Water, Malted Barley, Hop Extract and Natural Flavor",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "11.2",
+          "serving_size_unit_of_measurement": "fluid ounce",
+          "servings_per_container": "1",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "percentage": 3.5,
+              "quantity": 69.0,
+              "unit_of_measurement": "calories"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Netherlands",
+      "<B>Alcohol Percentage:</B> 0",
+      "<B>Package Quantity:</B> 6",
+      "<B>Alcohol content:</B> Non-Alcoholic",
+      "<B>Net weight:</B> 67.2 fl oz (US)",
+      "<B>Style:</B> Import"
+    ],
+    "upc": "072890006202",
+    "dpci": "213-06-0371",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "86291565",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804142D",
+    "page": "%2Fp%2FA-86291565"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13391824",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804515D",
+    "page": "%2Fp%2FA-13391824"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90471553",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804108D",
+    "page": "%2Fp%2FA-90471553"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90462850",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804686D",
+    "page": "%2Fp%2FA-90462850"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87463785",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804763D",
+    "page": "%2Fp%2FA-87463785",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "PER 12 FL. OZ.",
+          "serving_size": "12.0",
+          "serving_size_unit_of_measurement": "fl oz",
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 14.5,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 72.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Government Warning: (1) According to the surgeon general, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> .5",
+      "<B>Package Quantity:</B> 6",
+      "<B>Alcohol content:</B> Non-Alcoholic",
+      "<B>Net weight:</B> 72 fl oz (US)",
+      "<B>Flavor profile:</B> Crisp",
+      "<B>Style:</B> Domestic",
+      "<B>Country of Origin:</B> United States"
+    ],
+    "upc": "062067009723",
+    "dpci": "213-06-9993",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89010529",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804482D",
+    "page": "%2Fp%2FA-89010529"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88063691",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804811D",
+    "page": "%2Fp%2FA-88063691"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87712151",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804113D",
+    "page": "%2Fp%2FA-87712151"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87469846",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804247D",
+    "page": "%2Fp%2FA-87469846",
+    "nutrition_facts": {
+      "ingredients": "Carbonated Water, Vitamin C (Ascorbic Acid for freshness), Hops and Natural Flavors, L-Theanine, Ashwagandha ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "servings_per_container": "6",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 0.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin C",
+              "percentage": 120.0,
+              "quantity": 108.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 0",
+      "<B>Package Quantity:</B> 6",
+      "<B>Alcohol content:</B> Non-Alcoholic",
+      "<B>Net weight:</B> 72 fl oz (US)",
+      "<B>Style:</B> Craft"
+    ],
+    "upc": "850020883219",
+    "dpci": "213-05-6723",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87341236",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804377D",
+    "page": "%2Fp%2FA-87341236",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 0",
+      "<B>Package Quantity:</B> 6",
+      "<B>Alcohol content:</B> Non-Alcoholic",
+      "<B>Net weight:</B> 72 fl oz (US)"
+    ],
+    "upc": "030613040681",
+    "dpci": "213-05-9129",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87341233",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804203D",
+    "page": "%2Fp%2FA-87341233"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87341243",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804521D",
+    "page": "%2Fp%2FA-87341243",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "12",
+          "serving_size_unit_of_measurement": "fl oz",
+          "servings_per_container": "6",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 20.0,
+              "unit_of_measurement": "calories"
+            },
+            {
+              "name": "Total Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "quantity": 2.3,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 0",
+      "<B>Package Quantity:</B> 6",
+      "<B>Alcohol content:</B> Non-Alcoholic",
+      "<B>Net weight:</B> 72 fl oz (US)",
+      "<B>Style:</B> Craft"
+    ],
+    "upc": "842817100265",
+    "dpci": "213-05-8239",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84293912",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804555D",
+    "page": "%2Fp%2FA-84293912"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87341231",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804735D",
+    "page": "%2Fp%2FA-87341231"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87341235",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804722D",
+    "page": "%2Fp%2FA-87341235"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89981017",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804500D",
+    "page": "%2Fp%2FA-89981017"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84293913",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804691D",
+    "page": "%2Fp%2FA-84293913",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount Per Serving",
+          "serving_size": "12",
+          "serving_size_unit_of_measurement": "fl oz",
+          "servings_per_container": "1",
+          "nutrients": [
+            {
+              "name": "Total Carbohydrate",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Total Fat",
+              "quantity": 99.0
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> .5",
+      "<B>Package Quantity:</B> 6",
+      "<B>Alcohol content:</B> Non-Alcoholic",
+      "<B>Net weight:</B> 72 fl oz (US)",
+      "<B>Style:</B> Craft"
+    ],
+    "upc": "854165007943",
+    "dpci": "213-05-7771",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87466811",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804217D",
+    "page": "%2Fp%2FA-87466811",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 0",
+      "<B>Package Quantity:</B> 6",
+      "<B>Alcohol content:</B> Non-Alcoholic",
+      "<B>Net weight:</B> 72 fl oz (US)",
+      "<B>Style:</B> Craft"
+    ],
+    "upc": "786243572510",
+    "dpci": "213-05-9681",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84649069",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804911D",
+    "page": "%2Fp%2FA-84649069",
+    "nutrition_facts": {
+      "ingredients": "WATER, PALE MALT, MALTED WHEAT, OATS, HOPS, ORANGE PEEL, CORIANDER, NATURAL FLAVOR. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount Per Serving",
+          "serving_size": "12",
+          "serving_size_unit_of_measurement": "fl oz",
+          "servings_per_container": "1",
+          "nutrients": [
+            {
+              "name": "ALCOHOL BY VOLUME",
+              "percentage": 0.5
+            },
+            {
+              "name": "Calories",
+              "quantity": 77.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "quantity": 14.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Total Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS: WHEAT."
+    },
+    "bullet_descriptions": [
+      "<B>Region:</B> Colorado",
+      "<B>Alcohol Percentage:</B> 0",
+      "<B>Package Quantity:</B> 6",
+      "<B>Alcohol content:</B> Non-Alcoholic",
+      "<B>Net weight:</B> 72 fl oz (US)",
+      "<B>Style:</B> Craft"
+    ],
+    "upc": "850012967002",
+    "dpci": "213-05-8248",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53007766",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804558D",
+    "page": "%2Fp%2FA-53007766",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> California",
+      "<B>Alcohol Percentage:</B> 6.7",
+      "<B>Package Quantity:</B> 6",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 72 fl oz (US)",
+      "<B>Flavor profile:</B> Crisp, Hoppy",
+      "<B>Style:</B> Craft",
+      "<B>Country of Origin:</B> United States"
+    ],
+    "upc": "083783110104",
+    "dpci": "213-05-4887",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47534299",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804332D",
+    "page": "%2Fp%2FA-47534299"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13416360",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804662D",
+    "page": "%2Fp%2FA-13416360"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13392441",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804585D",
+    "page": "%2Fp%2FA-13392441",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "12",
+          "serving_size_unit_of_measurement": "fluid ounce",
+          "servings_per_container": "1",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "percentage": 4.8,
+              "quantity": 95.0,
+              "unit_of_measurement": "calories"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.87,
+              "quantity": 2.6,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.6,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 4.2",
+      "<B>Region:</B> Missouri",
+      "<B>Dietary Needs:</B> Light",
+      "<B>Package Quantity:</B> 12",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 144.0 Ounces",
+      "<B>Flavor profile:</B> Light",
+      "<B>Style:</B> Domestic",
+      "<B>Country of Origin:</B> United States"
+    ],
+    "upc": "018200069918",
+    "dpci": "213-03-0268",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13418113",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804669D",
+    "page": "%2Fp%2FA-13418113",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "nutrients": [
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 13.9,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 1.2,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 148.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ],
+      "warning": "Government Warning: (1) According to the Surgeon General, women should not drink alcoholic beverages during pregnancy because of the risk of birth defects. (2) Consumption of alcoholic beverages impairs your ability to drive a car or operate machinery, and may cause health problems."
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 4.55",
+      "<B>Region:</B> Mexico",
+      "<B>Features:</B> Vegan",
+      "<B>Package Quantity:</B> 12",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 144 fl oz (US)",
+      "<B>Flavor profile:</B> Crisp",
+      "<B>Style:</B> Import",
+      "<B>Country of Origin:</B> Mexico"
+    ],
+    "upc": "080660956152",
+    "dpci": "213-06-0009",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "46770795",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804636D",
+    "page": "%2Fp%2FA-46770795"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13417448",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804798D",
+    "page": "%2Fp%2FA-13417448"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13421831",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804235D",
+    "page": "%2Fp%2FA-13421831"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13471048",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804209D",
+    "page": "%2Fp%2FA-13471048"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13846656",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804356D",
+    "page": "%2Fp%2FA-13846656"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13391840",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804178D",
+    "page": "%2Fp%2FA-13391840"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13635705",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804800D",
+    "page": "%2Fp%2FA-13635705"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13392476",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804401D",
+    "page": "%2Fp%2FA-13392476",
+    "nutrition_facts": {
+      "ingredients": "ingredients, water, barley, rice, hops",
+      "nutrition_label_type_code": "LEGACY_FORMAT"
+    },
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 4.2",
+      "<B>Region:</B> Missouri",
+      "<B>Dietary Needs:</B> Light",
+      "<B>Package Quantity:</B> 12",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 144.0 Ounces",
+      "<B>Flavor profile:</B> Light",
+      "<B>Style:</B> Domestic",
+      "<B>Country of Origin:</B> United States"
+    ],
+    "upc": "018200530470",
+    "dpci": "213-03-0003",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "51784284",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804540D",
+    "page": "%2Fp%2FA-51784284"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13392481",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804976D",
+    "page": "%2Fp%2FA-13392481"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "52884837",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804538D",
+    "page": "%2Fp%2FA-52884837"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47136654",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804206D",
+    "page": "%2Fp%2FA-47136654"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "77588734",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804910D",
+    "page": "%2Fp%2FA-77588734"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54387719",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804175D",
+    "page": "%2Fp%2FA-54387719"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13471328",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804864D",
+    "page": "%2Fp%2FA-13471328"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13277678",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804494D",
+    "page": "%2Fp%2FA-13277678"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "15416193",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804848D",
+    "page": "%2Fp%2FA-15416193"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47980469",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804873D",
+    "page": "%2Fp%2FA-47980469"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47549597",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804730D",
+    "page": "%2Fp%2FA-47549597"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13421593",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804854D",
+    "page": "%2Fp%2FA-13421593"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47543129",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804669D",
+    "page": "%2Fp%2FA-47543129"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "50296374",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804595D",
+    "page": "%2Fp%2FA-50296374"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53035088",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804620D",
+    "page": "%2Fp%2FA-53035088"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53604202",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804223D",
+    "page": "%2Fp%2FA-53604202"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47913171",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804511D",
+    "page": "%2Fp%2FA-47913171"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81832587",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804881D",
+    "page": "%2Fp%2FA-81832587",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Alcohol Percentage:</B> 9",
+      "<B>Region:</B> California",
+      "<B>Package Quantity:</B> 6",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Net weight:</B> 72 fl oz (US)",
+      "<B>Flavor profile:</B> Malty, Hoppy",
+      "<B>Style:</B> Craft",
+      "<B>Country of Origin:</B> United States"
+    ],
+    "upc": "083783535785",
+    "dpci": "213-05-8980",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53805761",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804930D",
+    "page": "%2Fp%2FA-53805761",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> France",
+      "<B>Alcohol Percentage:</B> 11.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Rose",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Style:</B> Extra Dry"
+    ],
+    "upc": "084279002637",
+    "dpci": "213-00-1113",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13300816",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804851D",
+    "page": "%2Fp%2FA-13300816"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47218022",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804564D",
+    "page": "%2Fp%2FA-47218022"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53214818",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804904D",
+    "page": "%2Fp%2FA-53214818",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Region:</B> La Rioja, Spain",
+      "<B>Alcohol Percentage:</B> 11.5",
+      "<B>Package Quantity:</B> 1",
+      "<B>Alcohol content:</B> Alcoholic",
+      "<B>Wine varietals:</B> Cava",
+      "<B>Net weight:</B> 750 mL",
+      "<B>Style:</B> Brut"
+    ],
+    "upc": "852832105855",
+    "dpci": "213-00-2939",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79318275",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804971D",
+    "page": "%2Fp%2FA-79318275",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Dimensions (Overall):</B> 3.94 Inches (L), 3.94 Inches (W)",
+      "<B>Weight:</B> 1.6 Pounds",
+      "<B>Finish:</B> Semi-Gloss",
+      "<B>Material:</B> Plastic",
+      "<B>Battery:</B> No Battery Used",
+      "<B>Care & Cleaning:</B> Spot or Wipe Clean"
+    ],
+    "upc": "040094766109",
+    "dpci": "072-01-0017",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88821216",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804164D",
+    "page": "%2Fp%2FA-88821216",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Dimensions (Overall):</B> 5.12 Inches (L), 5 Inches (W)",
+      "<B>Weight:</B> .65 Pounds",
+      "<B>Finish:</B> Matte",
+      "<B>Material:</B> Zinc",
+      "<B>Battery:</B> No Battery Used",
+      "<B>Care & Cleaning:</B> Spot or Wipe Clean"
+    ],
+    "upc": "028295330046",
+    "dpci": "070-12-5763",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79607092",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804796D",
+    "page": "%2Fp%2FA-79607092"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "85318288",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804963D",
+    "page": "%2Fp%2FA-85318288"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53138064",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804422D",
+    "page": "%2Fp%2FA-53138064",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Dimensions (Overall):</B> 5.99 Inches (H) x 5 Inches (W) x 13 Inches (D)",
+      "<B>Weight:</B> .55 Pounds",
+      "<B>Placement:</B> Refrigerator",
+      "<B>Features:</B> BPA-Free",
+      "<B>Capacity (Volume):</B> 1  Quart",
+      "<B>Number of cavities:</B> 1",
+      "<B>Volume capacity per cavity:</B> 1  Quart",
+      "<B>Material:</B> Plastic",
+      "<B>Care & Cleaning:</B> Spot or Wipe Clean"
+    ],
+    "upc": "025947447701",
+    "dpci": "070-12-0033",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88503323",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804188D",
+    "page": "%2Fp%2FA-88503323",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Number of Pieces:</B> 5",
+      "<B>Dimensions (Overall):</B> 4.5 Inches (L), 4.5 Inches (W)",
+      "<B>Includes:</B> Coaster Holder",
+      "<B>Material:</B> Marble, Acacia",
+      "<B>Care & Cleaning:</B> Spot or Wipe Clean"
+    ],
+    "upc": "197543416389",
+    "dpci": "324-03-7940",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14588390",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804813D",
+    "page": "%2Fp%2FA-14588390",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Dimensions (Overall):</B> 8.4 Inches (H) x 7.3 Inches (W) x 8.2 Inches (D)",
+      "<B>Weight:</B> 3.04 Pounds",
+      "<B>Finish:</B> Polished",
+      "<B>Features:</B> Double-Wall Construction",
+      "<B>Capacity (Volume):</B> 3  Quart",
+      "<B>Includes:</B> Ice Scoop, Ice Bucket",
+      "<B>Material:</B> Stainless Steel",
+      "<B>Care & Cleaning:</B> Do Not Microwave, Spot or Wipe Clean"
+    ],
+    "upc": "492001100115",
+    "dpci": "200-11-0011",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "76167313",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804619D",
+    "page": "%2Fp%2FA-76167313",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Dimensions (Overall):</B> 3.7 Inches (L), .3 Inches (H) x 3 Inches (W)",
+      "<B>Weight:</B> .12 Pounds",
+      "<B>Features:</B> Bottle Opener",
+      "<B>Material:</B> Stainless Steel",
+      "<B>Power Source:</B> Manual",
+      "<B>Battery:</B> No Battery Used",
+      "<B>Care & Cleaning:</B> Spot or Wipe Clean"
+    ],
+    "upc": "191908011882",
+    "dpci": "200-11-4208",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "50973212",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804182D",
+    "page": "%2Fp%2FA-50973212"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89249731",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804856D",
+    "page": "%2Fp%2FA-89249731"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "76167311",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804866D",
+    "page": "%2Fp%2FA-76167311",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Dimensions (Overall):</B> 5.5 Inches (L), 1.5 Inches (W)",
+      "<B>Weight:</B> .16 Pounds",
+      "<B>Finish:</B> Shiny",
+      "<B>Features:</B> Bottle Opener",
+      "<B>Material:</B> Stainless Steel",
+      "<B>Battery:</B> No Battery Used",
+      "<B>Care & Cleaning:</B> Spot or Wipe Clean"
+    ],
+    "upc": "191908011899",
+    "dpci": "200-11-3062",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "50946607",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804950D",
+    "page": "%2Fp%2FA-50946607",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Number of Pieces:</B> 1",
+      "<B>Dimensions (Overall):</B> 3 Inches (H) x 1.25 Inches (W) x 1.25 Inches (D)",
+      "<B>Weight:</B> .12 Pounds",
+      "<B>Finish:</B> Lacquered",
+      "<B>Features:</B> Rubber Seal",
+      "<B>Material:</B> Silicone, Aluminum, Wood",
+      "<B>Care & Cleaning:</B> Spot or Wipe Clean"
+    ],
+    "upc": "492001114365",
+    "dpci": "200-11-1436",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "50946600",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804113D",
+    "page": "%2Fp%2FA-50946600"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89249702",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804532D",
+    "page": "%2Fp%2FA-89249702"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "76167314",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804233D",
+    "page": "%2Fp%2FA-76167314",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Dimensions (Overall):</B> .7 Inches (H) x 3.2 Inches (W) x 7.4 Inches (D)",
+      "<B>Weight:</B> .29 Pounds",
+      "<B>Finish:</B> Shiny",
+      "<B>Material:</B> Stainless Steel",
+      "<B>Care & Cleaning:</B> Do Not Microwave, Spot or Wipe Clean"
+    ],
+    "upc": "191908011905",
+    "dpci": "200-11-7023",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82439027",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804953D",
+    "page": "%2Fp%2FA-82439027"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88497615",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804876D",
+    "page": "%2Fp%2FA-88497615",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Number of Pieces:</B> 4",
+      "<B>Finish:</B> Smooth",
+      "<B>Product Name:</B> True 4-Piece Barware Set, Cobbler Shaker with Cap and Strainer, Double Jigger, Muddler, Bar Spoon, Corkscrew, Cocktail Kit, Stainless Steel, Silver",
+      "<B>Material:</B> Stainless Steel",
+      "<B>Battery:</B> No Battery Used",
+      "<B>Care & Cleaning:</B> Hand Wash",
+      "<B>Warranty:</B> No Applicable Warranty. To obtain a copy of the manufacturer's or supplier's warranty for this item prior to purchasing the item, please call Target Guest Services at 1-800-591-3869"
+    ],
+    "upc": "842094108640",
+    "dpci": null,
+    "origin": "imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "16863671",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804693D",
+    "page": "%2Fp%2FA-16863671",
+    "nutrition_facts": {
+      "ingredients": "Citric Acid ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "warning": "READ CAREFULLY OTHER CAUTIONS ON SIDE PANEL., Do not mix with other chemicals. KEEP OUT OF REACH OF CHILDREN. FIRST AID TREATMENT: Contains citric acid. If swallowed, call a Poison Control Center or doctor. Do not induce vomiting. IF IN EYES: Rinse with water for 15 minutes. If eye irritation persists: Get medical advice/attention., WARNING KEEP OUT OF REACH OF CHILDREN AND PETS., Do not swallow. MAY IRRITATE EYES. Do not get in eyes., CAUTION IRRITANT:"
+    },
+    "bullet_descriptions": [
+      "<B>Scent:</B> Vinegar",
+      "<B>Product Warning:</B> Keep out of reach of children, keep out of eyes, skin irritant, keep out of reach of animals",
+      "<B>Product Form:</B> Liquid",
+      "<B>Recommended Surface Application:</B> Food Preparation Surfaces",
+      "<B>Product Results:</B> Cleaner, Prevents Lime Scale",
+      "<B>Recommended Product Application:</B> Coffee Equipment",
+      "<B>Net weight:</B> 14 fl oz (US)"
+    ],
+    "upc": "649645405797",
+    "dpci": "072-08-0663",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "83801098",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804857D",
+    "page": "%2Fp%2FA-83801098"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88749310",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804154D",
+    "page": "%2Fp%2FA-88749310"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "85378856",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804561D",
+    "page": "%2Fp%2FA-85378856"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87389896",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804937D",
+    "page": "%2Fp%2FA-87389896"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90489026",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804559D",
+    "page": "%2Fp%2FA-90489026"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "86140965",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804147D",
+    "page": "%2Fp%2FA-86140965",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Number of Pieces:</B> 4",
+      "<B>Dimensions (Overall):</B> 5 inches (L), 4.75 inches (H) x 14.75 inches (W)",
+      "<B>Weight:</B> 2.5 pounds",
+      "<B>Finish:</B> Smooth",
+      "<B>Product Name:</B> True Cherry 1-Bottle Wine Accessories Gift Set | Premium Corkscrew Opener Kit, Drip Ring, Wine Pourer, Stopper in Wood Case with Padded Insert, Brown",
+      "<B>Material:</B> Wood",
+      "<B>Power Source:</B> Manual",
+      "<B>Battery:</B> No Battery Used",
+      "<B>Care & Cleaning:</B> Hand Wash"
+    ],
+    "upc": "876718003851",
+    "dpci": null,
+    "origin": "imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87389893",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804323D",
+    "page": "%2Fp%2FA-87389893"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "85967228",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804894D",
+    "page": "%2Fp%2FA-85967228",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Dimensions (Overall):</B> 7.75 inches (H) x 6 inches (W) x 6 inches (D)",
+      "<B>Weight:</B> 1 pounds",
+      "<B>Capacity (Volume):</B> 267 ounces",
+      "<B>Product Name:</B> Viski Wine Chiller, Double Walled Insulated Wine Bottle Holder, Stainless Steel Wine Accessory, Silver",
+      "<B>Material:</B> Stainless Steel",
+      "<B>Care & Cleaning:</B> Hand Wash"
+    ],
+    "upc": "876718043611",
+    "dpci": null,
+    "origin": "imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84693972",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804410D",
+    "page": "%2Fp%2FA-84693972"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79652865",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804346D",
+    "page": "%2Fp%2FA-79652865"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88080017",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804713D",
+    "page": "%2Fp%2FA-88080017",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Number of Pieces:</B> 1",
+      "<B>Dimensions (Overall):</B> .62 inches (L), 6 inches (H) x 2.0 inches (W)",
+      "<B>Weight:</B> .27 pounds",
+      "<B>Finish:</B> Smooth",
+      "<B>Product Name:</B> HOST Double Hinged Corkscrew, Black Bottle Opener and Foil Cutter, Wine Key, Bar Accessories",
+      "<B>Material:</B> Metal",
+      "<B>Power Source:</B> Manual",
+      "<B>Battery:</B> No Battery Used",
+      "<B>Care & Cleaning:</B> Hand Wash"
+    ],
+    "upc": "876718033063",
+    "dpci": null,
+    "origin": "imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89962865",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804649D",
+    "page": "%2Fp%2FA-89962865"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13567840",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804198D",
+    "page": "%2Fp%2FA-13567840",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Dimensions (Overall):</B> 1.5 Inches (L), 6.7 Inches (H) x 2.4 Inches (W)",
+      "<B>Weight:</B> .28 Pounds",
+      "<B>Features:</B> Cordless",
+      "<B>Material:</B> Metal, Zinc, Plastic",
+      "<B>Power Source:</B> Manual",
+      "<B>Battery:</B> No Battery Used",
+      "<B>Care & Cleaning:</B> Hand Wash"
+    ],
+    "upc": "719812817514",
+    "dpci": "070-05-1633",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90441365",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804744D",
+    "page": "%2Fp%2FA-90441365"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53294653",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804307D",
+    "page": "%2Fp%2FA-53294653"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "91086995",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804725D",
+    "page": "%2Fp%2FA-91086995",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Number of Pieces:</B> 1",
+      "<B>Includes:</B> Corkscrew",
+      "<B>Material:</B> Stainless Steel",
+      "<B>Battery:</B> No Battery Used",
+      "<B>Care & Cleaning:</B> Spot or Wipe Clean",
+      "<B>Warranty:</B> 30 Day Limited Warranty. To obtain a copy of the manufacturer's or supplier's warranty for this item prior to purchasing the item, please call Target Guest Services at 1-800-591-3869"
+    ],
+    "upc": "730440427685",
+    "dpci": null,
+    "origin": "imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90441364",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804561D",
+    "page": "%2Fp%2FA-90441364",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Number of Pieces:</B> 1",
+      "<B>Dimensions (Overall):</B> 1.75 inches (H) x 4.5 inches (W) x 1.5 inches (D)",
+      "<B>Weight:</B> .02 pounds",
+      "<B>Finish:</B> Smooth",
+      "<B>Theme:</B> Holidays",
+      "<B>Product Name:</B> HOST AirLOCK Wine Preserver Extra Stoppers, Wine Pump Corks for Wine Bottle Sealer, Wine Air Remover Accessories Black Set of 2",
+      "<B>Material:</B> Plastic",
+      "<B>Care & Cleaning:</B> Dishwasher-Safe"
+    ],
+    "upc": "876718042683",
+    "dpci": null,
+    "origin": "imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "86052836",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804640D",
+    "page": "%2Fp%2FA-86052836"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82382011",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804335D",
+    "page": "%2Fp%2FA-82382011"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88080019",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804473D",
+    "page": "%2Fp%2FA-88080019",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Number of Pieces:</B> 1",
+      "<B>Dimensions (Overall):</B> 4.75 inches (L), .75 inches (H) x 1.0 inches (W)",
+      "<B>Weight:</B> .15 pounds",
+      "<B>Finish:</B> Smooth",
+      "<B>Product Name:</B> True Truetap Waiter's Corkscrew Bartender Turn Key Bar Accessory, Rose Copper Finish",
+      "<B>Material:</B> Metal",
+      "<B>Power Source:</B> Manual",
+      "<B>Battery:</B> No Battery Used",
+      "<B>Care & Cleaning:</B> Hand Wash"
+    ],
+    "upc": "876718039430",
+    "dpci": null,
+    "origin": "imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84693978",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804922D",
+    "page": "%2Fp%2FA-84693978"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89142223",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804248D",
+    "page": "%2Fp%2FA-89142223"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "83997917",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804916D",
+    "page": "%2Fp%2FA-83997917",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Number of Pieces:</B> 2",
+      "<B>Dimensions (Overall):</B> 1.5 Inches (H) x 12.75 Inches (W) x 4.88 Inches (D)",
+      "<B>Weight:</B> .24 Pounds",
+      "<B>Features:</B> BPA-Free",
+      "<B>Capacity (Volume):</B> 780 mL",
+      "<B>Number of cavities:</B> 16",
+      "<B>Volume capacity per cavity:</B> 48.7 Milliliters",
+      "<B>Material:</B> Plastic",
+      "<B>Care & Cleaning:</B> Dishwasher-Safe"
+    ],
+    "upc": "191908795553",
+    "dpci": "070-05-8347",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "86110250",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804126D",
+    "page": "%2Fp%2FA-86110250"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89134251",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804153D",
+    "page": "%2Fp%2FA-89134251"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90307021",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804805D",
+    "page": "%2Fp%2FA-90307021"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87389891",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804272D",
+    "page": "%2Fp%2FA-87389891"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82527833",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804660D",
+    "page": "%2Fp%2FA-82527833",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Number of Pieces:</B> 6",
+      "<B>Dimensions (Overall):</B> 4 inches (L), 4 inches (W)",
+      "<B>Material:</B> PVC (Polyvinyl Chloride)",
+      "<B>Care & Cleaning:</B> Spot or Wipe Clean"
+    ],
+    "upc": "194373080278",
+    "dpci": null,
+    "origin": "made in the USA"
+  }
+]

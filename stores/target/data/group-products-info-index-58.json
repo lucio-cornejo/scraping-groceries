@@ -1,0 +1,4938 @@
+[
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "52050529",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804386D",
+    "page": "%2Fp%2FA-52050529",
+    "nutrition_facts": {
+      "ingredients": "BEEF, CHEDDAR CHEESE (MILK, CHEESE CULTURE, SALT, ENZYMES), WATER, SODIIUM PHOSPHATE, CREAM, SALT, SORBIC ACID, APO-CAROTENAL, BACON (CURED WITH: WATER, SALT, SUGAR, SODIUM NTIRITE, SMOKE FLAVOR, DEXTROSE, SODIUM PHOSPHATE, SODIUM ERYTHORBATE, SODIUM ASCORBATE, FLAVORING), WATER, SALT,ONION POWDER, HYDROLYZED SOY PROTEIN, NATURAL FLAVOR. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "151",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "6",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 410.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 41.0,
+              "quantity": 32.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 65.0,
+              "quantity": 13.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 1.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 38.0,
+              "quantity": 115.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 36.0,
+              "quantity": 830.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 27.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 10.0,
+              "quantity": 139.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 10.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 8.0,
+              "quantity": 383.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS MILK, SOY."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk",
+      "<B>May Contain:</B> Wheat",
+      "<B>State of Readiness:</B> Needs to Be Fully Cooked",
+      "<B>Form:</B> Patties",
+      "<B>Package Quantity:</B> 6",
+      "<B>Bone cut type:</B> Boneless",
+      "<B>Seasoning or marinade:</B> Seasoning Blend",
+      "<B>Beef lean percent:</B> 80/20",
+      "<B>Net weight:</B> 24 Ounces",
+      "<B>Country of Origin:</B> United States"
+    ],
+    "upc": "742158147175",
+    "dpci": "210-02-0113",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "52830407",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804429D",
+    "page": "%2Fp%2FA-52830407",
+    "nutrition_facts": {
+      "ingredients": "BEEF, WATER, ONIONS, TEXTURED SOY PROTEIN (SOY PROTEIN CONCENTRATE, CARAMEL COLOR), SALT, SOY PROTEIN ISOLATE, SPICE, CARAMEL COLOR, FLAVORING. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount Per Serving",
+          "serving_size": "85",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "about 7",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 210.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Calories From Fat",
+              "quantity": 130.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 22.0,
+              "quantity": 14.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 29.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 9.0,
+              "quantity": 30.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 25.0,
+              "quantity": 600.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 6.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 17.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin A",
+              "percentage": 0.0
+            },
+            {
+              "name": "Vitamin C",
+              "percentage": 0.0
+            },
+            {
+              "name": "Calcium",
+              "percentage": 4.0
+            },
+            {
+              "name": "Iron",
+              "percentage": 10.0
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS SOY."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy",
+      "<B>Cut of Meat:</B> Loin",
+      "<B>State of Readiness:</B> Prepared, Heat and Serve",
+      "<B>Package Quantity:</B> 1",
+      "<B>Pre-package preparation:</B> Fully Cooked",
+      "<B>Bone cut type:</B> Boneless",
+      "<B>Seasoning or marinade:</B> Seasoning Blend",
+      "<B>Net weight:</B> 20 Ounces",
+      "<B>Country of Origin:</B> United States"
+    ],
+    "upc": "742158787937",
+    "dpci": "210-02-0028",
+    "origin": "Assem USA w/foreign/dom. parts"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47144427",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804365D",
+    "page": "%2Fp%2FA-47144427"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47134908",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804845D",
+    "page": "%2Fp%2FA-47134908"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90027549",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804215D",
+    "page": "%2Fp%2FA-90027549"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90027550",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804852D",
+    "page": "%2Fp%2FA-90027550"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89731927",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804913D",
+    "page": "%2Fp%2FA-89731927"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90233102",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804942D",
+    "page": "%2Fp%2FA-90233102"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89731928",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804597D",
+    "page": "%2Fp%2FA-89731928",
+    "nutrition_facts": {
+      "ingredients": "ORGANIC POPCORN, ORGANIC HIGH OLEIC SUNFLOWER OIL, ORGANIC DILL PICKLE SEASONING (ORGANIC MALTODEXTRIN, ORGANIC TAPIOCA SYRUP SOLIDS, SEA SALT, ORGANIC WHITE DISTILLED VINEGAR, ORGANIC RAW CANE SUGAR, ORGANIC SPICES, ORGANIC YEAST EXTRACT, ORGANIC NATURAL FLAVOR, CITRIC ACID, ORGANIC GARLIC POWDER, ORGANIC ONION POWDER, ORGANIC DILL WEED). ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "3",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "about 5",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 120.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 8.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 10.0,
+              "quantity": 230.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 6.0,
+              "quantity": 16.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 14.0,
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 2.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 0.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 6.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 70.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "PROCESSED IN A FACILITY THAT ALSO HANDLES EGG, MILK AND TREE NUT INGREDIENTS, PROCESSED IN A FACILITY THAT ALSO HANDLES EGG, MILK AND TREE NUT INGREDIENTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Popped",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 5 Ounces"
+    ],
+    "upc": "085239926529",
+    "dpci": "071-06-0640",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90027212",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804347D",
+    "page": "%2Fp%2FA-90027212"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90233103",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804645D",
+    "page": "%2Fp%2FA-90233103"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90263674",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804474D",
+    "page": "%2Fp%2FA-90263674"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90027214",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804756D",
+    "page": "%2Fp%2FA-90027214"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90263675",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804709D",
+    "page": "%2Fp%2FA-90263675",
+    "nutrition_facts": {
+      "ingredients": "FILLING: SPRING PEAS, CASHEW BECHAMEL (WATER, CASHEWS, OLIVE OIL, WHEAT FLOUR, CORN STARCH, SEA SALT), ONIONS, GARLIC, EXTRA VIRGIN OLIVE OIL, BASIL, BREAD CRUMBS (WHEAT FLOUR, SUGAR, YEAST, SALT), PLANT & VEGETABLE FIBER (CELLULOSE [FIBER], PSYLLIUM [HUSK]), SALT, NUTRITIONAL YEAST (DRIED YEAST, NIACIN, PYRIDOXINE HYDROCHLORIDE [VITAMIN B6], THIAMIN HYDROCHLORIDE [VITAMIN B1], RIBOFLAVIN [VITAMIN B2], FOLIC ACID [VITAMIN B9], CYANOCOBALAMIN [VITAMIN B12]), LEMON ZEST, BLACK PEPPER. PASTA: WHEAT FLOUR, WATER, BETA-CAROTENE (COLOR). ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per serving",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "about 2.5",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 200.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 6.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 5.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 18.0,
+              "quantity": 420.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 12.0,
+              "quantity": 32.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 14.0,
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 7.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 16.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 6.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 114.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        },
+        {
+          "description": "Per container",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 520.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 17.0,
+              "quantity": 13.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 10.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 46.0,
+              "quantity": 1060.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 30.0,
+              "quantity": 82.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 39.0,
+              "quantity": 11.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 18.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 4.0,
+              "quantity": 42.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 15.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 6.0,
+              "quantity": 291.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS CASHEW AND WHEAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Cashews, Wheat",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 9 Ounces"
+    ],
+    "upc": "085239563953",
+    "dpci": "216-34-0639",
+    "origin": "Assem USA w/foreign/dom. parts"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90111780",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804643D",
+    "page": "%2Fp%2FA-90111780"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90289514",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804651D",
+    "page": "%2Fp%2FA-90289514"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90289513",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804193D",
+    "page": "%2Fp%2FA-90289513",
+    "nutrition_facts": {
+      "ingredients": "WATER, PEA PROTEIN, SUNFLOWER OIL, MANGO, COCONUT OIL, CONTAINS 2% OR LESS OF CANE SUGAR, VEGETABLE AND FRUIT JUICE FOR COLOR, SALT, SPICES (INCLUDING BASIL), METHYLCELLULOSE, RICE BRAN EXTRACT, NATURAL FLAVORS, YEAST EXTRACT, SUGAR, GARLIC POWDER, ONION POWDER, CHILI PEPPER, LEMON JUICE SOLIDS, CASING (SODIUM ALGINATE, KONJAC GUM, GUAR GUM). ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "85",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "5",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 170.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 14.0,
+              "quantity": 11.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 23.0,
+              "quantity": 4.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 23.0,
+              "quantity": 520.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 4.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 3.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "percentage": 21.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 6.0,
+              "quantity": 90.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 10.0,
+              "quantity": 2.2,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 90.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "KEEP HOT FOODS HOT. REFRIGERATE LEFTOVERS OR DISCARD., SAFE HANDLING INSTRUCTIONS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Needs to Be Fully Cooked",
+      "<B>Form:</B> Links",
+      "<B>Features:</B> Vegan",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 15 Ounces"
+    ],
+    "upc": "085239618158",
+    "dpci": "268-03-0025",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89479959",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804499D",
+    "page": "%2Fp%2FA-89479959"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89479960",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804681D",
+    "page": "%2Fp%2FA-89479960"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90005458",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804600D",
+    "page": "%2Fp%2FA-90005458"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90005455",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804936D",
+    "page": "%2Fp%2FA-90005455"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87539362",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804722D",
+    "page": "%2Fp%2FA-87539362",
+    "nutrition_facts": {
+      "ingredients": "ENRICHED DURUM WHEAT FLOUR (DURUM FLOUR, NIACIN, FERROUS SULFATE, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), RICOTTA CHEESE (WHEY, VINEGAR, SALT), WATER, EGGS, PECORINO ROMANO CHEESE (PECORINO ROMANO CHEESE [PASTEURIZED SHEEP'S MILK, CULTURES, SALT, RENNET], CORN STARCH AND POWDERED CELLULOSE TO PREVENT CAKING), WHEY PROTEIN CONCENTRATE, SALT. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per serving",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "about 2.5",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 250.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 6.0,
+              "quantity": 4.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 13.0,
+              "quantity": 2.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 8.0,
+              "quantity": 25.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 7.0,
+              "quantity": 150.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 14.0,
+              "quantity": 39.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 7.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 12.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 10.0,
+              "quantity": 145.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 10.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 4.0,
+              "quantity": 165.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        },
+        {
+          "description": "Per container",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 560.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 13.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 30.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 18.0,
+              "quantity": 55.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 14.0,
+              "quantity": 330.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 32.0,
+              "quantity": 87.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 14.0,
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 27.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 25.0,
+              "quantity": 326.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 30.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 8.0,
+              "quantity": 372.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS EGG, MILK AND WHEAT PROCESSED IN A FACILITY THAT ALSO HANDLES SHELLFISH, SOY AND TREE NUT INGREDIENTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Eggs, Milk, Wheat",
+      "<B>State of Readiness:</B> Needs to Be Fully Cooked",
+      "<B>Dietary Needs:</B> SQF Certified",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 9 Ounces"
+    ],
+    "upc": "085239997697",
+    "dpci": "270-02-0006",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87539332",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804314D",
+    "page": "%2Fp%2FA-87539332",
+    "nutrition_facts": {
+      "ingredients": "ENRICHED DURUM WHEAT FLOUR (DURUM FLOUR, NIACIN, FERROUS SULFATE, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), RICOTTA CHEESE (WHEY, VINEGAR, SALT), WATER, BROCCOLI, CHEESE POWDER (WHEY, CHEDDAR CHEESE [MILK, CHEESE CULTURE, SALT, ENZYMES], WHEY PROTEIN CONCENTRATE, LACTOSE, MALTODEXTRIN, SALT, SODIUM PHOSPHATE, CONTAINS LESS THAN 2% OF BUTTER [CREAM, SALT], NATURAL FLAVOR [CONTAINS CELERY], CITRIC ACID, LACTIC ACID, ENZYMES), EGGS, PECORINO ROMANO CHEESE (PECORINO ROMANO CHEESE [PASTEURIZED SHEEP'S MILK, CULTURES, SALT, RENNET], CORN STARCH AND POWDERED CELLULOSE TO PREVENT CAKING), WHEY PROTEIN CONCENTRATE, SALT. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per serving",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "about 2.5",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 250.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 5.0,
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 10.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 8.0,
+              "quantity": 25.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 16.0,
+              "quantity": 370.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 15.0,
+              "quantity": 42.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 7.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 12.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 10.0,
+              "quantity": 135.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 10.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 4.0,
+              "quantity": 224.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        },
+        {
+          "description": "Per container",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 570.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 12.0,
+              "quantity": 9.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 25.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 18.0,
+              "quantity": 55.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 37.0,
+              "quantity": 840.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 34.0,
+              "quantity": 93.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 18.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 7.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 26.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 25.0,
+              "quantity": 303.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 30.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 10.0,
+              "quantity": 504.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS EGG, MILK AND WHEAT PROCESSED IN A FACILITY THAT ALSO HANDLES SHELLFISH, SOY AND TREE NUT INGREDIENTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Eggs, Milk, Wheat",
+      "<B>State of Readiness:</B> Needs to Be Fully Cooked",
+      "<B>Dietary Needs:</B> SQF Certified",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 9 Ounces"
+    ],
+    "upc": "085239997680",
+    "dpci": "270-02-0013",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "15013944",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804476D",
+    "page": "%2Fp%2FA-15013944"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54444789",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804591D",
+    "page": "%2Fp%2FA-54444789"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "85759852",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804603D",
+    "page": "%2Fp%2FA-85759852"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13276134",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804873D",
+    "page": "%2Fp%2FA-13276134",
+    "nutrition_facts": {
+      "ingredients": "MILK, VITAMIN D3. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount/serving",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "16",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 160.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 12.0,
+              "quantity": 9.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 25.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 12.0,
+              "quantity": 35.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 6.0,
+              "quantity": 130.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 5.0,
+              "quantity": 13.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 12.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 8.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 10.0
+            },
+            {
+              "name": "Calcium",
+              "percentage": 25.0
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0
+            },
+            {
+              "name": "Potassium",
+              "percentage": 8.0
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS MILK, CONTAINS MILK"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk",
+      "<B>State of Readiness:</B> Ready to Drink",
+      "<B>Form:</B> Liquid",
+      "<B>Dietary Needs:</B> High Protein",
+      "<B>Package Quantity:</B> 1",
+      "<B>Milk fat level:</B> Whole",
+      "<B>Net weight:</B> 1 Gallon",
+      "<B>Beverage container material:</B> Plastic"
+    ],
+    "upc": "085239284056",
+    "dpci": "284-02-0005",
+    "origin": "Made in the USA and Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54407104",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804289D",
+    "page": "%2Fp%2FA-54407104"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54444818",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804989D",
+    "page": "%2Fp%2FA-54444818"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13276204",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804122D",
+    "page": "%2Fp%2FA-13276204"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87689905",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804701D",
+    "page": "%2Fp%2FA-87689905"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14713534",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804657D",
+    "page": "%2Fp%2FA-14713534",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving:",
+          "serving_size": "50",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "12",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 70.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 6.0,
+              "quantity": 4.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 8.0,
+              "quantity": 1.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 62.0,
+              "quantity": 185.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 3.0,
+              "quantity": 70.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "percentage": 12.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 6.0
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0
+            },
+            {
+              "name": "Iron",
+              "percentage": 4.0
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS EGG"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Eggs",
+      "<B>State of Readiness:</B> Ingredient, Needs to Be Fully Cooked",
+      "<B>Form:</B> Whole",
+      "<B>Dietary Needs:</B> USDA Grade A",
+      "<B>Package Quantity:</B> 12",
+      "<B>Pre-package preparation:</B> Raw",
+      "<B>Egg size:</B> Large",
+      "<B>Net weight:</B> 24 Ounces",
+      "<B>Country of Origin:</B> United States"
+    ],
+    "upc": "085239311578",
+    "dpci": "284-03-1157",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14713533",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804852D",
+    "page": "%2Fp%2FA-14713533"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14662561",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804462D",
+    "page": "%2Fp%2FA-14662561",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount/serving",
+          "serving_size": "50",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "12",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 70.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 6.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 8.0,
+              "quantity": 1.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 62.0,
+              "quantity": 185.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 3.0,
+              "quantity": 70.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "percentage": 12.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 6.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 30.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 4.0,
+              "quantity": 0.9,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0,
+              "quantity": 70.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS EGG, SAFE HANDLING INSTRUCTIONS: To prevent illness from bacteria: keep eggs refrigerated, cook eggs until yolks are firm, and cook foods containing eggs thoroughly., CONTAINS EGG"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Eggs",
+      "<B>State of Readiness:</B> Ingredient, Needs to Be Fully Cooked",
+      "<B>Form:</B> Whole",
+      "<B>Features:</B> Cage Free",
+      "<B>Dietary Needs:</B> Certified Humane",
+      "<B>Package Quantity:</B> 12",
+      "<B>Pre-package preparation:</B> Raw",
+      "<B>Egg size:</B> Large",
+      "<B>Net weight:</B> 24 Ounces",
+      "<B>Country of Origin:</B> United States"
+    ],
+    "upc": "085239310328",
+    "dpci": "284-03-1032",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54337113",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804626D",
+    "page": "%2Fp%2FA-54337113"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81957708",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804482D",
+    "page": "%2Fp%2FA-81957708",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Whole",
+      "<B>Package Quantity:</B> 4",
+      "<B>Net weight:</B> 24 Ounces",
+      "<B>Country of Origin:</B> Varies, Please See Label"
+    ],
+    "upc": "085239154847",
+    "dpci": "224-12-0002",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78832377",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804837D",
+    "page": "%2Fp%2FA-78832377"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54550905",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804469D",
+    "page": "%2Fp%2FA-54550905"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54445965",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804407D",
+    "page": "%2Fp%2FA-54445965"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54407091",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804391D",
+    "page": "%2Fp%2FA-54407091"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78471310",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804541D",
+    "page": "%2Fp%2FA-78471310",
+    "nutrition_facts": {
+      "ingredients": "SUGAR. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "2",
+          "serving_size_unit_of_measurement": "tsp",
+          "servings_per_container": "ABOUT 227",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 30.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 3.0,
+              "quantity": 8.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "percentage": 16.0,
+              "quantity": 8.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Granulated",
+      "<B>Package Quantity:</B> 1",
+      "<B>Sweetener source:</B> Sugar Beet",
+      "<B>Net weight:</B> 4 Pounds"
+    ],
+    "upc": "085239084533",
+    "dpci": "261-06-0333",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78832378",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804373D",
+    "page": "%2Fp%2FA-78832378"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54553288",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804363D",
+    "page": "%2Fp%2FA-54553288"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13276131",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804732D",
+    "page": "%2Fp%2FA-13276131"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13276128",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804944D",
+    "page": "%2Fp%2FA-13276128",
+    "nutrition_facts": {
+      "ingredients": "REDUCED FAT MILK, VITAMIN A PALMITATE, VITAMIN D3. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount/serving",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "8",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 130.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 6.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 15.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 7.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 6.0,
+              "quantity": 130.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 4.0,
+              "quantity": 12.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 12.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 8.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 15.0
+            },
+            {
+              "name": "Calcium",
+              "percentage": 25.0
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0
+            },
+            {
+              "name": "Potassium",
+              "percentage": 8.0
+            },
+            {
+              "name": "Vitamin A",
+              "percentage": 15.0
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS MILK"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk",
+      "<B>State of Readiness:</B> Ready to Drink",
+      "<B>Form:</B> Liquid",
+      "<B>Package Quantity:</B> 1",
+      "<B>Milk fat level:</B> 2 Percent",
+      "<B>Net weight:</B> .5  Gallon",
+      "<B>Beverage container material:</B> Plastic"
+    ],
+    "upc": "085239284025",
+    "dpci": "284-02-0002",
+    "origin": "Made in the USA and Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14662560",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804456D",
+    "page": "%2Fp%2FA-14662560",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount/serving",
+          "serving_size": "50",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "12",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 70.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 6.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 8.0,
+              "quantity": 1.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 62.0,
+              "quantity": 185.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 3.0,
+              "quantity": 70.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "percentage": 12.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 6.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 30.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 4.0,
+              "quantity": 0.9,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0,
+              "quantity": 70.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS EGG, CA SHELL EGG FOOD SAFETY COMPLIANT, CONTAINS EGG"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Eggs",
+      "<B>State of Readiness:</B> Needs to Be Fully Cooked, Ingredient",
+      "<B>Form:</B> Whole",
+      "<B>Features:</B> Cage Free",
+      "<B>Dietary Needs:</B> Organic Certified, USDA Grade A",
+      "<B>Package Quantity:</B> 12",
+      "<B>Pre-package preparation:</B> Raw",
+      "<B>Egg size:</B> Large",
+      "<B>Net weight:</B> 24 Ounces",
+      "<B>Country of Origin:</B> United States"
+    ],
+    "upc": "085239311134",
+    "dpci": "284-03-1130",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54560287",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804685D",
+    "page": "%2Fp%2FA-54560287"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54556735",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804532D",
+    "page": "%2Fp%2FA-54556735"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82667380",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804407D",
+    "page": "%2Fp%2FA-82667380",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Whole",
+      "<B>Package Quantity:</B> 5",
+      "<B>Pre-package preparation:</B> Raw",
+      "<B>Net weight:</B> 1 Pounds",
+      "<B>Country of Origin:</B> United States, Canada, Mexico"
+    ],
+    "upc": "085239325162",
+    "dpci": "211-12-0063",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "83719457",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804553D",
+    "page": "%2Fp%2FA-83719457"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54557969",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804509D",
+    "page": "%2Fp%2FA-54557969",
+    "nutrition_facts": {
+      "ingredients": "ICEBERG LETTUCE. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per serving",
+          "serving_size": "1.5",
+          "serving_size_unit_of_measurement": "cups",
+          "servings_per_container": "About 2.5",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 15.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 4.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 2.0,
+              "quantity": 0.3,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 120.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        },
+        {
+          "description": "Per container",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 40.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 1.0,
+              "quantity": 25.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 3.0,
+              "quantity": 7.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 11.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 4.0,
+              "quantity": 40.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 6.0,
+              "quantity": 0.9,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 6.0,
+              "quantity": 320.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Whole",
+      "<B>Package Quantity:</B> 1",
+      "<B>Pre-package preparation:</B> Raw",
+      "<B>Net weight:</B> 8 Ounces",
+      "<B>Country of Origin:</B> United States, Mexico"
+    ],
+    "upc": "085239049273",
+    "dpci": "211-03-0319",
+    "origin": "Assem USA w/foreign/dom. parts"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82667184",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804993D",
+    "page": "%2Fp%2FA-82667184",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Whole",
+      "<B>Package Quantity:</B> 1",
+      "<B>Pre-package preparation:</B> Raw",
+      "<B>Net weight:</B> 10 Ounces",
+      "<B>Country of Origin:</B> United States, Canada, Mexico"
+    ],
+    "upc": "085239325094",
+    "dpci": "211-12-0056",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54340560",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804251D",
+    "page": "%2Fp%2FA-54340560"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54337119",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804479D",
+    "page": "%2Fp%2FA-54337119",
+    "nutrition_facts": {
+      "ingredients": "LOW-MOISTURE PART-SKIM MOZZARELLA CHEESE (CULTURED PASTEURIZED PART-SKIM MILK, SALT, ENZYMES [MICROBIAL]). ANTI- CAKING BLEND (POTATO STARCH, TAPIOCA STARCH, NATAMYCIN [A NATURAL MOLD INHIBITOR]). ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "1/4",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "8",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 80.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 8.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 15.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 5.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 8.0,
+              "quantity": 180.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.1,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 15.0,
+              "quantity": 190.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0,
+              "quantity": 0.1,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 50.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS MILK"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Shredded",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 8 Ounces",
+      "<B>Country of Origin:</B> United States"
+    ],
+    "upc": "085239038499",
+    "dpci": "284-11-1310",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "12925351",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804418D",
+    "page": "%2Fp%2FA-12925351"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54337106",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804604D",
+    "page": "%2Fp%2FA-54337106",
+    "nutrition_facts": {
+      "ingredients": "PARMESAN CHEESE (CULTURED PASTEURIZED PART-SKIM MILK, SALT, ENZYMES [MICROBIAL]), ANTI-CAKING BLEND (POTATO STARCH, TAPIOCA STARCH, NATAMYCIN [A NATURAL MOLD INHIBITOR]). ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Nutrition Facts",
+          "serving_size": "1/4",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "6",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 110.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 9.0,
+              "quantity": 7.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 23.0,
+              "quantity": 4.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 7.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 16.0,
+              "quantity": 370.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 10.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.1,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 25.0,
+              "quantity": 320.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 2.0,
+              "quantity": 0.2,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0,
+              "quantity": 30.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS MILK"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Shredded",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 6 Ounces",
+      "<B>Country of Origin:</B> United States"
+    ],
+    "upc": "085239038680",
+    "dpci": "284-11-1329",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54446566",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804341D",
+    "page": "%2Fp%2FA-54446566",
+    "nutrition_facts": {
+      "ingredients": "CREAM, NATURAL FLAVOR. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount/serving",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "Tbsp",
+          "servings_per_container": "32",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 100.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 14.0,
+              "quantity": 11.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 35.0,
+              "quantity": 7.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 10.0,
+              "quantity": 30.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS MILK"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Stick",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Package Quantity:</B> 4",
+      "<B>Pre-package preparation:</B> Unsalted",
+      "<B>Milk fat level:</B> Whole",
+      "<B>Net weight:</B> 16 Ounces"
+    ],
+    "upc": "085239334324",
+    "dpci": "284-12-0062",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54550900",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804705D",
+    "page": "%2Fp%2FA-54550900",
+    "nutrition_facts": {
+      "ingredients": "MILK, CREAM, DIPOTASSIUM PHOSPHATE. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "2",
+          "serving_size_unit_of_measurement": "Tbsp",
+          "servings_per_container": "32",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 35.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 4.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 10.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 5.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 1.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0,
+              "quantity": 40.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 30.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS MILK"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk",
+      "<B>May Contain:</B> Tree Nuts",
+      "<B>State of Readiness:</B> Ready to Drink",
+      "<B>Form:</B> Liquid",
+      "<B>Package Quantity:</B> 1",
+      "<B>Milk fat level:</B> Skim",
+      "<B>Net weight:</B> 32 fl oz (US)",
+      "<B>Beverage container material:</B> Paper or Cardboard"
+    ],
+    "upc": "085239045596",
+    "dpci": "284-05-0251",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54558699",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804164D",
+    "page": "%2Fp%2FA-54558699",
+    "nutrition_facts": {
+      "ingredients": "ROMAINE LETTUCE, CAESAR DRESSING (SOYBEAN OIL, WATER, PARMESAN CHEESE [PASTEURIZED MILK, CHEESE CULTURES, SALT, ENZYMES], EGG YOLKS, RED WINE VINEGAR, CONTAINS LESS THAN 2% OF WORCESTERSHIRE SAUCE [DISTILLED VINEGAR, MOLASSES, SUGAR, WATER, SALT, ONION, ANCHOVY, GARLIC, SPICE, TAMARIND EXTRACT, NATURAL FLAVORS, CHILI PEPPER EXTRACT], SALT, LEMON JUICE CONCENTRATE, GARLIC, SPICE, MUSTARD BRAN, ANCHOVY EXTRACT, XANTHAN GUM, DEHYDRATED ONION, DEHYDRATED GARLIC), GARLIC CROUTONS (WHEAT FLOUR, SUNFLOWER OIL, SUGAR, SALT, YEAST, WHEY, MALTODEXTRIN, GARLIC POWDER, LACTIC ACID POWDER [LACTIC ACID, CALCIUM LACTATE], DEHYDRATED PARSLEY, CORN STARCH), PARMESAN CHEESE (PARMESAN CHEESE [PASTEURIZED MILK, CHEESE CULTURES, SALT, ENZYMES], POWDERED CELLULOSE ANTI-CAKING [POWDERED CELLULOSE, NATAMYCIN AS A MOLD INHIBITOR]), BLACK PEPPER. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per serving",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "About 3",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 210.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 23.0,
+              "quantity": 18.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 20.0,
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 5.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 13.0,
+              "quantity": 290.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 3.0,
+              "quantity": 9.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 7.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.1,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 4.0,
+              "quantity": 50.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 6.0,
+              "quantity": 1.1,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 4.0,
+              "quantity": 180.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        },
+        {
+          "description": "Per container",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 600.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 65.0,
+              "quantity": 51.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 55.0,
+              "quantity": 11.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 17.0,
+              "quantity": 50.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 37.0,
+              "quantity": 860.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 10.0,
+              "quantity": 27.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 18.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 2.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 12.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 2.0,
+              "quantity": 0.2,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 10.0,
+              "quantity": 160.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 20.0,
+              "quantity": 3.3,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 10.0,
+              "quantity": 520.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS EGG, ANCHOVY, MILK AND WHEAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Eggs, Anchovy, Soy, Milk, Wheat",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 10.3 Ounces"
+    ],
+    "upc": "085239049310",
+    "dpci": "211-03-0197",
+    "origin": "Assem USA w/foreign/dom. parts"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "83719456",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804796D",
+    "page": "%2Fp%2FA-83719456"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54579324",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804480D",
+    "page": "%2Fp%2FA-54579324"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54633873",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804172D",
+    "page": "%2Fp%2FA-54633873",
+    "nutrition_facts": {
+      "ingredients": "WHITE DISTILLED VINEGAR, DILUTED WITH WATER TO 5% ACIDITY. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "Tbsp",
+          "servings_per_container": "about 252",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 0.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ingredient",
+      "<B>Package Quantity:</B> 1",
+      "<B>Vinegar type:</B> White Vinegar",
+      "<B>Net weight:</B> 128.0 fl oz (US)"
+    ],
+    "upc": "085239057315",
+    "dpci": "212-08-0926",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54571053",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804921D",
+    "page": "%2Fp%2FA-54571053",
+    "nutrition_facts": {
+      "ingredients": "ROMAINE HEARTS. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "serving_size": "85",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "about 7",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 15.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 7.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 30.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 4.0,
+              "quantity": 0.8,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 4.0,
+              "quantity": 210.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ingredient",
+      "<B>Form:</B> Whole",
+      "<B>Package Quantity:</B> 3",
+      "<B>Pre-package preparation:</B> Raw",
+      "<B>Net weight:</B> 22 Ounces",
+      "<B>Country of Origin:</B> Varies, Please See Label"
+    ],
+    "upc": "085239048986",
+    "dpci": "211-21-0124",
+    "origin": "Made in the USA and Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78873596",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804765D",
+    "page": "%2Fp%2FA-78873596"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54340568",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804242D",
+    "page": "%2Fp%2FA-54340568"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "77775602",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804179D",
+    "page": "%2Fp%2FA-77775602"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54555537",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804741D",
+    "page": "%2Fp%2FA-54555537"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79858156",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804135D",
+    "page": "%2Fp%2FA-79858156",
+    "nutrition_facts": {
+      "ingredients": "GREEN LEAF LETTUCE. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "serving_size": "128",
+          "serving_size_unit_of_measurement": "g",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 25.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 2.0,
+              "quantity": 35.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 7.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 4.0,
+              "quantity": 50.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 6.0,
+              "quantity": 1.1,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 6.0,
+              "quantity": 250.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Vitamin A",
+              "percentage": 50.0,
+              "quantity": 470.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Vitamin C",
+              "percentage": 15.0,
+              "quantity": 12.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Vitamin K",
+              "percentage": 130.0,
+              "quantity": 161.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Folate",
+              "percentage": 15.0,
+              "quantity": 50.0,
+              "unit_of_measurement": "mcg DFE"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Shredded",
+      "<B>Package Quantity:</B> 1",
+      "<B>Pre-package preparation:</B> Raw",
+      "<B>Net weight:</B> 4.5 Ounces",
+      "<B>Country of Origin:</B> Varies, Please See Label"
+    ],
+    "upc": "085239136539",
+    "dpci": "211-03-0146",
+    "origin": "Assem In USA w/ foreign parts"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82691535",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804160D",
+    "page": "%2Fp%2FA-82691535",
+    "nutrition_facts": {
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "serving_size": "1.0",
+          "serving_size_unit_of_measurement": "medium ear",
+          "nutrients": [
+            {
+              "name": "ServingSize-InGrams",
+              "percentage": 0.0,
+              "quantity": 90.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 2.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 6.0,
+              "quantity": 18.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 12.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Total Sugars",
+              "percentage": 0.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Protein",
+              "percentage": 0.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Trans Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "grm"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 7.0,
+              "quantity": 240.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Calories",
+              "percentage": 0.0,
+              "quantity": 80.0,
+              "unit_of_measurement": "kcal"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Prepared, Heat and Serve",
+      "<B>Form:</B> Cut",
+      "<B>Package Quantity:</B> 4",
+      "<B>Pre-package preparation:</B> Raw",
+      "<B>Net weight:</B> 18 Ounces",
+      "<B>Country of Origin:</B> United States"
+    ],
+    "upc": "852392127908",
+    "dpci": "211-21-0066",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84783437",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804623D",
+    "page": "%2Fp%2FA-84783437"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79556010",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804938D",
+    "page": "%2Fp%2FA-79556010",
+    "nutrition_facts": {
+      "ingredients": "CULTURED PASTEURIZED GRADE A CREAM, NONFAT MILK SOLIDS, ENZYME. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "2",
+          "serving_size_unit_of_measurement": "Tbsp",
+          "servings_per_container": "About 15",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 60.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 6.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 15.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 5.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 1.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 30.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Vitamin A",
+              "percentage": 6.0,
+              "quantity": 60.0,
+              "unit_of_measurement": "mcg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS MILK PROCESSED IN A FACILITY THAT ALSO HANDLES SOY AND TREE NUT INGREDIENTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk",
+      "<B>May Contain:</B> Tree Nuts, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Spread",
+      "<B>Dietary Needs:</B> Kosher",
+      "<B>Package Quantity:</B> 1",
+      "<B>Milk fat level:</B> Whole",
+      "<B>Milk source:</B> Cow",
+      "<B>Net weight:</B> 16 Ounces"
+    ],
+    "upc": "085239102497",
+    "dpci": "284-09-0167",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54557981",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804367D",
+    "page": "%2Fp%2FA-54557981",
+    "nutrition_facts": {
+      "ingredients": "ICEBERG LETTUCE, CARROT, RED CABBAGE. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "serving_size": "2",
+          "serving_size_unit_of_measurement": "cups",
+          "servings_per_container": "About 4",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 15.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 4.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 2.0,
+              "quantity": 0.4,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 130.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Vitamin K",
+              "percentage": 20.0,
+              "quantity": 21.0,
+              "unit_of_measurement": "mcg"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 12 Ounces"
+    ],
+    "upc": "085239049280",
+    "dpci": "211-03-0320",
+    "origin": "Assem USA w/foreign/dom. parts"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54550928",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804337D",
+    "page": "%2Fp%2FA-54550928"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78832376",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804229D",
+    "page": "%2Fp%2FA-78832376"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84006869",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804718D",
+    "page": "%2Fp%2FA-84006869"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78362087",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804306D",
+    "page": "%2Fp%2FA-78362087"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79507431",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804732D",
+    "page": "%2Fp%2FA-79507431",
+    "nutrition_facts": {
+      "ingredients": "TOMATO PUREE (WATER, TOMATO PASTE), DICED TOMATOES IN TOMATO JUICE, VEGETABLE OIL (COTTONSEED AND/OR CANOLA AND/OR SOYBEAN), CONTAINS LESS THAN 1% OF: SUGAR, SALT, DEHYDRATED GARLIC, DEHYDRATED PARSLEY, SPICES (BASIL, SPICE), CITRIC ACID, NATURAL FLAVOR. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "1/2",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "about 5",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 60.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 3.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 18.0,
+              "quantity": 420.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 3.0,
+              "quantity": 9.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 7.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 2.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0
+            },
+            {
+              "name": "Iron",
+              "percentage": 6.0
+            },
+            {
+              "name": "Potassium",
+              "percentage": 8.0
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy",
+      "<B>State of Readiness:</B> Prepared, Heat and Serve",
+      "<B>Form:</B> Pureed",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 24 Ounces"
+    ],
+    "upc": "085239110539",
+    "dpci": "212-40-0593",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54340581",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804956D",
+    "page": "%2Fp%2FA-54340581"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54555623",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804626D",
+    "page": "%2Fp%2FA-54555623",
+    "nutrition_facts": {
+      "ingredients": "SPINACH. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "serving_size": "2",
+          "serving_size_unit_of_measurement": "cups",
+          "servings_per_container": "About 3",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 25.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 3.0,
+              "quantity": 65.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 7.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 6.0,
+              "quantity": 80.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 15.0,
+              "quantity": 2.3,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 10.0,
+              "quantity": 470.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Vitamin A",
+              "percentage": 45.0,
+              "quantity": 400.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Vitamin C",
+              "percentage": 25.0,
+              "quantity": 24.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Vitamin K",
+              "percentage": 340.0,
+              "quantity": 410.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Folate",
+              "percentage": 40.0,
+              "quantity": 165.0,
+              "unit_of_measurement": "mcg DFE"
+            },
+            {
+              "name": "Manganese",
+              "percentage": 35.0,
+              "quantity": 0.8,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CAUTION: Let stand 1 minute to allow steam to vent. Lift bag from corners as contents are hot. Open carefully."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Whole",
+      "<B>Package Quantity:</B> 1",
+      "<B>Pre-package preparation:</B> Raw",
+      "<B>Net weight:</B> 9 Ounces",
+      "<B>Country of Origin:</B> United States"
+    ],
+    "upc": "085239049129",
+    "dpci": "211-03-0304",
+    "origin": "Assem USA w/foreign/dom. parts"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54556767",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804575D",
+    "page": "%2Fp%2FA-54556767"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82628083",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804466D",
+    "page": "%2Fp%2FA-82628083"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54340573",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804401D",
+    "page": "%2Fp%2FA-54340573",
+    "nutrition_facts": {
+      "ingredients": "CULTURED PASTEURIZED MILK, SALT, ENZYMES (MICROBIAL). ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "19",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "12",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 70.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 6.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 15.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 5.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 6.0,
+              "quantity": 140.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.1,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 10.0,
+              "quantity": 140.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0,
+              "quantity": 0.1,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0,
+              "quantity": 30.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS MILK"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Sliced",
+      "<B>Package Quantity:</B> 12",
+      "<B>Net weight:</B> 8 Ounces",
+      "<B>Country of Origin:</B> United States"
+    ],
+    "upc": "085239038796",
+    "dpci": "284-11-1340",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84835695",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804186D",
+    "page": "%2Fp%2FA-84835695"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78666524",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804823D",
+    "page": "%2Fp%2FA-78666524"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79611652",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804314D",
+    "page": "%2Fp%2FA-79611652"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "85760297",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804184D",
+    "page": "%2Fp%2FA-85760297"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54555524",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804837D",
+    "page": "%2Fp%2FA-54555524",
+    "nutrition_facts": {
+      "ingredients": "BABY SPINACH. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "serving_size": "142",
+          "serving_size_unit_of_measurement": "g",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 40.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 1.0,
+              "quantity": 0.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 5.0,
+              "quantity": 110.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 2.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 11.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 10.0,
+              "quantity": 140.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 20.0,
+              "quantity": 3.8,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 15.0,
+              "quantity": 790.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Vitamin A",
+              "percentage": 70.0,
+              "quantity": 660.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Vitamin C",
+              "percentage": 45.0,
+              "quantity": 40.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Vitamin K",
+              "percentage": 570.0,
+              "quantity": 685.0,
+              "unit_of_measurement": "mcg"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Whole",
+      "<B>Package Quantity:</B> 1",
+      "<B>Pre-package preparation:</B> Raw",
+      "<B>Net weight:</B> 5 Ounces",
+      "<B>Country of Origin:</B> United States, Mexico"
+    ],
+    "upc": "085239049037",
+    "dpci": "211-03-0300",
+    "origin": "Assem USA w/foreign/dom. parts"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54558003",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804676D",
+    "page": "%2Fp%2FA-54558003"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "13276201",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804130D",
+    "page": "%2Fp%2FA-13276201"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "86676070",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804442D",
+    "page": "%2Fp%2FA-86676070"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54550891",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804865D",
+    "page": "%2Fp%2FA-54550891",
+    "nutrition_facts": {
+      "ingredients": "MILK, CREAM, DIPOTASSIUM PHOSPHATE. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "2",
+          "serving_size_unit_of_measurement": "Tbsp",
+          "servings_per_container": "16",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 35.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 4.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 10.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 5.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 1.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 0.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 30.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS MILK"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk",
+      "<B>State of Readiness:</B> Ready to Drink",
+      "<B>Form:</B> Liquid",
+      "<B>Package Quantity:</B> 1",
+      "<B>Milk fat level:</B> Skim",
+      "<B>Net weight:</B> 16 fl oz (US)",
+      "<B>Beverage container material:</B> Paper or Cardboard"
+    ],
+    "upc": "085239045589",
+    "dpci": "284-05-0250",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79466788",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804919D",
+    "page": "%2Fp%2FA-79466788"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54554270",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804868D",
+    "page": "%2Fp%2FA-54554270"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54556739",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804574D",
+    "page": "%2Fp%2FA-54556739"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "78666603",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804551D",
+    "page": "%2Fp%2FA-78666603",
+    "nutrition_facts": {
+      "ingredients": "PREPARED GARBANZO BEANS, WATER, SALT. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "1/2",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "About 3.5",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 120.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 3.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 6.0,
+              "quantity": 140.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 7.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 14.0,
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 7.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 8.0,
+              "quantity": 1.4,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 4.0,
+              "quantity": 230.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Whole",
+      "<B>Package Quantity:</B> 1",
+      "<B>Pre-package preparation:</B> Fully Cooked",
+      "<B>Net weight:</B> 15.5 Ounces",
+      "<B>Country of Origin:</B> United States"
+    ],
+    "upc": "085239095560",
+    "dpci": "212-12-0734",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84004243",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804819D",
+    "page": "%2Fp%2FA-84004243"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "82691303",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804483D",
+    "page": "%2Fp%2FA-82691303"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54528287",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804189D",
+    "page": "%2Fp%2FA-54528287",
+    "nutrition_facts": {
+      "ingredients": "TURKEY BREAST, TURKEY BROTH, HONEY, VINEGAR++, CONTAINS 2% OR LESS OF THE FOLLOWING: MODIFIED CORN STARCH, SUGAR, SALT, SODIUM PHOSPHATES, CARRAGEENAN, NATURAL FLAVORING (CELERY POWDER++), SEA SALT++. ++To Preserve Quality.",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "2",
+          "serving_size_unit_of_measurement": "oz",
+          "servings_per_container": "4.5",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 60.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Calories From Fat",
+              "quantity": 10.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 2.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 3.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 22.0,
+              "quantity": 520.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 9.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin A",
+              "percentage": 0.0
+            },
+            {
+              "name": "Vitamin C",
+              "percentage": 0.0
+            },
+            {
+              "name": "Calcium",
+              "percentage": 0.0
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>May Contain:</B> Wheat",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Package Quantity:</B> 1",
+      "<B>Pre-package preparation:</B> Fully Cooked",
+      "<B>Net weight:</B> 9 Ounces"
+    ],
+    "upc": "085239046586",
+    "dpci": "210-01-0238",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54340577",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804972D",
+    "page": "%2Fp%2FA-54340577"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54340562",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804174D",
+    "page": "%2Fp%2FA-54340562"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54516414",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804627D",
+    "page": "%2Fp%2FA-54516414",
+    "nutrition_facts": {
+      "ingredients": "GREEN BEANS. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per Serving",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "4",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 30.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 2.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 7.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 4.0,
+              "quantity": 179.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 31.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 6.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Prepared, Heat and Serve",
+      "<B>Form:</B> Whole",
+      "<B>Package Quantity:</B> 1",
+      "<B>Pre-package preparation:</B> Raw",
+      "<B>Net weight:</B> 12 Ounces",
+      "<B>Country of Origin:</B> United States, Mexico"
+    ],
+    "upc": "085239048764",
+    "dpci": "211-14-0098",
+    "origin": "Made in the USA and Imported"
+  }
+]

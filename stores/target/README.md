@@ -29,7 +29,7 @@ based on the HTML content of such websites.
 
 - **Command for execution**: `node ./tasks/task_1/task_1_2/paginated_products_webpage_filter.js`
 
-- **Execution time**: 0.5 minutes
+- **Execution time**: 30 seconds
 
 
 ### Task 2
@@ -65,18 +65,55 @@ in file `data/get_request_urls_for_task_2.2.json` .
 
 #### Task 3.1
 
+- **File**: `tasks/task_3/task_3_1/products_scraped_basic_info_merge.py`
 
-### Task 3
+- **Goal**: Merge into a single JSON file, 
+`data/unique_products_urls.json`, the unique products' urls for the
+extraction of label info and specifications.
 
-- **Status**: Pending code, due to Target temporary (half a day) IP ban.
+- **Command for execution**: `python -m tasks.task_3.task_3_1.products_scraped_basic_info_merge`
 
-- **Goal**: For each grocery product, extract it's label info and UPC.
+- **Execution time**: 10 seconds
 
-- **File**: `tasks/grocery_products_info_download.js`
 
-- **Command for task execution**: Inside `target` directory, 
-execute `node ./tasks/grocery_products_last_info_download.js`
+#### Task 3.2
 
+- **File**: `tasks/task_3/task_3_2/products_url_filter.js`
+
+- **Goal**: Filter from urls in file 
+`data/unique_products_urls.json` which
+correspond to items available by Target, 
+because, for those not available the 
+GET request for product info will fail .
+
+- **Command for execution**: `node ./tasks/task_3/task_3_2/products_url_filter.js`
+
+- **Execution time**: 52 minutes
+
+
+#### Task 3.3
+
+- Requires **Amazon Web Services** account, due to API Gateway use.
+
+- **File**: `tasks/task_3/task_3_3_py/last_products_info_extraction.py`
+
+- **Goal**: Extract label info and specifications of products which are likely available by Target.
+
+- **Command for execution**: `python -m tasks.task_3.task_3_3_py.last_products_info_extraction`
+
+- **Execution time**: 2 hours 20 minutes
+
+
+### Task 4
+
+#### Task 4.1
+
+
+#### Task 4.2
+
+
+
+## Extra
 
 - Useful Target links
   - **Extract product's UPC**: 

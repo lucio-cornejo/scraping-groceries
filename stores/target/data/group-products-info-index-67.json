@@ -1,0 +1,4161 @@
+[
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89292787",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804870D",
+    "page": "%2Fp%2FA-89292787"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89667544",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804191D",
+    "page": "%2Fp%2FA-89667544",
+    "nutrition_facts": {
+      "ingredients": "WHEAT FLOUR, SUGAR, BUTTER, WATER, CONTAINS 2% OR LESS OF: EGG WHITES, MODIFIED CORN STARCH, SALT, TOCOPHEROLS, SOY FIBER, INVERT SUGAR, CALCIUM ACID PYROPHOSPHATE, CALCIUM SULFATE, POTASSIUM BICARBONATE, CALCIUM CARBONATE, ASCORBIC ACID, NATURAL AND ARTIFICIAL FLAVORS, RED 3, RED 40, BLUE 1, BLUE 2, YELLOW 5, YELLOW 6, TITANIUM DIOXIDE (COLOR), SODIUM CARBOXYMETHYLCELLULOSE, POTASSIUM SORBATE AND SODIUM BENZOATE AS PRESERVATIVES, BHA AND BHT. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 260.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 13.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 30.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 8.0,
+              "quantity": 25.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 5.0,
+              "quantity": 105.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 15.0,
+              "quantity": 41.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 4.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 25.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 50.0,
+              "quantity": 25.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 4.0,
+              "quantity": 60.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 60.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS EGG, MILK, SOY AND WHEAT, CONTAINS EGG, MILK, SOY AND WHEAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Milk, Wheat, Eggs",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 2.12 Ounces"
+    ],
+    "upc": "085239923160",
+    "dpci": "218-13-0326",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14994560",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804571D",
+    "page": "%2Fp%2FA-14994560"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "52593340",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804212D",
+    "page": "%2Fp%2FA-52593340"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81504861",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804918D",
+    "page": "%2Fp%2FA-81504861",
+    "nutrition_facts": {
+      "ingredients": "MILKFAT AND NONFAT MILK, SWEET CREAM BUTTERMILK, LIQUID SUGAR (SUGAR, WATER), STRAWBERRIES (STRAWBERRIES SUGAR, CORN STARCH-MODIFIED, CITRIC ACID), CORN SYRUP, WHEY, STRAWBERRY PUREE (STRAWBERRIES, SUGAR), HIGH FRUCTOSE CORN SYRUP, CONTAINS LESS THAN 2% OF NATURAL FLAVORS, MONO AND DIGLYCERIDES, GUAR GUM, CALCIUM SULFATE, RED 40, BLUE 1, CAROB BEAN GUM, CARRAGEENAN. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "2/3",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "About 9",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 160.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 10.0,
+              "quantity": 8.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 23.0,
+              "quantity": 4.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 12.0,
+              "quantity": 35.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 2.0,
+              "quantity": 55.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 8.0,
+              "quantity": 21.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 17.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 26.0,
+              "quantity": 13.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 6.0,
+              "quantity": 80.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 130.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS MILK PROCESSED IN A FACILITY THAT ALSO HANDLES EGG, PEANUT, SOY, TREE NUT AND WHEAT INGREDIENTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk",
+      "<B>May Contain:</B> Soy, Peanuts, Tree Nuts, Eggs, Wheat",
+      "<B>Form:</B> Carton",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 1.5 Quart",
+      "<B>Country of Origin:</B> United States"
+    ],
+    "upc": "085239162156",
+    "dpci": "288-07-3677",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "80944830",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804739D",
+    "page": "%2Fp%2FA-80944830"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "85378121",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804290D",
+    "page": "%2Fp%2FA-85378121"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81915313",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804657D",
+    "page": "%2Fp%2FA-81915313"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47098658",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804471D",
+    "page": "%2Fp%2FA-47098658"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87894123",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804239D",
+    "page": "%2Fp%2FA-87894123",
+    "nutrition_facts": {
+      "ingredients": "BLEACHED ENRICHED WHEAT FLOUR (BLEACHED WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), BUTTERMILK, SUGAR, SPRINKLES (SUGAR, CORN STARCH, HYDROGENATED PALM OIL, DEXTRIN, CONFECTIONER'S GLAZE [SHELLAC], SOY LECITHIN, CARNAUBA WAX, BLUE 1, RED 3, YELLOW 5, YELLOW 6), BAKING POWDER (SODIUM ACID PYROPHOSPHATE, SODIUM BICARBONATE, CORN STARCH, MONOCALCIUM PHOSPHATE), BAKING SODA, NATURAL FLAVOR, SALT, SUCRALOSE. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "1/2",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "about 8",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 210.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 1.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 3.0,
+              "quantity": 0.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 2.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 36.0,
+              "quantity": 820.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 15.0,
+              "quantity": 42.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 4.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 10.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 12.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 8.0,
+              "quantity": 110.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 10.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 4.0,
+              "quantity": 160.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "DO NOT EAT RAW MIX OR BATTER, CONTAINS MILK, SOY AND WHEAT PROCESSED IN A FACILITY THAT ALSO HANDLES EGG, PEANUT, SESAME AND TREE NUT INGREDIENTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Wheat, Soy, Milk",
+      "<B>State of Readiness:</B> Mix",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 16 Ounces",
+      "<B>Style:</B> Pancakes"
+    ],
+    "upc": "085239983041",
+    "dpci": "231-03-0102",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87304962",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804322D",
+    "page": "%2Fp%2FA-87304962"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "16721793",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804947D",
+    "page": "%2Fp%2FA-16721793"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14994562",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804770D",
+    "page": "%2Fp%2FA-14994562",
+    "nutrition_facts": {
+      "ingredients": "CINNAMON CHIP MUFFIN(SUGAR, BLEACHED WHEAT FLOUR, EGGS, SOYBEAN OIL, WATER, CINNAMON CHIPS [SUGAR, PALM OIL, CINNAMON, NONFAT DRY MILK, SOY LECITHIN], MODIFIED FOOD STARCH, LEAVENING [BAKING SODA, SODIUM ALUMINUM PHOSPHATE, MONOCALCIUM PHOSPHATE], MONO AND DIGLYCERIDES, CINNAMON, BUTTERMILK SOLIDS, SALT, LACTIC ACID, ENZYME, XANTHAN GUM), CINNAMON STREUSEL TOPPING (BLEACHED WHEAT FLOUR, SUGAR, MARGARINE [PALM OIL, WATER, SOYBEAN OIL, CONTAINS 2% OR LESS OF: SALT, MONO AND DIGLYCERIDES, SOY LECITHIN, NATURAL FLAVOR, CITRIC ACID {PRESERVATIVE}, BETA CAROTENE COLOR, VITAMIN A PALMITATE ADDED], CINNAMON, SODIUM PROPIONATE [PRESERVATIVE])",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": []
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Wheat, Eggs",
+      "<B>Size:</B> Regular",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Package Quantity:</B> 4",
+      "<B>Bakery topping:</B> Crumb Topping, Cinnamon",
+      "<B>Net weight:</B> 16.0 Ounces"
+    ],
+    "upc": "235334000000",
+    "dpci": "225-05-5334",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "85378093",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804632D",
+    "page": "%2Fp%2FA-85378093"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81504865",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804171D",
+    "page": "%2Fp%2FA-81504865"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89293661",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804575D",
+    "page": "%2Fp%2FA-89293661"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53975260",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804544D",
+    "page": "%2Fp%2FA-53975260"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81647304",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804513D",
+    "page": "%2Fp%2FA-81647304"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89726201",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804853D",
+    "page": "%2Fp%2FA-89726201"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87306073",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804935D",
+    "page": "%2Fp%2FA-87306073"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "15417485",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804699D",
+    "page": "%2Fp%2FA-15417485"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "15031845",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804695D",
+    "page": "%2Fp%2FA-15031845",
+    "nutrition_facts": {
+      "ingredients": "ENRICHED WHEAT FLOUR (WHEAT FLOUR, MALTED BARLEY FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), WATER, FERMENTED WHEAT FLOUR, YEAST, WHEAT GLUTEN, SUGAR, SALT, SOYBEAN OIL, HONEY, SOY FLOUR, MALTODEXTRIN, DEXTROSE, PROPYLENE GLYCOL, SODIUM ALGINATE, BETA CAROTENE, SODIUM STEAROYL LACTYLATE, ASCORBIC ACID, ENZYMES, SOY LECITHIN, BAKING SPRAY (CANOLA OIL, SOYBEAN OIL, SOY LECITHIN, MINERAL OIL, PROPELLANT), QUICK SHINE ENHANCED (WATER, PROPELLANT, PROPYLENE GLYCOL, DEXTROSE, CANOLA OIL, VEGETABLE MONOGLYCERIDES, PHOSPHORIC ACID, METHYLPARABEN, PROPYLPARABEN, DATEM, DISODIUM PHOSPHATE, MIXED TOCOPHEROLS, PROPELLANT)",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "serving_size": "1 Bun (59g)",
+          "servings_per_container": "8",
+          "nutrients": [
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 8.0,
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 102.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 13.0,
+              "quantity": 310.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Sugars",
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 11.0,
+              "quantity": 30.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 8.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 7.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "percentage": 4.0
+            },
+            {
+              "percentage": 0.0
+            },
+            {
+              "quantity": 25.0
+            },
+            {
+              "name": "Calories",
+              "quantity": 170.0
+            },
+            {
+              "name": "Iron",
+              "percentage": 10.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 3.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Milk, Wheat",
+      "<B>May Contain:</B> Eggs",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Package Quantity:</B> 8",
+      "<B>Net weight:</B> 16 Ounces"
+    ],
+    "upc": "233591000009",
+    "dpci": "225-03-3591",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87396120",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804541D",
+    "page": "%2Fp%2FA-87396120",
+    "nutrition_facts": {
+      "ingredients": "COOKIE (ENRICHED WHEAT FLOUR [WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID], SUGAR, PALM OIL AND/OR INTERESTERIFIED SOYBEAN OIL, DEXTROSE, CONTAINS 2% OR LESS OF HIGH FRUCTOSE CORN SYRUP, SALT, LEAVENING [SODIUM BICARBONATE, MONOCALCIUM PHOSPHATE, AMMONIUM BICARBONATE], NATURAL AND ARTIFICIAL FLAVORS, SOY LECITHIN, RED 40, CITRIC ACID.), WHITE FUDGE FLAVORED COATING (SUGAR, PALM KERNEL OIL, NONFAT MILK POWDER, WHOLE MILK POWDER, WHEY POWDER, PALM OIL, SOY LECITHIN, VANILLA), RED 40 LAKE, NATURAL FLAVOR. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "20",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "9",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 100.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 6.0,
+              "quantity": 4.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 15.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 2.0,
+              "quantity": 40.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 5.0,
+              "quantity": 14.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 10.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 18.0,
+              "quantity": 9.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 2.0,
+              "quantity": 0.3,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0,
+              "quantity": 30.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS A BIOENGINEERED FOOD INGREDIENT, CONTAINS MILK, SOY AND WHEAT PROCESSED IN A FACILITY THAT ALSO HANDLES PEANUT AND TREE NUT INGREDIENTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Milk, Wheat",
+      "<B>May Contain:</B> Peanuts, Tree Nuts",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 6.35 Ounces"
+    ],
+    "upc": "085239994528",
+    "dpci": "071-09-1470",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90365952",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804872D",
+    "page": "%2Fp%2FA-90365952"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "77526964",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804757D",
+    "page": "%2Fp%2FA-77526964"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90366396",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804323D",
+    "page": "%2Fp%2FA-90366396"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87470203",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804585D",
+    "page": "%2Fp%2FA-87470203"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81263023",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804221D",
+    "page": "%2Fp%2FA-81263023"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81504872",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804167D",
+    "page": "%2Fp%2FA-81504872"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "15006388",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804811D",
+    "page": "%2Fp%2FA-15006388"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81917996",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804852D",
+    "page": "%2Fp%2FA-81917996"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81524993",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804985D",
+    "page": "%2Fp%2FA-81524993"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81916245",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804421D",
+    "page": "%2Fp%2FA-81916245"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79543362",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804629D",
+    "page": "%2Fp%2FA-79543362",
+    "nutrition_facts": {
+      "ingredients": "SUGAR, EGGS, HYDROGENATED PALM KERNEL OIL, ENRICHED BLEACHED WHEAT FLOUR (BLEACHED WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), PALM OIL, REDUCED MINERAL WHEY, CORN SYRUP, MILK, MARGARINE (INTERESTERIFIED SOYBEAN OIL, BUTTERMILK, SALT, MONO- AND DIGLYCERIDES, VITAMIN A PALMITATE, BETA-CAROTENE [COLOR]), APRICOT PUREE, NONFAT MILK SOLIDS, WATER, INVERT SUGAR, BUTTER, CORN STARCH, WHEY, CITRIC ACID, PECTIN, MODIFIED FOOD STARCH, EMULSIFIERS (SOY LECITHIN, SODIUM STEAROYL LACTYLATE, POLYSORBATE 60, SORBITAN MONOSTEARATE), NATURAL FLAVOR, SALT, ARTIFICIAL FLAVOR, PRESERVATIVES (POTASSIUM SORBATE, SODIUM BENZOATE), SOYBEAN OIL, CANOLA OIL, COCONUT OIL, MALIC ACID, HYDROGENATED PALM OIL, CONFECTIONER'S GLAZE, CARNAUBA WAX, SODIUM CITRATE, GUMS (CARBOXYMETHYL CELLULOSE, XANTHAN GUM), ARTIFICIAL COLORS (YELLOW 5, YELLOW 6, BLUE 1, BLUE 2, RED 40, RED 3), ANNATTO (COLOR). ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "21",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "4",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 90.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 6.0,
+              "quantity": 4.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 17.0,
+              "quantity": 3.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 4.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 1.0,
+              "quantity": 25.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 5.0,
+              "quantity": 13.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 11.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 21.0,
+              "quantity": 11.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0
+            },
+            {
+              "name": "Calcium",
+              "percentage": 0.0
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS EGG, MILK, SOY AND WHEAT PROCESSED IN A FACILITY THAT ALSO HANDLES PEANUT AND TREE NUT INGREDIENTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Milk, Wheat, Eggs",
+      "<B>May Contain:</B> Peanuts, Tree Nuts",
+      "<B>Filling:</B> No Filling",
+      "<B>Size:</B> Mini",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Package Quantity:</B> 1",
+      "<B>Bakery topping:</B> Buttercream Frosting",
+      "<B>Net weight:</B> 3 Ounces"
+    ],
+    "upc": "085239100394",
+    "dpci": "218-02-0166",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14826437",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804911D",
+    "page": "%2Fp%2FA-14826437",
+    "nutrition_facts": {
+      "ingredients": "ENRICHED WHEAT FLOUR (WHEAT FLOUR, MALTED BARLEY FLOUR, NIACIN, REDUCED IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), WATER, SUGAR, SALT, VEGETABLE OIL (CANOLA OIL OR SOYBEAN OIL), WHEAT GLUTEN, YEAST, FERMENTED RYE FLOUR, DOUGH CONDITIONERS (MONOGLYCERIDES, ENZYMES, L-CYSTEINE), CORNMEAL, PRESERVATIVES (CALCIUM PROPIONATE, SORBIC ACID, POTASSIUM SORBATE), SESAME SEEDS. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "99",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "5",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 260.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 3.0,
+              "quantity": 2.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 22.0,
+              "quantity": 500.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 18.0,
+              "quantity": 50.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 7.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 6.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 9.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 4.0,
+              "quantity": 60.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 15.0,
+              "quantity": 2.9,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 70.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS A BIOENGINEERED FOOD INGREDIENT, CONTAINS WHEAT AND SESAME PROCESSED IN A FACILITY THAT ALSO HANDLES SOY, MILK, EGG AND TREE NUT (WALNUTS) INGREDIENTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Wheat",
+      "<B>May Contain:</B> Eggs",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Whole",
+      "<B>Package Quantity:</B> 5",
+      "<B>Net weight:</B> 17.5 Ounces"
+    ],
+    "upc": "085239410813",
+    "dpci": "218-05-1001",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79961778",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804681D",
+    "page": "%2Fp%2FA-79961778"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90366450",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804694D",
+    "page": "%2Fp%2FA-90366450"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81504867",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804147D",
+    "page": "%2Fp%2FA-81504867"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81504862",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804916D",
+    "page": "%2Fp%2FA-81504862"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81918009",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804578D",
+    "page": "%2Fp%2FA-81918009"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89664642",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804336D",
+    "page": "%2Fp%2FA-89664642"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81917101",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804439D",
+    "page": "%2Fp%2FA-81917101",
+    "nutrition_facts": {
+      "ingredients": "SUGAR, SHORTENING (PALM OIL, CANOLA OIL, VEGETABLE MONO- AND DIGLYCERIDES, POLYSORBATE 80), WATER, ARTIFICIAL FLAVOR, CORN STARCH, SALT, MERINGUE POWDER (CORN STARCH, EGG WHITES, SUGAR, GUM ARABIC, SODIUM ALUMINUM SULFATE, CITRIC ACID, CREAM OF TARTAR, VANILLIN), XANTHAN GUM, POTASSIUM SORBATE (PRESERVATIVE), NATURAL AND ARTIFICIAL VANILLA CREME FLAVOR, RED 3. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "2",
+          "serving_size_unit_of_measurement": "Tbsp",
+          "servings_per_container": "6",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 130.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 8.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 10.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 1.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 12.0,
+              "quantity": 33.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 22.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 44.0,
+              "quantity": 22.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS EGG PROCESSED IN A FACILITY THAT ALSO HANDLES MILK, SOY, TREE NUT AND WHEAT INGREDIENTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Eggs",
+      "<B>May Contain:</B> Milk, Soy, Tree Nuts, Wheat",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Paste",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 8 Ounces"
+    ],
+    "upc": "085239180525",
+    "dpci": "261-05-0920",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "88081646",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804586D",
+    "page": "%2Fp%2FA-88081646"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79961546",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804525D",
+    "page": "%2Fp%2FA-79961546"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84169728",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804731D",
+    "page": "%2Fp%2FA-84169728"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47408485",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804694D",
+    "page": "%2Fp%2FA-47408485"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79314486",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804692D",
+    "page": "%2Fp%2FA-79314486",
+    "nutrition_facts": {
+      "ingredients": "MILK, CREAM, SUGAR, WHEAT FLOUR, EGG, SOYBEAN OIL, WHOLE WHEAT FLOUR, LESS THAN 2% OF: NONFAT DRY MILK, FOOD STARCH-MODIFIED, WATER, MOLASSES, SALT, CHEESE CULTURES, NATURAL FLAVOR, SODIUM PHOSPHATE, CAROB BEAN GUM, GUAR GUM, MALTED BARLEY FLOUR, VEGETABLE MONO- AND DIGLYCERIDES, CARRAGEENAN, SODIUM BICARBONATE, HONEY, ENZYMES, NIACIN, REDUCED IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID, VITAMIN A PALMITATE, VITAMIN D3. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "170",
+          "serving_size_unit_of_measurement": "g",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 600.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 41.0,
+              "quantity": 32.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 80.0,
+              "quantity": 16.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 40.0,
+              "quantity": 120.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 20.0,
+              "quantity": 450.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 22.0,
+              "quantity": 61.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 4.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 41.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 72.0,
+              "quantity": 36.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 9.0,
+              "unit_of_measurement": "g "
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 6.0
+            },
+            {
+              "name": "Calcium",
+              "percentage": 8.0
+            },
+            {
+              "name": "Iron",
+              "percentage": 6.0
+            },
+            {
+              "name": "Potassium",
+              "percentage": 4.0
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS EGG, MILK, SOY AND WHEAT PROCESSED IN A FACILITY THAT ALSO HANDLES PEANUT AND TREE NUT INGREDIENTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Milk, Wheat, Eggs",
+      "<B>May Contain:</B> Tree Nuts, Peanuts",
+      "<B>Filling:</B> Cream Cheese",
+      "<B>Size:</B> Slice",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Package Quantity:</B> 1",
+      "<B>Bakery topping:</B> No Topping",
+      "<B>Net weight:</B> 6 Ounces"
+    ],
+    "upc": "085239096901",
+    "dpci": "218-02-0160",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84650254",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804853D",
+    "page": "%2Fp%2FA-84650254"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14826427",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804542D",
+    "page": "%2Fp%2FA-14826427"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87420453",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804321D",
+    "page": "%2Fp%2FA-87420453"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89293644",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804315D",
+    "page": "%2Fp%2FA-89293644",
+    "nutrition_facts": {
+      "ingredients": "CHOCOLATE GEMS - SUGAR, CHOCOLATE LIQUOR, MILK POWDER, VEGETABLE FAT, COCOA BUTTER, TITANIUM DIOXIDE (EMULSIFIER), SOY LECITHIN, ARABIC GUM, SALT, POLYGLYCEROL ESTERS OF FATTY ACIDS, CONFECTIONER'S GLAZE, CARNAUBA WAX, VANILLA FLAVORING, RED 40, YELLOW 5, BLUE 1, RED 3, YELLOW 6, TITANIUM DIOXIDE (COLOR).,CRUSHED COOKIES - UNBLEACHED ENRICHED WHEAT FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), SUGAR, PALM OIL, CANOLA OIL, COCOA PROCESSED WITH ALKALI, INVERT SUGAR, BAKING SODA, CALCIUM PHOSPHATE, SOY LECITHIN, SALT, CHOCOLATE, NATURAL FLAVOR., CHOCOLATE SHELL - SUGAR, COCONUT OIL, COCOA POWDER, CHOCOLATE LIQUOR, SOY LECITHIN, SALT, VANILLA FLAVORING., SPRINKLES - SUGAR, CORN STARCH, TAPIOCA STARCH, CORN SYRUP, PALM OIL, GLYCERIN, SOY LECITHIN, GUM ARABIC, RED 40, RED 3, BLUE 1, YELLOW 5, YELLOW 6, ARTIFICIAL FLAVOR, CARNAUBA WAX. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Chocolate Gems",
+          "serving_size": "9",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "6",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 45.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 3.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 5.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 3.0,
+              "quantity": 7.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 7.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 12.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        },
+        {
+          "description": "Crushed Cookies",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 45.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 2.0,
+              "quantity": 1.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 3.0,
+              "quantity": 0.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 1.0,
+              "quantity": 30.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 3.0,
+              "quantity": 7.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 8.0,
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 2.0,
+              "quantity": 0.4,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        },
+        {
+          "description": "Chocolate Sauce",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 90.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 8.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 25.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 4.0,
+              "quantity": 11.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 4.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 9.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 18.0,
+              "quantity": 9.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 0.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 8.0,
+              "quantity": 1.4,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 60.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        },
+        {
+          "description": "Sprinkles",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 40.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 1.0,
+              "quantity": 0.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 3.0,
+              "quantity": 0.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 3.0,
+              "quantity": 8.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 12.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CHOCOLATE GEMS - CONTAINS MILK AND SOY PROCESSED IN A FACILITY THAT ALSO HANDLES PEANUT, TREE NUT AND WHEAT INGREDIENTS, CRUSHED COOKIES - CONTAINS SOY AND WHEAT,CHOCOLATE SHELL - CONTAINS SOY MAY CONTAIN MILK,SPRINKLES - CONTAINS SOY"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Wheat, Soy, Milk",
+      "<B>State of Readiness:</B> Mix",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 10 Ounces"
+    ],
+    "upc": "085239934388",
+    "dpci": "055-10-0118",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81917103",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804483D",
+    "page": "%2Fp%2FA-81917103"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81504710",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804106D",
+    "page": "%2Fp%2FA-81504710",
+    "nutrition_facts": {
+      "ingredients": "MILKFAT AND NONFAT MILK, SWEET CREAM BUTTERMILK, LIQUID SUGAR (SUGAR, WATER), HIGH FRUCTOSE CORN SYRUP, WHEY, CORN SYRUP, COCOA (PROCESSED WITH ALKALI), CONTAINS LESS THAN 2% OF MONO AND DIGLYCERIDES, GUAR GUM, CALCIUM SULFATE, CAROB BEAN GUM, CARRAGEENAN. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "2/3",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "24",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 180.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 10.0,
+              "quantity": 8.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 25.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 12.0,
+              "quantity": 35.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 3.0,
+              "quantity": 65.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 8.0,
+              "quantity": 23.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 3.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 19.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 28.0,
+              "quantity": 14.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 8.0,
+              "quantity": 100.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 6.0,
+              "quantity": 1.2,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 6.0,
+              "quantity": 250.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS MILK PROCESSED IN A FACILITY THAT ALSO HANDLES EGG, PEANUT, SOY, TREE NUT AND WHEAT INGREDIENTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk",
+      "<B>May Contain:</B> Soy, Peanuts, Tree Nuts, Eggs, Wheat",
+      "<B>Form:</B> Carton",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 1 Gallon",
+      "<B>Country of Origin:</B> United States"
+    ],
+    "upc": "085239161975",
+    "dpci": "288-07-3659",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87495565",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804204D",
+    "page": "%2Fp%2FA-87495565"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89653830",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804708D",
+    "page": "%2Fp%2FA-89653830",
+    "nutrition_facts": {
+      "ingredients": "PRETZEL (UNBLEACHED ENRICHED WHEAT FLOUR [FLOUR, NIACIN, REDUCED IRON, THIAMIN MONONITRATE (VITAMIN B1), RIBOFLAVIN (VITAMIN B2), FOLIC ACID], MALT, SALT, SOYBEAN OIL), MILK CHOCOLATE (SUGAR, COCOA BUTTER, CHOCOLATE LIQUOR, MILK, SOY LECITHIN, VANILLA), TOFFEE (SUGAR, PALM OIL, BUTTER [CREAM, SALT], ALMONDS, SOY LECITHIN, NATURAL FLAVOR [SUGAR], SALT, CITRIC ACID). ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "28",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "about 6",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 120.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 6.0,
+              "quantity": 4.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 13.0,
+              "quantity": 2.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 12.0,
+              "quantity": 280.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 7.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 4.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 10.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.1,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 4.0,
+              "quantity": 0.9,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 70.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS MILK, SOY, ALMOND AND WHEAT PROCESSED IN A FACILITY THAT ALSO HANDLES PEANUT, SESAME AND OTHER TREE NUT INGREDIENTS, CONTAINS MILK, SOY, ALMOND AND WHEAT PROCESSED IN A FACILITY THAT ALSO HANDLES PEANUT, SESAME AND OTHER TREE NUT INGREDIENTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Milk, Wheat, Almonds",
+      "<B>May Contain:</B> Sesame, Peanuts, Other Tree Nuts",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 6 Ounces"
+    ],
+    "upc": "085239921753",
+    "dpci": "055-02-0414",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "76564368",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804553D",
+    "page": "%2Fp%2FA-76564368"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "15006405",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804833D",
+    "page": "%2Fp%2FA-15006405"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81917109",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804277D",
+    "page": "%2Fp%2FA-81917109",
+    "nutrition_facts": null,
+    "bullet_descriptions": [
+      "<B>Overall Height:</B> 2.75 Inches",
+      "<B>Weight:</B> 3 Grams",
+      "<B>Material:</B> Wax"
+    ],
+    "upc": "085239180570",
+    "dpci": "261-05-0925",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81917096",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804482D",
+    "page": "%2Fp%2FA-81917096",
+    "nutrition_facts": {
+      "ingredients": "SUGAR, RICE FLOUR, HYDROGENATED PALM KERNEL OIL, PALM KERNEL OIL, PALM OIL, CORN STARCH, SUNFLOWER LECITHIN, CELLULOSE GUM, MALTODEXTRIN, YELLOW 6 LAKE, YELLOW 5 LAKE, BLUE 1 LAKE, RED 40 LAKE, RED 3, YELLOW 6, YELLOW 5, BLUE 1, CARRAGEENAN, RED 40, CARNAUBA WAX, VANILLIN. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per seving",
+          "serving_size": "1",
+          "serving_size_unit_of_measurement": "tsp",
+          "servings_per_container": "about 34",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 20.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 1.0,
+              "quantity": 0.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 1.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 6.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            }
+          ]
+        }
+      ],
+      "warning": "PROCESSED IN A FACILITY THAT ALSO HANDLES EGG, MILK, SOY, TREE NUT AND WHEAT INGREDIENTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy",
+      "<B>May Contain:</B> Milk, Eggs, Tree Nuts, Wheat",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Sprinkles",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 4.8 Ounces"
+    ],
+    "upc": "085239180471",
+    "dpci": "261-05-0915",
+    "origin": "Made in the USA and Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79314409",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804787D",
+    "page": "%2Fp%2FA-79314409"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79543405",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804481D",
+    "page": "%2Fp%2FA-79543405",
+    "nutrition_facts": {
+      "ingredients": "SUGAR, WATER, HYDROGENATED PALM KERNEL OIL, MARGARINE (INTERESTERIFIED SOYBEAN OIL, BUTTERMILK, SALT, MONO- AND DIGLYCERIDES), SOYBEAN OIL, CREAM CHEESE (PASTEURIZED CULTURED MILK, CREAM, SALT, CAROB GUM), BUTTER (CREAM, SALT), ENRICHED BLEACHED WHEAT FLOUR (BLEACHED WHEAT FLOUR, NIACIN, IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), WHEY POWDER, MILK, EGG, NONFAT DRY MILK, COCOA PROCESSED WITH ALKALI, LEAVENING (BAKING SODA, SODIUM ACID PYROPHOSPHATE, SODIUM ALUMINUM PHOSPHATE, MONOSODIUM PHOSPHATE, ALUMINUM SODIUM SULFATE), EMULSIFIERS (SOY LECITHIN, POLYSORBATE 60, PROPYLENE GLYCOL MONO- AND DIESTERS OF FATS AND FATTY ACIDS, SORBITAN MONOSTEARATE), PALM OIL, CORN STARCH, GUMS (XANTHAN GUM, CELLULOSE GUM, CARBOXYMETHYL CELLULOSE, ACACIA GUM), CARAMEL COLOR, DEXTROSE, SALT, MODIFIED FOOD STARCH, ARTIFICIAL FLAVOR, NATURAL FLAVOR, PRESERVATIVES (POTASSIUM SORBATE, SODIUM BENZOATE), ARTIFICIAL COLOR INCLUDING (RED 40), COCONUT OIL, CANOLA OIL. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving:",
+          "serving_size": "24",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "4",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 110.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 8.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 19.0,
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 2.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 3.0,
+              "quantity": 70.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 5.0,
+              "quantity": 14.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 12.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 22.0,
+              "quantity": 11.0,
+              "unit_of_measurement": "g "
+            },
+            {
+              "name": "Protein",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0
+            },
+            {
+              "name": "Calcium",
+              "percentage": 0.0
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS A BIOENGINEERED FOOD INGREDIENT, CONTAINS EGG, MILK, SOY AND WHEAT PROCESSED IN A FACILITY THAT ALSO HANDLES PEANUT AND TREE NUT INGREDIENTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Milk, Wheat, Eggs",
+      "<B>May Contain:</B> Peanuts, Tree Nuts",
+      "<B>Filling:</B> No Filling",
+      "<B>Size:</B> Mini",
+      "<B>State of Readiness:</B> Prepared, Thaw and Serve",
+      "<B>Package Quantity:</B> 1",
+      "<B>Bakery topping:</B> Buttercream Frosting",
+      "<B>Net weight:</B> 3.25 Ounces"
+    ],
+    "upc": "085239100424",
+    "dpci": "218-02-0168",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14993738",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804533D",
+    "page": "%2Fp%2FA-14993738",
+    "nutrition_facts": {
+      "ingredients": "ENRICHED FLOUR (WHEAT FLOUR, MALTED BARLEY FLOUR, NIACIN, REDUCED IRON,THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), WATER, YEAST, CONTAINS LESS THAN 2% OF SOYBEAN OIL, SUGAR, SALT, CULTURED WHEAT SPONGE, MONOCALCIUM PHOSPHATE, CALCIUM SULFATE, AMMONIUM CHLORIDE, AMMONIUM SULFATE, CALCIUM PEROXIDE, DATEM, ASCORBIC ACID, WHEAT GLUTEN, ENZYMES, CALCIUM PROPIONATE (PRESERVATIVE), SOY LECITHIN, CORN MEAL.",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": []
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Soy, Wheat",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Package Quantity:</B> 6",
+      "<B>Net weight:</B> 12 Ounces"
+    ],
+    "upc": "233632000005",
+    "dpci": "225-03-3632",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "49164464",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804837D",
+    "page": "%2Fp%2FA-49164464",
+    "nutrition_facts": {
+      "ingredients": "CHOCOLATE CHIPS (SUGAR, WHOLE MILK POWDER, COCOA BUTTER, UNSWEETENED CHOCOLATE, SOY LECITHIN, SALT, NATURAL VANILLA EXTRACT), ENRICHED WHEAT FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), SUGAR, BUTTER MARGARINE BLEND (BUTTER {CREAM, SALT}, PALM OIL, SOYBEAN OIL, WATER, SALT, NATURAL FLAVOR, VEGETABLE MONO- AND DIGLYCERIDES, ANNATTO EXTRACT {COLOR}, VITAMIN A PALMITATE), PEANUT BUTTER [DRY ROASTED PEANUTS, DEXTROSE, PALM OIL, SALT], PEANUTS, EGGS, MOLASSES, CONTAINS 2% OR LESS OF THE FOLLOWING: WATER, NATURAL FLAVOR, NONFAT MILK, BAKING SODA, SALT)",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "serving_size": "1 COOKIE (57g)",
+          "servings_per_container": "6",
+          "nutrients": [
+            {
+              "name": "Dietary Fiber",
+              "percentage": 4.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 30.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "quantity": 19.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 11.0,
+              "quantity": 30.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 19.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 7.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 7.0,
+              "quantity": 150.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Calories",
+              "quantity": 270.0
+            },
+            {
+              "quantity": 130.0
+            },
+            {
+              "percentage": 0.0
+            },
+            {
+              "name": "Iron",
+              "percentage": 6.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "percentage": 0.0
+            },
+            {
+              "name": "Protein",
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 36.0,
+              "quantity": 18.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 30.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 140.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Sugars",
+              "quantity": 19.0,
+              "unit_of_measurement": "g"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Eggs, Wheat, Peanuts, Soy, Milk",
+      "<B>May Contain:</B> Tree Nuts",
+      "<B>Filling:</B> No Filling",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Package Quantity:</B> 1",
+      "<B>Bakery topping:</B> No Topping",
+      "<B>Net weight:</B> 12 Ounces"
+    ],
+    "upc": "231385000006",
+    "dpci": "225-01-1385",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89699045",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804121D",
+    "page": "%2Fp%2FA-89699045"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "15006393",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804799D",
+    "page": "%2Fp%2FA-15006393"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "15031848",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804462D",
+    "page": "%2Fp%2FA-15031848"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81915487",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804266D",
+    "page": "%2Fp%2FA-81915487"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "90036711",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804528D",
+    "page": "%2Fp%2FA-90036711",
+    "nutrition_facts": {
+      "ingredients": "WHEAT FLOUR, EGG, SUGAR, SESAME SEEDS, CANOLA OIL, DEHYDRATED VEGETABLES (GAR- LIC, ONION), INVERT SUGAR SYRUP, SALT, BUTTER, WHEAT GLUTEN, SKIM MILK, YEAST, WATER, NATURAL FLAVOR, POPPY SEEDS, MILK PROTEIN, TOASTED MALTED RYE FLOUR, DEACTIVATED DRIED YEAST, MONO- AND DIGLYCERIDES, BETA-CAROTENE (COLOR). ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving:",
+          "serving_size": "62.5",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "4",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 200.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 6.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 5.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 7.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 20.0,
+              "quantity": 460.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 12.0,
+              "quantity": 34.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 7.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 12.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 7.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0
+            },
+            {
+              "name": "Calcium",
+              "percentage": 4.0
+            },
+            {
+              "name": "Iron",
+              "percentage": 4.0
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS EGG, MILK, SESAME AND WHEAT, CONTAINS EGG, MILK, SESAME AND WHEAT"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Sesame, Eggs, Wheat",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Package Quantity:</B> 4",
+      "<B>Net weight:</B> 8.8 Ounces"
+    ],
+    "upc": "085239923238",
+    "dpci": "218-13-0320",
+    "origin": "Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79314508",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804437D",
+    "page": "%2Fp%2FA-79314508"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87396091",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804146D",
+    "page": "%2Fp%2FA-87396091",
+    "nutrition_facts": {
+      "ingredients": "COOKIE (ENRICHED WHEAT FLOUR [WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID], SUGAR, PALM OIL AND/OR INTERESTERIFIED SOYBEAN OIL, DEXTROSE, PEANUT BUTTER [DRY ROASTED PEANUTS, DEXTROSE, HYDROGENATED COTTONSEED OIL, RAPESEED OIL, SALT], CONTAINS 2% OR LESS OF HIGH FRUCTOSE CORN SYRUP, SALT, LEAVENING [SODIUM BICARBONATE, MONOCALCIUM PHOSPHATE, AMMONIUM BICARBONATE], SOY LECITHIN, NATURAL AND ARTIFICIAL FLAVORS [SESAME], CARAMEL COLOR), CHOCOLATE FLAVORED COATING (SUGAR, PALM KERNEL OIL, COCOA POWDER, WHEY POWDER, NONFAT MILK POWDER, SOY LECITHIN, VANILLA), PEANUT BUTTER CONFECTIONERY COATING (SUGAR, VEGETABLE OIL [PALM KERNEL OIL AND HYDROGENATED PALM KERNEL OIL], PARTIALLY DEFATTED PEANUT FLOUR, WHEY POWDER [MILK], SOY LECITHIN [AN EMULSIFIER], SALT). ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "20",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "9",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 100.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 6.0,
+              "quantity": 4.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 15.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 2.0,
+              "quantity": 40.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 5.0,
+              "quantity": 13.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 9.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 16.0,
+              "quantity": 8.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 4.0,
+              "quantity": 0.6,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0,
+              "quantity": 40.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS A BIOENGINEERED FOOD INGREDIENT, CONTAINS MILK, PEANUT, SESAME, SOY AND WHEAT PROCESSED IN A FACILITY THAT ALSO HANDLES TREE NUT INGREDIENTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Sesame, Milk, Peanuts, Wheat",
+      "<B>May Contain:</B> Tree Nuts",
+      "<B>State of Readiness:</B> Ready to Use",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 6.35 Ounces"
+    ],
+    "upc": "085239994511",
+    "dpci": "071-09-1471",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14826433",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804788D",
+    "page": "%2Fp%2FA-14826433"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81504868",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804859D",
+    "page": "%2Fp%2FA-81504868",
+    "nutrition_facts": {
+      "ingredients": "MILKFAT AND NONFAT MILK, SWEET CREAM BUTTERMILK, MONSTER COOKIE PIECES (CHOCOLATE FLAVORED SUGAR COATED CANDIES [CONFECTION COATING {SUGAR, HYDROGENATED PALM KERNEL OIL, COCOA POWDER, WHEY POWDER, NONFAT MILK POWDER, SOY LECITHIN, VANILLA}, SUGAR, LESS THAN 1% OF COLORS ADDED {YELLOW 5 LAKE, YELLOW 6 LAKE, RED 40 LAKE, BLUE 2 LAKE, BLUE 1 LAKE, YELLOW 6}, GUM ACACIA, CORN SYRUP, CARNAUBA WAX], SUGAR, ROLLED OATS, WHEAT FLOUR, BUTTER [CREAM, SALT], COCONUT OIL, COCOA PROCESSED WITH ALKALI, BROWN SUGAR, PALM OIL, PASTEURIZED EGGS, WATER, BUTTER OIL, BAKING POWDER [SODIUM ACID PYROPHOSPHATE, SODIUM BICARBONATE, CORNSTARCH, MONOCALCIUM PHOSPHATE], BAKING SODA, SALT, SOY LECITHIN, NATURAL FLAVOR), LIQUID SUGAR (SUGAR, WATER), CORN SYRUP, PEANUT BUTTER BASE (PEANUTS, SUGAR, PEANUT OIL, SALT), WHEY, HIGH FRUCTOSE CORN SYRUP, CONTAINS LESS THAN 2% OF MONO AND DIGLYCERIDES, GUAR GUM, CALCIUM SULFATE, CAROB BEAN GUM, CARRAGEENAN. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "2/3",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "About 9",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 220.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 15.0,
+              "quantity": 12.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 35.0,
+              "quantity": 7.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 12.0,
+              "quantity": 35.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 4.0,
+              "quantity": 95.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 9.0,
+              "quantity": 26.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 2.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 19.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 30.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 6.0,
+              "quantity": 90.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 2.0,
+              "quantity": 0.4,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 4.0,
+              "quantity": 170.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS A BIOENGINEERED FOOD INGREDIENT, CONTAINS EGG, MILK, PEANUT, SOY AND WHEAT MAY CONTAIN TREE NUTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Milk, Peanuts, Eggs, Wheat",
+      "<B>May Contain:</B> Tree Nuts",
+      "<B>Form:</B> Carton",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 1.5 Quart",
+      "<B>Country of Origin:</B> United States"
+    ],
+    "upc": "085239162224",
+    "dpci": "288-07-3684",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81502608",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804470D",
+    "page": "%2Fp%2FA-81502608",
+    "nutrition_facts": {
+      "ingredients": "SKIM MILK, ERYTHRITOL, CHICORY ROOT EXTRACT, CREAM, PIE CRUST PIECES (WHEAT FLOUR, SUGAR, BUTTER [CREAM, SALT], COCONUT OIL, PASTEURIZED EGGS, WATER, SALT), +MILK PROTEIN CONCENTRATE, PRALINE PECANS (SUGAR, PECANS, BROWN SUGAR, BUTTER [CREAM SALT], CORN SYRUP, SALT), COCOA (PROCESSED WITH ALKALI), CONTAINS LESS THAN 2% OF NATURAL FLAVOR, MONK FRUIT EXTRACT, SUGAR, GLYCERINE, MONO AND DIGLYCERIDES, GUAR GUM, CAROB BEAN GUM, VITAMIN A PALMITATE. +INGREDIENT NOT IN REGULAR ICE CREAM.\n",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Per serving",
+          "serving_size": "2/3",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "3",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 130.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 6.0,
+              "quantity": 4.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 13.0,
+              "quantity": 2.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 5.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 3.0,
+              "quantity": 80.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 8.0,
+              "quantity": 22.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 18.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 9.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 8.0,
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugar Alcohol",
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "percentage": 14.0,
+              "quantity": 7.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 6.0,
+              "quantity": 1.2,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Vitamin A",
+              "percentage": 10.0,
+              "quantity": 90.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 15.0,
+              "quantity": 180.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 6.0,
+              "quantity": 280.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        },
+        {
+          "description": "Per container",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 400.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 17.0,
+              "quantity": 13.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 35.0,
+              "quantity": 7.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 13.0,
+              "quantity": 40.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 10.0,
+              "quantity": 240.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 24.0,
+              "quantity": 65.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 54.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 26.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 22.0,
+              "quantity": 11.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugar Alcohol",
+              "quantity": 18.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "percentage": 42.0,
+              "quantity": 21.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 20.0,
+              "quantity": 3.6,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Vitamin A",
+              "percentage": 30.0,
+              "quantity": 270.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 40.0,
+              "quantity": 540.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 20.0,
+              "quantity": 830.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS EGG, MILK, PECAN AND WHEAT PROCESSED IN A FACILITY THAT ALSO HANDLES PEANUT, SOY AND OTHER TREE NUT INGREDIENTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Eggs, Wheat, Pecans",
+      "<B>May Contain:</B> Soy, Peanuts, Other Tree Nuts",
+      "<B>Form:</B> Carton",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 16 fl oz (US)",
+      "<B>Country of Origin:</B> United States"
+    ],
+    "upc": "085239162934",
+    "dpci": "288-07-1604",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53673814",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804861D",
+    "page": "%2Fp%2FA-53673814"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81917098",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804897D",
+    "page": "%2Fp%2FA-81917098"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "79314380",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804881D",
+    "page": "%2Fp%2FA-79314380"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "76565163",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804269D",
+    "page": "%2Fp%2FA-76565163"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87579219",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804807D",
+    "page": "%2Fp%2FA-87579219",
+    "nutrition_facts": {
+      "ingredients": "SKIM MILK, LIQUID SUGAR (SUGAR, WATER), CHOCOLATE CHIP COOKIE DOUGH (WHEAT FLOUR, SUGAR, BROWN SUGAR, BUTTER [CREAM, SALT], WATER, SOYBEAN OIL, CHOCOLATE CHIPS [SUGAR, CHOCOLATE LIQUOR, COCOA BUTTER, SOY LECITHIN, VANILLA EXTRACT], CORNSTARCH, MOLASSES, SALT, VANILLA EXTRACT, SOY LECITHIN, BAKING SODA, EGG WHITES), SWEET CREAM BUTTERMILK, CORN SYRUP, CULTURED SKIM MILK, CREAM, WHEY, CHOCOLATY CHIPS (SUGAR, COCONUT OIL, COCOA PROCESSED WITH ALKALI, COCOA, BUTTER OIL, SOY LECITHIN, NATURAL FLAVOR), CONTAINS LESS THAN 2% OF MONO AND DIGLYCERIDES, NATURAL AND ARTIFICIAL FLAVOR, GUAR GUM, CALCIUM SULFATE, CAROB BEAN GUM, ANNATTO (COLOR), CARRAGEENAN. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "2/3",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "About 9",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 180.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 6.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 15.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 5.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 4.0,
+              "quantity": 85.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 11.0,
+              "quantity": 31.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 22.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 36.0,
+              "quantity": 18.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 8.0,
+              "quantity": 110.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 2.0,
+              "quantity": 0.3,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 4.0,
+              "quantity": 160.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS A BIOENGINEERED FOOD INGREDIENT, CONTAINS EGG, MILK, SOY AND WHEAT PROCESSED IN A FACILITY THAT ALSO HANDLES PEANUT AND TREE NUT INGREDIENTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Eggs, Milk, Soy",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 1.5 Quart"
+    ],
+    "upc": "085239365700",
+    "dpci": "288-07-0243",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53975262",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804813D",
+    "page": "%2Fp%2FA-53975262"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14993736",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804561D",
+    "page": "%2Fp%2FA-14993736",
+    "nutrition_facts": {
+      "ingredients": "ENRICHED FLOUR (WHEAT FLOUR, MALTED BARLEY FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), WATER, WHOLE WHEAT FLOUR, YEAST, WHEAT GLUTEN, SUGAR, CONTAINS LESS THAN 2% OF SALT, SOYBEAN OIL, HONEY, SOY FLOUR, MALTODEXTRIN, DEXTROSE, PROPYLENE GLYCOL, SODIUM ALGINATE, BETA CAROTENE, SODIUM STEAROYL LACTYLATE, ASCORBIC ACID, ENZYMES, SOY LECITHIN, B AKING SPRAY (CANOLA OIL, SOYBEAN OIL, SOY LECITHIN, MINERAL OIL, PROPELLANT)",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "serving_size": "1 ROLL (34g)",
+          "servings_per_container": "12",
+          "nutrients": [
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 7.0,
+              "quantity": 18.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 4.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Iron",
+              "percentage": 6.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 60.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 4.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Total Sugars",
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 1.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "percentage": 4.0
+            },
+            {
+              "percentage": 0.0
+            },
+            {
+              "name": "Sodium",
+              "percentage": 7.0,
+              "quantity": 180.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "quantity": 15.0
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Calories",
+              "quantity": 100.0
+            },
+            {
+              "name": "Calcium",
+              "percentage": 0.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Milk, Wheat",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 14 Ounces"
+    ],
+    "upc": "233554000008",
+    "dpci": "225-03-3554",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81917100",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804907D",
+    "page": "%2Fp%2FA-81917100",
+    "nutrition_facts": {
+      "ingredients": "SUGAR, SHORTENING (PALM OIL, CANOLA OIL, VEGETABLE MONO- AND DIGLYCERIDES, POLYSORBATE 80), WATER, ARTIFICIAL FLAVOR, CORN STARCH, SALT, MERINGUE POWDER (CORN STARCH, EGG WHITES, SUGAR, GUM ARABIC, SODIUM ALUMINUM SULFATE, CITRIC ACID, CREAM OF TARTAR, VANILLIN), XANTHAN GUM, POTASSIUM SORBATE (PRESERVATIVE), NATURAL AND ARTIFICIAL VANILLA CREME FLAVOR, BLUE 1. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "2",
+          "serving_size_unit_of_measurement": "Tbsp",
+          "servings_per_container": "6",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 130.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 8.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 10.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 1.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 12.0,
+              "quantity": 33.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 22.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 44.0,
+              "quantity": 22.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS EGG PROCESSED IN A FACILITY THAT ALSO HANDLES MILK, SOY, TREE NUT AND WHEAT INGREDIENTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Eggs",
+      "<B>May Contain:</B> Milk, Soy, Tree Nuts, Wheat",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Paste",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 8 Ounces"
+    ],
+    "upc": "085239180518",
+    "dpci": "261-05-0919",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87894115",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804708D",
+    "page": "%2Fp%2FA-87894115"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87437408",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804522D",
+    "page": "%2Fp%2FA-87437408"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "15006390",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804803D",
+    "page": "%2Fp%2FA-15006390"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87894056",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804506D",
+    "page": "%2Fp%2FA-87894056",
+    "nutrition_facts": {
+      "ingredients": "BLEACHED ENRICHED WHEAT FLOUR (BLEACHED WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), SUGAR, CHOCOLATE CHIPS (SUGAR, WHOLE MILK POWDER, COCOA BUTTER, UNSWEETENED CHOCOLATE, UNSWEETENED CHOCOLATE [PROCESSED WITH ALKALI], DEXTROSE, MILKFAT, SOY LECITHIN, SALT, NATURAL VANILLA EXTRACT), BUTTERMILK, COCOA (PROCESSED WITH ALKALI), LEAVENING (BAKING SODA, SODIUM ALUMINUM PHOSPHATE, MONOCALCIUM PHOSPHATE), SALT. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "1/2",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "about 8",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 230.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 4.0,
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 8.0,
+              "quantity": 1.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 2.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 13.0,
+              "quantity": 310.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 16.0,
+              "quantity": 45.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 7.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 21.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 38.0,
+              "quantity": 19.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 5.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.1,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 6.0,
+              "quantity": 70.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 15.0,
+              "quantity": 2.3,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 4.0,
+              "quantity": 150.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS MILK, SOY AND WHEAT PROCESSED IN A FACILITY THAT ALSO HANDLES EGG, PEANUT, SESAME AND TREE NUT INGREDIENTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Wheat, Soy, Milk",
+      "<B>State of Readiness:</B> Mix",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 16 Ounces",
+      "<B>Style:</B> Pancakes"
+    ],
+    "upc": "085239983065",
+    "dpci": "231-03-0100",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "89667065",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804452D",
+    "page": "%2Fp%2FA-89667065",
+    "nutrition_facts": {
+      "ingredients": "MILK CHOCOLATE (SUGAR, COCOA BUTTER, CHOCOLATE LIQUOR, WHOLE MILK POWDER, SOY LECITHIN, VANILLA), GRAHAM CEREAL (WHOLE GRAIN WHEAT, SUGAR, CORN MEAL, CANOLA OIL, MOLASSES, HONEY, FRUCTOSE, SALT, BAKING SODA, CALCIUM CARBONATE, SOY LECITHIN, DEXTROSE, TRISODIUM PHOSPHATE, BHT [ADDED TO PRESERVE FRESHNESS]), MARSHMALLOWS (CORN SYRUP, SUGAR, MODIFIED FOOD STARCH [CORN], GELATIN, WATER, DEXTROSE, NATURAL AND ARTIFICIAL FLAVOR, TETRASODIUM PYROPHOSPHATE). ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "1/2",
+          "serving_size_unit_of_measurement": "cup",
+          "servings_per_container": "about 5",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 150.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 9.0,
+              "quantity": 7.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 20.0,
+              "quantity": 4.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 1.0,
+              "quantity": 5.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 3.0,
+              "quantity": 70.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 8.0,
+              "quantity": 22.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 3.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 17.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 32.0,
+              "quantity": 16.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 4.0,
+              "quantity": 50.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 8.0,
+              "quantity": 1.3,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 70.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS A BIOENGINEERED FOOD INGREDIENT, CONTAINS MILK, SOY AND WHEAT PROCESSED IN A FACILITY THAT ALSO HANDLES EGG, PEANUT AND TREE NUT INGREDIENTS, CONTAINS MILK, SOY AND WHEAT PROCESSED IN A FACILITY THAT ALSO HANDLES EGG, PEANUT AND TREE NUT INGREDIENTS"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Wheat, Milk, Soy",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Pieces",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 5.5 Ounces",
+      "<B>Country of Origin:</B> United States"
+    ],
+    "upc": "085239923184",
+    "dpci": "218-13-0324",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47098703",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804296D",
+    "page": "%2Fp%2FA-47098703"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "14826451",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804995D",
+    "page": "%2Fp%2FA-14826451"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "47830230",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804438D",
+    "page": "%2Fp%2FA-47830230"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "54147287",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804850D",
+    "page": "%2Fp%2FA-54147287"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "15006402",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804143D",
+    "page": "%2Fp%2FA-15006402"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87420451",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804608D",
+    "page": "%2Fp%2FA-87420451"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "84692865",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804179D",
+    "page": "%2Fp%2FA-84692865",
+    "nutrition_facts": {
+      "ingredients": "ALMOND FLOUR, UNSWEETENED CHOCOLATE, ERYTHRITOL, BUTTER, EGGS, PALM OIL, TAPIOCA STARCH, VANILLA, BAKING SODA, SALT, XANTHAN GUM, STEVIA LEAF EXTRACT, INULIN, COCOA BUTTER, SOY LECITHIN. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving\n",
+          "serving_size": "18",
+          "serving_size_unit_of_measurement": "g",
+          "servings_per_container": "about 4",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 80.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 10.0,
+              "quantity": 8.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 8.0,
+              "quantity": 3.5,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 3.0,
+              "quantity": 10.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 4.0,
+              "quantity": 85.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 5.0,
+              "quantity": 15.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 7.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugar Alcohol",
+              "quantity": 12.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 2.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 2.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Iron",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 60.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ],
+      "warning": "CONTAINS EGG, MILK, SOY AND ALMOND"
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Soy, Milk, Almonds, Eggs",
+      "<B>May Contain:</B> Peanuts, Wheat",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 3 Ounces"
+    ],
+    "upc": "085239286036",
+    "dpci": "071-09-0229",
+    "origin": "Made in the USA or Imported"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "77710181",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804449D",
+    "page": "%2Fp%2FA-77710181"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "49173356",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804217D",
+    "page": "%2Fp%2FA-49173356",
+    "nutrition_facts": {
+      "ingredients": "ENRICHED BLEACHED AND UNBLEACHED WHEAT FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), WHITE CHOCOLATE CHUNKS (SUGAR, COCOA BUTTER, WHOLE MILK POWDER, NONFAT MILK POWDER, MILKFAT, SOY LECITHIN, VANILLA), BUTTER MARGARINE BLEND (BUTTER {CREAM, SALT}, PALM OIL, SOYBEAN OIL, WATER, SALT, NATURAL FLAVOR, VEGETABLE MONO AND DIGLYCERIDES, ANNATTO EXTRACT {COLOR}, VITAMIN A PALMITATE), SUGAR, BROWN SUGAR, EGGS, COCOA (PROCESSED WITH ALKALI), CONTAINS 2% OR LESS OF THE FOLLOWING: WATER, NATURAL FLAVOR (NATURAL FLAVOR, CARAMEL COLOR), NONFAT MILK, LEAVENING (BAKING SODA, SODIUM ALUMINUM PHOSPHATE, CALCIUM CARBONATE), SALT, FD&C RED 40",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "serving_size": "1 Cookie (57g)",
+          "servings_per_container": "6",
+          "nutrients": [
+            {
+              "name": "Potassium",
+              "percentage": 2.0,
+              "quantity": 130.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "percentage": 0.0
+            },
+            {
+              "name": "Iron",
+              "percentage": 10.0,
+              "quantity": 2.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "percentage": 0.0
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 42.0,
+              "quantity": 21.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Calcium",
+              "percentage": 4.0,
+              "quantity": 40.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Trans Fat",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Vitamin D",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mcg"
+            },
+            {
+              "name": "Total Sugars",
+              "quantity": 22.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Calories",
+              "quantity": 250.0
+            },
+            {
+              "quantity": 100.0
+            },
+            {
+              "name": "Dietary Fiber",
+              "percentage": 4.0,
+              "quantity": 1.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 3.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Saturated Fat",
+              "percentage": 30.0,
+              "quantity": 6.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "quantity": 22.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 12.0,
+              "quantity": 33.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 15.0,
+              "quantity": 12.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Cholesterol",
+              "percentage": 7.0,
+              "quantity": 20.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 9.0,
+              "quantity": 210.0,
+              "unit_of_measurement": "mg"
+            }
+          ]
+        }
+      ]
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Milk, Wheat, Eggs",
+      "<B>Filling:</B> No Filling",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Package Quantity:</B> 6",
+      "<B>Bakery topping:</B> No Topping",
+      "<B>Net weight:</B> 12 Ounces"
+    ],
+    "upc": "231384000007",
+    "dpci": "225-01-1384",
+    "origin": "Made in the USA"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "87579215",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804543D",
+    "page": "%2Fp%2FA-87579215"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81917992",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804942D",
+    "page": "%2Fp%2FA-81917992"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81917104",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804664D",
+    "page": "%2Fp%2FA-81917104"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "53975230",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804755D",
+    "page": "%2Fp%2FA-53975230"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "15006392",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804398D",
+    "page": "%2Fp%2FA-15006392"
+  },
+  {
+    "key": "9f36aeafbe60771e321a7cc95a78140772ab3e96",
+    "pricing_store_id": "3991",
+    "channel": "WEB",
+    "tcin": "81917978",
+    "visitor_id": "018EECDE90C702018E5EA8C77C7A746.49747804647D",
+    "page": "%2Fp%2FA-81917978",
+    "nutrition_facts": {
+      "ingredients": "SUGAR, WATER, CORN SYRUP, ACACIA GUM, PROPYLENE GLYCOL ALGINATE, XANTHAN GUM, COLOR ADDED (WATER, PROPYLENE GLYCOL, BLUE 1, RED 3), POTASSIUM SORBATE (PRESERVATIVE), NATURAL AND ARTIFICIAL FLAVOR, CITRIC ACID. ",
+      "nutrition_label_type_code": "LEGACY_FORMAT",
+      "value_prepared_list": [
+        {
+          "description": "Amount per serving",
+          "serving_size": "2",
+          "serving_size_unit_of_measurement": "Tbsp",
+          "servings_per_container": "about 6",
+          "nutrients": [
+            {
+              "name": "Calories",
+              "quantity": 110.0,
+              "unit_of_measurement": "Cal"
+            },
+            {
+              "name": "Total Fat",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sodium",
+              "percentage": 0.0,
+              "quantity": 0.0,
+              "unit_of_measurement": "mg"
+            },
+            {
+              "name": "Total Carbohydrate",
+              "percentage": 11.0,
+              "quantity": 29.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Sugars",
+              "quantity": 29.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Added Sugars",
+              "percentage": 58.0,
+              "quantity": 29.0,
+              "unit_of_measurement": "g"
+            },
+            {
+              "name": "Protein",
+              "quantity": 0.0,
+              "unit_of_measurement": "g"
+            }
+          ]
+        }
+      ],
+      "warning": "CAP IS A SMALL PART AND POSES A CHOKING HAZARD, PARTICULARLY FOR CHILDREN. SECURE CAP BY CLICKING INTO PLACE."
+    },
+    "bullet_descriptions": [
+      "<B>Contains:</B> Does Not Contain Any of the 9 Major Allergens",
+      "<B>State of Readiness:</B> Ready to Eat",
+      "<B>Form:</B> Whipped",
+      "<B>Package Quantity:</B> 1",
+      "<B>Net weight:</B> 7 Ounces"
+    ],
+    "upc": "085239180327",
+    "dpci": "261-05-0900",
+    "origin": "Made in the USA or Imported"
+  }
+]
