@@ -1,9 +1,8 @@
 # %%
-# import os; os.chdir('./../../')
+import os; os.chdir('./../../')
 
 # %%
-from src.instances import task_4_1_logger, driver
-driver.quit()
+from src.instances import task_4_1_logger
 
 from src.products_basic_info_extractor import attempt_extraction_of_nested_dict_value
 
@@ -11,7 +10,8 @@ import json
 import pandas as pd
 
 # %%
-with open('data/grocery-products-info.json', 'r', encoding = 'utf-8') as f:
+# with open('data/grocery-products-info.json', 'r', encoding = 'utf-8') as f:
+with open('data/unique-products_python.json', 'r', encoding = 'utf-8') as f:
   products_info_dicts_list = json.loads(f.read())
 
 len(products_info_dicts_list)
@@ -104,6 +104,9 @@ def convert_product_info_to_single_row_data_frame(
 final_df = pd.DataFrame()
 
 for index, product_info_dict in enumerate(products_info_dicts_list):
+  if index % 100 == 0:
+    task_4_1_logger.info(f'Current index: {index}')
+
   final_df = pd.concat(
     [
       final_df, 
@@ -112,3 +115,5 @@ for index, product_info_dict in enumerate(products_info_dicts_list):
   )
 
 final_df.to_csv('data/products-info.csv', index = False)
+
+# %%

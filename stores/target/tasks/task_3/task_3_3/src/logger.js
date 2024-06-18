@@ -6,13 +6,14 @@ log4js.configure({
     cloudwatch: { type: 'console', layout: { type: 'basic' } },
     file: { 
       type: 'fileSync', 
-      filename: 'task-3.2.log',
+      filename: 'task-3.3.log',
       layout: { type: 'pattern', pattern: '%d-%c:[%p]: %m' },
     } 
   },
   categories: { 
     default: { appenders: ['console'], level: 'info' },
-    local: { appenders: ['file', 'console'], level: 'info' },
+    local: { appenders: ['file'], level: 'info' },
+    // local: { appenders: ['file', 'console'], level: 'info' },
     production: { appenders: ['cloudwatch'], level: 'info' }
   },
 });
