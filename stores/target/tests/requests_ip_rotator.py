@@ -7,6 +7,10 @@ from src.ip_rotator import create_gateway_and_session_for_random_IP
 # %%
 BASE_URL = "https://redsky.target.com"
 ENDPOINT_URL = "https://redsky.target.com/redsky_aggregations/v1/web/pdp_client_v1?"
+HEADERS = { 
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36'
+}
+
 
 GET_request_params_list = [
   {
@@ -36,15 +40,9 @@ GET_REQUEST_URL = ENDPOINT_URL + '&'.join(
 GET_REQUEST_URL
 
 # %%
-# gateway, session = create_gateway_and_session_for_random_IP(BASE_URL)
 gateway, session = create_gateway_and_session_for_random_IP(GET_REQUEST_URL)
 
-rsp = session.get(
-  GET_REQUEST_URL,
-  headers = { 
-    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36'
-  }
-)
+rsp = session.get(GET_REQUEST_URL, headers = HEADERS)
 rsp.json()
 
 # %%
