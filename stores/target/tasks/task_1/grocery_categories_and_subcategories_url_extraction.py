@@ -1,4 +1,5 @@
-from src.instances import config, task_1_1_logger, driver
+from src.instances import config, task_1_1_logger
+from src.web_driver_instance import driver
 
 from src.categories_scraper import (
   click_show_all_categories_button_if_present,

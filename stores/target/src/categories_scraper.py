@@ -1,4 +1,5 @@
-from .instances import config, driver
+from .instances import config
+from .web_driver_instance import driver
 
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
