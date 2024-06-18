@@ -17,7 +17,7 @@ to direct to a **paginated** website displaying multiple products.
 
 - **Command for execution**: `python -m tasks.task_1.grocery_categories_and_subcategories_url_extraction`
 
-- **Execution time**: 5 minutes
+- **Execution time**: 4 minutes
 
 
 #### Subtask 1.2
@@ -29,9 +29,28 @@ based on the HTML content of such websites.
 
 - **Command for execution**: `node ./tasks/task_1/paginated_products_webpage_filter.js`
 
-- **Execution time**: 30 seconds
+- **Execution time**: 0.5 minutes
+
 
 ### Task 2
+
+#### Subtask 2.1
+
+- **File**: `tasks/task_2/products_basic_info_get_request_url_extraction.py`
+
+- **Goal**: Visit every URL in file `urls_for_task_2.1.json` to extract
+which **GET request** gets executed in order to fetch the products' basic information,
+products corresponding to the URL's grocery **group** (category or subcategory with paginated products website).
+
+- **Command for execution**: `python -m tasks.task_2.products_basic_info_get_request_url_extraction`
+
+- **Execution time**: 16 minutes
+
+
+#### Subtask 2.2
+
+
+
 
 - **Goal**: Extract the URLs of the websites (sometimes is a grocery subcategory,
 but other times it's just a grocery category) which display multiple products
