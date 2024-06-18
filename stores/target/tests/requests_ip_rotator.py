@@ -1,5 +1,5 @@
 # %%
-# import os; os.chdir('./../')
+import os; os.chdir('./../')
 
 # %%
 from src.ip_rotator import create_gateway_and_session_for_random_IP
@@ -39,7 +39,12 @@ GET_REQUEST_URL
 # gateway, session = create_gateway_and_session_for_random_IP(BASE_URL)
 gateway, session = create_gateway_and_session_for_random_IP(GET_REQUEST_URL)
 
-rsp = session.get(GET_REQUEST_URL)
+rsp = session.get(
+  GET_REQUEST_URL,
+  headers = { 
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36'
+  }
+)
 rsp.json()
 
 # %%
