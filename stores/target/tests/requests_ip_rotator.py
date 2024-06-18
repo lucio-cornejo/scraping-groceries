@@ -15,11 +15,19 @@ HEADERS = {
 GET_request_params_list = [
   {
     "key" : "9f36aeafbe60771e321a7cc95a78140772ab3e96",
-    "tcin" : "47868632",
+    "tcin" : "86345446",
     "pricing_store_id" : "3991",
     "visitor_id" : "018EECDE90C702018E5EA8C77C7A746.49747804478D",
     "channel" : "WEB",
-    "page" : "%2Fp%2FA-47868632"
+    "page" : "%2Fp%2FA-86345446"
+    # 'is_bot' : 'false',
+    # 'store_id' : '671',
+    # 'has_pricing_store_id' : 'true',
+    # 'has_financing_options' : 'true',
+    # 'include_obsolete' : 'true',
+    # 'has_size_context' : 'true',
+    # 'skip_personalized' : 'true',
+    # 'skip_variation_hierarchy' : 'true',
   },
   {
     "key" : "9f36aeafbe60771e321a7cc95a78140772ab3e96",
@@ -49,13 +57,27 @@ rsp.json()
 gateway.shutdown()
 
 # %%
+GET_request_params_list[0]
+
+# %%
 gateway, session = create_gateway_and_session_for_random_IP(ENDPOINT_URL)
 
+# %%
 rsp = session.get(
   ENDPOINT_URL, 
   headers = HEADERS, 
   params = GET_request_params_list[0]
 )
+
+# %%
+import requests
+
+rsp = requests.get(
+  ENDPOINT_URL, 
+  headers = HEADERS, 
+  params = GET_request_params_list[0]
+)
+rsp.json()
 
 # %%
 rsp.json()
