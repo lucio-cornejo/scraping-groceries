@@ -7,8 +7,10 @@ import pandas as pd
 
 def convert_product_info_to_single_row_data_frame(
   product_info: dict, row_index: int
-) -> pd.DataFrame:
-  product_single_row_df = pd.DataFrame(index = [row_index])
+# ) -> pd.DataFrame:
+) -> dict:
+  # product_single_row_df = pd.DataFrame(index = [row_index])
+  product_single_row_df = {}
 
   try:
     # Extract item from list which is expected to contain a single 
