@@ -1,62 +1,14 @@
-2024-06-18T07:54:59.001-local:[INFO]: Started subtask
-2024-06-18T07:54:59.203-local:[INFO]: Started sequential fetch task for some group
-2024-06-18T07:54:59.397-local:[INFO]: Started sequential fetch task for some group
-2024-06-18T07:54:59.405-local:[INFO]: Started sequential fetch task for some group
-2024-06-18T07:54:59.410-local:[INFO]: Started sequential fetch task for some group
-2024-06-18T07:55:01.152-local:[INFO]: Completed extraction attempt for product with tcin value 90209521
-2024-06-18T07:55:01.708-local:[INFO]: Completed extraction attempt for product with tcin value 90209505
-2024-06-18T07:55:01.851-local:[INFO]: Completed extraction attempt for product with tcin value 90642480
-2024-06-18T07:55:01.911-local:[INFO]: Completed extraction attempt for product with tcin value 90209488
-2024-06-18T07:55:03.609-local:[INFO]: Completed extraction attempt for product with tcin value 90209498
-2024-06-18T07:55:03.864-local:[INFO]: Completed extraction attempt for product with tcin value 90209509
-2024-06-18T07:55:03.885-local:[INFO]: Completed extraction attempt for product with tcin value 90209480
-2024-06-18T07:55:04.161-local:[WARN]: GET request reponse status was 404, for url https://redsky.target.com/redsky_aggregations/v1/web/pdp_client_v1?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&tcin=49155568&pricing_store_id=3991&visitor_id=018EECDE90C702018E5EA8C77C7A431.24198790076485D&channel=WEB&page=%2Fp%2FA-49155568
-2024-06-18T07:55:05.325-local:[INFO]: Completed extraction attempt for product with tcin value 92205302
-2024-06-18T07:55:05.692-local:[INFO]: Completed extraction attempt for product with tcin value 90209506
-2024-06-18T07:55:05.738-local:[INFO]: Completed extraction attempt for product with tcin value 90209526
-2024-06-18T07:55:05.960-local:[INFO]: Completed extraction attempt for product with tcin value 92205317
-2024-06-18T07:55:07.381-local:[INFO]: Completed extraction attempt for product with tcin value 90209486
-2024-06-18T07:55:07.519-local:[INFO]: Completed extraction attempt for product with tcin value 90209525
-2024-06-18T07:55:07.551-local:[INFO]: Completed extraction attempt for product with tcin value 90642479
-2024-06-18T07:55:07.854-local:[INFO]: Completed extraction attempt for product with tcin value 90209519
-2024-06-18T07:55:09.174-local:[INFO]: Completed extraction attempt for product with tcin value 90209482
-2024-06-18T07:55:09.618-local:[INFO]: Completed extraction attempt for product with tcin value 90209514
-2024-06-18T07:55:09.962-local:[WARN]: GET request reponse status was 404, for url https://redsky.target.com/redsky_aggregations/v1/web/pdp_client_v1?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&tcin=84596899&pricing_store_id=3991&visitor_id=018EECDE90C702018E5EA8C77C7A611.349040859094D&channel=WEB&page=%2Fp%2FA-84596899
-2024-06-18T07:55:09.979-local:[INFO]: Completed extraction attempt for product with tcin value 90209502
-2024-06-18T07:55:15.286-local:[INFO]: Started sequential fetch task for some group
-2024-06-18T07:55:15.392-local:[INFO]: Started sequential fetch task for some group
-2024-06-18T07:55:17.016-local:[INFO]: Completed extraction attempt for product with tcin value 90209492
-2024-06-18T07:55:17.114-local:[INFO]: Completed extraction attempt for product with tcin value 90209530
-2024-06-18T07:55:18.127-local:[INFO]: Started sequential fetch task for some group
-2024-06-18T07:55:18.595-local:[WARN]: GET request reponse status was 404, for url https://redsky.target.com/redsky_aggregations/v1/web/pdp_client_v1?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&tcin=54409790&pricing_store_id=3991&visitor_id=018EECDE90C702018E5EA8C77C7A545.1506485017305D&channel=WEB&page=%2Fp%2FA-54409790
-2024-06-18T07:55:19.080-local:[INFO]: Started sequential fetch task for some group
-2024-06-18T07:55:19.188-local:[WARN]: GET request reponse status was 404, for url https://redsky.target.com/redsky_aggregations/v1/web/pdp_client_v1?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&tcin=50737701&pricing_store_id=3991&visitor_id=018EECDE90C702018E5EA8C77C7A889.035677053911D&channel=WEB&page=%2Fp%2FA-50737701
-2024-06-18T07:55:20.176-local:[INFO]: Completed extraction attempt for product with tcin value 91486547
-2024-06-18T07:55:20.330-local:[WARN]: GET request reponse status was 404, for url https://redsky.target.com/redsky_aggregations/v1/web/pdp_client_v1?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&tcin=54462348&pricing_store_id=3991&visitor_id=018EECDE90C702018E5EA8C77C7A757.4786077615488D&channel=WEB&page=%2Fp%2FA-54462348
-2024-06-18T07:55:20.831-local:[INFO]: Completed extraction attempt for product with tcin value 90209472
-2024-06-18T07:55:21.707-local:[INFO]: Completed extraction attempt for product with tcin value 90642528
-2024-06-18T07:55:21.948-local:[WARN]: GET request reponse status was 404, for url https://redsky.target.com/redsky_aggregations/v1/web/pdp_client_v1?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&tcin=54462345&pricing_store_id=3991&visitor_id=018EECDE90C702018E5EA8C77C7A764.8192411869655D&channel=WEB&page=%2Fp%2FA-54462345
-2024-06-18T07:55:22.237-local:[INFO]: Completed extraction attempt for product with tcin value 91486548
-2024-06-18T07:55:22.960-local:[WARN]: GET request reponse status was 404, for url https://redsky.target.com/redsky_aggregations/v1/web/pdp_client_v1?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&tcin=84591078&pricing_store_id=3991&visitor_id=018EECDE90C702018E5EA8C77C7A184.8476391776941D&channel=WEB&page=%2Fp%2FA-84591078
-2024-06-18T07:55:23.754-local:[WARN]: GET request reponse status was 404, for url https://redsky.target.com/redsky_aggregations/v1/web/pdp_client_v1?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&tcin=84300887&pricing_store_id=3991&visitor_id=018EECDE90C702018E5EA8C77C7A932.4999402411926D&channel=WEB&page=%2Fp%2FA-84300887
-2024-06-18T07:55:24.290-local:[INFO]: Completed extraction attempt for product with tcin value 90209511
-2024-06-18T07:55:24.674-local:[WARN]: GET request reponse status was 404, for url https://redsky.target.com/redsky_aggregations/v1/web/pdp_client_v1?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&tcin=84596898&pricing_store_id=3991&visitor_id=018EECDE90C702018E5EA8C77C7A563.4876855985331D&channel=WEB&page=%2Fp%2FA-84596898
-2024-06-18T07:55:24.918-local:[WARN]: GET request reponse status was 404, for url https://redsky.target.com/redsky_aggregations/v1/web/pdp_client_v1?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&tcin=84591076&pricing_store_id=3991&visitor_id=018EECDE90C702018E5EA8C77C7A849.9010370943806D&channel=WEB&page=%2Fp%2FA-84591076
-2024-06-18T07:55:25.356-local:[WARN]: GET request reponse status was 404, for url https://redsky.target.com/redsky_aggregations/v1/web/pdp_client_v1?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&tcin=54462344&pricing_store_id=3991&visitor_id=018EECDE90C702018E5EA8C77C7A886.9159471129948D&channel=WEB&page=%2Fp%2FA-54462344
-2024-06-18T07:55:26.059-local:[WARN]: GET request reponse status was 404, for url https://redsky.target.com/redsky_aggregations/v1/web/pdp_client_v1?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&tcin=82617963&pricing_store_id=3991&visitor_id=018EECDE90C702018E5EA8C77C7A798.229900534415D&channel=WEB&page=%2Fp%2FA-82617963
-2024-06-18T07:55:27.461-local:[WARN]: GET request reponse status was 404, for url https://redsky.target.com/redsky_aggregations/v1/web/pdp_client_v1?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&tcin=54409800&pricing_store_id=3991&visitor_id=018EECDE90C702018E5EA8C77C7A378.4600840118858D&channel=WEB&page=%2Fp%2FA-54409800
-2024-06-18T07:55:28.361-local:[WARN]: GET request reponse status was 404, for url https://redsky.target.com/redsky_aggregations/v1/web/pdp_client_v1?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&tcin=83926894&pricing_store_id=3991&visitor_id=018EECDE90C702018E5EA8C77C7A851.9995292997476D&channel=WEB&page=%2Fp%2FA-83926894
-2024-06-18T07:55:29.742-local:[INFO]: Completed extraction attempt for product with tcin value 90209503
-2024-06-18T07:55:30.443-local:[INFO]: Started sequential fetch task for some group
-2024-06-18T07:55:32.410-local:[WARN]: GET request reponse status was 404, for url https://redsky.target.com/redsky_aggregations/v1/web/pdp_client_v1?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&tcin=54409765&pricing_store_id=3991&visitor_id=018EECDE90C702018E5EA8C77C7A907.2747725222478D&channel=WEB&page=%2Fp%2FA-54409765
-2024-06-18T07:55:34.158-local:[INFO]: Started sequential fetch task for some group
-2024-06-18T07:55:34.704-local:[WARN]: GET request reponse status was 404, for url https://redsky.target.com/redsky_aggregations/v1/web/pdp_client_v1?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&tcin=54409711&pricing_store_id=3991&visitor_id=018EECDE90C702018E5EA8C77C7A947.0152310207841D&channel=WEB&page=%2Fp%2FA-54409711
-2024-06-18T07:55:36.016-local:[WARN]: GET request reponse status was 404, for url https://redsky.target.com/redsky_aggregations/v1/web/pdp_client_v1?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&tcin=78270016&pricing_store_id=3991&visitor_id=018EECDE90C702018E5EA8C77C7A706.3028942888094D&channel=WEB&page=%2Fp%2FA-78270016
-2024-06-18T07:55:36.534-local:[INFO]: Completed extraction attempt for product with tcin value 92205335
-2024-06-18T07:55:37.706-local:[INFO]: Completed extraction attempt for product with tcin value 92205333
-2024-06-18T07:55:38.227-local:[INFO]: Completed extraction attempt for product with tcin value 92205313
-2024-06-18T07:55:39.914-local:[INFO]: Completed extraction attempt for product with tcin value 90642506
-2024-06-18T07:55:40.751-local:[WARN]: GET request reponse status was 404, for url https://redsky.target.com/redsky_aggregations/v1/web/pdp_client_v1?key=9f36aeafbe60771e321a7cc95a78140772ab3e96&tcin=81404008&pricing_store_id=3991&visitor_id=018EECDE90C702018E5EA8C77C7A966.185704770245D&channel=WEB&page=%2Fp%2FA-81404008
-2024-06-18T07:55:42.189-local:[INFO]: Completed extraction attempt for product with tcin value 92205316
-2024-06-18T07:55:44.097-local:[INFO]: Completed extraction attempt for product with tcin value 90209494
-2024-06-18T07:55:53.886-local:[INFO]: Completed subtask
+2024-06-18T21:15:28.044-local:[INFO]: Started subtask
+2024-06-18T21:15:28.308-local:[INFO]: Started sequential fetch task for some group
+2024-06-18T21:15:28.558-local:[INFO]: Started sequential fetch task for some group
+2024-06-18T21:15:30.887-local:[INFO]: Completed extraction attempt for product with tcin value 81827552
+2024-06-18T21:15:31.321-local:[INFO]: Completed extraction attempt for product with tcin value 13355117
+2024-06-18T21:15:32.509-local:[INFO]: Completed extraction attempt for product with tcin value 47137317
+2024-06-18T21:15:32.947-local:[INFO]: Completed extraction attempt for product with tcin value 47137577
+2024-06-18T21:15:34.227-local:[INFO]: Completed extraction attempt for product with tcin value 47137368
+2024-06-18T21:15:35.009-local:[INFO]: Completed extraction attempt for product with tcin value 48627396
+2024-06-18T21:15:35.775-local:[INFO]: Completed extraction attempt for product with tcin value 89114147
+2024-06-18T21:15:37.368-local:[INFO]: Completed extraction attempt for product with tcin value 15414900
+2024-06-18T21:15:37.764-local:[INFO]: Completed extraction attempt for product with tcin value 47572796
+2024-06-18T21:15:39.509-local:[INFO]: Completed extraction attempt for product with tcin value 79331003
+2024-06-18T21:15:46.687-local:[INFO]: Completed subtask

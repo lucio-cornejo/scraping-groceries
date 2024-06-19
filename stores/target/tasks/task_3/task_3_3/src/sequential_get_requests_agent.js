@@ -31,7 +31,12 @@ const sequentialGETrequestsForGroup = async (productsGroup, secondsWaitRangeBetw
         `page=%2Fp%2FA-${tcinOfProduct}`
       ].reduce((a, b) => a + '&' + b);
   
-    const response = await fetch(GETRequesURL);
+    const response = await fetch(GETRequesURL, {
+      method: 'GET',
+      headers: {
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36'
+      }
+    });
     await sleep(randomFloatInRange(secondsWaitRangeBetweenRequests[0], secondsWaitRangeBetweenRequests[1]));
 
     if (response.status == 200) {
