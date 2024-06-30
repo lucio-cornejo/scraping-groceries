@@ -18,8 +18,6 @@ const productsObjectsArray = JSON.parse(
   fs.readFileSync('products_urls_for_task_3.3.json', 'utf8')
 );
 
-productsObjectsArray.splice(10);
-
 async.mapLimit(productsObjectsArray, 20, async function(productObject) {
   const productUrl = productObject['url'];
   const productTcin = productObject['tcin'];
@@ -40,26 +38,44 @@ async.mapLimit(productsObjectsArray, 20, async function(productObject) {
     const htmlText = await response.text();
     const root = HTMLParser.parse(htmlText);
   
-    const productJSON = JSON.parse(
-      [...root.querySelectorAll('body script')]
-        .filter(e => e.innerText.includes('__TGT_DATA__'))[0]
-        .innerText
+    const productJsonText = [...root.querySelectorAll('body script')]
+      .filter(e => e.innerText.includes('__TGT_DATA__'))[0]
+      .innerText
+      .split('\n')
+      .filter(codeLine => codeLine.includes('__TGT_DATA__'))[0]
+      .replace(/\\"/g, '"');
+
+    
+    let productItem;
+    const productJSON = {}
+
+    if (productJsonText.includes('"item":')) {
+      productJSON['item'] = JSON.parse(productJsonText
         .split('\n')
         .filter(codeLine => codeLine.includes('__TGT_DATA__'))[0]
         .replace(/\\"/g, '"')
-        
-        .split('"product":')[1]
+        .split('"item":')
+        .filter(text => text.includes('primary_barcode'))[0]
         .split('"product_classification"')[0]
-        .slice(0, -1) + '}}'
+        .slice(0, -1) + '}'
+      );
+      productItem = productJSON['item'];
+    } else {
+      if (!productJsonText.includes('"children":')) {
+        logger.error(`Failed extraction of product item, for product url ${productUrl}`);
+        return { ...productResult, was_extraction_successful: true }
+      }
 
-        // .split('\\"product\\":')[1]
-        // .split('\\"price\\"')[0]
-        // .replace(/\\/g, '')
-        // .slice(0, -1) + '}'
-    );
+      productJSON['children'] = JSON.parse(productJsonText
+        .split('\n')
+        .filter(codeLine => codeLine.includes('__TGT_DATA__'))[0]
+        .replace(/\\"/g, '"')
+        .split('"children":')
+        .at(-1)
+        .split('"product_classification"')[0]
+        .slice(0, -1) + '}}]'
+      );
 
-    let productItem;
-    if (productJSON.hasOwnProperty('children')) {
       if (productJSON['children'].some(productItem => productItem?.tcin === productTcin)) {
         productItem = productJSON['children']
           .filter(productItem => productItem?.tcin === productTcin)
@@ -67,13 +83,6 @@ async.mapLimit(productsObjectsArray, 20, async function(productObject) {
           ['item'];      
       } else {
         logger.error(`Failed extraction of product children with matching tcin value, for product url ${productUrl}`);
-        return { ...productResult, was_extraction_successful: true }
-      }
-    } else {
-      if (productJSON.hasOwnProperty('item')) {
-        productItem = productJSON['item'];
-      } else {
-        logger.error(`Failed extraction of product item, for product url ${productUrl}`);
         return { ...productResult, was_extraction_successful: true }
       }
     }
@@ -94,7 +103,7 @@ async.mapLimit(productsObjectsArray, 20, async function(productObject) {
   if (err) { logger.error(err); throw err;  }
   fs.writeFileSync(
     'data/test_products_info_extraction_via_product_url.json', 
-    JSON.stringify(results, null, 4), 
+    JSON.stringify(results, null, 2), 
     'utf8'
   );
 
