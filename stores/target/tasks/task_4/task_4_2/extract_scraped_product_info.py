@@ -40,8 +40,7 @@ with open(f'data/products_scraped_info.json', 'w', encoding = 'utf-8') as f:
 
 # %%
 """
-Execute this if the S3 bucket's JSON files have already 
-been fetched and saved locally
+Execute this if the S3 bucket's JSON files have already been fetched and saved locally
 """
 with open(f'data/products_scraped_info.json', 'r', encoding = 'utf-8') as f:
   products_info_json_list = json.loads(f.read())
