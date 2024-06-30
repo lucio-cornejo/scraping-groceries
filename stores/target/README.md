@@ -138,4 +138,5 @@ pandas==2.0.1
 numpy==1.26.4
 requests-ip-rotator==1.0.14
 boto3==1.34.22
+asyncio==3.4.3
 ```
