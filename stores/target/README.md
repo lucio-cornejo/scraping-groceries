@@ -135,6 +135,7 @@ webdriver-manager==4.0.1
 selenium-wire==5.1.0
 blinker==1.7.0
 pandas==2.0.1
+numpy==1.26.4
 requests-ip-rotator==1.0.14
 boto3==1.34.22
 ```
