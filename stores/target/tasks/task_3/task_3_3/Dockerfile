@@ -22,7 +22,7 @@ COPY package.json .
 COPY package-lock.json .
 RUN npm clean-install
 
-COPY unique_products_urls.json .
+COPY products_urls_for_task_3.3.json .
 
 COPY src src
 COPY last_products_info_extraction.js .

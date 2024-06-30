@@ -11,17 +11,16 @@ const fs = require("fs");
 const async = require("async");
 
 // Assign specified wait times between operations
-const minSecondsWaitBetweenRequest = 1;
-const maxSecondsWaitBetweenRequest = 2;
+const minSecondsWaitBetweenRequest = 2;
+const maxSecondsWaitBetweenRequest = 5;
 
 const minSecondsWaitBetweenGroups = 5;
 const maxSecondsWaitBetweenGroups = 10;
 
-(async () => {
-  logger.info('Started subtask')
-  const groupedFilteredProductsArray = await filterAndGroupFetchedProductsArray();
+const productsGroupSize = 5;
+const groupedFilteredProductsArray = filterAndGroupFetchedProductsArray(productsGroupSize);
 
-// /*
+logger.info('Started subtask')
 async.mapLimit(groupedFilteredProductsArray, 4, async function(productsGroup) {
   logger.info("Started sequential fetch task for some group");
 
@@ -46,15 +45,13 @@ async.mapLimit(groupedFilteredProductsArray, 4, async function(productsGroup) {
     '.json';
 
   // Save locally
-  // fs.writeFileSync(s3_file_name, StringifiedJsonData, 'utf8');
+  fs.writeFileSync(s3_file_name, StringifiedJsonData, 'utf8');
   
-  uploadJsonToS3(
-    process.env.S3_BUCKET_NAME,
-    s3_file_name,
-    StringifiedJsonData
-  )
+  // uploadJsonToS3(
+    // process.env.S3_BUCKET_NAME,
+    // s3_file_name,
+    // StringifiedJsonData
+  // )
 
   logger.info('Completed subtask')
 });
-// */
-})();
