@@ -1,28 +1,24 @@
 # %%
-import os; os.chdir('./../../../')
-
-# %%
 from src.instances import config
 
 import json
-import re
 import boto3
 
 # %%
-with open('data/unique_products_urls.json', 'r', encoding = 'utf-8') as f:
-  unique_products_urls = json.loads(f.read())
+with open('data/products_urls_for_task_3.3.json', 'r', encoding = 'utf-8') as f:
+  products_basic_info_dicts_list = json.loads(f.read())
 
-unique_products_urls
-
-# %%
-len(unique_products_urls)
+products_basic_info_dicts_list
 
 # %%
-indices = []
-max_index_shift = 150
+len(products_basic_info_dicts_list)
+
+# %%
+max_index_shift = 100
 iteration = 0
+indices = []
 
-while (iteration*150 < len(unique_products_urls)):
+while (iteration*max_index_shift < len(products_basic_info_dicts_list)):
   indices.append([
     iteration * max_index_shift,
     max_index_shift + iteration * max_index_shift
@@ -30,7 +26,7 @@ while (iteration*150 < len(unique_products_urls)):
   
   iteration += 1
 
-indices[-1][-1] = len(unique_products_urls)
+indices[-1][-1] = len(products_basic_info_dicts_list)
 
 indices
 
@@ -48,11 +44,13 @@ client = boto3.client(
 cluster_name = 'scraping'
 task_definition = 'node-async-test'
 container_name = 'node-async-test'
+subnet = 'subnet-0e963910ab4b5e151'
 
 # %%
 for index_pair in indices:
   first_index = str(index_pair[0])
   last_index = str(index_pair[1])
+  print(f'Last list index is {last_index}')
 
   overrides = {
     'containerOverrides': [
@@ -75,7 +73,7 @@ for index_pair in indices:
     launchType = 'FARGATE',
     networkConfiguration = {
       'awsvpcConfiguration': {
-        'subnets': ['subnet-0e963910ab4b5e151'],
+        'subnets': [subnet],
         'assignPublicIp': 'ENABLED'
       }
     }
@@ -84,4 +82,4 @@ for index_pair in indices:
   # Print the response
   print(response)
 
-  break
+  # break
