@@ -1,28 +1,14 @@
-2024-06-18T21:15:28.044-local:[INFO]: Started subtask
-2024-06-18T21:15:28.308-local:[INFO]: Started sequential fetch task for some group
-2024-06-18T21:15:28.558-local:[INFO]: Started sequential fetch task for some group
-2024-06-18T21:15:30.887-local:[INFO]: Completed extraction attempt for product with tcin value 81827552
-2024-06-18T21:15:31.321-local:[INFO]: Completed extraction attempt for product with tcin value 13355117
-2024-06-18T21:15:32.509-local:[INFO]: Completed extraction attempt for product with tcin value 47137317
-2024-06-18T21:15:32.947-local:[INFO]: Completed extraction attempt for product with tcin value 47137577
-2024-06-18T21:15:34.227-local:[INFO]: Completed extraction attempt for product with tcin value 47137368
-2024-06-18T21:15:35.009-local:[INFO]: Completed extraction attempt for product with tcin value 48627396
-2024-06-18T21:15:35.775-local:[INFO]: Completed extraction attempt for product with tcin value 89114147
-2024-06-18T21:15:37.368-local:[INFO]: Completed extraction attempt for product with tcin value 15414900
-2024-06-18T21:15:37.764-local:[INFO]: Completed extraction attempt for product with tcin value 47572796
-2024-06-18T21:15:39.509-local:[INFO]: Completed extraction attempt for product with tcin value 79331003
-2024-06-18T21:15:46.687-local:[INFO]: Completed subtask
-2024-06-18T21:18:36.616-local:[INFO]: Started subtask
-2024-06-18T21:18:36.810-local:[INFO]: Started sequential fetch task for some group
-2024-06-18T21:18:36.998-local:[INFO]: Started sequential fetch task for some group
-2024-06-18T21:18:38.991-local:[INFO]: Completed extraction attempt for product with tcin value 81827552
-2024-06-18T21:18:39.238-local:[INFO]: Completed extraction attempt for product with tcin value 13355117
-2024-06-18T21:18:40.687-local:[INFO]: Completed extraction attempt for product with tcin value 47137317
-2024-06-18T21:18:41.216-local:[INFO]: Completed extraction attempt for product with tcin value 47137577
-2024-06-18T21:18:42.981-local:[INFO]: Completed extraction attempt for product with tcin value 48627396
-2024-06-18T21:18:43.060-local:[INFO]: Completed extraction attempt for product with tcin value 47137368
-2024-06-18T21:18:44.984-local:[INFO]: Completed extraction attempt for product with tcin value 89114147
-2024-06-18T21:18:45.331-local:[INFO]: Completed extraction attempt for product with tcin value 15414900
-2024-06-18T21:18:47.472-local:[INFO]: Completed extraction attempt for product with tcin value 47572796
-2024-06-18T21:18:47.476-local:[INFO]: Completed extraction attempt for product with tcin value 79331003
-2024-06-18T21:18:57.263-local:[INFO]: Completed subtask
+2024-06-29T22:12:43.647-local:[INFO]: Started subtask
+2024-06-29T22:12:43.656-local:[INFO]: Started sequential fetch task for some group
+2024-06-29T22:12:43.862-local:[INFO]: Started sequential fetch task for some group
+2024-06-29T22:12:46.788-local:[INFO]: Completed extraction attempt for product with tcin value 13505877
+2024-06-29T22:12:46.913-local:[INFO]: Completed extraction attempt for product with tcin value 47868632
+2024-06-29T22:12:50.487-local:[INFO]: Completed extraction attempt for product with tcin value 82397108
+2024-06-29T22:12:50.565-local:[INFO]: Completed extraction attempt for product with tcin value 13234505
+2024-06-29T22:12:55.475-local:[INFO]: Completed extraction attempt for product with tcin value 26398567
+2024-06-29T22:12:55.522-local:[INFO]: Completed extraction attempt for product with tcin value 86800703
+2024-06-29T22:12:58.156-local:[INFO]: Completed extraction attempt for product with tcin value 13234506
+2024-06-29T22:12:58.910-local:[INFO]: Completed extraction attempt for product with tcin value 88063605
+2024-06-29T22:13:01.633-local:[INFO]: Completed extraction attempt for product with tcin value 14931971
+2024-06-29T22:13:02.767-local:[INFO]: Completed extraction attempt for product with tcin value 13459031
+2024-06-29T22:13:12.605-local:[INFO]: Completed subtask

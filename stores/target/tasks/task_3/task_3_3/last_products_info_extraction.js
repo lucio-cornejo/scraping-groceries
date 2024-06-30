@@ -45,13 +45,13 @@ async.mapLimit(groupedFilteredProductsArray, 4, async function(productsGroup) {
     '.json';
 
   // Save locally
-  fs.writeFileSync(s3_file_name, StringifiedJsonData, 'utf8');
+  // fs.writeFileSync(s3_file_name, StringifiedJsonData, 'utf8');
   
-  // uploadJsonToS3(
-    // process.env.S3_BUCKET_NAME,
-    // s3_file_name,
-    // StringifiedJsonData
-  // )
+  uploadJsonToS3(
+    process.env.S3_BUCKET_NAME,
+    s3_file_name,
+    StringifiedJsonData
+  )
 
   logger.info('Completed subtask')
 });
