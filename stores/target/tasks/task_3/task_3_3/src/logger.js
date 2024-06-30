@@ -6,7 +6,7 @@ log4js.configure({
     cloudwatch: { type: 'console', layout: { type: 'basic' } },
     file: { 
       type: 'fileSync', 
-      filename: 'task-3.3.log',
+      filename: 'task-3.4.log',
       layout: { type: 'pattern', pattern: '%d-%c:[%p]: %m' },
     } 
   },

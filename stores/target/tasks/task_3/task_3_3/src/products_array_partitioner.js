@@ -8,12 +8,9 @@ const filterAndGroupFetchedProductsArray = (groupSize) => {
 
   // Filter by indices "i" which satisfy arrayFirstIndex <= i < arrayLastIndex .
   const productsObjectsArray = JSON.parse(
-    // unique_products_urls_JSON_string
     fs.readFileSync('products_urls_for_task_3.3.json', 'utf8')
   ).filter((productObject, index) => (index >= arrayFirstIndex ) && (index < arrayLastIndex));
 
-
-  // const groupSize = 5;
   const numberOfProducts = productsObjectsArray.length;
 
   // Perform modulo operation in JavaScript
