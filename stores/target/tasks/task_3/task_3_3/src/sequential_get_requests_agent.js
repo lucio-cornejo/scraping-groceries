@@ -73,6 +73,8 @@ const sequentialGETrequestsForGroup = async (productsGroup, secondsWaitRangeBetw
         productObject['origin'] = productItem?.handling?.import_designation_description;
     
         logger.info(`Completed extraction attempt for product with tcin value ${tcinOfProduct}`)
+        GETrequestResults.push(productObject);
+        continue
       } catch (error) {
         logger.warn(`Tcin ${tcinOfProduct}: Failure in some step of product JSON info extraction`);
         logger.error(error);
