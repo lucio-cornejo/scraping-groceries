@@ -38,3 +38,5 @@ aws:
   region: !ENV ${AWS_REGION}
   access_key_id: !ENV ${ACCESS_KEY_ID}
   access_key_secret: !ENV ${ACCESS_KEY_SECRET}
+
+  s3_bucket_name: !ENV ${S3_BUCKET_NAME}
