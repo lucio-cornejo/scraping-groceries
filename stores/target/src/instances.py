@@ -16,4 +16,4 @@ task_3_1_logger = get_logger(logger_name = 'task_3.1')
 task_3_2_logger = get_logger(logger_name = 'task_3.2')
 task_3_3_logger = get_logger(logger_name = 'task_3.3')
 
-task_4_1_logger = get_logger(logger_name = 'task_4.1')
+task_4_2_logger = get_logger(logger_name = 'task_4.2')

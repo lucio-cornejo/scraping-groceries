@@ -70,12 +70,12 @@ handlers:
     mode: w
     delay: true
 
-  file_task_4.1:
+  file_task_4.2:
     class: logging.FileHandler
     level: INFO
     formatter: simple
     encoding: utf-8
-    filename: logs/task-4.1.log
+    filename: logs/task-4.2.log
     mode: w
     delay: true
 
@@ -110,7 +110,7 @@ loggers:
     handlers: [file_task_3.3]
     propagate: no
 
-  task_4.1:
+  task_4.2:
     level: INFO
-    handlers: [console, file_task_4.1]
+    handlers: [file_task_4.2]
     propagate: no
