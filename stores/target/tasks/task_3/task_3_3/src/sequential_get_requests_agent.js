@@ -56,9 +56,16 @@ const sequentialGETrequestsForGroup = async (productsGroup, secondsWaitRangeBetw
             continue
           }
         } else {
-          productItem = productJSON['data']['product']['item'];
+          if (productJSON['data']['product'].hasOwnProperty('item')) {
+            productItem = productJSON['data']['product']['item'];
+          } else {
+            logger.error('Failed extraction of product item');
+            GETrequestResults.push(productObject);
+            continue
+          }
         }
-    
+
+        // At this point, the product item Object has been extracted
         productObject['nutrition_facts'] = productItem?.enrichment?.nutrition_facts;
         productObject['bullet_descriptions'] = productItem?.product_description?.bullet_descriptions;
         productObject['upc'] = productItem?.primary_barcode;
@@ -69,7 +76,6 @@ const sequentialGETrequestsForGroup = async (productsGroup, secondsWaitRangeBetw
       } catch (error) {
         logger.warn(`Tcin ${tcinOfProduct}: Failure in some step of product JSON info extraction`);
         logger.error(error);
-      } finally {
         GETrequestResults.push(productObject);
         continue
       }
